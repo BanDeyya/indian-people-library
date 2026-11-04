@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "ML-OM-0016",
+  "name": "Chengrak",
+  "region": "meghalaya",
+  "sub_region": "garo_hills",
+  "community": "garo",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "stocky",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Garo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

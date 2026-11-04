@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0013",
+  "name": "Sushant",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "muscular",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "od_ikat_kurta_m",
+    "od_dhoti_kurta_m",
+    "od_gamuchha"
+  ],
+  "language": [
+    "Odia",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

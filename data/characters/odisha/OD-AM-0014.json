@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0014",
+  "name": "Ashok",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "average",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "od_shirt_trousers_m",
+    "od_ikat_kurta_m",
+    "od_dhoti_kurta_m"
+  ],
+  "language": [
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

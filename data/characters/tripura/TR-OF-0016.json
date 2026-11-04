@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-OF-0016",
+  "name": "Chandrani",
+  "region": "tripura",
+  "sub_region": "hills",
+  "community": "tripuri",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with high cheekbones",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "tr_rignai_f",
+    "tr_shawl",
+    "tr_tant_f"
+  ],
+  "language": [
+    "Kokborok",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

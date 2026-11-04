@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "KL-OF-0017",
+  "name": "Rahmath Noushad",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "soft round face with full cheeks",
+    "eyes": "brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "kl_kuppayam_f",
+    "kl_churidar_hijab_f",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

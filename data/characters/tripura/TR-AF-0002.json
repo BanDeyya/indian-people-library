@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0002",
+  "name": "Sutapa",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small scar on her left wrist"
+  },
+  "wardrobe": [
+    "tr_tant_f",
+    "tr_laal_paar_f",
+    "tr_silk_saree_f",
+    "tr_shakha_pola",
+    "tr_sindoor",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,1354 @@
+{
+  "schema_version": 2,
+  "slug": "telangana",
+  "code": "TG",
+  "name": "Telangana",
+  "type": "state",
+  "zone": "south",
+  "capital": "Hyderabad",
+  "status": "reviewed",
+  "languages": [
+    "Telugu (official)",
+    "Urdu (official)",
+    "Dakhni",
+    "Lambadi",
+    "Gondi",
+    "Koya",
+    "Marathi",
+    "Hindi"
+  ],
+  "religion_mix": {
+    "source": "wiki_ts_demographics",
+    "shares": {
+      "hindu": 85.03,
+      "muslim": 12.75,
+      "christian": 1.27,
+      "other": 0.95
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ],
+    "note": "Religion shares are for the post-2014 state (from district data); consistent with Pew's undivided 2011 table once combined with Andhra Pradesh."
+  },
+  "sub_regions": [
+    {
+      "id": "hyderabad",
+      "name": "Hyderabad region",
+      "notes": "Hyderabad, Secunderabad, Rangareddy, Medchal: old city around the Charminar, HITEC City; Hyderabadi Muslim culture."
+    },
+    {
+      "id": "north",
+      "name": "North Telangana",
+      "notes": "Adilabad, Nizamabad, Karimnagar, Jagtial; cotton and forests; Gond and Kolam areas."
+    },
+    {
+      "id": "warangal",
+      "name": "Warangal and the east",
+      "notes": "Warangal, Mulugu, Khammam, Bhadradri; Kakatiya heritage; Koya areas and Medaram."
+    },
+    {
+      "id": "south",
+      "name": "South Telangana",
+      "notes": "Nalgonda, Yadadri (Pochampally), Mahabubnagar, Gadwal, Narayanpet; handloom villages; Lambada tandas."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Telugu",
+      "religion": "hindu",
+      "prompt": "Telangana",
+      "notes": "Men: white or cream pancha with a cotton kurta, a gold-bordered angavastram for formal occasions; turban or head wrap among rural men. Women: cotton Pochampally or Gollabama saree daily, Gadwal silk-bordered saree for weddings, langa voni for unmarried girls; finest silks at Bathukamma; mangalsutra when married.",
+      "names": {
+        "female": [
+          "Padmavathi",
+          "Sravani",
+          "Subbamma",
+          "Lakshmi Prasanna",
+          "Harika",
+          "Sahithi",
+          "Swaroopa",
+          "Bhavani",
+          "Rajamma",
+          "Sathvika",
+          "Sirisha",
+          "Anusha",
+          "Madhavi",
+          "Ramadevi",
+          "Swathi",
+          "Keerthana",
+          "Sujatha",
+          "Kalyani",
+          "Durga",
+          "Sarada",
+          "Sunitha",
+          "Vani",
+          "Aruna",
+          "Jyothi",
+          "Hemalatha",
+          "Manjula",
+          "Pavani",
+          "Divya",
+          "Lavanya",
+          "Bhargavi",
+          "Sailaja",
+          "Annapurna"
+        ],
+        "male": [
+          "Sai Kiran",
+          "Narasimhulu",
+          "Charan",
+          "Srinivasulu",
+          "Venkata Ramana",
+          "Naveen",
+          "Mallaiah",
+          "Yadagiri",
+          "Ravi Teja",
+          "Suresh",
+          "Prasad",
+          "Mahesh",
+          "Ramesh",
+          "Vamsi",
+          "Chaitanya",
+          "Nagaraju",
+          "Venkatesh",
+          "Srinivas",
+          "Naresh",
+          "Ravi",
+          "Satyanarayana",
+          "Krishna",
+          "Anil",
+          "Kiran",
+          "Raju",
+          "Chandra",
+          "Gopi"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Hyderabadi / Deccani",
+      "religion": "muslim",
+      "prompt": "Hyderabadi Muslim",
+      "sub_regions": [
+        "hyderabad",
+        "north",
+        "warangal",
+        "south"
+      ],
+      "notes": "Dakhni-Urdu speaking. Khada dupatta (straight kurta, churidar and a six-yard dupatta) for brides and special occasions; everyday dress not yet sourced, characters wear shared kurta-pyjama and salwar-kameez.",
+      "names": {
+        "female": [
+          "Ayesha",
+          "Siddiqua",
+          "Afreen",
+          "Shabana",
+          "Nusrat",
+          "Rizwana",
+          "Tabassum",
+          "Mehrunnisa",
+          "Sameena",
+          "Huma",
+          "Farheen",
+          "Naseem",
+          "Nikhat",
+          "Asma",
+          "Rukhsana",
+          "Fatima",
+          "Zeba",
+          "Saba",
+          "Shireen",
+          "Nazneen",
+          "Hina",
+          "Ruksar",
+          "Yasmeen",
+          "Sadia",
+          "Kauser",
+          "Mahjabeen",
+          "Nausheen",
+          "Arshiya"
+        ],
+        "male": [
+          "Zaid",
+          "Abdul Kareem",
+          "Mohammed Ghouse",
+          "Syed",
+          "Faraz",
+          "Imran",
+          "Mujeeb",
+          "Nawaz",
+          "Arshad",
+          "Saleem",
+          "Khaja",
+          "Mustafa",
+          "Faisal",
+          "Mujtaba",
+          "Arif",
+          "Owais",
+          "Ahmed",
+          "Ghouse",
+          "Habeeb",
+          "Shoaib",
+          "Javed",
+          "Salman",
+          "Moin",
+          "Mazhar",
+          "Feroz"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "lambada",
+      "name": "Lambada (Banjara)",
+      "culture": "Lambada",
+      "prompt": "Lambada",
+      "sub_regions": [
+        "south",
+        "north",
+        "warangal"
+      ],
+      "notes": "Scheduled Tribe. Women: embroidered lehenga, choli and odhni with heavy oxidised silver jewellery, bone or ivory-style bangles, chunky anklets and nose rings.",
+      "names": {
+        "female": [
+          "Lalitha",
+          "Lalibai",
+          "Kamli",
+          "Shanthi",
+          "Gangabai",
+          "Sevali",
+          "Parvati",
+          "Chandri",
+          "Lakshmibai",
+          "Kaveri",
+          "Sevlibai",
+          "Jamli",
+          "Saroja",
+          "Radha",
+          "Mangli",
+          "Bhuli",
+          "Rukmini",
+          "Laxmi",
+          "Sunitha",
+          "Saritha",
+          "Jyothi",
+          "Kavitha",
+          "Bujji",
+          "Chandrakala",
+          "Ramli",
+          "Kamala"
+        ],
+        "male": [
+          "Ramulu",
+          "Lakhma",
+          "Shankar",
+          "Bhima",
+          "Hanumanthu",
+          "Peerya",
+          "Rupla",
+          "Thakru",
+          "Krishna",
+          "Somla",
+          "Sevya",
+          "Bhaskar",
+          "Tukaram",
+          "Ravinder",
+          "Ramesh",
+          "Lachiram",
+          "Mangya",
+          "Balu",
+          "Gopal",
+          "Chandu"
+        ]
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Telangana",
+      "religion": "christian",
+      "sub_regions": [
+        "hyderabad",
+        "south",
+        "warangal"
+      ],
+      "notes": "No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      5,
+      9
+    ],
+    "hair": "Black hair, women often in a long plait.",
+    "notes": "Wheatish to deep brown. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Telugu family names come first and often mark caste (e.g. Reddy, Naidu, Chowdary, Raju, Rao, Sharma); use given name plus father's given name."
+    },
+    {
+      "community": "muslim",
+      "notes": "Arabic or Persian-origin given name plus father's name."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "ts_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "ts_pancha_shirt_m",
+      "name": "Pancha with shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white pancha (dhoti) with a cotton shirt",
+      "short": "white pancha and shirt",
+      "sources": [
+        "aza_ts"
+      ]
+    },
+    {
+      "id": "ts_pancha_kurta_m",
+      "name": "Pancha, kurta and angavastram",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "white pancha with a silk kurta and a gold-bordered angavastram over the shoulder",
+      "short": "pancha, silk kurta and angavastram",
+      "sources": [
+        "aza_ts"
+      ]
+    },
+    {
+      "id": "ts_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "ts_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": []
+    },
+    {
+      "id": "ts_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "ts_langa_voni_f",
+      "name": "Langa voni (half-saree)",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "requires": {
+        "marital_status": "single"
+      },
+      "prompt": "silk langa voni: long skirt, blouse and a draped voni",
+      "short": "silk langa voni",
+      "sources": [
+        "aza_ts",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "ts_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton frock with full-length leggings",
+      "short": "girl's frock and leggings",
+      "sources": []
+    },
+    {
+      "id": "ts_kids_g_fest",
+      "name": "Girl's pattu langa",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk pattu langa with a long-sleeved blouse",
+      "short": "girl's silk pattu langa",
+      "sources": [
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "ts_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "ts_turban_m",
+      "name": "Head wrap",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton head wrap tied against the sun",
+      "short": "cotton head wrap",
+      "sources": [
+        "aza_ts"
+      ]
+    },
+    {
+      "id": "ts_pochampally_f",
+      "name": "Cotton Pochampally ikat saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton Pochampally ikat saree with bold geometric patterns",
+      "short": "Pochampally ikat saree",
+      "sources": [
+        "aza_ts",
+        "indianculture_pochampally",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ts_gollabama_f",
+      "name": "Gollabama saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton Gollabama saree with small woven human motifs",
+      "short": "Gollabama cotton saree",
+      "sources": [
+        "aza_ts"
+      ]
+    },
+    {
+      "id": "ts_gadwal_f",
+      "name": "Gadwal saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Gadwal saree with a cotton body and a heavy contrasting silk border and pallu",
+      "short": "Gadwal silk-bordered saree",
+      "sources": [
+        "aza_ts",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ts_khada_dupatta_f",
+      "name": "Khada dupatta",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "bridal",
+        "community"
+      ],
+      "restricted": true,
+      "prompt": "straight kurta, churidar and a six-yard dupatta draped upright behind",
+      "short": "Hyderabadi khada dupatta",
+      "sources": [
+        "siasat_khada",
+        "wiki_khara_dupatta",
+        "tt_khada"
+      ]
+    },
+    {
+      "id": "ts_lambada_f",
+      "name": "Lambada lehenga, choli and odhni",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lambada",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "embroidered Lambada lehenga, choli and odhni with patchwork",
+      "short": "embroidered Lambada lehenga and odhni",
+      "sources": [
+        "aza_ts",
+        "globalinch_lambani"
+      ]
+    },
+    {
+      "id": "ts_festive_suit_f",
+      "name": "Festive suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "embroidered silk salwar suit with a dupatta",
+      "short": "embroidered silk suit",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "ts_mangalsutra",
+      "name": "Mangalsutra (pustelu)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "gold mangalsutra with two small round gold discs and black beads",
+      "short": "mangalsutra with two gold discs",
+      "sources": [
+        "wiki_mangalsutra",
+        "tanishq_telugu",
+        "bluestone_mangalsutra"
+      ]
+    },
+    {
+      "id": "ts_jasmine",
+      "name": "Jasmine in the hair",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "string of jasmine in the plait",
+      "short": "jasmine in the plait",
+      "sources": []
+    },
+    {
+      "id": "ts_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    },
+    {
+      "id": "ts_lambada_silver",
+      "name": "Lambada silver jewellery",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lambada",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "heavy oxidised silver jewellery and bone-white bangles",
+      "short": "oxidised silver jewellery",
+      "sources": [
+        "aza_ts"
+      ]
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "ts_pochampally_f"
+        ],
+        [
+          "ts_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ts_gadwal_f",
+          "ts_jasmine"
+        ],
+        [
+          "ts_lambada_f",
+          "ts_lambada_silver"
+        ]
+      ],
+      "reason": "Cotton Pochampally daily; Gadwal for weddings; Lambada dress for Lambada women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "ts_shirt_trousers_m"
+        ],
+        [
+          "ts_pancha_shirt_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ts_pancha_kurta_m"
+        ]
+      ],
+      "reason": "Pancha and kurta; angavastram for festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "ts_pochampally_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ts_gadwal_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "ts_pancha_shirt_m",
+          "ts_turban_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ts_pancha_kurta_m"
+        ]
+      ],
+      "reason": "Pancha with head wrap in villages."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "ts_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "ts_kids_g_fest",
+          "ts_jasmine"
+        ]
+      ],
+      "reason": "Pattu langa."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "ts_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "ts_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "bathukamma",
+      "name": "Bathukamma",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "when": "September-October (nine days)",
+      "scene": "Bathukamma evening, women in silk sarees singing and dancing around tall stacked flower arrangements",
+      "scene_short": "Bathukamma flower stacks and songs"
+    },
+    {
+      "id": "bonalu",
+      "name": "Bonalu",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu"
+      ],
+      "when": "July-August (Ashada)",
+      "sub_regions": [
+        "hyderabad"
+      ],
+      "scene": "Bonalu, women carrying decorated pots on their heads in a procession through Hyderabad lanes",
+      "scene_short": "Bonalu pot procession"
+    },
+    {
+      "id": "medaram",
+      "name": "Sammakka Saralamma Jatara",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu",
+        "lambada"
+      ],
+      "when": "January-February (Magha), every two years; 28-31 January in 2026",
+      "scene": "Medaram jatara, huge crowds carrying jaggery offerings in a forest clearing",
+      "scene_short": "Medaram jatara crowds"
+    },
+    {
+      "id": "eid_ts",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid evening in the old city of Hyderabad near the Charminar, lights and crowded stalls",
+      "scene_short": "Eid evening near the Charminar"
+    },
+    {
+      "id": "wedding_guest_ts",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding hall decorated with flowers",
+      "scene_short": "decorated wedding hall"
+    }
+  ],
+  "settings": [
+    {
+      "id": "old_city",
+      "type": "urban",
+      "description": "old city of Hyderabad near the Charminar with busy bangle shops",
+      "short": "old city near the Charminar",
+      "sub_regions": [
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "hitec_city",
+      "type": "urban",
+      "description": "glass office towers of HITEC City",
+      "short": "HITEC City towers",
+      "sub_regions": [
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "warangal_town",
+      "type": "urban",
+      "description": "Warangal town street",
+      "short": "Warangal street",
+      "sub_regions": [
+        "warangal"
+      ]
+    },
+    {
+      "id": "karimnagar_town",
+      "type": "urban",
+      "description": "Karimnagar town market",
+      "short": "Karimnagar market",
+      "sub_regions": [
+        "north"
+      ]
+    },
+    {
+      "id": "handloom_village",
+      "type": "rural",
+      "description": "handloom village with dyed yarn drying in the lanes",
+      "short": "handloom village, dyed yarn",
+      "sub_regions": [
+        "south"
+      ]
+    },
+    {
+      "id": "cotton_fields_ts",
+      "type": "rural",
+      "description": "cotton fields with low rocky hills",
+      "short": "cotton fields",
+      "sub_regions": [
+        "north",
+        "warangal",
+        "south"
+      ]
+    },
+    {
+      "id": "forest_village_ts",
+      "type": "rural",
+      "description": "village at the edge of a teak forest",
+      "short": "village by teak forest",
+      "sub_regions": [
+        "north",
+        "warangal"
+      ]
+    },
+    {
+      "id": "lambada_tanda",
+      "type": "rural",
+      "description": "tanda hamlet of small houses on open scrubland",
+      "short": "tanda hamlet",
+      "sub_regions": [
+        "south",
+        "north",
+        "warangal"
+      ],
+      "communities": [
+        "lambada"
+      ]
+    },
+    {
+      "id": "home_city_ts",
+      "type": "home",
+      "description": "apartment balcony with potted plants",
+      "short": "apartment balcony",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_ts",
+      "type": "home",
+      "description": "village house verandah with a swept courtyard",
+      "short": "village verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_ts",
+      "type": "work",
+      "description": "tech office in Hyderabad",
+      "short": "Hyderabad tech office",
+      "sub_regions": [
+        "hyderabad"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in cotton fields"
+    },
+    {
+      "id": "weaver",
+      "name": "Ikat weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving ikat at a loom"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "summer": "Very hot (April-June).",
+    "monsoon": "June-September.",
+    "winter": "Mild and dry."
+  },
+  "heritage": [
+    {
+      "id": "nizam_court",
+      "name": "Nizam and Kakatiya court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "khada_dupatta",
+      "name": "Hyderabadi khada dupatta",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "ts_khada_dupatta_f"
+      ],
+      "reason": "Bridal and special-occasion dress; restricted (no bride characters).",
+      "sources": [
+        "siasat_khada"
+      ]
+    },
+    {
+      "id": "bonalu_roles",
+      "name": "Potharaju and possession rites at Bonalu",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Ritual roles; characters appear only as women carrying pots or as onlookers.",
+      "sources": []
+    },
+    {
+      "id": "koya_rites",
+      "name": "Koya priests' rites at Medaram",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Rituals are performed by Koya priests by Koya custom; shown only as pilgrim crowds.",
+      "sources": [
+        "wiki_medaram"
+      ]
+    },
+    {
+      "id": "muharram_ts",
+      "name": "Muharram processions",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Mourning ritual; not used as a scene.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Caste labels or caste surnames; statehood or caste politics.",
+    "Communal or riot imagery; old city crime cliches.",
+    "Potharaju or possession scenes; Koya priests' rites.",
+    "Lambada women shown only as exotic; khada dupatta on non-bride characters."
+  ],
+  "todo": [
+    "Hyderabadi Muslim everyday dress (men's sherwani, women's dress) with sources.",
+    "Gond, Koya and Kolam dress; PVTGs (Bodo Gadaba, Bondo Poroja, Chenchu, Dongria Khond, Gutob Gadaba, Khond Poroja, Kolam, Kondareddis, Konda Savaras, Kutia Khond, Parengi Poroja, Thoti) held back until priority-1/2 sources and extra review.",
+    "Narayanpet weaving; Sankranti kites; Lambada festival Teej with sources.",
+    "Native review (Hyderabad and rural Telangana)."
+  ],
+  "sources": [
+    {
+      "id": "wiki_ts_demographics",
+      "title": "Demographics of Telangana (Wikipedia; Census 2011 figures for the present state)",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Telangana",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_ts",
+      "title": "Telangana heritage textiles and traditional style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/the-ultimate-guide-to-telangana-heritage-textiles-traditional-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "indianculture_pochampally",
+      "title": "Pochampally saree, Yadadri Bhuvanagiri (Indian Culture portal, Ministry of Culture)",
+      "url": "https://indianculture.gov.in/node/2790508",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "siasat_khada",
+      "title": "How this 400-year-old outfit still rules Hyderabadi weddings (Siasat)",
+      "url": "https://www.siasat.com/how-this-400-year-old-outfit-still-rules-hyderabadi-weddings-3247053/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "globalinch_lambani",
+      "title": "Lambani/Banjara embroidery (Global InCH)",
+      "url": "https://globalinch.org/craft/banjara-embroidery-of-sandur-karnataka/",
+      "type": "community",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "incredible_bathukamma",
+      "title": "Bathukamma (Incredible India, Ministry of Tourism)",
+      "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/telangana/bathukamma",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_medaram",
+      "title": "Sammakka Saralamma Jatara (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sammakka_Saralamma_Jatara",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Thaali",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "tanishq_telugu",
+      "title": "Telugu bridal rituals: jewellery guide (Tanishq)",
+      "url": "https://blog.tanishq.co.in/telugu-bridal-rituals-jewellery-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "bluestone_mangalsutra",
+      "title": "Traditional South Indian mangalsutra designs: a regional style guide (BlueStone)",
+      "url": "https://blog.bluestone.com/traditional-south-indian-mangalsutra-designs-meanings-a-regional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_khara_dupatta",
+      "title": "Khara dupatta (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Khara_dupatta",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "tt_khada",
+      "title": "The unique magic of khada dupatta (Telangana Today)",
+      "url": "https://telanganatoday.com/the-unique-magic-of-khada-dupatta",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "siasat_medaram",
+      "title": "Sammakka-Saralamma jatara to be held from Jan 28 to 31 (Siasat)",
+      "url": "https://www.siasat.com/sammakka-saralamma-jatara-to-be-held-from-jan-28-to-31-3241136/",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Telugu mangalsutra corrected from 'gold mangalsutra on a black-bead chain' to two small gold discs (pustelu) with black beads, as Wikipedia, Tanishq and BlueStone describe; the yellow-thread version is also used.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (2 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "2 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Confirmed: khada dupatta (kurta, churidar and a six-yard dupatta) as Hyderabadi Muslim bridal wear (Wikipedia's Khara dupatta, Telangana Today, Siasat); Medaram jatara every two years in Magha (28-31 January in 2026, Siasat, Deccan Chronicle); Pochampally and Gadwal are Telangana GI products."
+    ]
+  }
+}

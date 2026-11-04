@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "OD-OM-0008",
+  "name": "Gopinath Chandra",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square weathered face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "od_dhoti_kurta_m",
+    "od_ikat_kurta_m"
+  ],
+  "language": [
+    "Odia",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0015",
+  "name": "Ramesh Lal",
+  "region": "rajasthan",
+  "sub_region": "mewar",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 58,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with a hooked nose and deep wrinkles",
+    "eyes": "dark brown eyes",
+    "hair": "short neat black hair",
+    "build": "athletic",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "thick curled moustache"
+  },
+  "wardrobe": [
+    "rj_shirt_trousers_m",
+    "rj_dhoti_kurta_m",
+    "rj_angrakha_m",
+    "rj_festive_safa_m",
+    "rj_mojari",
+    "rj_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0012",
+  "name": "Selvi Manikandan",
+  "region": "tamil-nadu",
+  "sub_region": "kongu_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "black hair with grey streaks in a bun",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "tn_half_saree_f",
+    "tn_chettinad_f",
+    "tn_jasmine",
+    "tn_thali",
+    "tn_metti",
+    "tn_jhumka",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

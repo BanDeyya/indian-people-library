@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-OM-0011",
+  "name": "Balaji Rajendran",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "tn_lungi_m",
+    "tn_veshti_sattai_m",
+    "tn_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

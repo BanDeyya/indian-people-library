@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0006",
+  "name": "Mahendra Kumar",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_dhoti_kurta_m"
+  ],
+  "language": [
+    "Hindi",
+    "Angika"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-OM-0016",
+  "name": "Domnic",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "catholic",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "white hair combed back",
+    "build": "heavy",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_kurta_pyjama_m",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English",
+    "Portuguese (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

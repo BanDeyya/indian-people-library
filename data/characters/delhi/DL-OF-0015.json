@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DL-OF-0015",
+  "name": "Rinku Devi",
+  "region": "delhi",
+  "sub_region": "south",
+  "community": "purvanchali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "medium",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "dl_silk_saree_f",
+    "dl_suit_f",
+    "dl_saree_f",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

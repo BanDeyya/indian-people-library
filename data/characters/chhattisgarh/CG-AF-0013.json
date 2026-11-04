@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "CG-AF-0013",
+  "name": "Champa",
+  "region": "chhattisgarh",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "cg_modern_f",
+    "cg_cotton_saree_f",
+    "cg_salwar_f",
+    "cg_kosa_f",
+    "cg_sindoor",
+    "cg_bichiya",
+    "cg_painjan"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

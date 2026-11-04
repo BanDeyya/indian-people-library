@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0019",
+  "name": "Hina Ghouse",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with full cheeks",
+    "eyes": "brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ts_festive_suit_f",
+    "ts_salwar_f"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

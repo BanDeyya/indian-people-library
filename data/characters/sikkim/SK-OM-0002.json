@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "SK-OM-0002",
+  "name": "Narayan Bahadur",
+  "region": "sikkim",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "oval face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short grey hair",
+    "build": "thin",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_daura_suruwal_m",
+    "sk_tika"
+  ],
+  "language": [
+    "Nepali",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "WB-AF-0004",
+  "name": "Sunita Hansda",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "santal",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "strong",
+    "signature_mark": "small scar on her left hand"
+  },
+  "wardrobe": [
+    "wb_phutta_sari_f",
+    "wb_tant_f",
+    "wb_gamcha"
+  ],
+  "language": [
+    "Santali",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

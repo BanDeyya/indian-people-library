@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MN-AF-0003",
+  "name": "Lhingneng",
+  "region": "manipur",
+  "sub_region": "south_hills",
+  "community": "kuki_zo",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "shoulder-length straight black hair",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "mn_ponve_f",
+    "mn_modern_f",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Thadou",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

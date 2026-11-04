@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-OM-0016",
+  "name": "Zubair",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with a straight nose",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "up_kurta_pyjama_m",
+    "up_chikan_kurta_m",
+    "up_sherwani_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "Awadhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

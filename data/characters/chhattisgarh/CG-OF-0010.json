@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CG-OF-0010",
+  "name": "Phoolbasan",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep lines",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "cg_lugda_f",
+    "cg_kosa_f",
+    "cg_sindoor",
+    "cg_bichiya",
+    "cg_kardhan"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

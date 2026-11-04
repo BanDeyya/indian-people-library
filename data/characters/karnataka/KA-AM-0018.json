@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0018",
+  "name": "Ganapathy Monnappa",
+  "region": "karnataka",
+  "sub_region": "kodagu",
+  "community": "kodava",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "strong square face with a straight nose",
+    "eyes": "brown eyes",
+    "hair": "short greying hair",
+    "build": "tall and broad",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "thick grey moustache"
+  },
+  "wardrobe": [
+    "ka_kupya_m",
+    "ka_shirt_trousers_m"
+  ],
+  "language": [
+    "Kodava",
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

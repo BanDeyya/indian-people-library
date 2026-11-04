@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0009",
+  "name": "Ravi",
+  "region": "uttar-pradesh",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair greying at the sides",
+    "build": "lean and strong",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "up_shirt_trousers_m",
+    "up_dhoti_kurta_m",
+    "up_kurta_pyjama_m",
+    "up_gamchha"
+  ],
+  "language": [
+    "Bundeli",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

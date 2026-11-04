@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0004",
+  "name": "Harikrishnan Gopakumar",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "tired kind eyes",
+    "hair": "short neatly combed black hair",
+    "build": "slim",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "kl_shirt_trousers_m",
+    "kl_kasavu_mundu_m",
+    "kl_melmundu_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

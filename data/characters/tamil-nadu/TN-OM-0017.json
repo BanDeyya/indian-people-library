@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "TN-OM-0017",
+  "name": "Rajendran Prakash",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with a pointed chin",
+    "eyes": "large dark brown eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "tn_silk_veshti_m",
+    "tn_veshti_sattai_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

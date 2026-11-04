@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "KL-OF-0009",
+  "name": "Deepa Ajith",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "kl_set_mundu_f",
+    "kl_kasavu_saree_f",
+    "kl_jimikki",
+    "kl_cotton_saree_f",
+    "kl_mookuthi",
+    "kl_temple_flowers",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

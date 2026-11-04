@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "PY-AF-0004",
+  "name": "Ayesha",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "medium",
+    "signature_mark": "small dimple on her left cheek"
+  },
+  "wardrobe": [
+    "py_thuppatti_f",
+    "py_churidar_f"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

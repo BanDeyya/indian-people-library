@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "UK-AF-0016",
+  "name": "Meena Devi",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "uk_saree_f",
+    "uk_suit_f",
+    "uk_ghagri_f",
+    "uk_pichhora",
+    "uk_sindoor_k",
+    "uk_guluband",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

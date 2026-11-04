@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0016",
+  "name": "Irfan Mohammed",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ld_fisher_m",
+    "ld_white_mundu_m",
+    "ld_lungi_shirt_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

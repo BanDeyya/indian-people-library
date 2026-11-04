@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0016",
+  "name": "Hamza",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "narrow face with a sharp nose",
+    "eyes": "brown eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "short trimmed beard"
+  },
+  "wardrobe": [
+    "kl_kurta_mundu_m",
+    "kl_mundu_shirt_m",
+    "kl_thalangara_thoppi"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

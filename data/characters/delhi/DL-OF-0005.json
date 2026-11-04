@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DL-OF-0005",
+  "name": "Rekha Devi",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "dl_suit_f",
+    "dl_festive_suit_f",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

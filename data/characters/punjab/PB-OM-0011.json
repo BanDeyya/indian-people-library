@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "id": "PB-OM-0011",
+  "name": "Navdeep Singh",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with a strong jaw and a straight nose",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "thin white hair",
+    "build": "athletic",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "pb_dastar_m",
+    "pb_kada",
+    "pb_kurta_pajama_m",
+    "pb_khes_wrap"
+  ],
+  "always_wear": [
+    "pb_dastar_m",
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

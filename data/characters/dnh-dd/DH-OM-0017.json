@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0017",
+  "name": "Budhya Raghu",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "slim",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "dd_warli_m",
+    "dd_shirt_trousers_m"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

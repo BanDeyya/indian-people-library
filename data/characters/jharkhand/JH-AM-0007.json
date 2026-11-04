@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0007",
+  "name": "Umesh Prasad",
+  "region": "jharkhand",
+  "sub_region": "kolhan",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "steel_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "jh_kurta_pyjama_m",
+    "jh_dhoti_kurta_m"
+  ],
+  "language": [
+    "Khortha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

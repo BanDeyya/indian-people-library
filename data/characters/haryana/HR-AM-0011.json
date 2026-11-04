@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0011",
+  "name": "Ramesh",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean deeply lined face",
+    "eyes": "dark brown eyes",
+    "hair": "short styled black hair",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_kurta_pyjama_m",
+    "hr_shirt_trousers_m",
+    "hr_pagri",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Bagri",
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

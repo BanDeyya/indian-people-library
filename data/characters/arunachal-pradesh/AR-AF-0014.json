@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AR-AF-0014",
+  "name": "Oiram",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "adi",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ar_skirt_f",
+    "ar_gale_f",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Adi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

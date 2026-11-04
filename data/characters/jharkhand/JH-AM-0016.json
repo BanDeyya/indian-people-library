@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0016",
+  "name": "Dhaniram",
+  "region": "jharkhand",
+  "sub_region": "kolhan",
+  "community": "adivasi",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_dhoti_kurta_m",
+    "jh_sarhul_m"
+  ],
+  "language": [
+    "Kurukh",
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

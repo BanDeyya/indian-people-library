@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OM-0016",
+  "name": "Ramesh Shankar",
+  "region": "rajasthan",
+  "sub_region": "marwar",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "long face with a hooked nose and deep wrinkles",
+    "eyes": "brown eyes",
+    "hair": "white hair under his safa",
+    "build": "thin",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "large white moustache"
+  },
+  "wardrobe": [
+    "rj_angrakha_m",
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_festive_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

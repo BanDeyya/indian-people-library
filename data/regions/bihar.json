@@ -1,0 +1,1571 @@
+{
+  "schema_version": 2,
+  "slug": "bihar",
+  "code": "BR",
+  "name": "Bihar",
+  "type": "state",
+  "zone": "east",
+  "capital": "Patna",
+  "status": "reviewed",
+  "languages": [
+    "Hindi (official)",
+    "Urdu",
+    "Maithili",
+    "Bhojpuri",
+    "Magahi",
+    "Angika",
+    "Bajjika",
+    "Surjapuri"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 82.69,
+      "muslim": 16.87,
+      "christian": 0.12,
+      "other": 0.32
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "mithila",
+      "name": "Mithila (north Bihar)",
+      "notes": "North of the Ganga: Darbhanga, Madhubani, Sitamarhi, Samastipur, Saharsa, Supaul; Maithili, Mithila painting, ponds and makhana."
+    },
+    {
+      "id": "vajjika",
+      "name": "Vajjika (north Bihar)",
+      "notes": "Vaishali, Muzaffarpur, Sheohar; Bajjika; litchi orchards; Sonepur fair nearby."
+    },
+    {
+      "id": "champaran",
+      "name": "Champaran (north-west Bihar)",
+      "notes": "East and West Champaran (Motihari, Bettiah); forests near the Nepal border, Tharu villages."
+    },
+    {
+      "id": "seemanchal",
+      "name": "Seemanchal (north-east Bihar)",
+      "notes": "Purnia, Kishanganj, Araria, Katihar; Surjapuri; large Muslim population; jute and maize."
+    },
+    {
+      "id": "bhojpur",
+      "name": "Bhojpur (west Bihar)",
+      "notes": "Ara, Buxar, Rohtas, Kaimur, Saran, Siwan, Gopalganj; Bhojpuri belt on both sides of the Ganga."
+    },
+    {
+      "id": "magadh",
+      "name": "Magadh (south Bihar)",
+      "notes": "South of the Ganga: Patna, Gaya, Nalanda, Nawada, Jehanabad, Aurangabad; Magahi; Gaya pilgrimage, Rajgir and Nalanda."
+    },
+    {
+      "id": "anga",
+      "name": "Anga (east Bihar)",
+      "notes": "Bhagalpur, Munger, Banka, Jamui; Angika; Bhagalpuri tussar silk."
+    }
+  ],
+  "communities": [
+    {
+      "id": "maithil",
+      "name": "Hindu",
+      "culture": "Maithil",
+      "religion": "hindu",
+      "prompt": "Maithil",
+      "sub_regions": [
+        "mithila"
+      ],
+      "notes": "Men: kurta tied at the left side with a string, dhoti and a maroon gamchha, and the paag (headdress of honour) for weddings and functions. Women: laal-paar saree (white or yellow with a red border) for special occasions; shakha-pola and sindoor after marriage.",
+      "names": {
+        "female": [
+          "Sunaina",
+          "Anshu",
+          "Malti",
+          "Rekha",
+          "Kalpana",
+          "Aparna",
+          "Shilpi",
+          "Pratibha",
+          "Mamta",
+          "Archana",
+          "Nutan",
+          "Sarita",
+          "Kiran",
+          "Nibha",
+          "Shobha",
+          "Rupam",
+          "Vandana",
+          "Sushma",
+          "Abha",
+          "Kanak",
+          "Neelam",
+          "Pushpa",
+          "Anjali",
+          "Rashmi",
+          "Vibha",
+          "Gauri",
+          "Bindu",
+          "Lalita"
+        ],
+        "male": [
+          "Vidyanand",
+          "Shyam",
+          "Mukesh",
+          "Amrendra",
+          "Rajiv",
+          "Sanjeev",
+          "Ashutosh",
+          "Pramod",
+          "Ajit",
+          "Nitish",
+          "Raghunath",
+          "Kamlesh",
+          "Hemant",
+          "Madan",
+          "Anand",
+          "Pankaj",
+          "Ramakant",
+          "Vinod",
+          "Gopal",
+          "Sudhir",
+          "Kanhaiya",
+          "Lalit",
+          "Manoj",
+          "Shankar",
+          "Bhola",
+          "Indrakant",
+          "Upendra",
+          "Ravindra"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Kumar"
+        ]
+      }
+    },
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Bhojpuri, Magahi, Angika and Bajjika",
+      "religion": "hindu",
+      "prompt": "Bihari",
+      "notes": "Men: dhoti-kurta, checked gamchha, or shirt-trousers. Women: cotton saree daily, Bhagalpuri tussar or Madhubani-painted saree and lehenga-choli for festivals and weddings; sindoor when married.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Kanchan",
+          "Priyanka",
+          "Rinku",
+          "Sangeeta",
+          "Anita",
+          "Manju",
+          "Puja",
+          "Babita",
+          "Kiran",
+          "Shobha",
+          "Nirmala",
+          "Lalita",
+          "Phoolmati",
+          "Rita",
+          "Usha",
+          "Meera",
+          "Savitri",
+          "Gita",
+          "Reena",
+          "Pinki",
+          "Sushma",
+          "Lakshmi",
+          "Kalawati",
+          "Chanda",
+          "Urmila",
+          "Kusum",
+          "Dhanmati"
+        ],
+        "male": [
+          "Manoj",
+          "Ramesh",
+          "Dinesh",
+          "Santosh",
+          "Rajkumar",
+          "Sunil",
+          "Pappu",
+          "Ranjeet",
+          "Shankar",
+          "Umesh",
+          "Vinod",
+          "Rakesh",
+          "Bablu",
+          "Chandan",
+          "Shailesh",
+          "Dharmendra",
+          "Lalan",
+          "Munna",
+          "Ramji",
+          "Birendra",
+          "Shatrughan",
+          "Raghav",
+          "Brijesh",
+          "Ganesh"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Kumar",
+          "Prasad"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Bihari",
+      "religion": "muslim",
+      "prompt": "Bihari Muslim",
+      "notes": "Across the state, largest share in Seemanchal (Surjapuri) and Patna. Specific dress not yet sourced; characters wear shared kurta-pyjama and salwar-kameez.",
+      "names": {
+        "female": [
+          "Rukhsana",
+          "Nazia",
+          "Shabana",
+          "Farzana",
+          "Ayesha",
+          "Nasreen",
+          "Shaheen",
+          "Sana",
+          "Rubina",
+          "Zainab",
+          "Fatima",
+          "Hina",
+          "Parveen",
+          "Asma",
+          "Shabnam",
+          "Nargis",
+          "Sadia",
+          "Zeenat",
+          "Tabassum",
+          "Kausar",
+          "Afsana",
+          "Gulshan",
+          "Nusrat",
+          "Rehana",
+          "Ishrat",
+          "Shagufta",
+          "Mehnaz",
+          "Saba",
+          "Bushra",
+          "Huma"
+        ],
+        "male": [
+          "Imran",
+          "Arif",
+          "Salim",
+          "Shahid",
+          "Irfan",
+          "Javed",
+          "Rashid",
+          "Aslam",
+          "Faisal",
+          "Naseem",
+          "Sajid",
+          "Tariq",
+          "Wasim",
+          "Zubair",
+          "Rizwan",
+          "Salman",
+          "Zafar",
+          "Anwar",
+          "Nadeem",
+          "Shakeel",
+          "Asif",
+          "Kamran",
+          "Iqbal"
+        ],
+        "second_female": [
+          "Parveen",
+          "Khatoon",
+          "Bano"
+        ],
+        "second_male": [
+          "Ahmad",
+          "Ali",
+          "Hussain",
+          "Akhtar"
+        ]
+      }
+    },
+    {
+      "id": "tharu",
+      "name": "Tharu",
+      "culture": "Tharu",
+      "sub_regions": [
+        "champaran"
+      ],
+      "notes": "Scheduled Tribe of West Champaran. Bihar-specific dress not yet sourced; no characters yet."
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "culture": "Bihari",
+      "religion": "sikh",
+      "sub_regions": [
+        "magadh"
+      ],
+      "notes": "Small community around Takht Sri Patna Sahib. No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      9
+    ],
+    "hair": "Black hair, straight or wavy.",
+    "notes": "Wheatish to deep brown; deeper tones common among rural working communities. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "maithil",
+      "notes": "Given name plus a neutral second name (Kumar, Devi, Kumari, or father's name). Maithil surnames such as Jha, Mishra, Thakur mark caste; never use them."
+    },
+    {
+      "community": "hindu",
+      "notes": "Most Bihari surnames mark caste (e.g. Yadav, Singh, Paswan, Sinha); use Kumar, Prasad, Devi, Kumari or the father's name."
+    },
+    {
+      "community": "muslim",
+      "notes": "Arabic or Persian-origin names; avoid biradari surnames."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "br_dhoti_kurta_m",
+      "name": "Dhoti-kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive",
+        "mourning"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white cotton dhoti with a kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "aza_br"
+      ]
+    },
+    {
+      "id": "br_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "br_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "br_gamchha",
+      "name": "Gamchha",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "checked cotton gamchha over the shoulder",
+      "short": "checked gamchha on shoulder",
+      "sources": [
+        "aza_br"
+      ]
+    },
+    {
+      "id": "br_mithila_kurta_m",
+      "name": "Maithil kurta, dhoti and gamchha",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "maithil",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "white kurta tied at the left side with a string, white dhoti and a maroon gamchha over the shoulder",
+      "short": "Maithil kurta, dhoti and maroon gamchha",
+      "sources": [
+        "wiki_mithila",
+        "wiki_maithil"
+      ]
+    },
+    {
+      "id": "br_paag",
+      "name": "Mithila paag",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "maithil",
+      "meaning": [
+        "community",
+        "honour"
+      ],
+      "prompt": "rigid rounded Mithila paag headdress",
+      "short": "Mithila paag",
+      "sources": [
+        "wiki_mithila",
+        "statesman_paag"
+      ]
+    },
+    {
+      "id": "br_cotton_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton saree with a blouse",
+      "short": "cotton saree",
+      "sources": [
+        "aza_br"
+      ]
+    },
+    {
+      "id": "br_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": [
+        "aza_br"
+      ]
+    },
+    {
+      "id": "br_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "br_laalpaar_f",
+      "name": "Laal-paar saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "maithil",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "white saree with a broad red border (laal-paar)",
+      "short": "white laal-paar saree with red border",
+      "sources": [
+        "wiki_mithila",
+        "wiki_maithil"
+      ]
+    },
+    {
+      "id": "br_bhagalpuri_f",
+      "name": "Bhagalpuri tussar saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Bhagalpuri tussar silk saree with a natural gold sheen",
+      "short": "Bhagalpuri tussar silk saree",
+      "sources": [
+        "aza_br",
+        "wiki_bhagalpur",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "br_madhubani_f",
+      "name": "Madhubani-painted saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "tussar saree hand-painted with Madhubani motifs",
+      "short": "Madhubani-painted tussar saree",
+      "sources": [
+        "aza_br"
+      ]
+    },
+    {
+      "id": "br_lehenga_f",
+      "name": "Lehenga-choli",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silk lehenga-choli with a dupatta",
+      "short": "silk lehenga-choli",
+      "sources": [
+        "aza_br"
+      ]
+    },
+    {
+      "id": "br_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton kurta with full-length leggings",
+      "short": "girl's kurta and leggings",
+      "sources": []
+    },
+    {
+      "id": "br_kids_g_fest",
+      "name": "Girl's festive lehenga",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk lehenga with a long-sleeved blouse",
+      "short": "girl's long silk lehenga",
+      "sources": []
+    },
+    {
+      "id": "br_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "br_festive_suit_f",
+      "name": "Festive suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "embroidered silk salwar suit with a dupatta",
+      "short": "embroidered silk suit",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "br_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "br_sindoor_mt",
+      "name": "Sindoor (Maithil)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "maithil",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "br_shakha_pola",
+      "name": "Shakha-pola",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "maithil",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "white shakha and red pola bangles",
+      "short": "white and red shakha-pola bangles",
+      "sources": [
+        "wiki_mithila",
+        "wiki_shankha",
+        "wiki_mangalsutra",
+        "wiki_maithil"
+      ]
+    },
+    {
+      "id": "br_lac_bangles",
+      "name": "Lac bangles (lahathi)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "colourful lac bangles",
+      "short": "lac bangles",
+      "sources": [
+        "aza_br"
+      ]
+    },
+    {
+      "id": "br_chhath_sindoor",
+      "name": "Chhath sindoor (nose to forehead)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "religious",
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "restricted": true,
+      "prompt": "long orange sindoor from the nose up to the hair parting",
+      "short": "long orange sindoor",
+      "sources": [
+        "zeebiz_chhath",
+        "dna_chhath_sindoor"
+      ]
+    },
+    {
+      "id": "br_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "br_cotton_saree_f"
+        ],
+        [
+          "br_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "br_laalpaar_f"
+        ],
+        [
+          "br_bhagalpuri_f"
+        ],
+        [
+          "br_madhubani_f"
+        ]
+      ],
+      "reason": "Cotton saree or salwar-kameez daily; laal-paar for Maithil women; Bhagalpuri tussar and Madhubani-painted sarees for festivals."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "br_dhoti_kurta_m",
+          "br_gamchha"
+        ],
+        [
+          "br_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "br_mithila_kurta_m",
+          "br_paag"
+        ],
+        [
+          "br_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta with gamchha in villages, shirt-trousers in towns; Maithil kurta and paag for weddings and functions."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "br_cotton_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "br_bhagalpuri_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "br_dhoti_kurta_m",
+          "br_gamchha"
+        ]
+      ],
+      "festive": [
+        [
+          "br_mithila_kurta_m",
+          "br_paag"
+        ]
+      ],
+      "reason": "Dhoti-kurta."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "br_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "br_kids_g_fest"
+        ]
+      ],
+      "reason": "Long lehenga for festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "br_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "br_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama for festivals."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "sama_chakeva",
+      "name": "Sama Chakeva",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "maithil"
+      ],
+      "for": [
+        "adult_female",
+        "child_girl",
+        "old_female"
+      ],
+      "when": "November (Kartik, from the day after Chhath to Kartik Purnima, about seven days)",
+      "sub_regions": [
+        "mithila"
+      ],
+      "scene": "Sama Chakeva evening, girls and women singing and carrying clay figures in bamboo baskets through a courtyard",
+      "scene_short": "Sama Chakeva, clay figures in baskets"
+    },
+    {
+      "id": "chhath_br",
+      "name": "Chhath Puja",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu",
+        "maithil"
+      ],
+      "when": "October-November (after Diwali)",
+      "scene": "Chhath at a river ghat at dawn, women in bright sarees holding bamboo baskets of fruit towards the rising sun",
+      "scene_short": "Chhath at a river ghat at dawn"
+    },
+    {
+      "id": "pitru_paksha_gaya",
+      "name": "Pitru Paksha at Gaya",
+      "type": "festival",
+      "occasion": "mourning",
+      "communities": [
+        "hindu",
+        "maithil"
+      ],
+      "when": "September-October (16 days)",
+      "scene": "Pitru Paksha in Gaya, pilgrims offering pind daan for their ancestors near the Vishnupad temple",
+      "scene_short": "pind daan at Gaya"
+    },
+    {
+      "id": "sonepur",
+      "name": "Sonepur Mela",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "November-December (opens on Kartik Purnima, runs two to four weeks)",
+      "scene": "Sonepur Mela at the Ganga-Gandak confluence, fair stalls, rides and decorated elephants",
+      "scene_short": "Sonepur Mela stalls and elephants"
+    },
+    {
+      "id": "diwali_br",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "maithil"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, rows of clay lamps on the roof of a house",
+      "scene_short": "Diwali lamps on a roof"
+    },
+    {
+      "id": "holi_br",
+      "name": "Holi (Phagua)",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "maithil"
+      ],
+      "when": "March",
+      "scene": "Holi morning, people singing Phagua songs and playing with colours in a village lane",
+      "scene_short": "Phagua Holi in a village lane"
+    },
+    {
+      "id": "eid_br",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in a busy lane after prayers",
+      "scene_short": "Eid morning in a busy lane"
+    },
+    {
+      "id": "wedding_guest_br",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "November-June mostly",
+      "scene": "guests at a wedding under a decorated canopy with marigold garlands",
+      "scene_short": "wedding canopy with marigolds"
+    }
+  ],
+  "settings": [
+    {
+      "id": "patna_street",
+      "type": "urban",
+      "description": "busy Patna street near the Ganga with shops and auto-rickshaws",
+      "short": "busy Patna street",
+      "sub_regions": [
+        "magadh"
+      ]
+    },
+    {
+      "id": "gaya_lane",
+      "type": "urban",
+      "description": "old Gaya town lane with small shops",
+      "short": "old Gaya lane",
+      "sub_regions": [
+        "magadh"
+      ]
+    },
+    {
+      "id": "darbhanga_town",
+      "type": "urban",
+      "description": "Darbhanga town street beside a large pond",
+      "short": "Darbhanga street by a pond",
+      "sub_regions": [
+        "mithila"
+      ]
+    },
+    {
+      "id": "muzaffarpur_market",
+      "type": "urban",
+      "description": "Muzaffarpur market with litchi stalls",
+      "short": "Muzaffarpur litchi market",
+      "sub_regions": [
+        "vajjika"
+      ]
+    },
+    {
+      "id": "bhagalpur_street",
+      "type": "urban",
+      "description": "Bhagalpur street with silk shops",
+      "short": "Bhagalpur silk street",
+      "sub_regions": [
+        "anga"
+      ]
+    },
+    {
+      "id": "kishanganj_market",
+      "type": "urban",
+      "description": "Kishanganj market street",
+      "short": "Kishanganj market",
+      "sub_regions": [
+        "seemanchal"
+      ]
+    },
+    {
+      "id": "ara_market",
+      "type": "urban",
+      "description": "Ara town market street",
+      "short": "Ara market street",
+      "sub_regions": [
+        "bhojpur"
+      ]
+    },
+    {
+      "id": "mithila_village",
+      "type": "rural",
+      "description": "Mithila village with ponds, makhana fields and mud walls painted with Mithila motifs",
+      "short": "Mithila village with ponds",
+      "sub_regions": [
+        "mithila"
+      ]
+    },
+    {
+      "id": "north_fields",
+      "type": "rural",
+      "description": "flat green paddy fields with banana trees under a wide sky",
+      "short": "paddy and banana fields",
+      "sub_regions": [
+        "vajjika",
+        "champaran",
+        "seemanchal",
+        "mithila"
+      ]
+    },
+    {
+      "id": "litchi_orchard",
+      "type": "rural",
+      "description": "shady litchi orchard",
+      "short": "litchi orchard",
+      "sub_regions": [
+        "vajjika"
+      ]
+    },
+    {
+      "id": "south_plains",
+      "type": "rural",
+      "description": "wheat fields and palm trees on the plains",
+      "short": "wheat fields and palms",
+      "sub_regions": [
+        "magadh",
+        "bhojpur",
+        "anga"
+      ]
+    },
+    {
+      "id": "jute_fields",
+      "type": "rural",
+      "description": "tall jute fields beside a village",
+      "short": "jute fields",
+      "sub_regions": [
+        "seemanchal"
+      ]
+    },
+    {
+      "id": "home_city_br",
+      "type": "home",
+      "description": "rooftop of a city house with potted plants",
+      "short": "city rooftop",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_br",
+      "type": "home",
+      "description": "village courtyard with a charpai and a clay stove",
+      "short": "village courtyard with charpai",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_patna",
+      "type": "work",
+      "description": "office in Patna",
+      "short": "Patna office",
+      "sub_regions": [
+        "magadh"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in the fields"
+    },
+    {
+      "id": "mithila_artist",
+      "name": "Mithila painter",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "painting Mithila art on handmade paper"
+    },
+    {
+      "id": "silk_weaver",
+      "name": "Tussar silk weaver",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving tussar silk at a handloom"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "summer": "Very hot (April-June).",
+    "monsoon": "July-September; floods in north Bihar.",
+    "winter": "Cold, foggy (December-January)."
+  },
+  "heritage": [
+    {
+      "id": "mithila_paag",
+      "name": "Mithila paag",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "br_paag"
+      ],
+      "reason": "Headdress of honour and Maithil pride, worn at weddings and functions; used only on Maithil characters in festive and wedding outfits.",
+      "sources": [
+        "statesman_paag",
+        "wiki_mithila"
+      ]
+    },
+    {
+      "id": "mithila_art",
+      "name": "Mithila (Madhubani) painting",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "br_madhubani_f"
+      ],
+      "reason": "GI craft; shown as painted sarees and as an occupation.",
+      "sources": [
+        "aza_br",
+        "wiki_mithila"
+      ]
+    },
+    {
+      "id": "chhath_sindoor_br",
+      "name": "Chhath nose-to-forehead sindoor",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "br_chhath_sindoor"
+      ],
+      "reason": "Worn by married women observing the Chhath fast; restricted so it is never added outside Chhath.",
+      "sources": [
+        "zeebiz_chhath"
+      ]
+    },
+    {
+      "id": "pind_daan",
+      "name": "Pind daan rites at Gaya",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [],
+      "reason": "Shown only as a pilgrimage scene for Hindu characters; no close-up of the rites themselves.",
+      "sources": [
+        "theprint_gaya"
+      ]
+    },
+    {
+      "id": "magadh_court",
+      "name": "Magadh, Mithila and Mughal-era royal dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Period royal dress for fictional people only, in the era phase; no named rulers.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Caste labels or caste surnames; caste or reservation politics.",
+    "Poverty, migrant-labour, flood-victim or crime cliches.",
+    "Communal or election imagery.",
+    "Close-ups of pind daan rites or cremation; Muharram processions.",
+    "Mixing Mithila, Bhojpuri and Magahi identities: Maithil paag and laal-paar only on Maithil characters."
+  ],
+  "todo": [
+    "Muslim men's and women's dress (incl. Surjapuri) with sources.",
+    "Tharu (Champaran) dress and festivals; PVTGs listed for Bihar (incl. Jharkhand): Asur, Birhor, Birjia, Hill Kharia, Korwa, Mal Paharia, Parhaiya, Sauria Paharia, Savar, held back.",
+    "Jur Sital, Madhushravani, Kojagara, Teej, Rajgir Mahotsav with sources.",
+    "Bhojpuri and Magahi wedding dress specifics.",
+    "Native review (ideally one from Mithila and one from south Bihar)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Bihar religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/10-bihar.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_br",
+      "title": "Bihar traditional clothing, textiles and style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/bihar-traditional-clothing-textiles-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_mithila",
+      "title": "Mithila culture (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mithila_culture",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "statesman_paag",
+      "title": "In a first, Mithila Paag featured on postal stamp (The Statesman)",
+      "url": "https://www.thestatesman.com/india/first-mithila-paag-featured-postal-stamp-1502439259.html",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_bhagalpur",
+      "title": "Bhagalpur sari (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Bhagalpur_sari",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sama",
+      "title": "Sama Chakeva (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sama_Chakeva",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "zeebiz_chhath",
+      "title": "Why women apply long sindoor at Chhath (Zee Business)",
+      "url": "https://zeebiz.com/trending/news-chhath-puja-2022-why-women-apply-long-sindoor-from-nose-to-forehead-in-bihar-205268",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "theprint_gaya",
+      "title": "Pitru Paksha Mela begins in Gaya (ThePrint)",
+      "url": "https://theprint.in/india/pitru-paksha-mela-begins-in-gaya-15-lakh-pilgrims-expected/2271984",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "utsav_sonepur",
+      "title": "Sonpur Mela (Utsav, Ministry of Tourism)",
+      "url": "https://utsav.gov.in/view-event/sonpur-mela",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_shankha",
+      "title": "Shankha (ornament) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Shankha_(ornament)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "dna_chhath_sindoor",
+      "title": "Chhath Puja: why women apply vermilion from nose to head (DNA India)",
+      "url": "https://www.dnaindia.com/lifestyle/report-chhath-puja-2022-here-s-why-women-apply-vermilion-from-nose-to-head-during-festival-2996903",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_maithil",
+      "title": "Maithil people (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Maithil_people",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_sama_chakeva",
+      "title": "Sama Chakeva (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sama_Chakeva",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_sonepur",
+      "title": "Sonepur Cattle Fair (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sonepur_Cattle_Fair",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review (Mithila and south Bihar) still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (1 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Confirmed: long orange sindoor from the nose to the parting at Chhath (Zee Business and DNA India).",
+      "Confirmed by Wikipedia's Maithil people page: men's kurta and dhoti with a maroon gamchha and Mithila paag; women's red-bordered laal-paar saree for special occasions; shakha-pola after marriage (it also names a lahthi bangle, not yet in the file).",
+      "Corrected: Sama Chakeva and Sonepur fair dates made precise (Sama Chakeva about seven days ending on Kartik Purnima; Sonepur opens on Kartik Purnima and runs into December)."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0003",
+  "name": "Bimla",
+  "region": "himachal-pradesh",
+  "sub_region": "chamba",
+  "community": "gaddi",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "shepherd",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "black hair under a headscarf",
+    "build": "slim",
+    "signature_mark": "small mole on her neck"
+  },
+  "wardrobe": [
+    "hp_luanchari_f",
+    "hp_suit_f",
+    "hp_sindoor_gaddi",
+    "hp_chandrahaar"
+  ],
+  "language": [
+    "Gaddi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0010",
+  "name": "Vinod Prasad",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "slim",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "jh_dhoti_kurta_m",
+    "jh_kurta_pyjama_m",
+    "jh_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "Nagpuri",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

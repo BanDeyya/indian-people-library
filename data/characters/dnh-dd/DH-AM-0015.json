@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0015",
+  "name": "Ganpat",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 59,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "dd_warli_m",
+    "dd_shirt_trousers_m"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

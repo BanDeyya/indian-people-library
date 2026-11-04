@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0003",
+  "name": "Lakshmi Prabhu",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 55,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with soft cheeks",
+    "eyes": "brown eyes",
+    "hair": "black hair with grey streaks in a bun",
+    "build": "plump",
+    "signature_mark": "small birthmark on her left jaw"
+  },
+  "wardrobe": [
+    "tn_chettinad_f",
+    "tn_kanjeevaram_f",
+    "tn_thali",
+    "tn_metti",
+    "tn_jhumka",
+    "tn_jasmine"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

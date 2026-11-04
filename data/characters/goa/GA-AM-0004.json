@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-AM-0004",
+  "name": "Ganesh",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 56,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean lined face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ga_dhoti_m",
+    "ga_shirt_shorts_m",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

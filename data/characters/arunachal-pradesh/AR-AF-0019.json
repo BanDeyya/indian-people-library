@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AR-AF-0019",
+  "name": "Rupa",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ar_saree_f",
+    "ar_sindoor",
+    "ar_winter_jacket",
+    "ar_skirt_f"
+  ],
+  "language": [
+    "Nepali",
+    "Hindi",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

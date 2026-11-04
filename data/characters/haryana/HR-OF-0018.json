@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "HR-OF-0018",
+  "name": "Jyoti Rani",
+  "region": "haryana",
+  "sub_region": "north",
+  "community": "punjabi_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "light brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "hr_festive_suit_f",
+    "hr_suit_f",
+    "hr_sindoor_p"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

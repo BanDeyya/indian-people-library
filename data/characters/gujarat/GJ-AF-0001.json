@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0001",
+  "name": "Krupa Mahesh",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a soft chin",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small mole on her right jaw"
+  },
+  "wardrobe": [
+    "gj_modern_f",
+    "gj_salwar_f",
+    "gj_chaniya_f"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

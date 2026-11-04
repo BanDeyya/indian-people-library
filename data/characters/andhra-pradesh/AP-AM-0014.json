@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AP-AM-0014",
+  "name": "Kiran",
+  "region": "andhra-pradesh",
+  "sub_region": "rayalaseema",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 49,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square sun-darkened face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ap_shirt_trousers_m",
+    "ap_kurta_pyjama_m",
+    "ap_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

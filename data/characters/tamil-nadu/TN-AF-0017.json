@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0017",
+  "name": "Priya",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with large eyes",
+    "eyes": "brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "tn_kanjeevaram_f",
+    "tn_churidar_f",
+    "tn_jasmine",
+    "tn_jhumka",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

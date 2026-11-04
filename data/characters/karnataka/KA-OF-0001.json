@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "KA-OF-0001",
+  "name": "Shantamma",
+  "region": "karnataka",
+  "sub_region": "kittur",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small dark mole on her chin"
+  },
+  "wardrobe": [
+    "ka_ilkal_f",
+    "ka_mysore_silk_f",
+    "ka_mangalsutra"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

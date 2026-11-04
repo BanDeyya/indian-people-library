@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "HR-OF-0009",
+  "name": "Meena",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair under her chunder",
+    "build": "sturdy",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "hr_daaman_f",
+    "hr_winter_jacket",
+    "hr_suit_f"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

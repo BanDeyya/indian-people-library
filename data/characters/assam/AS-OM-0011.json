@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-OM-0011",
+  "name": "Ismail",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "assamese_muslim",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 87,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "long face with a prominent nose",
+    "eyes": "dark brown eyes",
+    "hair": "short grey hair",
+    "build": "lean",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "as_kurta_lungi_m",
+    "as_dhoti_kurta_m"
+  ],
+  "language": [
+    "Assamese",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

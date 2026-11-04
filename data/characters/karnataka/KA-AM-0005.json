@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0005",
+  "name": "Asif Rahman",
+  "region": "karnataka",
+  "sub_region": "old_mysore",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short side-parted black hair",
+    "facial_hair": "light stubble",
+    "build": "lean",
+    "signature_mark": "mole on his left cheek"
+  },
+  "wardrobe": [
+    "ka_shirt_trousers_m",
+    "ka_kurta_pyjama_m"
+  ],
+  "language": [
+    "Urdu",
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

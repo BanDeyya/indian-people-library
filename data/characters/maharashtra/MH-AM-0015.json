@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0015",
+  "name": "Ganpat Moreshwar",
+  "region": "maharashtra",
+  "sub_region": "konkan",
+  "community": "koli",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "muscular",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "mh_koli_surka_m",
+    "mh_modern_m"
+  ],
+  "language": [
+    "Koli",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

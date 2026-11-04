@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-OF-0011",
+  "name": "Sapna",
+  "region": "himachal-pradesh",
+  "sub_region": "kullu_mandi",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with rosy cheeks",
+    "eyes": "brown eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "hp_suit_f",
+    "hp_ghagra_f",
+    "hp_pattu_f"
+  ],
+  "language": [
+    "Hindi",
+    "Kangri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

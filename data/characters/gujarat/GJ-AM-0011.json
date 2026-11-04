@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0011",
+  "name": "Kalpesh Dinesh",
+  "region": "gujarat",
+  "sub_region": "saurashtra",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square sun-darkened face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "gj_shirt_trousers_m",
+    "gj_kediyu_garba_m"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

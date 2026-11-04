@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0001",
+  "name": "Phulmani Devi",
+  "region": "jharkhand",
+  "sub_region": "palamu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small dark mole on her chin"
+  },
+  "wardrobe": [
+    "jh_cotton_saree_f",
+    "jh_tussar_f",
+    "jh_sindoor",
+    "jh_silver_f"
+  ],
+  "language": [
+    "Magahi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

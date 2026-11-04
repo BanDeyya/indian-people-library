@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HR-OF-0011",
+  "name": "Rajbala Devi",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair under her chunder",
+    "build": "sturdy",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "hr_suit_f",
+    "hr_festive_suit_f",
+    "hr_sindoor"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0018",
+  "name": "Mathew",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "syrian_christian",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face with a broad nose and a strong jaw",
+    "eyes": "kind brown eyes behind thin gold-rimmed glasses",
+    "hair": "short black hair, grey at the temples, slightly receding",
+    "build": "stocky",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "neatly trimmed short beard"
+  },
+  "wardrobe": [
+    "kl_kasavu_mundu_m",
+    "kl_mundu_shirt_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

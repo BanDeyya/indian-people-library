@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0005",
+  "name": "Divya",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "large dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "py_cotton_saree_f",
+    "py_silk_saree_f"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

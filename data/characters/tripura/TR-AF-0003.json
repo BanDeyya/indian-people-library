@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0003",
+  "name": "Rupashree",
+  "region": "tripura",
+  "sub_region": "hills",
+  "community": "tripuri",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with high cheekbones",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "black hair tied back",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "tr_rignai_f",
+    "tr_shawl"
+  ],
+  "language": [
+    "Kokborok",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

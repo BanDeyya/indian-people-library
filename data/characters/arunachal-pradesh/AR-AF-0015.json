@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AR-AF-0015",
+  "name": "Priscilla",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "christian",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ar_church_dress_f",
+    "ar_skirt_f",
+    "ar_modern_f"
+  ],
+  "language": [
+    "Galo",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0006",
+  "name": "Bendangla",
+  "region": "nagaland",
+  "sub_region": "mokokchung",
+  "community": "ao",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with full cheeks, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "nl_ao_azu_f",
+    "nl_plain_top_f",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Ao",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

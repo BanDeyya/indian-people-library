@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0020",
+  "name": "Seema",
+  "region": "ladakh",
+  "sub_region": "kargil",
+  "community": "other_hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 84,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "la_salwar_f"
+  ],
+  "language": [
+    "Hindi",
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

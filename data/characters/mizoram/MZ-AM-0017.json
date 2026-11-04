@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AM-0017",
+  "name": "Ramdinthara",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "mz_shirt_trousers_m",
+    "mz_smart_m",
+    "mz_pawndum",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

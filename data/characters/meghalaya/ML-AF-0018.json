@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "ML-AF-0018",
+  "name": "Silbi",
+  "region": "meghalaya",
+  "sub_region": "garo_hills",
+  "community": "garo",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 59,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad lined face",
+    "eyes": "dark eyes",
+    "hair": "black hair tied back",
+    "build": "sturdy",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ml_dakmanda_fest_f",
+    "ml_dakmanda_f"
+  ],
+  "language": [
+    "Garo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "ML-AF-0011",
+  "name": "Rida",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "ml_jainsem_f",
+    "ml_silk_jainsem_f",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Khasi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

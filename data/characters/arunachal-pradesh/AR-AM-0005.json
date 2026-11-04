@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AR-AM-0005",
+  "name": "Karma",
+  "region": "arunachal-pradesh",
+  "sub_region": "west",
+  "community": "monpa",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "deeply lined face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "thin",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ar_chuba_m",
+    "ar_shirt_trousers_m",
+    "ar_yak_cap",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Monpa"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

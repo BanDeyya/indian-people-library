@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-OM-0002",
+  "name": "Vijay",
+  "region": "maharashtra",
+  "sub_region": "marathwada",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 87,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "narrow face with a sharp nose",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "mh_festive_kurta_m",
+    "mh_modern_m"
+  ],
+  "language": [
+    "Marathi",
+    "Ahirani",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TR-AM-0006",
+  "name": "Subrata Biswajit",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_dhoti_panjabi_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "English",
+    "Kokborok (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

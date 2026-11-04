@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "WB-OM-0010",
+  "name": "Partha Biswajit",
+  "region": "west-bengal",
+  "sub_region": "kolkata",
+  "community": "bengali_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean face with sharp cheekbones",
+    "eyes": "brown eyes",
+    "hair": "thin white hair",
+    "build": "wiry",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "wb_lungi_m",
+    "wb_dhoti_panjabi_m",
+    "wb_gamcha"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

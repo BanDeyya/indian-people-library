@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0015",
+  "name": "Biswanath",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "muscular",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "od_ikat_kurta_m",
+    "od_kurta_pyjama_m",
+    "od_gamuchha"
+  ],
+  "language": [
+    "Sambalpuri",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

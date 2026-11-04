@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0011",
+  "name": "Rekha",
+  "region": "dnh-dd",
+  "sub_region": "diu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "dd_bandhani_saree_f",
+    "dd_saree_f"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

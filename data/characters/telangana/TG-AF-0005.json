@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0005",
+  "name": "Bhavani",
+  "region": "telangana",
+  "sub_region": "hyderabad",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "urban",
+  "marital_status": "single",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black plait",
+    "build": "slim",
+    "signature_mark": "small birthmark on her neck"
+  },
+  "wardrobe": [
+    "ts_salwar_f",
+    "ts_pochampally_f",
+    "ts_langa_voni_f",
+    "ts_jasmine"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

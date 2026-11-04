@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OF-0004",
+  "name": "Kiran Devi",
+  "region": "rajasthan",
+  "sub_region": "marwar",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with high cheekbones",
+    "eyes": "brown eyes",
+    "hair": "grey hair under her odhni",
+    "build": "stocky",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "rj_ghagra_f",
+    "rj_festive_ghagra_f",
+    "rj_silver_payal",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Mewari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

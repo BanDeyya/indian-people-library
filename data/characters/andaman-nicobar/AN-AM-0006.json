@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AN-AM-0006",
+  "name": "Gopal Biplab",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "bengali_hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "an_shirt_trousers_m",
+    "an_lungi_m",
+    "an_kurta_pyjama_m"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

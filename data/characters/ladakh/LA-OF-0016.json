@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0016",
+  "name": "Dolkar",
+  "region": "ladakh",
+  "sub_region": "changthang",
+  "community": "changpa",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pashmina_herder",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with wind-reddened cheeks, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "strong",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "la_changpa_sulma_f",
+    "la_salwar_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Changskat",
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

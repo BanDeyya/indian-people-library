@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0006",
+  "name": "Lalita",
+  "region": "rajasthan",
+  "sub_region": "marwar",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "brown eyes",
+    "hair": "long straight black hair in a ponytail",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "rj_lehariya_saree_f",
+    "rj_suit_f",
+    "rj_bichiya",
+    "rj_silver_payal"
+  ],
+  "language": [
+    "Shekhawati",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "TR-OF-0020",
+  "name": "Nasima Bibi",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 88,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "tr_tant_f",
+    "tr_silk_saree_f",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

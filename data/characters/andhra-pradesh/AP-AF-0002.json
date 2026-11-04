@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AP-AF-0002",
+  "name": "Sravani",
+  "region": "andhra-pradesh",
+  "sub_region": "godavari",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "rural",
+  "marital_status": "single",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "very long black plait",
+    "build": "slim",
+    "signature_mark": "small birthmark on her left wrist"
+  },
+  "wardrobe": [
+    "ap_salwar_f",
+    "ap_kalamkari_f",
+    "ap_langa_voni_f",
+    "ap_jasmine"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

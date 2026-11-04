@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0013",
+  "name": "Rajesh",
+  "region": "dnh-dd",
+  "sub_region": "diu",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "weathered square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dd_dhoti_kurta_m",
+    "dd_kurta_m",
+    "dd_kediyu_m"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

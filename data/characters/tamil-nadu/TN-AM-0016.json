@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0016",
+  "name": "Selvam Balaji",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with a pointed chin",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "stocky",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "light beard"
+  },
+  "wardrobe": [
+    "tn_veshti_sattai_m",
+    "tn_lungi_m",
+    "tn_shirt_trousers_m",
+    "tn_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

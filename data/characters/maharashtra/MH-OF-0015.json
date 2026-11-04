@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MH-OF-0015",
+  "name": "Pushpa",
+  "region": "maharashtra",
+  "sub_region": "mumbai",
+  "community": "koli",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "strong",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "mh_koli_lugra_f",
+    "mh_koli_lugra_silk_f",
+    "mh_koli_gaathla"
+  ],
+  "language": [
+    "Koli",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

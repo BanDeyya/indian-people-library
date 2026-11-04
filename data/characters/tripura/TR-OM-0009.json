@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0009",
+  "name": "Debashis",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "tr_dhoti_panjabi_m",
+    "tr_lungi_m"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

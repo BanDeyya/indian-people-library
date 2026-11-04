@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "NL-AF-0004",
+  "name": "Zhavino",
+  "region": "nagaland",
+  "sub_region": "kohima",
+  "community": "angami",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "musician",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with soft cheekbones, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "shoulder-length straight black hair",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "nl_modern_f",
+    "nl_angami_f",
+    "nl_angami_loram_f"
+  ],
+  "language": [
+    "Angami",
+    "English",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

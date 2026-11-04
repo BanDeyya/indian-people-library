@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "MP-OF-0014",
+  "name": "Ragini Bai",
+  "region": "madhya-pradesh",
+  "sub_region": "mahakoshal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair under her lugra",
+    "build": "small",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "mp_chanderi_f",
+    "mp_maheshwari_cotton_f"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

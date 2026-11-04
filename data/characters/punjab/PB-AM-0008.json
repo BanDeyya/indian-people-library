@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "PB-AM-0008",
+  "name": "Amrik Singh",
+  "region": "punjab",
+  "sub_region": "doaba",
+  "community": "sikh",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "light brown eyes",
+    "hair": "unshorn hair tied under his turban",
+    "build": "athletic",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "full dark beard, neatly kept"
+  },
+  "wardrobe": [
+    "pb_dastar_m",
+    "pb_kada",
+    "pb_shirt_jeans_m",
+    "pb_kurta_pajama_m",
+    "pb_saluka_m",
+    "pb_khes_wrap"
+  ],
+  "always_wear": [
+    "pb_dastar_m",
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

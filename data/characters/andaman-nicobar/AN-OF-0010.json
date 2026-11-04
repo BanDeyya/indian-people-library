@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "AN-OF-0010",
+  "name": "Sunita",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "an_salwar_f",
+    "an_silk_saree_f"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

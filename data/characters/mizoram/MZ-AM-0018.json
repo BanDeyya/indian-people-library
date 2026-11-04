@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AM-0018",
+  "name": "Lalnunsanga",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "mz_shirt_trousers_m",
+    "mz_smart_m",
+    "mz_pawndum"
+  ],
+  "language": [
+    "Lai",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

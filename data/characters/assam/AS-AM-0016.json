@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "AS-AM-0016",
+  "name": "Dipen",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "mising",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with full cheeks and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "as_shirt_m",
+    "as_mibu_galuk_m",
+    "as_white_wrap_m",
+    "as_damur",
+    "as_gadu_galuk_m"
+  ],
+  "language": [
+    "Mising",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

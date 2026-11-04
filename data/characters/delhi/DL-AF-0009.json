@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0009",
+  "name": "Mamta",
+  "region": "delhi",
+  "sub_region": "outer",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "shoulder-length straight black hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "dl_modern_f",
+    "dl_suit_f",
+    "dl_festive_suit_f",
+    "dl_sindoor"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0016",
+  "name": "Kanchan",
+  "region": "delhi",
+  "sub_region": "south",
+  "community": "purvanchali_hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "medium",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "dl_silk_saree_f",
+    "dl_saree_f",
+    "dl_sindoor_pv",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

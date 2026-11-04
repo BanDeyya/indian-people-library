@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "UK-OF-0020",
+  "name": "Sadia Parveen",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "uk_suit_f",
+    "uk_festive_suit_f",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

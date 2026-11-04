@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-OM-0014",
+  "name": "Vivek Kumar",
+  "region": "uttar-pradesh",
+  "sub_region": "bundelkhand",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "long face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "up_chikan_kurta_m",
+    "up_dhoti_kurta_m",
+    "up_pagri"
+  ],
+  "language": [
+    "Braj Bhasha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,52 @@
+{
+  "$comment": "Safety policy for the public library. The compiler and validator enforce this file; nothing reaches the image backend if a check fails. Negative prompts reduce risk but do not guarantee it, so the image check + human approval in docs/safety.md are the real gate before publishing.",
+
+  "blocked_terms_all": [
+    "nsfw", "nude", "nudity", "naked", "topless", "bottomless", "undressed", "unclothed",
+    "lingerie", "underwear", "bra", "panties", "bikini", "swimsuit", "swimwear", "thong",
+    "see-through", "see through", "sheer", "transparent clothing", "wet clothes",
+    "cleavage", "breast", "breasts", "nipple", "nipples", "buttocks", "butt", "crotch", "groin",
+    "sexy", "seductive", "sensual", "erotic", "sexual", "sex", "porn", "pornographic", "fetish",
+    "provocative", "suggestive", "lewd", "kinky", "aroused", "orgasm",
+    "bedroom pose", "in bed", "bathing", "shower", "bathtub",
+    "glamour", "glam", "boudoir", "pin-up", "pinup", "hot girl", "hot woman",
+    "celebrity", "lookalike", "look-alike", "deepfake",
+    "blood", "gore", "injury", "wound", "weapon", "gun", "knife"
+  ],
+
+  "blocked_terms_child": [
+    "makeup", "lipstick", "eyeliner", "mascara", "blush", "lip gloss",
+    "pose", "posing", "model", "modelling", "modeling", "fashion shoot", "photoshoot",
+    "romantic", "romance", "date", "kiss", "kissing", "flirt", "flirty", "love",
+    "bride", "bridal", "groom", "wedding couple", "married",
+    "beautiful", "pretty", "cute girl", "attractive", "gorgeous",
+    "bare shoulders", "off-shoulder", "off shoulder", "crop top", "short skirt", "mini skirt",
+    "shorts", "tight", "fitted", "body", "figure", "slim waist", "legs",
+    "alone at night", "stranger", "adult man", "adult woman"
+  ],
+
+  "$comment_child_terms": "Words like 'beautiful' and 'pose' are harmless for adults but are blocked for children because they are the words people use to steer images of children somewhere they must not go.",
+
+  "positive_all": "fully clothed, modest clothing, natural documentary photo",
+  "positive_child": "child, fully covered age-appropriate clothing, with family, everyday ordinary moment, documentary photo",
+
+  "negative_base": "cartoon, 3d render, cgi, illustration, painting, plastic skin, airbrushed, over-smoothed skin, distorted face, extra fingers, deformed hands, watermark, text, logo",
+  "negative_safety_all": "nsfw, nude, nudity, naked, topless, cleavage, lingerie, underwear, swimsuit, bikini, see-through clothing, revealing clothing, sexual, suggestive, erotic, sexy pose, seductive, provocative, glamour, celebrity likeness",
+  "negative_safety_child": "makeup, lipstick, jewellery overload, adult clothing, revealing clothing, bare shoulders, bare legs, crop top, shorts, swimsuit, posing, model pose, fashion shoot, glamour, romantic, bride, adult proportions, mature face",
+
+  "child_rules": {
+    "release": "private",
+    "allowed_scenes": ["festival_family", "school", "home_family", "playing_outdoors", "neutral_portrait"],
+    "$comment": "neutral_portrait is allowed only because children are never published. Jewellery on children is limited to small studs or a simple bangle; the compiler drops anything else."
+  },
+
+  "adult_rules": {
+    "glam_allowed": false,
+    "$comment": "Glam content is out of scope for this library."
+  },
+
+  "release_rules": {
+    "requires": ["status == approved", "image_check == passed", "human_approved == true"],
+    "never_public_groups": ["child_boy", "child_girl"]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0015",
+  "name": "Chanda Kumari",
+  "region": "delhi",
+  "sub_region": "east",
+  "community": "purvanchali_hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "medium",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "dl_silk_saree_f",
+    "dl_saree_f",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

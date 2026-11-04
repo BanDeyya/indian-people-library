@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CH-AM-0006",
+  "name": "Sanjeev Varun",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ch_kurta_pajama_m",
+    "ch_winter_jacket",
+    "ch_shirt_jeans_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

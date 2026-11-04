@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "KL-OF-0012",
+  "name": "Suma",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with soft features",
+    "eyes": "large dark brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "plump",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "kl_kasavu_saree_f",
+    "kl_set_mundu_f",
+    "kl_jimikki",
+    "kl_cotton_saree_f",
+    "kl_thali",
+    "kl_mookuthi",
+    "kl_temple_flowers"
+  ],
+  "language": [
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

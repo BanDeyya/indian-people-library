@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OF-0020",
+  "name": "Kesli",
+  "region": "gujarat",
+  "sub_region": "north",
+  "community": "bhil",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "gj_saree_f",
+    "gj_bhil_f"
+  ],
+  "language": [
+    "Bhili",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

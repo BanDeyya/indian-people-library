@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0004",
+  "name": "Ankit Kumar",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short styled black hair",
+    "facial_hair": "short beard",
+    "build": "average",
+    "signature_mark": "small scar above his right eyebrow"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_kurta_pyjama_m"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

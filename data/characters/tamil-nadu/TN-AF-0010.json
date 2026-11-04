@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0010",
+  "name": "Sumathi Muthu",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "textile_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "thin face with deep wrinkles",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "plump",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "tn_half_saree_f",
+    "tn_churidar_f",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0004",
+  "name": "Anil Paulus",
+  "region": "chhattisgarh",
+  "sub_region": "north",
+  "community": "christian",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small mole above his lip"
+  },
+  "wardrobe": [
+    "cg_shirt_trousers_m",
+    "cg_kurta_pyjama_m"
+  ],
+  "language": [
+    "Kurukh",
+    "Hindi",
+    "Sadri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

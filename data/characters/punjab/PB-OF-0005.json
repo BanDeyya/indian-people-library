@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0005",
+  "name": "Inderjit Kaur",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face with thick eyebrows",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair partly covered by a light chunni",
+    "build": "stocky",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_suit_f",
+    "pb_suit_head_f",
+    "pb_loyi_wrap"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

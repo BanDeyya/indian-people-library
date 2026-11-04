@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PB-AF-0018",
+  "name": "Meenu Rani",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with a rounded chin",
+    "eyes": "brown eyes behind black-framed reading glasses",
+    "hair": "shoulder-length black hair, usually tied back",
+    "build": "average",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "pb_suit_f",
+    "pb_kurti_jeans_f"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

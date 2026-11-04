@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JK-AM-0015",
+  "name": "Anil",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "dogra",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "jk_shirt_trousers_m",
+    "jk_dogra_m",
+    "jk_kurta_pyjama_m"
+  ],
+  "language": [
+    "Dogri",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

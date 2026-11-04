@@ -1,0 +1,807 @@
+{
+  "schema_version": 2,
+  "slug": "lakshadweep",
+  "code": "LD",
+  "name": "Lakshadweep",
+  "type": "union_territory",
+  "zone": "islands",
+  "capital": "Kavaratti",
+  "status": "reviewed",
+  "languages": [
+    "English (official)",
+    "Malayalam (official)",
+    "Jeseri (Malayalam dialect)",
+    "Mahl (Minicoy)"
+  ],
+  "religion_mix": {
+    "source": "wiki_lakshadweep",
+    "shares": {
+      "muslim": 96.6,
+      "hindu": 2.8,
+      "christian": 0.5,
+      "other": 0.1
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "laccadive",
+      "name": "Laccadive and Amindivi islands",
+      "notes": "Kavaratti (capital), Agatti, Andrott, Amini, Kadmat, Kalpeni, Kiltan, Chetlat, Bitra; Jeseri-speaking."
+    },
+    {
+      "id": "minicoy",
+      "name": "Minicoy",
+      "notes": "Southernmost island; Mahl-speaking, with its own dress and the Lava dance."
+    }
+  ],
+  "communities": [
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Lakshadweep islander (Jeseri)",
+      "religion": "muslim",
+      "sub_regions": [
+        "laccadive"
+      ],
+      "notes": "Sunni islanders with strong links to Malabar. Women: kachi wrap with black borders, embroidered kuppayam jacket and thattam head cloth; younger women often in churidar with a headscarf. Men: coloured lungi with a shirt; white mundu and shirt with a cap for prayers and Eid. Oppana at weddings; Kolkali and Parichakali.",
+      "names": {
+        "female": [
+          "Sainaba",
+          "Kunhibi",
+          "Rahmath",
+          "Fathima",
+          "Shifa",
+          "Ayisha",
+          "Nafeesa",
+          "Rasiya",
+          "Safiya",
+          "Thasneem",
+          "Jasna",
+          "Hajara",
+          "Ramla",
+          "Sumayya",
+          "Haseena",
+          "Beevi"
+        ],
+        "male": [
+          "Abdul Rasheed",
+          "Koya",
+          "Hamza",
+          "Attakoya",
+          "Irfan",
+          "Mohammed",
+          "Kasim",
+          "Shukoor",
+          "Basheer",
+          "Musthafa",
+          "Abdul Khader",
+          "Nizamuddin",
+          "Ismail",
+          "Faisal",
+          "Hussain",
+          "Sayed"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim_minicoy",
+      "name": "Muslim",
+      "culture": "Minicoy (Mahl)",
+      "religion": "muslim",
+      "prompt": "Minicoy",
+      "sub_regions": [
+        "minicoy"
+      ],
+      "notes": "Minicoy islanders; Mahl language and a more varied dress tradition; Lava dance. No characters yet (dress to be sourced)."
+    },
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Malayali and others",
+      "religion": "hindu",
+      "sub_regions": [
+        "laccadive"
+      ],
+      "notes": "Mostly government staff from the mainland. No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      5,
+      8
+    ],
+    "hair": "Black hair, straight to wavy.",
+    "notes": "Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "muslim",
+      "notes": "Arabic-origin and Malayalam given names, optionally with the father's given name; island family (tharavad) names left out."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "ld_lungi_shirt_m",
+      "name": "Lungi and shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "coloured cotton lungi with a half-sleeve shirt",
+      "short": "coloured lungi and shirt",
+      "sources": [
+        "iz_ld",
+        "iz_ut_costumes"
+      ]
+    },
+    {
+      "id": "ld_white_mundu_m",
+      "name": "White mundu and shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "white mundu with a white long-sleeved shirt",
+      "short": "white mundu and shirt",
+      "sources": [
+        "kt_dress_habits"
+      ]
+    },
+    {
+      "id": "ld_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "light cotton shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "ld_cap_m",
+      "name": "Prayer cap",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "white cotton prayer cap",
+      "short": "white prayer cap",
+      "sources": [
+        "kt_dress_habits",
+        "wiki_taqiyah"
+      ]
+    },
+    {
+      "id": "ld_fisher_m",
+      "name": "Fisherman's work clothes",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "folded checked lungi with a vest and a towel on the shoulder",
+      "short": "folded lungi and vest",
+      "sources": []
+    },
+    {
+      "id": "ld_kachi_f",
+      "name": "Kachi with thattam and kuppayam",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "ankle-length white kachi wrap with black borders, a long-sleeved embroidered kuppayam jacket and a thattam cloth draped over the head, face uncovered",
+      "short": "kachi, kuppayam and thattam",
+      "sources": [
+        "iz_ld",
+        "iz_ut_costumes",
+        "kt_dress_habits"
+      ]
+    },
+    {
+      "id": "ld_churidar_f",
+      "name": "Churidar with headscarf",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton churidar with a matching dupatta and a neatly pinned headscarf covering the hair",
+      "short": "churidar and headscarf",
+      "sources": [
+        "kt_dress_habits"
+      ]
+    },
+    {
+      "id": "ld_festive_churidar_f",
+      "name": "Festive churidar",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "embroidered silk churidar with a matching shawl over the head",
+      "short": "embroidered churidar",
+      "sources": []
+    },
+    {
+      "id": "ld_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton frock with full-length leggings and a small scarf",
+      "short": "girl's frock and scarf",
+      "sources": []
+    },
+    {
+      "id": "ld_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long silk frock with full sleeves and a small scarf",
+      "short": "girl's long silk frock",
+      "sources": []
+    },
+    {
+      "id": "ld_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's half-sleeve shirt with full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "ld_kids_b_fest",
+      "name": "Boy's festive clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's white kurta with a white mundu and a small white cap",
+      "short": "boy's white kurta and cap",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "ld_gold_earrings",
+      "name": "Gold earrings",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "several small gold earrings along the ear rim",
+      "short": "small gold earrings",
+      "sources": [
+        "iz_ld"
+      ]
+    },
+    {
+      "id": "ld_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "ld_kachi_f"
+        ],
+        [
+          "ld_churidar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ld_kachi_f"
+        ],
+        [
+          "ld_festive_churidar_f"
+        ]
+      ],
+      "reason": "Kachi with kuppayam and thattam; churidar with headscarf among younger women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "ld_lungi_shirt_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ld_white_mundu_m",
+          "ld_cap_m"
+        ]
+      ],
+      "reason": "Coloured lungi daily; white mundu and cap for Eid and prayers."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "ld_kachi_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ld_kachi_f"
+        ]
+      ],
+      "reason": "Kachi."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "ld_lungi_shirt_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ld_white_mundu_m",
+          "ld_cap_m"
+        ]
+      ],
+      "reason": "White mundu and cap."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "ld_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "ld_kids_g_fest"
+        ]
+      ],
+      "reason": "Long frock."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "ld_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "ld_kids_b_fest"
+        ]
+      ],
+      "reason": "White kurta and cap."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "eid_ld",
+      "name": "Eid ul-Fitr",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim",
+        "muslim_minicoy"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning on an island lane under coconut palms, families in new clothes greeting each other",
+      "scene_short": "Eid on an island lane"
+    },
+    {
+      "id": "milad_ld",
+      "name": "Milad-un-Nabi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim",
+        "muslim_minicoy"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Milad-un-Nabi evening, island lanes decorated with lights and families gathering",
+      "scene_short": "Milad lights"
+    },
+    {
+      "id": "kolkali_ld",
+      "name": "Kolkali performance",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "sub_regions": [
+        "laccadive"
+      ],
+      "when": "festivals and national days",
+      "scene": "island ground at dusk, a group performing Kolkali with sticks while families watch",
+      "scene_short": "Kolkali performance"
+    },
+    {
+      "id": "independence_ld",
+      "name": "Independence Day",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "15 August",
+      "scene": "Independence Day on an island, flags and a cultural programme on the ground",
+      "scene_short": "island Independence Day"
+    },
+    {
+      "id": "wedding_guest_ld",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at an island wedding, women singing Oppana around the bride",
+      "scene_short": "Oppana at a wedding"
+    }
+  ],
+  "settings": [
+    {
+      "id": "kavaratti_lane",
+      "type": "urban",
+      "description": "Kavaratti lane with white coral-stone houses and coconut palms",
+      "short": "Kavaratti lane",
+      "sub_regions": [
+        "laccadive"
+      ]
+    },
+    {
+      "id": "lagoon",
+      "type": "nature",
+      "description": "turquoise lagoon with white sand and coconut palms",
+      "short": "turquoise lagoon"
+    },
+    {
+      "id": "jetty_ld",
+      "type": "urban",
+      "description": "island jetty with small boats and a ferry",
+      "short": "island jetty",
+      "sub_regions": [
+        "laccadive"
+      ]
+    },
+    {
+      "id": "coconut_grove",
+      "type": "rural",
+      "description": "shady coconut grove with fallen husks",
+      "short": "coconut grove"
+    },
+    {
+      "id": "tuna_boats",
+      "type": "rural",
+      "description": "beach with wooden pole-and-line tuna fishing boats",
+      "short": "tuna boats on the beach"
+    },
+    {
+      "id": "home_ld",
+      "type": "home",
+      "description": "island house verandah with a swing and potted plants",
+      "short": "island house verandah"
+    },
+    {
+      "id": "office_ld",
+      "type": "work",
+      "description": "government office in Kavaratti",
+      "short": "Kavaratti office",
+      "sub_regions": [
+        "laccadive"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "both",
+      "for": [
+        "adult_female",
+        "adult_male"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "fisher",
+      "name": "Fisher",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "bringing tuna ashore from a wooden boat"
+    },
+    {
+      "id": "coir_worker",
+      "name": "Coir maker",
+      "setting": "rural",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "twisting coconut fibre into coir rope"
+    },
+    {
+      "id": "boat_builder",
+      "name": "Boat builder",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "shaping a wooden boat hull on the beach"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot and humid (March-May).",
+    "monsoon": "Heavy rain and rough seas (June-September).",
+    "winter": "Warm and pleasant (October-February)."
+  },
+  "heritage": [
+    {
+      "id": "ld_arakkal",
+      "name": "Arakkal and Tipu-era dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical dress for fictional people only.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Tourist-only lagoon cliches; 'dry islands' jokes.",
+    "Administrative and political controversies.",
+    "Face veils as a default."
+  ],
+  "todo": [
+    "Minicoy dress and Lava dance with sources.",
+    "Men's lungi with silver thread detail; women's jewellery names.",
+    "Native review (Kavaratti, Minicoy)."
+  ],
+  "sources": [
+    {
+      "id": "wiki_lakshadweep",
+      "title": "Lakshadweep (Wikipedia; religion from Census 2011)",
+      "url": "https://en.wikipedia.org/wiki/Lakshadweep",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "ld_culture",
+      "title": "Culture (UT Administration of Lakshadweep)",
+      "url": "https://lakshadweep.gov.in/culture",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "iz_ld",
+      "title": "Costumes of Lakshadweep (Indianetzone)",
+      "url": "https://www.indianetzone.com/costumes_lakshadweep",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "iz_ut_costumes",
+      "title": "Costumes of Union Territories of India (Indianetzone)",
+      "url": "https://www.indianetzone.com/costumes_union_territories_india",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "kt_dress_habits",
+      "title": "Islam in Kerala: dress habits (Kerala Tourism)",
+      "url": "https://www.keralatourism.org/islam-in-kerala/culture/dress-habits",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_taqiyah",
+      "title": "Taqiyah (cap) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Taqiyah_(cap)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-11-02",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Open: the kachi with black borders, kuppayam jacket and thattam, and men's coloured lungi, come from two Indianetzone pages (one publisher) plus Kerala Tourism's Mappila dress page; the UT administration's culture page lists festivals and dances but not dress. Needs an island reviewer.",
+      "Confirmed by the UT administration: Kolkali and Parichakali are the main folk forms except on Minicoy (Lava), Oppana at weddings, and Milad-un-Nabi, Eid ul-Fitr, Bakrid and national days as the main festivals."
+    ]
+  }
+}

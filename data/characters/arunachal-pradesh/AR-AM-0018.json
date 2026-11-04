@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AR-AM-0018",
+  "name": "Aaryan",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_smart_m",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Nepali",
+    "Hindi",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

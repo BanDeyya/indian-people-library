@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0010",
+  "name": "Laxmi Shankar",
+  "region": "rajasthan",
+  "sub_region": "dhundhar",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with high cheekbones",
+    "eyes": "brown eyes",
+    "hair": "long black hair with grey streaks under her odhni",
+    "build": "plump",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "rj_lehariya_saree_f",
+    "rj_festive_ghagra_f",
+    "rj_ghagra_f",
+    "rj_silver_payal",
+    "rj_bichiya",
+    "rj_studs"
+  ],
+  "language": [
+    "Hadoti",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-OM-0014",
+  "name": "Ibrahim",
+  "region": "karnataka",
+  "sub_region": "kalyana",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 88,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "thin white hair",
+    "build": "lean",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "ka_shirt_trousers_m",
+    "ka_kurta_pyjama_m"
+  ],
+  "language": [
+    "Urdu",
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

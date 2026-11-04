@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-AF-0005",
+  "name": "Maria",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "catholic",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "shoulder-length wavy black hair",
+    "build": "slim",
+    "signature_mark": "mole above her left eyebrow"
+  },
+  "wardrobe": [
+    "dd_dress_f",
+    "dd_church_dress_f",
+    "dd_cross"
+  ],
+  "language": [
+    "Gujarati",
+    "English",
+    "Portuguese (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

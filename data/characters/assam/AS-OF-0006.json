@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-OF-0006",
+  "name": "Barnali",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "as_mekhela_chador_f",
+    "as_muga_f",
+    "as_gold_set",
+    "as_keru"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

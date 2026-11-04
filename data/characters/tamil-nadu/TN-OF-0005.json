@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TN-OF-0005",
+  "name": "Kalaivani",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with large eyes",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a small knot",
+    "build": "thin",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "tn_chettinad_f",
+    "tn_sungudi_f",
+    "tn_kanjeevaram_f",
+    "tn_jhumka",
+    "tn_thali",
+    "tn_metti"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

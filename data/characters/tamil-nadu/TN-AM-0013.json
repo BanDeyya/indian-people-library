@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0013",
+  "name": "Kumaran Murugan",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "light beard"
+  },
+  "wardrobe": [
+    "tn_shirt_trousers_m",
+    "tn_lungi_m",
+    "tn_veshti_sattai_m",
+    "tn_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

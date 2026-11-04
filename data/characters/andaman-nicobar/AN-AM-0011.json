@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-AM-0011",
+  "name": "Senthil Prakash",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "tamil_hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "an_veshti_m",
+    "an_lungi_m"
+  ],
+  "language": [
+    "Tamil",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

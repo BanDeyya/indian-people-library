@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0008",
+  "name": "Asha",
+  "region": "maharashtra",
+  "sub_region": "mumbai",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with a pointed chin",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "mh_modern_f",
+    "mh_nauvari_silk_f",
+    "mh_paithani_f",
+    "mh_nath",
+    "mh_kolhapuri",
+    "mh_pheta_f",
+    "mh_kolhapuri_saaj"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

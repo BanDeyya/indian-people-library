@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "WB-AF-0002",
+  "name": "Sutapa Bikash",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "bengali_hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small birthmark on her right temple"
+  },
+  "wardrobe": [
+    "wb_tant_f",
+    "wb_laal_paar_f",
+    "wb_salwar_f",
+    "wb_studs"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

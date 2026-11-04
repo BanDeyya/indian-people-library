@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "AS-OM-0015",
+  "name": "Ramesh",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "mising",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 87,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with full cheeks and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "thin white hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "as_dhoti_kurta_m",
+    "as_gamosa",
+    "as_white_wrap_m",
+    "as_mibu_galuk_m",
+    "as_damur",
+    "as_gadu_galuk_m"
+  ],
+  "language": [
+    "Mising",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

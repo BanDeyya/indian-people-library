@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0014",
+  "name": "Neha",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "an_salwar_f",
+    "an_modern_f",
+    "an_silk_saree_f"
+  ],
+  "language": [
+    "Hindi",
+    "English",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

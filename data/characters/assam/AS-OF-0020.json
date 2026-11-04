@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-OF-0020",
+  "name": "Lalita",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "tea_garden",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "as_red_white_saree_f",
+    "as_mekhela_chador_f",
+    "as_small_studs"
+  ],
+  "language": [
+    "Sadri",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MP-AF-0014",
+  "name": "Seema Devi",
+  "region": "madhya-pradesh",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "mp_modern_f",
+    "mp_chanderi_f",
+    "mp_sindoor",
+    "mp_bichiya"
+  ],
+  "language": [
+    "Hindi",
+    "Malvi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

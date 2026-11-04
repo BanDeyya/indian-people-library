@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-AF-0020",
+  "name": "Prisca",
+  "region": "jharkhand",
+  "sub_region": "santhal_pargana",
+  "community": "christian",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "steel_worker",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "jh_cotton_saree_f",
+    "jh_tussar_f"
+  ],
+  "language": [
+    "Kurukh",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

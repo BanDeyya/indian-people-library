@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "ML-OM-0003",
+  "name": "Shanbor",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "athletic",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_jymphong_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

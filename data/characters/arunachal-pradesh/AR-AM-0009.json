@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AR-AM-0009",
+  "name": "Kaso",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "nyishi",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_smart_m",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Nyishi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

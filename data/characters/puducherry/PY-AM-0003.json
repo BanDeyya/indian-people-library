@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PY-AM-0003",
+  "name": "Antony",
+  "region": "puducherry",
+  "sub_region": "puducherry",
+  "community": "christian",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "short wavy black hair greying at the temples",
+    "build": "medium",
+    "signature_mark": "small mole on his chin"
+  },
+  "wardrobe": [
+    "py_shirt_trousers_m",
+    "py_silk_veshti_m",
+    "py_cross"
+  ],
+  "language": [
+    "Tamil",
+    "English",
+    "French"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0020",
+  "name": "Harpreet Kaur",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "sikh",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "dl_kara",
+    "dl_suit_f",
+    "dl_festive_suit_f"
+  ],
+  "always_wear": [
+    "dl_kara"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

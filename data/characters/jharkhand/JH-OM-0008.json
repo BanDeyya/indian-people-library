@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0008",
+  "name": "Sunil",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "average",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "jh_kurta_pyjama_m",
+    "jh_shirt_trousers_m",
+    "jh_dhoti_kurta_m"
+  ],
+  "language": [
+    "Khortha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

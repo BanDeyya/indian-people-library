@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0007",
+  "name": "Pynshai",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ml_jymphong_m",
+    "ml_shirt_trousers_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

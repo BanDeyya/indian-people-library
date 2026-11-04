@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0016",
+  "name": "Sushant Bikash",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "square weathered face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "od_shirt_trousers_m",
+    "od_dhoti_kurta_m",
+    "od_kurta_pyjama_m"
+  ],
+  "language": [
+    "Desia",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

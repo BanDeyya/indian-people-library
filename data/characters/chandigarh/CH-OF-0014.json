@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "CH-OF-0014",
+  "name": "Neha",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "medium",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "ch_suit_f",
+    "ch_saree_f",
+    "ch_shawl"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

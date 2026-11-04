@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JK-AM-0020",
+  "name": "Noor",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "gujjar_bakarwal",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "herder",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long weathered face with a hooked nose",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair neatly combed",
+    "build": "tall and wiry",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "jk_gujjar_m",
+    "jk_gujjar_pagh",
+    "jk_winter_jacket",
+    "jk_shirt_trousers_m"
+  ],
+  "language": [
+    "Gojri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

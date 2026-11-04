@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0017",
+  "name": "Prashant",
+  "region": "maharashtra",
+  "sub_region": "mumbai",
+  "community": "buddhist",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Marathi",
+    "Varhadi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

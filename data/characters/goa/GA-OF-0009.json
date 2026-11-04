@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0009",
+  "name": "Pooja Narayan",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small and thin",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_silk_saree_f",
+    "ga_sindoor",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

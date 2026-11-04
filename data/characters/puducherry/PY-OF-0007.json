@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0007",
+  "name": "Muthulakshmi",
+  "region": "puducherry",
+  "sub_region": "puducherry",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "py_cotton_saree_f",
+    "py_silk_saree_f"
+  ],
+  "language": [
+    "Tamil",
+    "English",
+    "French (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AM-0014",
+  "name": "Lalhmingliana",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 52,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "mz_smart_m",
+    "mz_shirt_trousers_m",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

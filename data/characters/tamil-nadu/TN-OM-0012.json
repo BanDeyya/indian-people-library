@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TN-OM-0012",
+  "name": "Selvam Muthu",
+  "region": "tamil-nadu",
+  "sub_region": "kongu_nadu",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face with a strong jaw",
+    "eyes": "large dark brown eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "tn_lungi_m",
+    "tn_silk_veshti_m",
+    "tn_veshti_sattai_m"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

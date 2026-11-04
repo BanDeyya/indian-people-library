@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0018",
+  "name": "Aslam",
+  "region": "delhi",
+  "sub_region": "old_delhi",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark eyes behind round glasses",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dl_kurta_pyjama_m",
+    "dl_topi_m",
+    "dl_shawl",
+    "dl_shirt_trousers_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "HR-OF-0019",
+  "name": "Kamlesh Naresh",
+  "region": "haryana",
+  "sub_region": "north",
+  "community": "punjabi_hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 83,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "light brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "hr_festive_suit_f",
+    "hr_suit_f"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

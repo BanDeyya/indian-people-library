@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0020",
+  "name": "Debojit",
+  "region": "nagaland",
+  "sub_region": "dimapur_plains",
+  "community": "kachari",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with soft features",
+    "eyes": "brown eyes",
+    "hair": "thin white hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_trousers_m",
+    "nl_plain_shirt_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Dimasa",
+    "Nagamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

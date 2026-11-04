@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0008",
+  "name": "Gauri Bai",
+  "region": "rajasthan",
+  "sub_region": "mewar",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "brown eyes",
+    "hair": "long black hair under her odhni",
+    "build": "plump",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "rj_suit_f",
+    "rj_lehariya_saree_f",
+    "rj_bichiya",
+    "rj_bajuband",
+    "rj_silver_payal"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

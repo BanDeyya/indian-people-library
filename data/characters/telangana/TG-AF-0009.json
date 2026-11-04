@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0009",
+  "name": "Sravani",
+  "region": "telangana",
+  "sub_region": "warangal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "strong",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ts_pochampally_f",
+    "ts_salwar_f",
+    "ts_gollabama_f",
+    "ts_gadwal_f",
+    "ts_jasmine",
+    "ts_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

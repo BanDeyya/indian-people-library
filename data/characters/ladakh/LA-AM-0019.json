@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-AM-0019",
+  "name": "Deepak Kumar",
+  "region": "ladakh",
+  "sub_region": "kargil",
+  "community": "other_hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "la_modern_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

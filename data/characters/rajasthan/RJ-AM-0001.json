@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0001",
+  "name": "Bhanwar Lal",
+  "region": "rajasthan",
+  "sub_region": "marwar",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "herder",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean weathered face with deep sun lines",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair under his safa",
+    "facial_hair": "thick curled moustache",
+    "build": "lean",
+    "signature_mark": "small scar on his right cheekbone"
+  },
+  "wardrobe": [
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_angrakha_m",
+    "rj_festive_safa_m",
+    "rj_mojari",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Marwari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

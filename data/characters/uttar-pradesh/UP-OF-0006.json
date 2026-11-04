@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0006",
+  "name": "Priya Devi",
+  "region": "uttar-pradesh",
+  "sub_region": "braj",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with a soft jaw",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "up_cotton_saree_f",
+    "up_banarasi_f",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Braj Bhasha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

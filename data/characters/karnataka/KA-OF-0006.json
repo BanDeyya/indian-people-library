@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "KA-OF-0006",
+  "name": "Sowmya",
+  "region": "karnataka",
+  "sub_region": "kalyana",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ka_mysore_silk_f",
+    "ka_ilkal_f"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

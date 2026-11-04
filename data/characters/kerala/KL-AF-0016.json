@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0016",
+  "name": "Thahira Shihab",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 53,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "soft round face with full cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "hair covered by her headscarf",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "kl_churidar_hijab_f",
+    "kl_kuppayam_f",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

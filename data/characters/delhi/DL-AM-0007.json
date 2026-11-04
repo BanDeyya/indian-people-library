@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0007",
+  "name": "Rahul Kumar",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "broad sun-tanned face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "dl_festive_kurta_m",
+    "dl_shirt_trousers_m",
+    "dl_kurta_pyjama_m",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

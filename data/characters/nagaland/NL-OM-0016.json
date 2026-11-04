@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0016",
+  "name": "Yeangphong",
+  "region": "nagaland",
+  "sub_region": "eastern",
+  "community": "phom",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean weathered face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "wiry",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_trousers_m",
+    "nl_plain_shirt_m",
+    "nl_phom_henyu_m"
+  ],
+  "language": [
+    "Phom",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

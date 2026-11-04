@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "PY-AF-0010",
+  "name": "Jayanthi Arun",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "py_churidar_f",
+    "py_dress_f",
+    "py_silk_saree_f",
+    "py_thali",
+    "py_metti"
+  ],
+  "language": [
+    "Tamil",
+    "English",
+    "French (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

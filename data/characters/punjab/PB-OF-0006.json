@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0006",
+  "name": "Prabhjot Kaur",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair partly covered by a light chunni",
+    "build": "stocky",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_suit_head_f",
+    "pb_suit_f",
+    "pb_loyi_wrap"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

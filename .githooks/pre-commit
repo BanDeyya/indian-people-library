@@ -1,0 +1,4 @@
+#!/bin/sh
+# Blocks a commit if any staged file contains personal information.
+# Enable once per clone:  git config core.hooksPath .githooks
+exec uv run -q scripts/privacy_check.py --files-only

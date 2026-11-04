@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-OF-0018",
+  "name": "Ishrat Khatoon",
+  "region": "bihar",
+  "sub_region": "seemanchal",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "mithila_artist",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "br_festive_suit_f",
+    "br_salwar_f"
+  ],
+  "language": [
+    "Surjapuri",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

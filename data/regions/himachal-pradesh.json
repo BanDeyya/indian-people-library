@@ -1,0 +1,1409 @@
+{
+  "schema_version": 2,
+  "slug": "himachal-pradesh",
+  "code": "HP",
+  "name": "Himachal Pradesh",
+  "type": "state",
+  "zone": "north",
+  "capital": "Shimla (summer), Dharamshala (winter)",
+  "status": "reviewed",
+  "languages": [
+    "Hindi (official)",
+    "Sanskrit (second official)",
+    "Pahari dialects (Mandeali, Kulvi, Kangri, Chambeali)",
+    "Kinnauri",
+    "Gaddi",
+    "Bhoti"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 95.17,
+      "muslim": 2.18,
+      "sikh": 1.16,
+      "buddhist": 1.15,
+      "christian": 0.18,
+      "other": 0.16
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "shimla",
+      "name": "Shimla and the south-east",
+      "notes": "Shimla, Solan, Sirmaur; apple belt, hill towns."
+    },
+    {
+      "id": "kullu_mandi",
+      "name": "Kullu and Mandi",
+      "notes": "Kullu valley, Manali, Mandi; Kullu shawls, Kullu Dussehra, village deities (devtas)."
+    },
+    {
+      "id": "kangra",
+      "name": "Kangra and lower hills",
+      "notes": "Kangra, Hamirpur, Una, Bilaspur, Dharamshala; tea gardens, terraced fields."
+    },
+    {
+      "id": "chamba",
+      "name": "Chamba and Bharmour",
+      "notes": "Chamba valley and Bharmour; Gaddi homeland."
+    },
+    {
+      "id": "kinnaur",
+      "name": "Kinnaur",
+      "notes": "Sutlej valley below Kinner Kailash; Hindu and Buddhist Kinnaura villages, apple orchards."
+    },
+    {
+      "id": "lahaul_spiti",
+      "name": "Lahaul and Spiti",
+      "notes": "High cold desert; mostly Buddhist."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Pahari",
+      "religion": "hindu",
+      "prompt": "Himachali",
+      "notes": "Men: kurta with churidar and a woollen jacket, Himachali topi, shawl or muffler. Women: kurta with salwar or a flared ghagra, Kullu shawl; woollen pattu over a suit or saree in winter in Kullu, Mandi and Kinnaur; sindoor when married; chandrahaar and chakk at weddings.",
+      "names": {
+        "female": [
+          "Kritika",
+          "Sushma",
+          "Kamla",
+          "Anjali",
+          "Bimla",
+          "Reena",
+          "Sapna",
+          "Kanta",
+          "Meena",
+          "Neelam",
+          "Savitri",
+          "Shalu",
+          "Tripta",
+          "Uma",
+          "Indu",
+          "Sunita",
+          "Meera",
+          "Shakuntala",
+          "Rekha",
+          "Savita",
+          "Asha",
+          "Pushpa",
+          "Renu",
+          "Sarla",
+          "Kusum",
+          "Lata",
+          "Nisha",
+          "Poonam",
+          "Vandana",
+          "Kiran"
+        ],
+        "male": [
+          "Sanjay",
+          "Bhagat",
+          "Rajesh",
+          "Ansh",
+          "Puran",
+          "Ramesh",
+          "Hem",
+          "Lalit",
+          "Mohinder",
+          "Naresh",
+          "Tilak",
+          "Joginder",
+          "Kuldeep",
+          "Vipin",
+          "Pawan",
+          "Ashok",
+          "Vinod",
+          "Rakesh",
+          "Mohan",
+          "Anil",
+          "Satish",
+          "Prem",
+          "Jagdish",
+          "Sunil",
+          "Bhupender"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Ram",
+          "Chand",
+          "Kumar"
+        ]
+      }
+    },
+    {
+      "id": "gaddi",
+      "name": "Gaddi",
+      "culture": "Gaddi",
+      "religion": "hindu",
+      "prompt": "Gaddi",
+      "sub_regions": [
+        "chamba",
+        "kangra"
+      ],
+      "notes": "Pastoralists of Bharmour. Men: full-sleeved white wool chola with a long felted rope belt wound around the waist (worn today mostly by those still herding). Women: luanchari, a choli and long lehenga of 16-21 yards.",
+      "names": {
+        "female": [
+          "Bimla",
+          "Kamla",
+          "Bhagwati",
+          "Leela",
+          "Sushma",
+          "Kanta",
+          "Phoolan",
+          "Pushpa",
+          "Sita",
+          "Reeta",
+          "Ganga",
+          "Meena",
+          "Raksha",
+          "Santosh"
+        ],
+        "male": [
+          "Puran",
+          "Bhagat",
+          "Dharam",
+          "Prem",
+          "Kishan",
+          "Hans Raj",
+          "Sant Ram",
+          "Tilku",
+          "Bhagwan",
+          "Jai",
+          "Kartar",
+          "Gian",
+          "Ram Lal",
+          "Chuni"
+        ],
+        "second_male": [
+          "Ram",
+          "Chand"
+        ]
+      }
+    },
+    {
+      "id": "kinnaura",
+      "name": "Kinnaura",
+      "culture": "Kinnaura",
+      "prompt": "Kinnauri",
+      "sub_regions": [
+        "kinnaur"
+      ],
+      "notes": "Hindu and Buddhist. Men: woollen chamn kurti, long chhuba coat, sleeveless jacket, woollen churidar and the round thepang cap. Women: dark woollen dohru wrapped with an embroidered border to the heels, full-sleeved choli, colourful shawl, thepang.",
+      "names": {
+        "female": [
+          "Dolma",
+          "Sunita",
+          "Kamla",
+          "Indira",
+          "Anita",
+          "Tara",
+          "Sarla",
+          "Devi",
+          "Ranjana",
+          "Shanta",
+          "Sushma",
+          "Rekha",
+          "Jamuna",
+          "Asha"
+        ],
+        "male": [
+          "Devi Prakash",
+          "Jagat",
+          "Ramesh",
+          "Hira",
+          "Mohan",
+          "Bhagat",
+          "Nek Chand",
+          "Surat",
+          "Tashi",
+          "Dharam",
+          "Sher Singh",
+          "Ram",
+          "Gian",
+          "Ratan"
+        ]
+      }
+    },
+    {
+      "id": "buddhist",
+      "name": "Buddhist",
+      "culture": "Lahauli, Spitian and Tibetan",
+      "religion": "buddhist",
+      "sub_regions": [
+        "lahaul_spiti",
+        "kinnaur",
+        "kangra"
+      ],
+      "notes": "Spiti and Lahaul villages; Tibetan refugee community around Dharamshala. No characters yet."
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Himachali (incl. Gujjar pastoralists)",
+      "religion": "muslim",
+      "sub_regions": [
+        "chamba",
+        "kangra",
+        "shimla"
+      ],
+      "notes": "No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      2,
+      6
+    ],
+    "hair": "Black or dark brown hair.",
+    "notes": "Fair to wheatish; rosy, sun- and wind-marked cheeks common at altitude. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus Kumar, Devi, Chand, Ram or father's name; many surnames mark caste or clan (e.g. Thakur, Sharma, Negi, Rana); avoid them."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "hp_shirt_trousers_m",
+      "name": "Shirt, sweater and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "shirt with a sweater and trousers",
+      "short": "shirt, sweater and trousers",
+      "sources": []
+    },
+    {
+      "id": "hp_kurta_jacket_m",
+      "name": "Kurta, churidar and woollen jacket",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "kurta with churidar and a woollen jacket",
+      "short": "kurta, churidar and woollen jacket",
+      "sources": [
+        "aza_hp"
+      ]
+    },
+    {
+      "id": "hp_topi",
+      "name": "Himachali topi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "round grey woollen Himachali topi with a patterned border",
+      "short": "Himachali topi",
+      "sources": [
+        "aza_hp",
+        "wiki_himachali_cap"
+      ]
+    },
+    {
+      "id": "hp_shawl_m",
+      "name": "Kullu shawl (men)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "woollen Kullu shawl with a geometric border over the shoulders",
+      "short": "Kullu shawl",
+      "sources": [
+        "aza_hp",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "hp_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton kurta with pyjama and a sweater",
+      "short": "boy's kurta, pyjama and sweater",
+      "sources": []
+    },
+    {
+      "id": "hp_suit_f",
+      "name": "Kurta-salwar with shawl",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "kurta with salwar and a woollen shawl",
+      "short": "kurta, salwar and shawl",
+      "sources": [
+        "aza_hp",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "hp_ghagra_f",
+      "name": "Kurta with ghagra",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "kurta with a flared ghagra and a Kullu shawl",
+      "short": "kurta, flared ghagra and Kullu shawl",
+      "sources": [
+        "aza_hp",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "hp_pattu_f",
+      "name": "Pattu",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "winter"
+      ],
+      "representative": true,
+      "prompt": "handwoven woollen pattu wrap with a geometric border worn over the suit",
+      "short": "woollen pattu wrap",
+      "sources": [
+        "tribune_pattu",
+        "hpgs_district_dress"
+      ]
+    },
+    {
+      "id": "hp_modern_f",
+      "name": "Jeans and sweater",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "jeans with a long sweater",
+      "short": "jeans and sweater",
+      "sources": []
+    },
+    {
+      "id": "hp_chola_m",
+      "name": "Gaddi chola",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gaddi",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "full-sleeved white wool chola tied at the waist with a long felted rope belt in several turns",
+      "short": "white wool chola with rope belt",
+      "sources": [
+        "garland_chola",
+        "hpgs_district_dress"
+      ]
+    },
+    {
+      "id": "hp_luanchari_f",
+      "name": "Luanchari",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gaddi",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "luanchari: choli and long flared lehenga of the same fabric",
+      "short": "Gaddi luanchari",
+      "sources": [
+        "wiki_luanchari",
+        "hpgs_district_dress"
+      ]
+    },
+    {
+      "id": "hp_kinnaur_m",
+      "name": "Kinnauri chhuba and thepang",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kinnaura",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "long woollen chhuba coat over a woollen kurti with a sleeveless jacket and woollen churidar",
+      "short": "woollen chhuba coat and churidar",
+      "sources": [
+        "kinnaur_dress",
+        "hptours_kinnaur_dress",
+        "hpgs_district_dress"
+      ]
+    },
+    {
+      "id": "hp_dohru_f",
+      "name": "Kinnauri dohru and choli",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kinnaura",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "dark woollen dohru wrapped with an embroidered border running to the heels, full-sleeved choli and a colourful shawl",
+      "short": "dark woollen dohru, choli and shawl",
+      "sources": [
+        "kinnaur_dress",
+        "hptours_kinnaur_dress",
+        "hpgs_district_dress"
+      ]
+    },
+    {
+      "id": "hp_thepang",
+      "name": "Thepang (Kinnauri cap)",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kinnaura",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "round light grey woollen thepang cap with a green velvet band",
+      "short": "grey thepang with green velvet band",
+      "sources": [
+        "kinnaur_dress",
+        "wiki_himachali_cap"
+      ]
+    },
+    {
+      "id": "hp_winter_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "thick padded jacket",
+      "short": "padded jacket",
+      "sources": []
+    },
+    {
+      "id": "hp_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long kurta with full-length trousers and a sweater",
+      "short": "girl's kurta, trousers and sweater",
+      "sources": []
+    },
+    {
+      "id": "hp_kids_g_fest",
+      "name": "Girl's festive suit",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length kurta with churidar and a small shawl",
+      "short": "girl's long kurta and shawl",
+      "sources": []
+    },
+    {
+      "id": "hp_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "hp_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "hp_sindoor_gaddi",
+      "name": "Sindoor (Gaddi)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gaddi",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "hp_chandrahaar",
+      "name": "Chandrahaar",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "wedding_guest",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "large silver chandrahaar necklace",
+      "short": "silver chandrahaar",
+      "sources": [
+        "aza_hp"
+      ]
+    },
+    {
+      "id": "hp_nath",
+      "name": "Bridal nath",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "bridal"
+      ],
+      "restricted": true,
+      "prompt": "large gold nose ring decorated with pearls",
+      "short": "large pearl nath",
+      "sources": [
+        "aza_hp"
+      ]
+    },
+    {
+      "id": "hp_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "hp_suit_f"
+        ]
+      ],
+      "festive": [
+        [
+          "hp_ghagra_f",
+          "hp_chandrahaar"
+        ],
+        [
+          "hp_luanchari_f"
+        ],
+        [
+          "hp_dohru_f",
+          "hp_thepang"
+        ]
+      ],
+      "reason": "Kurta-salwar with shawl daily; kurta with ghagra and Kullu shawl for festivals; luanchari for Gaddi and dohru for Kinnaura women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "hp_shirt_trousers_m",
+          "hp_topi"
+        ]
+      ],
+      "festive": [
+        [
+          "hp_kurta_jacket_m",
+          "hp_topi"
+        ],
+        [
+          "hp_chola_m"
+        ],
+        [
+          "hp_kinnaur_m",
+          "hp_thepang"
+        ]
+      ],
+      "reason": "Topi with everyday clothes; kurta, churidar and jacket for festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "hp_suit_f",
+          "hp_pattu_f"
+        ]
+      ],
+      "festive": [
+        [
+          "hp_ghagra_f"
+        ]
+      ],
+      "reason": "Pattu in winter."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "hp_kurta_jacket_m",
+          "hp_topi"
+        ]
+      ],
+      "festive": [
+        [
+          "hp_kurta_jacket_m",
+          "hp_topi"
+        ]
+      ],
+      "reason": "Kurta, jacket and topi."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "hp_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "hp_kids_g_fest"
+        ]
+      ],
+      "reason": "Kurta with shawl."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "hp_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "hp_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "kullu_dussehra",
+      "name": "Kullu Dussehra",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "October (seven days, starting on Vijayadashami)",
+      "sub_regions": [
+        "kullu_mandi"
+      ],
+      "scene": "Kullu Dussehra on Dhalpur maidan, village deities in decorated palanquins and crowds pulling the chariot with ropes",
+      "scene_short": "Kullu Dussehra palanquins and chariot"
+    },
+    {
+      "id": "village_fair_hp",
+      "name": "Village fair (mela) of the local deity",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "gaddi",
+        "kinnaura"
+      ],
+      "when": "varies by village",
+      "scene": "village fair in the hills, the local deity's palanquin carried with drums and long horns",
+      "scene_short": "hill village fair with deity palanquin"
+    },
+    {
+      "id": "diwali_hp",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "gaddi"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, lamps on the steps of a slate-roofed house",
+      "scene_short": "Diwali lamps on a hill house"
+    },
+    {
+      "id": "wedding_guest_hp",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "mostly winter and spring",
+      "scene": "guests at a hill wedding in a village courtyard with drummers",
+      "scene_short": "hill wedding courtyard"
+    }
+  ],
+  "settings": [
+    {
+      "id": "shimla_mall",
+      "type": "urban",
+      "description": "Shimla's Mall Road with old colonial buildings on the ridge",
+      "short": "Shimla Mall Road",
+      "sub_regions": [
+        "shimla"
+      ]
+    },
+    {
+      "id": "kullu_town",
+      "type": "urban",
+      "description": "Kullu town by the Beas river with pine-covered hills",
+      "short": "Kullu town by the Beas",
+      "sub_regions": [
+        "kullu_mandi"
+      ]
+    },
+    {
+      "id": "dharamshala_street",
+      "type": "urban",
+      "description": "Dharamshala street with the Dhauladhar peaks behind",
+      "short": "Dharamshala, snowy peaks",
+      "sub_regions": [
+        "kangra"
+      ]
+    },
+    {
+      "id": "apple_orchard_hp",
+      "type": "rural",
+      "description": "apple orchard on a steep slope with snowy peaks behind",
+      "short": "hillside apple orchard",
+      "sub_regions": [
+        "shimla",
+        "kullu_mandi",
+        "kinnaur"
+      ]
+    },
+    {
+      "id": "terraced_hp",
+      "type": "rural",
+      "description": "terraced fields with slate-roofed stone houses",
+      "short": "terraced fields, slate roofs",
+      "sub_regions": [
+        "kangra",
+        "kullu_mandi",
+        "chamba",
+        "shimla"
+      ]
+    },
+    {
+      "id": "tea_garden_hp",
+      "type": "rural",
+      "description": "tea garden in the Kangra valley with mountains behind",
+      "short": "Kangra tea garden",
+      "sub_regions": [
+        "kangra"
+      ]
+    },
+    {
+      "id": "kinnaur_village",
+      "type": "rural",
+      "description": "Kinnaur village of wood-and-stone houses below snowy peaks",
+      "short": "Kinnaur wood-and-stone village",
+      "sub_regions": [
+        "kinnaur"
+      ]
+    },
+    {
+      "id": "high_pasture_hp",
+      "type": "rural",
+      "description": "high mountain pasture with a flock of sheep and goats",
+      "short": "high pasture with flock",
+      "sub_regions": [
+        "chamba",
+        "kangra"
+      ],
+      "communities": [
+        "gaddi"
+      ]
+    },
+    {
+      "id": "deodar_forest",
+      "type": "nature",
+      "description": "deodar forest on a misty mountainside",
+      "short": "misty deodar forest"
+    },
+    {
+      "id": "home_hill",
+      "type": "home",
+      "description": "wooden house verandah with carved railings and a slate roof",
+      "short": "carved wooden verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "home_city_hp",
+      "type": "home",
+      "description": "hillside apartment balcony with mountain views",
+      "short": "hillside balcony",
+      "lives_in": "urban"
+    },
+    {
+      "id": "office_hp",
+      "type": "work",
+      "description": "office in Shimla",
+      "short": "Shimla office",
+      "sub_regions": [
+        "shimla"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working on terraced fields"
+    },
+    {
+      "id": "apple_grower",
+      "name": "Apple grower",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "packing apples in an orchard"
+    },
+    {
+      "id": "shepherd",
+      "name": "Shepherd",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "herding sheep on a mountain slope"
+    },
+    {
+      "id": "weaver",
+      "name": "Shawl weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving a shawl on a wooden handloom"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    }
+  ],
+  "seasons": {
+    "winter": "Cold to very cold, snow at height (December-February): pattu, shawls, jackets.",
+    "summer": "Mild in the hills, hot in the lower areas.",
+    "monsoon": "July-September; landslide season."
+  },
+  "heritage": [
+    {
+      "id": "hill_courts",
+      "name": "Hill-state court dress (Chamba, Kullu, Bushahr, Kangra)",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "cap_colours",
+      "name": "Himachali cap band colours",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "hp_topi",
+        "hp_thepang"
+      ],
+      "reason": "Green and maroon bands have become signs of political loyalty; the general topi uses a patterned border, and the green band only on Kinnauri thepangs (the colour Kinnaur's district site says is most liked).",
+      "sources": [
+        "wiki_himachali_cap",
+        "kinnaur_dress"
+      ]
+    },
+    {
+      "id": "devta_roles",
+      "name": "Gur (oracle) and devta carriers' roles",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Ritual roles in village deity worship; characters are spectators and families.",
+      "sources": [
+        "sahapedia_kullu"
+      ]
+    },
+    {
+      "id": "bridal_nath",
+      "name": "Bridal nath",
+      "kind": "other",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "hp_nath"
+      ],
+      "reason": "Bridal jewellery; restricted.",
+      "sources": [
+        "aza_hp"
+      ]
+    }
+  ],
+  "avoid": [
+    "Political cap colours (green or maroon bands as party signs).",
+    "Tibetan political or exile imagery; monks as decoration.",
+    "Hill-station tourist or honeymoon cliches only.",
+    "Caste or clan surnames.",
+    "Gur (oracle) trance or animal-sacrifice scenes."
+  ],
+  "todo": [
+    "Lahaul, Spiti and Tibetan community dress with sources.",
+    "Muslim Gujjar and Sikh characters with sources.",
+    "Mandi Shivratri, Minjar, Phulaich, Losar, Lohri with sources.",
+    "Kullu women's traditional head scarf and ornaments with sources.",
+    "Native review (Kullu, Kinnaur, Chamba, Kangra)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Himachal Pradesh religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/2-himachal-pradesh.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_hp",
+      "title": "Himachal Pradesh heritage traditional style guide (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/himachal-pradesh-heritage-traditional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_himachali_cap",
+      "title": "Himachali cap (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Himachali_cap",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "tribune_pattu",
+      "title": "Kulvi attire: pattu (The Tribune)",
+      "url": "https://www.tribuneindia.com/news/himachal/kangana-hogs-limelight-with-kulvi-attire-611313",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "kinnaur_dress",
+      "title": "Dress (District Kinnaur, Government of Himachal Pradesh)",
+      "url": "https://hpkinnaur.nic.in/?p=2811",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_luanchari",
+      "title": "Luanchari (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Luanchari",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "garland_chola",
+      "title": "In search of the chola in the mountains of Himachal Pradesh (Garland Magazine)",
+      "url": "https://garlandmag.com/article/to-steal-a-golden-earring-in-search-of-the-chola-in-the-mountains-of-himachal-pradesh/",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "sahapedia_kullu",
+      "title": "Kullu Dussehra of Himachal Pradesh (Sahapedia)",
+      "url": "https://www.sahapedia.org/kullu-dussehra-of-himachal-pradesh-0",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "hptours_kinnaur_dress",
+      "title": "Dress of Kinnaur (Kinnaur district tourism, HP Tours)",
+      "url": "https://kinnaur.hptours.org/about/culture-beliefs/dress",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "hpgs_district_dress",
+      "title": "District-wise traditional dresses of Himachal Pradesh (HP General Studies)",
+      "url": "https://hpgeneralstudies.com/?p=16071",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_kullu_dussehra",
+      "title": "Kullu Dussehra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kullu_Dussehra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (2 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "1 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Confirmed: Kinnauri dohru wrapped with an embroidered border to the heels, full-sleeved choli, men's chhuba with a sleeveless jacket, woollen kurti and churidar, thepang cap with a coloured velvet band (green most liked) (HP Tours Kinnaur page and HP General Studies); Gaddi luanchari, wool chola tied with black rope, and pattu (HP General Studies); Kullu Dussehra starts on Vijayadashami and lasts seven days (Wikipedia).",
+      "Open: Wikipedia's Gaddi people page does not describe dress, so the Gaddi chola and luanchari rest on Garland, Wikipedia's luanchari page and HP General Studies."
+    ]
+  }
+}

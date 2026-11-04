@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0019",
+  "name": "Irfan Ahmad",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 56,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "narrow face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "up_kurta_pyjama_m",
+    "up_chikan_kurta_m",
+    "up_sherwani_m"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

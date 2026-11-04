@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0015",
+  "name": "Jahanara",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face with soft features",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "wb_tant_f",
+    "wb_jamdani_f"
+  ],
+  "language": [
+    "Bengali",
+    "Urdu (some)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

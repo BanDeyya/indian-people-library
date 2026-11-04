@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0003",
+  "name": "Ponnappa Somaiah",
+  "region": "karnataka",
+  "sub_region": "kodagu",
+  "community": "kodava",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 52,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "coffee_planter",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "strong square face with a straight nose",
+    "eyes": "brown eyes",
+    "hair": "short greying hair",
+    "facial_hair": "thick grey moustache",
+    "build": "tall and broad",
+    "signature_mark": "scar on his left hand"
+  },
+  "wardrobe": [
+    "ka_shirt_trousers_m",
+    "ka_kupya_m"
+  ],
+  "language": [
+    "Kodava",
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "notes": "Kupya shown without peeche kathi or odi kathi (see heritage)."
+}

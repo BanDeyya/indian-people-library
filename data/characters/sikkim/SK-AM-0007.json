@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0007",
+  "name": "Suresh Prasad",
+  "region": "sikkim",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 51,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "sk_daura_suruwal_m",
+    "sk_shirt_trousers_m",
+    "sk_tika",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

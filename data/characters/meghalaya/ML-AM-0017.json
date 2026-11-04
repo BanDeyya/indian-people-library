@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0017",
+  "name": "Chengran",
+  "region": "meghalaya",
+  "sub_region": "garo_hills",
+  "community": "garo",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m"
+  ],
+  "language": [
+    "Garo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

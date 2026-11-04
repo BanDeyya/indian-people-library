@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0014",
+  "name": "Sirisha",
+  "region": "telangana",
+  "sub_region": "hyderabad",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "strong",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ts_pochampally_f",
+    "ts_gollabama_f",
+    "ts_gadwal_f",
+    "ts_jasmine",
+    "ts_mangalsutra"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

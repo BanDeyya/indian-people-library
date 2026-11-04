@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0012",
+  "name": "Lata",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "fish_seller",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with a pointed chin",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "mh_nauvari_silk_f",
+    "mh_salwar_f",
+    "mh_modern_f",
+    "mh_paithani_f",
+    "mh_nath",
+    "mh_kolhapuri",
+    "mh_mangalsutra",
+    "mh_green_bangles"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

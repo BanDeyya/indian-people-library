@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0017",
+  "name": "Anju",
+  "region": "punjab",
+  "sub_region": "puadh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "pb_suit_f"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

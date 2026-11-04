@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0001",
+  "name": "Moumita",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "large dark eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "tr_modern_f",
+    "tr_tant_f",
+    "tr_laal_paar_f"
+  ],
+  "language": [
+    "Bengali",
+    "English",
+    "Kokborok (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

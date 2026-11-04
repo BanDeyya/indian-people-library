@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0019",
+  "name": "Zeenat",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "chikan_artisan",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with full cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "up_salwar_f",
+    "up_gharara_f",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "Awadhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

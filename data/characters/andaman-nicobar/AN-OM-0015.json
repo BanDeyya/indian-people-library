@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-OM-0015",
+  "name": "Sebastian",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "christian",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 77,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "stocky",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "an_shirt_trousers_m",
+    "an_smart_m",
+    "an_cross"
+  ],
+  "language": [
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "PB-AM-0005",
+  "name": "Harjeet Singh",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with a strong jaw and a straight nose",
+    "eyes": "dark eyes",
+    "hair": "unshorn hair tied under his turban",
+    "build": "athletic",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "full dark beard, neatly kept"
+  },
+  "wardrobe": [
+    "pb_dastar_m",
+    "pb_kada",
+    "pb_kurta_pajama_m",
+    "pb_kurta_tehmat_m"
+  ],
+  "always_wear": [
+    "pb_dastar_m",
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

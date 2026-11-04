@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0004",
+  "name": "Mamta",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "chikan_artisan",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "up_banarasi_f",
+    "up_cotton_saree_f",
+    "up_lehenga_f",
+    "up_sindoor",
+    "up_bichiya",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

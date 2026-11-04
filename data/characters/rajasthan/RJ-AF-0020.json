@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0020",
+  "name": "Radha",
+  "region": "rajasthan",
+  "sub_region": "vagad",
+  "community": "bhil",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "rj_ghagra_f",
+    "rj_silver_payal",
+    "rj_festive_ghagra_f",
+    "rj_bajuband"
+  ],
+  "language": [
+    "Wagdi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

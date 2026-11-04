@@ -1,0 +1,22 @@
+{
+  "id": "sd3",
+  "family": "sd3",
+  "description": "Stable Diffusion 3.x: CLIP + T5 encoders; T5 reads longer text. Token count is an estimate.",
+  "tokenizer": "approx",
+  "token_budget": 250,
+  "long_prompt": "native",
+  "max_chunks": 1,
+  "negatives": true,
+  "variant": "long",
+  "sizes": {
+    "portrait": [
+      1024,
+      1024
+    ],
+    "full": [
+      832,
+      1216
+    ]
+  },
+  "style": "realistic photo, natural light"
+}

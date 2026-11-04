@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AP-AF-0018",
+  "name": "Hemalatha Venkatesh",
+  "region": "andhra-pradesh",
+  "sub_region": "krishna_guntur",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 56,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ap_uppada_f",
+    "ap_mangalagiri_f",
+    "ap_jasmine",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

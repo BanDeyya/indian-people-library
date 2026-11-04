@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JK-OM-0020",
+  "name": "Mohammad Iqbal",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "gujjar_bakarwal",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "orchardist",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long weathered face with a hooked nose",
+    "eyes": "light brown eyes",
+    "hair": "white hair under his turban",
+    "build": "tall and wiry",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "long white beard"
+  },
+  "wardrobe": [
+    "jk_gujjar_m",
+    "jk_gujjar_pagh",
+    "jk_shirt_trousers_m"
+  ],
+  "language": [
+    "Gojri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "GA-AM-0006",
+  "name": "Mahesh Narayan",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "stocky",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_dhoti_m",
+    "ga_kurta_pyjama_m",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

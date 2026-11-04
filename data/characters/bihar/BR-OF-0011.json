@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "BR-OF-0011",
+  "name": "Lalita Devi",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "br_cotton_saree_f",
+    "br_bhagalpuri_f",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

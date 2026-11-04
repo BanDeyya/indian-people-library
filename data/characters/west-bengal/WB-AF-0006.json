@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "WB-AF-0006",
+  "name": "Moumita",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "bengali_hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with large expressive eyes",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "wb_laal_paar_f",
+    "wb_baluchari_f",
+    "wb_tant_f",
+    "wb_studs",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

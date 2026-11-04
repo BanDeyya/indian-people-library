@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0006",
+  "name": "Madan",
+  "region": "bihar",
+  "sub_region": "mithila",
+  "community": "maithil",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "silk_weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with a broad forehead",
+    "eyes": "dark eyes",
+    "hair": "short black hair, receding",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "br_kurta_pyjama_m",
+    "br_shirt_trousers_m",
+    "br_mithila_kurta_m",
+    "br_paag"
+  ],
+  "language": [
+    "Maithili",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

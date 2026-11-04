@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0001",
+  "name": "Chingmak Yangsi",
+  "region": "nagaland",
+  "sub_region": "eastern",
+  "community": "phom",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean weathered face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "wiry",
+    "signature_mark": "scar on his right eyebrow"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_trousers_m",
+    "nl_phom_henyu_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Phom",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

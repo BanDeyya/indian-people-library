@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OM-0007",
+  "name": "Bhagirath",
+  "region": "rajasthan",
+  "sub_region": "dhundhar",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean weathered face with deep sun lines",
+    "eyes": "brown eyes",
+    "hair": "white hair under his safa",
+    "build": "thin",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "large white moustache"
+  },
+  "wardrobe": [
+    "rj_angrakha_m",
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_festive_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Mewari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-AF-0012",
+  "name": "Rubina",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a low bun",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "mn_phanek_f",
+    "mn_phanek_innaphi_f",
+    "mn_velvet_jacket_f"
+  ],
+  "language": [
+    "Meiteilon",
+    "Urdu (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

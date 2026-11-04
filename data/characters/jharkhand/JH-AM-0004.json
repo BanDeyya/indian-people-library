@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0004",
+  "name": "Somra Purty",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "adivasi",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "scar above his left eyebrow"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_dhoti_kurta_m",
+    "jh_sarhul_m"
+  ],
+  "language": [
+    "Mundari",
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0015",
+  "name": "Satbir",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_dhoti_kurta_m",
+    "hr_pagri",
+    "hr_chaddar"
+  ],
+  "language": [
+    "Ahirwati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0001",
+  "name": "Bishal",
+  "region": "sikkim",
+  "sub_region": "gangtok",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his right eyebrow"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_daura_suruwal_m",
+    "sk_tika",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

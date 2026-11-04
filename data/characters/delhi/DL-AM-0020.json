@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0020",
+  "name": "Navdeep Singh",
+  "region": "delhi",
+  "sub_region": "south",
+  "community": "sikh",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "unshorn hair tied under his turban",
+    "build": "heavy",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "full greying beard, neatly kept"
+  },
+  "wardrobe": [
+    "dl_dastar_m",
+    "dl_kara",
+    "dl_shirt_trousers_m",
+    "dl_kurta_pyjama_m"
+  ],
+  "always_wear": [
+    "dl_dastar_m",
+    "dl_kara"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MN-AM-0016",
+  "name": "Hormi",
+  "region": "manipur",
+  "sub_region": "north_hills",
+  "community": "tangkhul",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "mn_smart_m",
+    "mn_shirt_trousers_m",
+    "mn_haora_m"
+  ],
+  "language": [
+    "Tangkhul",
+    "Meiteilon",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

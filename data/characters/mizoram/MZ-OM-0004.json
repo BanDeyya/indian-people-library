@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MZ-OM-0004",
+  "name": "Lalrinsanga",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "mz_smart_m",
+    "mz_shirt_trousers_m",
+    "mz_pawndum",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

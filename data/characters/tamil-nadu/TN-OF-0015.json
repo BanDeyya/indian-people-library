@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-OF-0015",
+  "name": "Deepa Kumaran",
+  "region": "tamil-nadu",
+  "sub_region": "kongu_nadu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a small knot",
+    "build": "thin",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "tn_chettinad_f",
+    "tn_sungudi_f",
+    "tn_kanjeevaram_f",
+    "tn_jhumka"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

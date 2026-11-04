@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0001",
+  "name": "Padma Angmo",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "buddhist",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round weathered face with deep laugh lines, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "grey hair in long plaits",
+    "build": "small",
+    "signature_mark": "small dark mole on her forehead"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_sulma_f",
+    "la_slogpa_f",
+    "la_tibi",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

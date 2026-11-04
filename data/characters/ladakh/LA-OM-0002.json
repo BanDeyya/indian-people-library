@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LA-OM-0002",
+  "name": "Mohammad Baqir",
+  "region": "ladakh",
+  "sub_region": "kargil",
+  "community": "kargil_muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "narrow weathered face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "facial_hair": "full white beard",
+    "build": "thin",
+    "signature_mark": "scar on the back of his right hand"
+  },
+  "wardrobe": [
+    "la_choga_m",
+    "la_modern_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Purgi",
+    "Balti",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

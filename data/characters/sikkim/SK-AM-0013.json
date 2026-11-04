@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0013",
+  "name": "Krishna",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "sk_daura_suruwal_m",
+    "sk_shirt_trousers_m",
+    "sk_tika",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

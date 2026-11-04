@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0017",
+  "name": "Kanta Devi",
+  "region": "rajasthan",
+  "sub_region": "hadoti",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "brown eyes",
+    "hair": "long black hair with grey streaks under her odhni",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "rj_poshak_f",
+    "rj_ghagra_f",
+    "rj_bichiya",
+    "rj_silver_payal",
+    "rj_studs"
+  ],
+  "language": [
+    "Mewari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

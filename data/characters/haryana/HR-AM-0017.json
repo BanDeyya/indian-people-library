@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0017",
+  "name": "Ankit",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "hr_kurta_pyjama_m",
+    "hr_shirt_trousers_m",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Ahirwati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

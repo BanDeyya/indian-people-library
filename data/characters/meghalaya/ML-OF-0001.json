@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "ML-OF-0001",
+  "name": "Philomena",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole on her forehead"
+  },
+  "wardrobe": [
+    "ml_jainsem_f",
+    "ml_jainkup_f",
+    "ml_silk_jainsem_f"
+  ],
+  "language": [
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

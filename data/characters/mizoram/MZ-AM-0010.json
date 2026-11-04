@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AM-0010",
+  "name": "Vanlalhruaia",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "musician",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "mz_shirt_trousers_m",
+    "mz_smart_m",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Lai",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

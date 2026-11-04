@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0017",
+  "name": "Sameer",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "narrow face with a sharp nose",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short trimmed beard"
+  },
+  "wardrobe": [
+    "kl_kurta_mundu_m",
+    "kl_mundu_shirt_m",
+    "kl_thalangara_thoppi"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

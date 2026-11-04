@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0003",
+  "name": "Antony Selvaraj",
+  "region": "tamil-nadu",
+  "sub_region": "pandya_nadu",
+  "community": "christian",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "lean face with sharp cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "facial_hair": "short beard",
+    "build": "athletic",
+    "signature_mark": "thin scar on his left forearm"
+  },
+  "wardrobe": [
+    "tn_fisher_m",
+    "tn_veshti_sattai_m",
+    "tn_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

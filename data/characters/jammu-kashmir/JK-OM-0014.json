@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JK-OM-0014",
+  "name": "Anil Kumar",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "dogra",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "stocky",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "jk_shirt_trousers_m",
+    "jk_kurta_pyjama_m",
+    "jk_dogra_m",
+    "jk_winter_jacket"
+  ],
+  "language": [
+    "Dogri",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0018",
+  "name": "Jayanti",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "strong",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "od_modern_f",
+    "od_cotton_saree_f",
+    "od_bomkai_f"
+  ],
+  "language": [
+    "Odia",
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

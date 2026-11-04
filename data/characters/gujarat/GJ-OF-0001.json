@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OF-0001",
+  "name": "Shantaben Ramabhai",
+  "region": "gujarat",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "small dark mole on her chin"
+  },
+  "wardrobe": [
+    "gj_saree_f",
+    "gj_bandhani_saree_f",
+    "gj_sindoor"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

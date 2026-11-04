@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "SK-AF-0014",
+  "name": "Rita",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "sk_pharia_f",
+    "sk_kurta_f",
+    "sk_tika",
+    "sk_winter_jacket",
+    "sk_sindoor"
+  ],
+  "language": [
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

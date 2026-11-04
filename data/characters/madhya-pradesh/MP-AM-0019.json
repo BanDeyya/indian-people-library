@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MP-AM-0019",
+  "name": "Thavra",
+  "region": "madhya-pradesh",
+  "sub_region": "nimar",
+  "community": "bhil",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short black hair neatly combed",
+    "build": "average",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "mp_shirt_trousers_m",
+    "mp_dhoti_kurta_m",
+    "mp_mirzai"
+  ],
+  "language": [
+    "Bhili",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

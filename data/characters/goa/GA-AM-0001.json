@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-AM-0001",
+  "name": "Vinayak",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his right eyebrow",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_kurta_pyjama_m",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

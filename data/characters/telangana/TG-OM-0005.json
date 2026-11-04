@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-OM-0005",
+  "name": "Chandra",
+  "region": "telangana",
+  "sub_region": "hyderabad",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

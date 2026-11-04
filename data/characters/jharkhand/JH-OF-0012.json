@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0012",
+  "name": "Babita",
+  "region": "jharkhand",
+  "sub_region": "palamu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "jh_tussar_f",
+    "jh_cotton_saree_f"
+  ],
+  "language": [
+    "Hindi",
+    "Angika"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

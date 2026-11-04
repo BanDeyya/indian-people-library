@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0016",
+  "name": "Subhashree Dhaneswar",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "od_sambalpuri_f",
+    "od_modern_f",
+    "od_salwar_f",
+    "od_bomkai_f",
+    "od_alta"
+  ],
+  "language": [
+    "Odia",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

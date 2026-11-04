@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0019",
+  "name": "Zubair",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "uk_shirt_trousers_m",
+    "uk_kurta_pyjama_m",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

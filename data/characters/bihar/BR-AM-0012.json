@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0012",
+  "name": "Ganesh Prasad",
+  "region": "bihar",
+  "sub_region": "bhojpur",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "br_kurta_pyjama_m",
+    "br_dhoti_kurta_m"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

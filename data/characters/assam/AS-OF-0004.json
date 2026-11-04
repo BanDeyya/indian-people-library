@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-OF-0004",
+  "name": "Pranami",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "assamese",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "tea_plucker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a low bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "as_mekhela_chador_f",
+    "as_muga_f",
+    "as_gold_set"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

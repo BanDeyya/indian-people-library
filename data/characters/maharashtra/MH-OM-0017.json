@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-OM-0017",
+  "name": "Milind",
+  "region": "maharashtra",
+  "sub_region": "mumbai",
+  "community": "buddhist",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Marathi",
+    "Varhadi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

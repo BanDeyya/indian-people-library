@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0014",
+  "name": "Kinjal Mehul",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "gj_bandhani_saree_f",
+    "gj_salwar_f",
+    "gj_sindoor"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

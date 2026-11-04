@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0001",
+  "name": "Shruti",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "ga_modern_f",
+    "ga_saree_f",
+    "ga_silk_saree_f",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

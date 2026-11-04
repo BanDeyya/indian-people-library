@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0007",
+  "name": "Dinesh",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined oval face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin, slightly stooped",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dl_kurta_pyjama_m",
+    "dl_nehru_jacket",
+    "dl_shawl",
+    "dl_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

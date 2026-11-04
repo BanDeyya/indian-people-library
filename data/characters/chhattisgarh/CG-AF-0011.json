@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CG-AF-0011",
+  "name": "Phoolbasan Bai",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "cg_lugda_f",
+    "cg_kosa_f",
+    "cg_sindoor",
+    "cg_bichiya",
+    "cg_painjan"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

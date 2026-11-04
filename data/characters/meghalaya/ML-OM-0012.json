@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "ML-OM-0012",
+  "name": "Banjop",
+  "region": "meghalaya",
+  "sub_region": "jaintia_hills",
+  "community": "pnar",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m",
+    "ml_kyrshah_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Pnar",
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

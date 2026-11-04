@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0018",
+  "name": "Wangsha",
+  "region": "nagaland",
+  "sub_region": "mon",
+  "community": "konyak",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a short nose, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_trousers_m",
+    "nl_plain_shirt_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Konyak",
+    "Nagamese",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "CH-AM-0009",
+  "name": "Kewal Mohit",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 49,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lined oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "thin",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ch_kurta_pajama_m",
+    "ch_saluka_m",
+    "ch_winter_jacket",
+    "ch_shirt_jeans_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

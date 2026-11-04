@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AS-OM-0005",
+  "name": "Dhruba",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with high cheekbones and slightly narrow eyes",
+    "eyes": "brown eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "as_dhoti_kurta_m",
+    "as_white_wrap_m",
+    "as_gamosa"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

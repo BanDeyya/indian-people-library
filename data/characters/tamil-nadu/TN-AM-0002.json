@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0002",
+  "name": "Arun Kumar",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face with a pointed chin",
+    "eyes": "brown eyes",
+    "hair": "short wavy black hair",
+    "facial_hair": "light beard",
+    "build": "lean",
+    "signature_mark": "small mole under his left eye"
+  },
+  "wardrobe": [
+    "tn_shirt_trousers_m",
+    "tn_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "KA-OF-0005",
+  "name": "Leela Mahesh",
+  "region": "karnataka",
+  "sub_region": "kittur",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 80,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ka_mysore_silk_f",
+    "ka_ilkal_f"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

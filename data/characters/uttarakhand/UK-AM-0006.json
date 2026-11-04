@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0006",
+  "name": "Gabbar",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "garhwali",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 61,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square weathered face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean and strong",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "uk_kurta_sadri_m",
+    "uk_shirt_trousers_m",
+    "uk_topi"
+  ],
+  "language": [
+    "Garhwali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

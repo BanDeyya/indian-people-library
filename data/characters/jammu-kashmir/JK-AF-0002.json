@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0002",
+  "name": "Shazia Akhtar",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "dark hair under a dupatta",
+    "build": "average",
+    "signature_mark": "small birthmark on her left wrist"
+  },
+  "wardrobe": [
+    "jk_salwar_f",
+    "jk_pheran_f",
+    "jk_tilla_pheran_f"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

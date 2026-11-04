@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-OM-0005",
+  "name": "Bapi",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "bengali_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "an_shirt_trousers_m",
+    "an_dhoti_panjabi_m",
+    "an_lungi_m"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

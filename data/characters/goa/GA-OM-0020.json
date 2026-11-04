@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GA-OM-0020",
+  "name": "Inacio",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "gawda",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "strong lined face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_kurta_pyjama_m"
+  ],
+  "language": [
+    "Konkani"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

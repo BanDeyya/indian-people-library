@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0004",
+  "name": "Nazia",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "medium",
+    "signature_mark": "small dimple on her chin"
+  },
+  "wardrobe": [
+    "ga_suit_head_f",
+    "ga_festive_suit_f",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

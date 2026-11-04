@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "JK-AM-0011",
+  "name": "Aqib",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "square face",
+    "eyes": "light brown eyes",
+    "hair": "short black hair",
+    "build": "strong",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "jk_shirt_trousers_m",
+    "jk_pheran_m",
+    "jk_winter_jacket"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

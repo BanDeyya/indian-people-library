@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0003",
+  "name": "Shamim Akhtar",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "thin",
+    "signature_mark": "mole on his forehead"
+  },
+  "wardrobe": [
+    "jh_kurta_pyjama_m",
+    "jh_shirt_trousers_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "Khortha"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

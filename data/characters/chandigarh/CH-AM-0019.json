@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "id": "CH-AM-0019",
+  "name": "Lakhwinder Singh",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "sikh",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 56,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "unshorn hair tied under his turban",
+    "build": "heavy",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "full greying beard, neatly kept"
+  },
+  "wardrobe": [
+    "ch_dastar_m",
+    "ch_kara",
+    "ch_kurta_pajama_m",
+    "ch_shirt_jeans_m",
+    "ch_winter_jacket"
+  ],
+  "always_wear": [
+    "ch_dastar_m",
+    "ch_kara"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

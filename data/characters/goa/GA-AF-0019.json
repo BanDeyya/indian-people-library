@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0019",
+  "name": "Sadia Parveen",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "medium",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ga_suit_head_f",
+    "ga_festive_suit_f",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0017",
+  "name": "Usha",
+  "region": "chandigarh",
+  "sub_region": "villages",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 57,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "college_student",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "ch_saree_f",
+    "ch_suit_f",
+    "ch_sindoor",
+    "ch_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Bhojpuri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

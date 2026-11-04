@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0002",
+  "name": "Sanjay Kumar",
+  "region": "himachal-pradesh",
+  "sub_region": "kullu_mandi",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "long face",
+    "eyes": "hazel-brown eyes",
+    "hair": "short side-parted brown-black hair",
+    "facial_hair": "short beard",
+    "build": "lean",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "hp_shirt_trousers_m",
+    "hp_topi",
+    "hp_kurta_jacket_m",
+    "hp_winter_jacket"
+  ],
+  "language": [
+    "Mandeali",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-OM-0004",
+  "name": "Arun",
+  "region": "west-bengal",
+  "sub_region": "kolkata",
+  "community": "bengali_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean face with sharp cheekbones",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "wb_dhoti_panjabi_m",
+    "wb_lungi_m",
+    "wb_gamcha",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

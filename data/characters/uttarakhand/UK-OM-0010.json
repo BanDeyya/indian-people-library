@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UK-OM-0010",
+  "name": "Mahesh Dutt",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "uk_kurta_sadri_m",
+    "uk_shirt_trousers_m"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

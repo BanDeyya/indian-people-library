@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AN-AM-0019",
+  "name": "Matthew",
+  "region": "andaman-nicobar",
+  "sub_region": "nicobar",
+  "community": "nicobarese",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad weathered face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "an_smart_m",
+    "an_nicobar_m",
+    "an_cross_nc"
+  ],
+  "language": [
+    "Nicobarese",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0005",
+  "name": "Rina Arun",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "bengali_hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "an_laal_paar_f",
+    "an_tant_f"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

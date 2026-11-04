@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0003",
+  "name": "Abdul Kareem",
+  "region": "telangana",
+  "sub_region": "hyderabad",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with a straight nose",
+    "eyes": "brown eyes",
+    "hair": "short greying hair",
+    "facial_hair": "trimmed grey beard",
+    "build": "heavyset",
+    "signature_mark": "mole on his left temple"
+  },
+  "wardrobe": [
+    "ts_kurta_pyjama_m",
+    "ts_shirt_trousers_m"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Telugu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

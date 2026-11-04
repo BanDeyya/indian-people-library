@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AS-OM-0004",
+  "name": "Rituparna",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with high cheekbones and slightly narrow eyes",
+    "eyes": "brown eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "as_dhoti_kurta_m",
+    "as_white_wrap_m"
+  ],
+  "language": [
+    "Assamese",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

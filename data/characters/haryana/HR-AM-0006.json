@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0006",
+  "name": "Jagdish",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_kurta_pyjama_m",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Ahirwati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

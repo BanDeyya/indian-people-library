@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AS-AM-0001",
+  "name": "Pranjal",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "assamese",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with high cheekbones and slightly narrow eyes",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair, side-parted",
+    "facial_hair": "thin moustache",
+    "build": "average",
+    "signature_mark": "small pale scar on his chin"
+  },
+  "wardrobe": [
+    "as_shirt_m",
+    "as_dhoti_kurta_m",
+    "as_gamosa",
+    "as_bihu_head_m"
+  ],
+  "language": [
+    "Assamese",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

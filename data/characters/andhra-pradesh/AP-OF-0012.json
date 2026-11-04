@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-OF-0012",
+  "name": "Sahithi Kiran",
+  "region": "andhra-pradesh",
+  "sub_region": "uttarandhra",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ap_uppada_f",
+    "ap_mangalagiri_f",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

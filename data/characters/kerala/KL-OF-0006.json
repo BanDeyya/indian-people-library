@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "KL-OF-0006",
+  "name": "Saritha Ajith",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "fish_vendor",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "kl_kasavu_saree_f",
+    "kl_set_mundu_f",
+    "kl_jimikki",
+    "kl_cotton_saree_f",
+    "kl_mookuthi",
+    "kl_temple_flowers",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

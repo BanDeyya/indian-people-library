@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-OM-0001",
+  "name": "Bhagwan Das",
+  "region": "uttar-pradesh",
+  "sub_region": "bundelkhand",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "facial_hair": "white moustache",
+    "build": "wiry",
+    "signature_mark": "mole on his right cheek"
+  },
+  "wardrobe": [
+    "up_dhoti_kurta_m",
+    "up_chikan_kurta_m",
+    "up_pagri"
+  ],
+  "language": [
+    "Bundeli",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

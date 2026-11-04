@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0009",
+  "name": "Pooja",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with deep lines",
+    "eyes": "dark brown eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "hr_suit_f",
+    "hr_festive_suit_f",
+    "hr_daaman_f",
+    "hr_sindoor",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

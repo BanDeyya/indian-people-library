@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0019",
+  "name": "Lakshmi",
+  "region": "odisha",
+  "sub_region": "northern",
+  "community": "santal",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun with a flower",
+    "build": "strong",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "od_santali_f",
+    "od_cotton_saree_f"
+  ],
+  "language": [
+    "Santali",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

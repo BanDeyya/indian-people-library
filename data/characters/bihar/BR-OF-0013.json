@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "BR-OF-0013",
+  "name": "Sangeeta",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "br_cotton_saree_f",
+    "br_bhagalpuri_f"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

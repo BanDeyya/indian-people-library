@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JK-OF-0015",
+  "name": "Renu Devi",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "dogra",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "strong",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "jk_dogra_f",
+    "jk_salwar_f",
+    "jk_winter_jacket"
+  ],
+  "language": [
+    "Dogri",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

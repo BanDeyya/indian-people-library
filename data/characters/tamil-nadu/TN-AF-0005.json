@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0005",
+  "name": "Ayesha Rahman",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "hair covered by her headscarf",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "tn_abaya_f",
+    "tn_thuppatti_f",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil",
+    "Urdu (some)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

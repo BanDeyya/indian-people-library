@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AS-OM-0016",
+  "name": "Rajib",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "mising",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with full cheeks and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "as_dhoti_kurta_m",
+    "as_gamosa",
+    "as_white_wrap_m",
+    "as_mibu_galuk_m",
+    "as_gadu_galuk_m"
+  ],
+  "language": [
+    "Mising",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

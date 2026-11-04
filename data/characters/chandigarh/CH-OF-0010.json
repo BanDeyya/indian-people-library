@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "CH-OF-0010",
+  "name": "Meenu",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "light brown eyes behind glasses",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "ch_phulkari_f",
+    "ch_suit_f",
+    "ch_sindoor_pb"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

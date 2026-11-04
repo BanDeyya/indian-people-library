@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0014",
+  "name": "Naresh",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "boatman",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair greying at the sides",
+    "build": "average",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "up_shirt_trousers_m",
+    "up_chikan_kurta_m"
+  ],
+  "language": [
+    "Braj Bhasha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

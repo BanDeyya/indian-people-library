@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MZ-OM-0017",
+  "name": "Zothanmawia",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "mz_smart_m",
+    "mz_shirt_trousers_m",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0007",
+  "name": "Shalini",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small and thin",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_silk_saree_f",
+    "ga_sindoor",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

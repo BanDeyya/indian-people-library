@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "GA-OM-0003",
+  "name": "Ramesh Ganesh",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 82,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_dhoti_m"
+  ],
+  "language": [
+    "Konkani"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

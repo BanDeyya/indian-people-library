@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0008",
+  "name": "Sonia",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "soft round face",
+    "eyes": "dark brown eyes",
+    "hair": "shoulder-length black hair",
+    "build": "medium",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ch_modern_f",
+    "ch_phulkari_f",
+    "ch_suit_f",
+    "ch_sindoor_pb",
+    "ch_winter_jacket"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

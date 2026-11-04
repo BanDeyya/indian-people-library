@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0007",
+  "name": "Pratap Suresh",
+  "region": "rajasthan",
+  "sub_region": "dhundhar",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean weathered face with deep sun lines",
+    "eyes": "brown eyes",
+    "hair": "short neat black hair",
+    "build": "lean",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "rj_shirt_trousers_m",
+    "rj_dhoti_kurta_m",
+    "rj_bandhgala_m",
+    "rj_safa_m",
+    "rj_mojari",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

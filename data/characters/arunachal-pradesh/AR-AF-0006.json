@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AR-AF-0006",
+  "name": "Dolma",
+  "region": "arunachal-pradesh",
+  "sub_region": "west",
+  "community": "monpa",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ar_monpa_f",
+    "ar_winter_jacket",
+    "ar_skirt_f"
+  ],
+  "language": [
+    "Monpa",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

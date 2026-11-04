@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0001",
+  "name": "Bhavesh",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "weathered square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his right eyebrow",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dd_fisher_m",
+    "dd_shirt_trousers_m",
+    "dd_kurta_m"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

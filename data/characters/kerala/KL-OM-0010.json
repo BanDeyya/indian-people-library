@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KL-OM-0010",
+  "name": "Harikrishnan Biju",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "thin white hair, balding on top",
+    "build": "thin",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "kl_kasavu_mundu_m",
+    "kl_melmundu_m",
+    "kl_mundu_shirt_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

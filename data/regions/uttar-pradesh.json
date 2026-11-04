@@ -1,0 +1,1533 @@
+{
+  "schema_version": 2,
+  "slug": "uttar-pradesh",
+  "code": "UP",
+  "name": "Uttar Pradesh",
+  "type": "state",
+  "zone": "north",
+  "capital": "Lucknow",
+  "status": "reviewed",
+  "languages": [
+    "Hindi (official)",
+    "Urdu",
+    "Awadhi",
+    "Bhojpuri",
+    "Braj Bhasha",
+    "Bundeli",
+    "Kannauji",
+    "Khari Boli",
+    "Tharu"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 79.73,
+      "muslim": 19.26,
+      "sikh": 0.32,
+      "christian": 0.18,
+      "jain": 0.11,
+      "buddhist": 0.1,
+      "other": 0.3
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "awadh",
+      "name": "Awadh",
+      "notes": "Lucknow, Ayodhya, Barabanki, Rae Bareli and nearby: Nawabi heritage, chikankari, Awadhi language."
+    },
+    {
+      "id": "purvanchal",
+      "name": "Purvanchal (eastern UP)",
+      "notes": "Varanasi, Gorakhpur, Ghazipur, Ballia, Azamgarh, Prayagraj and nearby: Bhojpuri belt, ghats, Banarasi weaving, Chhath."
+    },
+    {
+      "id": "braj",
+      "name": "Braj",
+      "notes": "Mathura, Vrindavan, Barsana, Agra side: Braj Bhasha, Krishna traditions, Holi."
+    },
+    {
+      "id": "rohilkhand",
+      "name": "Rohilkhand",
+      "notes": "Bareilly, Rampur, Moradabad, Shahjahanpur: Rampur music tradition, Moradabad brassware."
+    },
+    {
+      "id": "western",
+      "name": "Western UP (Doab and NCR)",
+      "notes": "Meerut, Ghaziabad, Noida, Saharanpur, Muzaffarnagar, Aligarh: sugarcane and wheat belt, Khari Boli, NCR cities."
+    },
+    {
+      "id": "bundelkhand",
+      "name": "Bundelkhand",
+      "notes": "Jhansi, Lalitpur, Banda, Chitrakoot, Mahoba: rocky dry land, forts, Bundeli, Diwari folk dance."
+    },
+    {
+      "id": "terai",
+      "name": "Terai",
+      "notes": "Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Pilibhit along the Nepal border: forests and Tharu villages."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Uttar Pradesh",
+      "religion": "hindu",
+      "notes": "Men: kurta-pyjama or shirt-trousers; dhoti-kurta in villages; gamchha over the shoulder in Purvanchal; sherwani and pagri for weddings. Women: cotton saree or salwar-kameez daily; Banarasi saree, chikankari suit or lehenga/ghagra-choli with odhni for festivals; sindoor and toe rings when married.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Pooja",
+          "Neha",
+          "Priya",
+          "Anjali",
+          "Kavita",
+          "Rekha",
+          "Seema",
+          "Ritu",
+          "Shalini",
+          "Kiran",
+          "Meena",
+          "Sarita",
+          "Asha",
+          "Komal",
+          "Nisha",
+          "Radha",
+          "Usha",
+          "Mamta",
+          "Suman",
+          "Preeti",
+          "Archana",
+          "Vandana",
+          "Jyoti",
+          "Poonam",
+          "Sapna",
+          "Renu",
+          "Deepa",
+          "Aarti",
+          "Shweta"
+        ],
+        "male": [
+          "Rajesh",
+          "Sunil",
+          "Amit",
+          "Rahul",
+          "Manoj",
+          "Sanjay",
+          "Vijay",
+          "Ravi",
+          "Deepak",
+          "Ajay",
+          "Ashok",
+          "Rakesh",
+          "Pankaj",
+          "Rohit",
+          "Vikas",
+          "Anil",
+          "Dinesh",
+          "Suresh",
+          "Mukesh",
+          "Naresh",
+          "Ramesh",
+          "Satish",
+          "Arun",
+          "Alok",
+          "Nitin",
+          "Sachin",
+          "Gaurav",
+          "Vivek",
+          "Manish",
+          "Yogesh"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Kumar",
+          "Prasad"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Uttar Pradesh",
+      "religion": "muslim",
+      "prompt": "Muslim",
+      "notes": "Men: kurta-pyjama, Lucknowi chikankari kurta, sherwani for weddings. Women: salwar-kameez with dupatta daily; gharara (short kurti, dupatta, wide flared trousers) for weddings, a Lucknow tradition.",
+      "names": {
+        "female": [
+          "Rukhsana",
+          "Nazia",
+          "Shabana",
+          "Farzana",
+          "Ayesha",
+          "Nasreen",
+          "Shaheen",
+          "Sana",
+          "Rubina",
+          "Zainab",
+          "Fatima",
+          "Hina",
+          "Parveen",
+          "Asma",
+          "Shabnam",
+          "Nargis",
+          "Sadia",
+          "Zeenat",
+          "Tabassum",
+          "Kausar",
+          "Afsana",
+          "Gulshan",
+          "Nusrat",
+          "Rehana",
+          "Ishrat",
+          "Shagufta",
+          "Mehnaz",
+          "Saba",
+          "Bushra",
+          "Huma"
+        ],
+        "male": [
+          "Imran",
+          "Arif",
+          "Salim",
+          "Shahid",
+          "Irfan",
+          "Javed",
+          "Rashid",
+          "Aslam",
+          "Faisal",
+          "Naseem",
+          "Sajid",
+          "Tariq",
+          "Wasim",
+          "Zubair",
+          "Rizwan",
+          "Salman",
+          "Zafar",
+          "Anwar",
+          "Nadeem",
+          "Shakeel",
+          "Asif",
+          "Kamran",
+          "Iqbal"
+        ],
+        "second_female": [
+          "Parveen",
+          "Khatoon",
+          "Bano"
+        ],
+        "second_male": [
+          "Ahmad",
+          "Ali",
+          "Hussain",
+          "Akhtar"
+        ]
+      }
+    },
+    {
+      "id": "tharu",
+      "name": "Tharu",
+      "culture": "Tharu",
+      "prompt": "Tharu",
+      "sub_regions": [
+        "terai"
+      ],
+      "notes": "Scheduled Tribe of the Terai. Women's ghaghra-choli and angia decorated with bright geometric appliqué, sometimes with shells and mirrors.",
+      "names": {
+        "female": [
+          "Phoolmati",
+          "Rajkumari",
+          "Sushila",
+          "Sunita",
+          "Kalawati",
+          "Ramrati",
+          "Shanti",
+          "Champa",
+          "Radha",
+          "Geeta",
+          "Lalmati",
+          "Kamla",
+          "Savitri",
+          "Rekha"
+        ],
+        "male": [
+          "Ramdeen",
+          "Shivram",
+          "Raju",
+          "Bhulai",
+          "Sohan",
+          "Mangal",
+          "Radheshyam",
+          "Chhotelal",
+          "Ramesh",
+          "Rajaram",
+          "Babulal",
+          "Santram",
+          "Lallan",
+          "Prem"
+        ]
+      }
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "culture": "Uttar Pradesh",
+      "religion": "sikh",
+      "sub_regions": [
+        "terai",
+        "western"
+      ],
+      "notes": "Farming families in the Terai (Pilibhit, Lakhimpur) and western UP; Punjabi dress (see Punjab). No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      9
+    ],
+    "hair": "Black hair, straight or wavy.",
+    "notes": "Wheatish to deep brown across the state; deeper tones common among rural working communities in the east and Bundelkhand. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus a neutral second name (Kumar, Prasad, Devi, Kumari, or father's name). Most UP surnames mark caste (e.g. Sharma, Yadav, Mishra, Verma); never use them. Kumari is for unmarried women."
+    },
+    {
+      "community": "muslim",
+      "notes": "Arabic or Persian-origin names; avoid community or biradari surnames (e.g. Ansari, Qureshi, Khan)."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "up_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": [
+        "aza_up"
+      ]
+    },
+    {
+      "id": "up_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": [
+        "indianetzone_up"
+      ]
+    },
+    {
+      "id": "up_dhoti_kurta_m",
+      "name": "Dhoti-kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white cotton dhoti with a kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "aza_up",
+        "indianetzone_up"
+      ]
+    },
+    {
+      "id": "up_gamchha",
+      "name": "Gamchha",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "checked cotton gamchha over the shoulder",
+      "short": "checked gamchha on shoulder",
+      "sources": [
+        "wiki_gamcha"
+      ]
+    },
+    {
+      "id": "up_chikan_kurta_m",
+      "name": "Lucknowi chikankari kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white Lucknowi chikankari kurta with pyjama",
+      "short": "white chikankari kurta",
+      "sources": [
+        "aza_up",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "up_sherwani_m",
+      "name": "Sherwani with churidar",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "embroidered sherwani with churidar pyjama",
+      "short": "sherwani with churidar",
+      "sources": [
+        "aza_up",
+        "indianetzone_up"
+      ]
+    },
+    {
+      "id": "up_pagri",
+      "name": "Pagri",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "solid-colour pagri turban",
+      "short": "solid-colour pagri",
+      "sources": [
+        "aza_up",
+        "indianetzone_up"
+      ]
+    },
+    {
+      "id": "up_cotton_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton saree with a blouse",
+      "short": "cotton saree",
+      "sources": [
+        "aza_up",
+        "indianetzone_up"
+      ]
+    },
+    {
+      "id": "up_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": [
+        "aza_up"
+      ]
+    },
+    {
+      "id": "up_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": [
+        "indianetzone_up"
+      ]
+    },
+    {
+      "id": "up_banarasi_f",
+      "name": "Banarasi saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "silk Banarasi saree with gold zari brocade",
+      "short": "Banarasi silk saree",
+      "sources": [
+        "aza_up",
+        "indianetzone_up",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "up_chikan_suit_f",
+      "name": "Chikankari suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white chikankari salwar-kameez with a matching dupatta",
+      "short": "chikankari suit",
+      "sources": [
+        "aza_up",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "up_lehenga_f",
+      "name": "Ghagra-choli with odhni",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "colourful ghagra-choli with an odhni",
+      "short": "ghagra-choli with odhni",
+      "sources": [
+        "indianetzone_up",
+        "aza_up"
+      ]
+    },
+    {
+      "id": "up_gharara_f",
+      "name": "Gharara",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Lucknowi gharara with a short kurti and dupatta, flared trousers gathered at the knee with a gota band",
+      "short": "Lucknowi gharara",
+      "sources": [
+        "safvi_gharara",
+        "wiki_gharara"
+      ]
+    },
+    {
+      "id": "up_tharu_f",
+      "name": "Tharu ghaghra-choli",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "tharu",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Tharu ghaghra skirt and choli decorated with bright geometric appliqué patchwork",
+      "short": "Tharu appliqué ghaghra-choli",
+      "sources": [
+        "mapacademy_tharu",
+        "dc_tharu"
+      ]
+    },
+    {
+      "id": "up_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton kurta with full-length leggings",
+      "short": "girl's kurta and leggings",
+      "sources": []
+    },
+    {
+      "id": "up_kids_g_fest",
+      "name": "Girl's festive lehenga",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length lehenga with a long-sleeved blouse",
+      "short": "girl's long lehenga",
+      "sources": []
+    },
+    {
+      "id": "up_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "up_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "up_bichiya",
+      "name": "Bichiya (toe rings)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "silver toe rings",
+      "short": "silver toe rings",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "up_chhath_sindoor",
+      "name": "Chhath sindoor (nose to forehead)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "religious",
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "restricted": true,
+      "prompt": "long orange sindoor from the nose up to the hair parting",
+      "short": "long orange sindoor",
+      "sources": [
+        "zeebiz_chhath",
+        "dna_chhath_sindoor"
+      ]
+    },
+    {
+      "id": "up_glass_bangles",
+      "name": "Glass bangles",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "colourful glass bangles",
+      "short": "glass bangles",
+      "sources": []
+    },
+    {
+      "id": "up_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "up_cotton_saree_f"
+        ],
+        [
+          "up_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "up_banarasi_f"
+        ],
+        [
+          "up_chikan_suit_f"
+        ],
+        [
+          "up_gharara_f"
+        ]
+      ],
+      "reason": "Cotton saree or salwar-kameez daily; Banarasi saree and chikankari suit for festivals and weddings; gharara for Muslim weddings."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "up_kurta_pyjama_m"
+        ],
+        [
+          "up_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "up_chikan_kurta_m"
+        ],
+        [
+          "up_sherwani_m",
+          "up_pagri"
+        ]
+      ],
+      "reason": "Kurta-pyjama is daily and festive wear; chikankari kurta for festivals; sherwani for weddings."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "up_cotton_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "up_banarasi_f"
+        ]
+      ],
+      "reason": "Saree for older women."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "up_dhoti_kurta_m"
+        ]
+      ],
+      "festive": [
+        [
+          "up_chikan_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta among older rural men."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "up_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "up_kids_g_fest"
+        ]
+      ],
+      "reason": "Long lehenga for festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "up_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "up_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama for festivals."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "chhath_up",
+      "name": "Chhath Puja",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu"
+      ],
+      "when": "October-November (after Diwali)",
+      "sub_regions": [
+        "purvanchal"
+      ],
+      "scene": "Chhath at a river ghat at sunset, women in bright sarees holding bamboo baskets of fruit towards the sun",
+      "scene_short": "Chhath at a river ghat at sunset"
+    },
+    {
+      "id": "dev_deepawali",
+      "name": "Dev Deepawali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "November (Kartik Purnima)",
+      "sub_regions": [
+        "purvanchal"
+      ],
+      "scene": "Dev Deepawali, lakhs of clay lamps along the Varanasi ghats at dusk",
+      "scene_short": "Dev Deepawali lamps on Varanasi ghats"
+    },
+    {
+      "id": "braj_holi",
+      "name": "Braj Holi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "March",
+      "sub_regions": [
+        "braj"
+      ],
+      "scene": "Holi in Barsana, singing crowds and clouds of pink colour in the temple lanes",
+      "scene_short": "Barsana Holi colour clouds"
+    },
+    {
+      "id": "holi_up",
+      "name": "Holi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "March",
+      "scene": "Holi morning, families playing with colours in a lane",
+      "scene_short": "Holi colours in a lane"
+    },
+    {
+      "id": "diwali_up",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, rows of clay lamps on the terrace of a house",
+      "scene_short": "Diwali lamps on a terrace"
+    },
+    {
+      "id": "eid_up",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in an old-city lane after prayers",
+      "scene_short": "Eid morning in an old-city lane"
+    },
+    {
+      "id": "wedding_guest_up",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "November-February mostly",
+      "scene": "guests at a wedding in a decorated tent with marigold garlands",
+      "scene_short": "wedding tent with marigolds"
+    }
+  ],
+  "settings": [
+    {
+      "id": "lucknow_old",
+      "type": "urban",
+      "description": "old Lucknow lane with Nawabi-era arches and small shops",
+      "short": "old Lucknow lane",
+      "sub_regions": [
+        "awadh"
+      ]
+    },
+    {
+      "id": "varanasi_ghats",
+      "type": "urban",
+      "description": "stone steps of the Varanasi ghats with wooden boats on the river",
+      "short": "Varanasi ghats with boats",
+      "sub_regions": [
+        "purvanchal"
+      ],
+      "communities": [
+        "hindu"
+      ]
+    },
+    {
+      "id": "varanasi_lane",
+      "type": "urban",
+      "description": "narrow old Varanasi lane with small shops",
+      "short": "narrow Varanasi lane",
+      "sub_regions": [
+        "purvanchal"
+      ]
+    },
+    {
+      "id": "mathura_market",
+      "type": "urban",
+      "description": "busy old market street in Mathura",
+      "short": "Mathura market street",
+      "sub_regions": [
+        "braj"
+      ]
+    },
+    {
+      "id": "bareilly_market",
+      "type": "urban",
+      "description": "crowded market lane in Bareilly",
+      "short": "Bareilly market lane",
+      "sub_regions": [
+        "rohilkhand"
+      ]
+    },
+    {
+      "id": "noida_city",
+      "type": "urban",
+      "description": "modern street with glass office towers in Noida",
+      "short": "Noida office towers",
+      "sub_regions": [
+        "western"
+      ]
+    },
+    {
+      "id": "jhansi_town",
+      "type": "urban",
+      "description": "Jhansi town street with the old fort on the hill",
+      "short": "Jhansi street, fort behind",
+      "sub_regions": [
+        "bundelkhand"
+      ]
+    },
+    {
+      "id": "purvanchal_village",
+      "type": "rural",
+      "description": "village with mud and brick houses, mango trees and a pond",
+      "short": "village with mango trees and pond",
+      "sub_regions": [
+        "purvanchal",
+        "awadh"
+      ]
+    },
+    {
+      "id": "sugarcane_up",
+      "type": "rural",
+      "description": "flat green sugarcane and wheat fields",
+      "short": "sugarcane and wheat fields",
+      "sub_regions": [
+        "western",
+        "rohilkhand",
+        "awadh"
+      ]
+    },
+    {
+      "id": "bundelkhand_village",
+      "type": "rural",
+      "description": "rocky dry village with stone houses and low hills",
+      "short": "rocky Bundelkhand village",
+      "sub_regions": [
+        "bundelkhand"
+      ]
+    },
+    {
+      "id": "braj_village",
+      "type": "rural",
+      "description": "Braj village with cows and mustard fields",
+      "short": "Braj village, mustard fields",
+      "sub_regions": [
+        "braj"
+      ]
+    },
+    {
+      "id": "terai_village",
+      "type": "rural",
+      "description": "Terai village of thatched houses at the edge of a sal forest",
+      "short": "Terai village by sal forest",
+      "sub_regions": [
+        "terai"
+      ]
+    },
+    {
+      "id": "home_city_up",
+      "type": "home",
+      "description": "terrace of a city house with potted plants",
+      "short": "city house terrace",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_up",
+      "type": "home",
+      "description": "village courtyard with a charpai and a clay stove",
+      "short": "village courtyard with charpai",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_lucknow",
+      "type": "work",
+      "description": "office in Lucknow",
+      "short": "Lucknow office",
+      "sub_regions": [
+        "awadh"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in the fields"
+    },
+    {
+      "id": "weaver",
+      "name": "Banarasi weaver",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving silk brocade at a handloom"
+    },
+    {
+      "id": "chikan_artisan",
+      "name": "Chikankari embroiderer",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "embroidering white chikankari on a frame"
+    },
+    {
+      "id": "boatman",
+      "name": "Boatman",
+      "setting": "urban",
+      "for": [
+        "adult_male"
+      ],
+      "scene": "rowing a wooden boat on the Ganga"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    }
+  ],
+  "seasons": {
+    "summer": "Very hot, dry (April-June).",
+    "monsoon": "July-September.",
+    "winter": "Cold, foggy (December-January): shawls, sweaters, jackets."
+  },
+  "heritage": [
+    {
+      "id": "awadh_court",
+      "name": "Nawabi Awadh and Mughal court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress waits for the era phase.",
+      "sources": []
+    },
+    {
+      "id": "doab_royal",
+      "name": "Early-medieval and Rajput-era royal dress of the Doab",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Period royal dress for fictional people only, sourced when the era phase starts; no named kings or community labels.",
+      "sources": []
+    },
+    {
+      "id": "naga_sadhus",
+      "name": "Naga sadhus and akharas",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Ascetic orders; characters are lay people. Kumbh and Magh Mela scenes, if added, show lay pilgrims only.",
+      "sources": []
+    },
+    {
+      "id": "muharram_up",
+      "name": "Muharram processions and tazia",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Mourning ritual; not used as a scene.",
+      "sources": []
+    },
+    {
+      "id": "chhath_sindoor",
+      "name": "Chhath nose-to-forehead sindoor",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "up_chhath_sindoor"
+      ],
+      "reason": "Worn by married women observing the Chhath fast; restricted so it is never added outside Chhath.",
+      "sources": [
+        "zeebiz_chhath"
+      ]
+    },
+    {
+      "id": "gi_textiles_up",
+      "name": "Banarasi brocade and Lucknow chikankari",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "up_banarasi_f",
+        "up_chikan_kurta_m",
+        "up_chikan_suit_f"
+      ],
+      "reason": "GI crafts worn widely today.",
+      "sources": [
+        "aza_up"
+      ]
+    },
+    {
+      "id": "gharara",
+      "name": "Lucknowi gharara",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "up_gharara_f"
+      ],
+      "reason": "Awadh-origin wedding dress of Muslim women; used on Muslim characters.",
+      "sources": [
+        "safvi_gharara"
+      ]
+    }
+  ],
+  "avoid": [
+    "Caste labels or caste surnames; caste or reservation politics.",
+    "Communal, riot or mandir-masjid dispute imagery; party colours (e.g. saffron gamchha as a political sign).",
+    "Poverty, migrant-labour or crime cliches; 'Bimaru' framing.",
+    "Naga sadhus, tazia or Muharram processions.",
+    "Sticks or 'women beating men' framing of Barsana Holi; widows only in white."
+  ],
+  "todo": [
+    "Muslim men's caps and women's festive dress beyond the gharara, with sources.",
+    "Tharu festivals and men's dress; Buksa and Raji (PVTGs, mostly Uttarakhand) held back.",
+    "Braj and Bundelkhand rural women's dress specifics; Awadhi and Bhojpuri wedding dress.",
+    "Magh Mela/Kumbh, Ramlila, Karva Chauth (western UP), Kajari Teej with sources.",
+    "Native review (ideally one from Purvanchal and one from Awadh)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Uttar Pradesh religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/9-uttar-pradesh.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "drishti_up_regions",
+      "title": "Major cultural regions of UP (Drishti IAS)",
+      "url": "https://www.drishtiias.com/pcs-parikshan-answer-writing-practice/papers/UP-PCS-Mains-2025/enumerate-short-major-cultural-regions-up-gspaper5",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_up",
+      "title": "Uttar Pradesh heritage textiles and traditional style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/the-ultimate-guide-to-uttar-pradesh-heritage-textiles-traditional-style",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "indianetzone_up",
+      "title": "Costumes of Uttar Pradesh (Indianetzone)",
+      "url": "https://www.indianetzone.com/80/costumes_uttar_pradesh.htm",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "safvi_gharara",
+      "title": "Kahaani gharara ki: the story of the gharara (Rana Safvi)",
+      "url": "https://ranasafvi.com/kahaani-gharara-ki-the-story-of-the-gharara/",
+      "type": "community",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "mapacademy_tharu",
+      "title": "Tharu appliqué (MAP Academy)",
+      "url": "https://mapacademy.io/?p=3311",
+      "type": "museum",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_gamcha",
+      "title": "Gamcha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Gamcha",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "zeebiz_chhath",
+      "title": "Why women apply long sindoor at Chhath (Zee Business)",
+      "url": "https://zeebiz.com/trending/news-chhath-puja-2022-why-women-apply-long-sindoor-from-nose-to-forehead-in-bihar-205268",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "statesman_dev_deepawali",
+      "title": "Kashi glows with 15 lakh diyas on Dev Deepawali (The Statesman)",
+      "url": "https://www.thestatesman.com/india/kashi-glows-with-15-lakh-diyas-as-dev-deepawali-lights-up-ganga-ghats-1503507998.html",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "dna_chhath_sindoor",
+      "title": "Chhath Puja: why women apply vermilion from nose to head (DNA India)",
+      "url": "https://www.dnaindia.com/lifestyle/report-chhath-puja-2022-here-s-why-women-apply-vermilion-from-nose-to-head-during-festival-2996903",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gharara",
+      "title": "Gharara (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Gharara",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "dc_tharu",
+      "title": "Tharu embroidery (Development Commissioner for Handicrafts, Ministry of Textiles)",
+      "url": "https://handicrafts.gov.in/crafts/All_Crafts/Craft_Categories/Textile/Embroidery/Tharu%20Embroidery/TharuEmbroiderywebpage.html",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (3 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Confirmed: long orange sindoor from the nose to the parting at Chhath (Zee Business and DNA India).",
+      "Confirmed: Lucknowi gharara (short kurti, dupatta, wide trousers gathered at the knee with an embroidered band) from Nawabi Awadh, now mainly wedding wear among Muslim women (Wikipedia and Rana Safvi); Banarasi brocade and Lucknow chikan are Uttar Pradesh GI products; long Chhath sindoor confirmed by two press sources.",
+      "Partly confirmed: Tharu embroidery with bright geometric, bird and flower motifs (Ministry of Textiles handicrafts page); the ghaghra-choli itself rests on MAP Academy only."
+    ]
+  }
+}

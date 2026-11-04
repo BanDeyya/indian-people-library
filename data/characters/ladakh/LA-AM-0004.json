@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "LA-AM-0004",
+  "name": "Rakesh Kumar",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "other_hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "moustache",
+    "build": "average",
+    "signature_mark": "mole on his right temple"
+  },
+  "wardrobe": [
+    "la_modern_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

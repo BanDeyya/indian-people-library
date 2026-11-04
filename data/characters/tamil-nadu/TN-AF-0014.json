@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0014",
+  "name": "Kalaivani Murugan",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with large eyes",
+    "eyes": "brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "tn_chettinad_f",
+    "tn_kanjeevaram_f",
+    "tn_half_saree_f",
+    "tn_thali",
+    "tn_metti",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-OF-0020",
+  "name": "Lhingkim",
+  "region": "manipur",
+  "sub_region": "south_hills",
+  "community": "kuki_zo",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "market_vendor",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "mn_ponve_f",
+    "mn_winter_jacket",
+    "mn_phanek_f"
+  ],
+  "language": [
+    "Thadou",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

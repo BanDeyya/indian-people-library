@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-OM-0020",
+  "name": "Anwar",
+  "region": "bihar",
+  "sub_region": "seemanchal",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "silk_weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "thin white hair",
+    "build": "slim",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "br_kurta_pyjama_m",
+    "br_shirt_trousers_m"
+  ],
+  "language": [
+    "Surjapuri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

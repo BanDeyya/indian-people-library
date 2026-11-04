@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0005",
+  "name": "Prabhu Kujur",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "christian",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small mole on his right cheek"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Kurukh",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

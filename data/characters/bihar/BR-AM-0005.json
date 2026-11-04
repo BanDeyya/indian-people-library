@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0005",
+  "name": "Shahid Akhtar",
+  "region": "bihar",
+  "sub_region": "seemanchal",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "trimmed beard",
+    "build": "thin",
+    "signature_mark": "mole on his forehead"
+  },
+  "wardrobe": [
+    "br_kurta_pyjama_m",
+    "br_shirt_trousers_m"
+  ],
+  "language": [
+    "Surjapuri",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

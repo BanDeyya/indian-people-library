@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "SK-OM-0004",
+  "name": "Santosh",
+  "region": "sikkim",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "thin",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_daura_suruwal_m",
+    "sk_tika",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

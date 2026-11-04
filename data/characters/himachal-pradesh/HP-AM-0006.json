@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0006",
+  "name": "Pawan Chand",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean deeply lined face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "hp_kurta_jacket_m",
+    "hp_shirt_trousers_m",
+    "hp_topi",
+    "hp_winter_jacket"
+  ],
+  "language": [
+    "Kulvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

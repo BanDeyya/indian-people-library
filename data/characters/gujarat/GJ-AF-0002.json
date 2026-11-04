@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0002",
+  "name": "Rataben Bhima",
+  "region": "gujarat",
+  "sub_region": "kutch",
+  "community": "rabari",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair covered by her odhni",
+    "build": "slim and strong",
+    "signature_mark": "small scar on her left hand"
+  },
+  "wardrobe": [
+    "gj_rabari_f",
+    "gj_rabari_earrings"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

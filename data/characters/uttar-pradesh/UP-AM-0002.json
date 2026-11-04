@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0002",
+  "name": "Sonu Kumar",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "boatman",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "facial_hair": "thin moustache",
+    "build": "lean and muscular",
+    "signature_mark": "rope-burn scar on his right palm"
+  },
+  "wardrobe": [
+    "up_shirt_trousers_m",
+    "up_kurta_pyjama_m",
+    "up_chikan_kurta_m"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi",
+    "basic English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

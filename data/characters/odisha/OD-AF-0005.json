@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0005",
+  "name": "Itishree Gopinath",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "strong",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "od_modern_f",
+    "od_bomkai_f",
+    "od_sambalpuri_f",
+    "od_sindoor",
+    "od_sakha_pola",
+    "od_alta"
+  ],
+  "language": [
+    "Sambalpuri",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

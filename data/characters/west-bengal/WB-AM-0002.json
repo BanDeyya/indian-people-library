@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-AM-0002",
+  "name": "Rafiqul Islam",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "short black beard",
+    "build": "lean",
+    "signature_mark": "small scar above his left eyebrow"
+  },
+  "wardrobe": [
+    "wb_lungi_m",
+    "wb_pyjama_panjabi_m",
+    "wb_tupi",
+    "wb_gamcha"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

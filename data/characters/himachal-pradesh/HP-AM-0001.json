@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0001",
+  "name": "Rajesh Chand",
+  "region": "himachal-pradesh",
+  "sub_region": "shimla",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face with wind-reddened cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "moustache",
+    "build": "stocky",
+    "signature_mark": "scar on his left hand"
+  },
+  "wardrobe": [
+    "hp_shirt_trousers_m",
+    "hp_topi",
+    "hp_kurta_jacket_m",
+    "hp_shawl_m",
+    "hp_winter_jacket"
+  ],
+  "language": [
+    "Pahari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

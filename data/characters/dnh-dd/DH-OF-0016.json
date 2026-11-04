@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0016",
+  "name": "Sakhu",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "dd_lugden_f",
+    "dd_saree_f"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

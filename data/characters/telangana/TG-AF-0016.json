@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0016",
+  "name": "Lavanya",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long black plait",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "ts_gollabama_f",
+    "ts_pochampally_f",
+    "ts_modern_f",
+    "ts_langa_voni_f",
+    "ts_jasmine"
+  ],
+  "language": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

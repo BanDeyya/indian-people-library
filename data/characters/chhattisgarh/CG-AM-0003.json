@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0003",
+  "name": "Lakhmu",
+  "region": "chhattisgarh",
+  "sub_region": "bastar",
+  "community": "gond",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dokra_artisan",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "burn scar on his left wrist"
+  },
+  "wardrobe": [
+    "cg_shirt_trousers_m",
+    "cg_dhoti_kurta_m"
+  ],
+  "language": [
+    "Halbi",
+    "Gondi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

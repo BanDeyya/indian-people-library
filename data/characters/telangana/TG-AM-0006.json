@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0006",
+  "name": "Krishna Venkatesh",
+  "region": "telangana",
+  "sub_region": "warangal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_kurta_pyjama_m",
+    "ts_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

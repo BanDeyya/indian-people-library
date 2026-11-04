@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0010",
+  "name": "Kusum",
+  "region": "himachal-pradesh",
+  "sub_region": "shimla",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 57,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "hp_modern_f",
+    "hp_suit_f",
+    "hp_ghagra_f",
+    "hp_winter_jacket"
+  ],
+  "language": [
+    "Kulvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

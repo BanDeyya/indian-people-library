@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0019",
+  "name": "Rahila",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "an_tant_f",
+    "an_silk_saree_f"
+  ],
+  "language": [
+    "Malayalam",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

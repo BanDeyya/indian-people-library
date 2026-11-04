@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "PB-AF-0004",
+  "name": "Gurpreet Kaur",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face with thick eyebrows",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "long black hair in a single braid",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_suit_f",
+    "pb_suit_head_f",
+    "pb_parandi",
+    "pb_loyi_wrap"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

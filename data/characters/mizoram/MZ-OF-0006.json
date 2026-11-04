@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MZ-OF-0006",
+  "name": "Zothansangi",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "mz_hmaram_f",
+    "mz_puanchei_f",
+    "mz_ngotekherh_f",
+    "mz_church_dress_f",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

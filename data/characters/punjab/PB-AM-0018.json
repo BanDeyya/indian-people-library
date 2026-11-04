@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "PB-AM-0018",
+  "name": "Sahil Pawan",
+  "region": "punjab",
+  "sub_region": "majha",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with deep frown lines",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair with a side parting",
+    "build": "stocky",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "neat moustache"
+  },
+  "wardrobe": [
+    "pb_kurta_pajama_m",
+    "pb_saluka_m",
+    "pb_kurta_tehmat_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

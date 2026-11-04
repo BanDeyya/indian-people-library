@@ -1,0 +1,1739 @@
+{
+  "schema_version": 2,
+  "slug": "karnataka",
+  "code": "KA",
+  "name": "Karnataka",
+  "type": "state",
+  "zone": "south",
+  "capital": "Bengaluru",
+  "status": "reviewed",
+  "languages": [
+    "Kannada (official)",
+    "Urdu",
+    "Tulu",
+    "Konkani",
+    "Kodava",
+    "Beary",
+    "Lambani",
+    "Telugu",
+    "Tamil",
+    "Marathi"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 84.0,
+      "muslim": 12.92,
+      "christian": 1.87,
+      "jain": 0.72,
+      "buddhist": 0.16,
+      "other": 0.34
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "old_mysore",
+      "name": "Old Mysore (south Karnataka)",
+      "notes": "Bengaluru, Mysuru, Mandya, Hassan, Tumakuru; Mysore silk, Dasara, sugarcane and silk farms."
+    },
+    {
+      "id": "coastal",
+      "name": "Coastal Karnataka",
+      "notes": "Udupi, Dakshina Kannada (Tulu Nadu), Uttara Kannada; Tulu, Konkani and Beary speakers; Mangalorean Catholics."
+    },
+    {
+      "id": "malnad",
+      "name": "Malnad",
+      "notes": "Shivamogga, Chikkamagaluru: Western Ghats hills, arecanut and coffee, heavy monsoon."
+    },
+    {
+      "id": "kodagu",
+      "name": "Kodagu (Coorg)",
+      "notes": "Kodava homeland: coffee estates, ancestral homes (ainmane)."
+    },
+    {
+      "id": "kittur",
+      "name": "Kittur Karnataka (north-west)",
+      "notes": "Belagavi, Dharwad, Hubballi, Bagalkot, Vijayapura, Gadag; Ilkal sarees."
+    },
+    {
+      "id": "kalyana",
+      "name": "Kalyana Karnataka (north-east)",
+      "notes": "Kalaburagi, Bidar, Raichur, Ballari, Koppal; Deccani heritage, Lambani tandas around Sandur."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Kannadiga",
+      "religion": "hindu",
+      "prompt": "Kannadiga",
+      "notes": "Men: shirt with panche (dhoti) or trousers; kurta with panche for festivals; Mysuru peta only for grooms and honours. Women: handloom cotton or Ilkal saree daily, Mysore silk for weddings and Dasara; langa davani for young women at festivals; mangalsutra when married.",
+      "names": {
+        "female": [
+          "Shantamma",
+          "Kavitha",
+          "Divya",
+          "Ananya",
+          "Sumathi",
+          "Lakshmi",
+          "Rekha",
+          "Pavithra",
+          "Shilpa",
+          "Geetha",
+          "Sowmya",
+          "Nagamma",
+          "Bhagya",
+          "Roopa",
+          "Savitha",
+          "Shobha",
+          "Asha",
+          "Manjula",
+          "Hema",
+          "Vani",
+          "Usha",
+          "Bharathi",
+          "Shruthi",
+          "Ranjitha",
+          "Prema",
+          "Sudha",
+          "Anitha",
+          "Leela",
+          "Chaitra",
+          "Shwetha"
+        ],
+        "male": [
+          "Suresh",
+          "Ravi",
+          "Pranav",
+          "Basappa",
+          "Manjunath",
+          "Nagaraj",
+          "Mahesh",
+          "Prakash",
+          "Shivakumar",
+          "Raghavendra",
+          "Kiran",
+          "Siddappa",
+          "Venkatesh",
+          "Harish",
+          "Ramesh",
+          "Basavaraj",
+          "Santosh",
+          "Chandrashekar",
+          "Girish",
+          "Prashanth",
+          "Mallikarjun"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Kannadiga (Dakhni, Beary)",
+      "religion": "muslim",
+      "prompt": "Kannadiga Muslim",
+      "notes": "Dakhni-Urdu speakers in north and Old Mysore, Bearys on the coast. Specific dress not yet sourced; characters wear shared kurta-pyjama and salwar-kameez.",
+      "names": {
+        "female": [
+          "Ayesha",
+          "Shabana",
+          "Asma",
+          "Rukhiya",
+          "Zubaida",
+          "Nafisa",
+          "Shaheen",
+          "Sameera",
+          "Fathima",
+          "Najma",
+          "Rukhsana",
+          "Nasreen",
+          "Haseena",
+          "Farzana",
+          "Mumtaz",
+          "Tabassum",
+          "Sabiha",
+          "Raziya",
+          "Afreen",
+          "Salma",
+          "Noorjahan",
+          "Ruksar",
+          "Shahida",
+          "Asiya",
+          "Nusrat",
+          "Shireen"
+        ],
+        "male": [
+          "Mohammed Rafiq",
+          "Asif",
+          "Ibrahim",
+          "Abdul Rahman",
+          "Haneef",
+          "Ashraf",
+          "Shafi",
+          "Riyaz",
+          "Nawaz",
+          "Basheer",
+          "Syed",
+          "Imran",
+          "Rafiq",
+          "Mohammed",
+          "Abdul",
+          "Irfan",
+          "Aslam",
+          "Sameer",
+          "Sadiq",
+          "Jameel",
+          "Mansoor",
+          "Iqbal",
+          "Shakeel"
+        ]
+      }
+    },
+    {
+      "id": "kodava",
+      "name": "Kodava",
+      "culture": "Kodava",
+      "religion": "hindu",
+      "prompt": "Kodava",
+      "sub_regions": [
+        "kodagu"
+      ],
+      "notes": "Men: knee-length black kupya with a silk chele sash (white kupya only for grooms, priests, village heads and the dead). Women: saree pleated at the back with the pallu across the front, vastra head cloth for ceremonies. Puthari harvest festival.",
+      "names": {
+        "female": [
+          "Dechamma",
+          "Kaveramma",
+          "Muthamma",
+          "Bollamma",
+          "Seethamma",
+          "Neelamma",
+          "Kavya",
+          "Pooja",
+          "Rashmi",
+          "Tanya",
+          "Ponnamma",
+          "Gangamma",
+          "Chitra",
+          "Sharmila",
+          "Leela",
+          "Rohini",
+          "Deepa",
+          "Shilpa",
+          "Kalpana",
+          "Bharathi",
+          "Neeta",
+          "Sowmya",
+          "Yashoda",
+          "Kaveri",
+          "Rekha",
+          "Asha"
+        ],
+        "male": [
+          "Ponnappa",
+          "Somaiah",
+          "Bopanna",
+          "Kariappa",
+          "Subbaiah",
+          "Thimmaiah",
+          "Muthanna",
+          "Chengappa",
+          "Uthappa",
+          "Ganapathy",
+          "Somanna",
+          "Nanjappa",
+          "Belliappa",
+          "Achaiah",
+          "Kushalappa",
+          "Monnappa",
+          "Aiyappa"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "mangalorean_catholic",
+      "name": "Mangalorean Catholic",
+      "culture": "Mangalorean (Konkani)",
+      "religion": "christian",
+      "prompt": "Mangalorean Catholic",
+      "sub_regions": [
+        "coastal",
+        "old_mysore"
+      ],
+      "notes": "Konkani-speaking Catholics of Dakshina Kannada and Udupi. Salwar-kameez and sarees today; married women drape the pallu over the shoulder; pirduk black-bead necklace for married women. Monti Fest (8 September).",
+      "names": {
+        "female": [
+          "Lavina",
+          "Prima",
+          "Sharon",
+          "Flavia",
+          "Wilma",
+          "Jacintha",
+          "Leena",
+          "Sylvia",
+          "Rita",
+          "Shalini",
+          "Lydia",
+          "Anita",
+          "Precilla",
+          "Juliet",
+          "Irene",
+          "Gretta",
+          "Sandra",
+          "Nancy",
+          "Lilly",
+          "Wendy",
+          "Diana",
+          "Vanessa",
+          "Sheela",
+          "Rosy",
+          "Gloria",
+          "Melissa"
+        ],
+        "male": [
+          "Rohan",
+          "Wilfred",
+          "Ronald",
+          "Felix",
+          "Joel",
+          "Clement",
+          "Denis",
+          "Melwyn",
+          "Sunil",
+          "Vincent",
+          "Lancy",
+          "Joseph",
+          "Stany",
+          "Henry",
+          "Valerian",
+          "Alwyn",
+          "Clifford",
+          "Richard",
+          "Gilbert",
+          "Ivan"
+        ]
+      }
+    },
+    {
+      "id": "lambani",
+      "name": "Lambani",
+      "culture": "Lambani",
+      "prompt": "Lambani",
+      "sub_regions": [
+        "kalyana",
+        "kittur"
+      ],
+      "notes": "Women's lehenga, choli and odhni richly embroidered with patchwork; ornaments of silver, brass, white metal and bone. A full set takes about a year to make.",
+      "names": {
+        "female": [
+          "Lalitha",
+          "Lalibai",
+          "Kamli",
+          "Shanthi",
+          "Gangabai",
+          "Sevali",
+          "Parvati",
+          "Chandri",
+          "Lakshmibai",
+          "Kaveri",
+          "Sevlibai",
+          "Jamli",
+          "Saroja",
+          "Radha",
+          "Mangli",
+          "Bhuli",
+          "Rukmini",
+          "Laxmi",
+          "Sunitha",
+          "Saritha",
+          "Jyothi",
+          "Kavitha",
+          "Bujji",
+          "Chandrakala",
+          "Ramli",
+          "Kamala"
+        ],
+        "male": [
+          "Ramulu",
+          "Lakhma",
+          "Shankar",
+          "Bhima",
+          "Hanumanthu",
+          "Peerya",
+          "Rupla",
+          "Thakru",
+          "Krishna",
+          "Somla",
+          "Sevya",
+          "Bhaskar",
+          "Tukaram",
+          "Ravinder",
+          "Ramesh",
+          "Lachiram",
+          "Mangya",
+          "Balu",
+          "Gopal",
+          "Chandu"
+        ]
+      }
+    },
+    {
+      "id": "jain",
+      "name": "Jain",
+      "culture": "Kannadiga",
+      "religion": "jain",
+      "sub_regions": [
+        "coastal",
+        "old_mysore",
+        "kittur"
+      ],
+      "notes": "Shravanabelagola, Moodbidri, Karkala. No characters yet; monastic dress not depicted."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      9
+    ],
+    "hair": "Black hair, straight or wavy; women often in a long plait with jasmine.",
+    "notes": "Wheatish to deep brown. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus father's name (often as an initial). Many surnames mark caste (e.g. Gowda, Shetty, Rao, Hegde, Bhat, Reddy); never use them."
+    },
+    {
+      "community": "kodava",
+      "notes": "Kodava family (okka) names identify clans, not castes, but are real family names; use given name plus father's given name."
+    },
+    {
+      "community": "mangalorean_catholic",
+      "notes": "Christian given names with Portuguese-origin surnames."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "ka_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "ka_panche_shirt_m",
+      "name": "Panche with shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white panche (dhoti) with a half-sleeved shirt",
+      "short": "white panche and shirt",
+      "sources": [
+        "aza_ka"
+      ]
+    },
+    {
+      "id": "ka_kurta_panche_m",
+      "name": "Kurta with panche",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "silk kurta with a white panche with a gold border",
+      "short": "silk kurta and gold-bordered panche",
+      "sources": [
+        "aza_ka"
+      ]
+    },
+    {
+      "id": "ka_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "ka_mysuru_peta",
+      "name": "Mysuru peta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "honour"
+      ],
+      "restricted": true,
+      "prompt": "silk Mysuru peta with gold zari",
+      "short": "Mysuru peta",
+      "sources": [
+        "aza_ka"
+      ]
+    },
+    {
+      "id": "ka_kupya_m",
+      "name": "Kodava kupya and chele",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "wedding_guest",
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kodava",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "knee-length half-sleeved black kupya coat over a white shirt, tied with a bright silk chele sash",
+      "short": "black kupya coat with silk chele",
+      "sources": [
+        "kodagufirst_kupya",
+        "dh_puthari",
+        "wiki_kodava"
+      ]
+    },
+    {
+      "id": "ka_white_kupya_m",
+      "name": "White kupya",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kodava",
+      "meaning": [
+        "honour"
+      ],
+      "restricted": true,
+      "prompt": "white kupya coat with a silk chele",
+      "short": "white kupya",
+      "sources": [
+        "kodagufirst_kupya"
+      ]
+    },
+    {
+      "id": "ka_cotton_saree_f",
+      "name": "Handloom cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "handloom cotton saree with a contrast border",
+      "short": "handloom cotton saree",
+      "sources": [
+        "aza_ka"
+      ]
+    },
+    {
+      "id": "ka_ilkal_f",
+      "name": "Ilkal saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Ilkal saree with a cotton body and a bold red silk pallu",
+      "short": "Ilkal saree with red pallu",
+      "sources": [
+        "aza_ka",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ka_mysore_silk_f",
+      "name": "Mysore silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Mysore crepe silk saree with a simple gold zari border",
+      "short": "Mysore silk saree",
+      "sources": [
+        "aza_ka",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ka_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": [
+        "wiki_mc_attire"
+      ]
+    },
+    {
+      "id": "ka_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "ka_langa_davani_f",
+      "name": "Langa davani",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "requires": {
+        "marital_status": "single"
+      },
+      "prompt": "silk langa davani: long skirt, fitted blouse and a draped davani",
+      "short": "silk langa davani",
+      "sources": [
+        "aza_ka",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "ka_kodava_saree_f",
+      "name": "Kodava saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kodava",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "saree pleated at the back, with the pallu brought across the front and pinned at the right shoulder",
+      "short": "Kodava-style saree, pleats at the back",
+      "sources": [
+        "kodagufirst_kupya",
+        "dh_puthari",
+        "wiki_kodava"
+      ]
+    },
+    {
+      "id": "ka_kodava_vastra",
+      "name": "Kodava vastra (head cloth)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kodava",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "decorated vastra head cloth",
+      "short": "decorated vastra head cloth",
+      "sources": [
+        "kodagufirst_kupya"
+      ]
+    },
+    {
+      "id": "ka_mc_saree_f",
+      "name": "Saree (Mangalorean Catholic)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "mangalorean_catholic",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "saree with the pallu draped over the shoulder",
+      "short": "saree, pallu over the shoulder",
+      "sources": [
+        "wiki_mc_attire"
+      ]
+    },
+    {
+      "id": "ka_lambani_f",
+      "name": "Lambani lehenga, choli and odhni",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lambani",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Lambani lehenga, choli and odhni richly embroidered with colourful patchwork",
+      "short": "embroidered Lambani lehenga and odhni",
+      "sources": [
+        "globalinch_lambani",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ka_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton kurta with full-length leggings",
+      "short": "girl's kurta and leggings",
+      "sources": []
+    },
+    {
+      "id": "ka_kids_g_fest",
+      "name": "Girl's silk langa",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk langa skirt with a long-sleeved blouse",
+      "short": "girl's silk langa",
+      "sources": [
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "ka_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "ka_mangalsutra",
+      "name": "Mangalsutra (karimani)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "black-bead mangalsutra with gold pendants",
+      "short": "black-bead mangalsutra",
+      "sources": [
+        "wiki_mangalsutra",
+        "bluestone_mangalsutra"
+      ]
+    },
+    {
+      "id": "ka_pirduk",
+      "name": "Pirduk",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "mangalorean_catholic",
+      "meaning": [
+        "marital",
+        "religious"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "black-bead pirduk necklace with a small gold pendant",
+      "short": "black-bead pirduk",
+      "sources": [
+        "wiki_mc_attire",
+        "wiki_mc"
+      ]
+    },
+    {
+      "id": "ka_lambani_ornaments",
+      "name": "Lambani ornaments",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lambani",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "heavy silver and white-metal ornaments",
+      "short": "silver ornaments",
+      "sources": [
+        "globalinch_lambani"
+      ]
+    },
+    {
+      "id": "ka_jasmine",
+      "name": "Jasmine in the hair",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "string of jasmine flowers in the plait",
+      "short": "jasmine in the plait",
+      "sources": []
+    },
+    {
+      "id": "ka_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "ka_cotton_saree_f"
+        ],
+        [
+          "ka_ilkal_f"
+        ],
+        [
+          "ka_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ka_mysore_silk_f",
+          "ka_jasmine"
+        ],
+        [
+          "ka_kodava_saree_f",
+          "ka_kodava_vastra"
+        ]
+      ],
+      "reason": "Handloom or Ilkal saree daily; Mysore silk for weddings and Dasara; Kodava saree for Kodava women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "ka_panche_shirt_m"
+        ],
+        [
+          "ka_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ka_kurta_panche_m"
+        ],
+        [
+          "ka_kupya_m"
+        ]
+      ],
+      "reason": "Panche with shirt or trousers daily; kurta and gold-bordered panche for festivals; kupya for Kodava men."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "ka_ilkal_f"
+        ],
+        [
+          "ka_cotton_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ka_mysore_silk_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "ka_panche_shirt_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ka_kurta_panche_m"
+        ]
+      ],
+      "reason": "Panche."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "ka_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "ka_kids_g_fest",
+          "ka_jasmine"
+        ]
+      ],
+      "reason": "Silk langa for festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "ka_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "ka_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "puthari",
+      "name": "Puthari",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "kodava"
+      ],
+      "when": "November-December (full moon)",
+      "sub_regions": [
+        "kodagu"
+      ],
+      "scene": "Puthari night, a Kodava family walking to the paddy field under the full moon behind a woman carrying a lamp",
+      "scene_short": "Puthari night, lamp in the paddy field"
+    },
+    {
+      "id": "monti_fest",
+      "name": "Monti Fest",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "mangalorean_catholic"
+      ],
+      "when": "8 September",
+      "scene": "Monti Fest, families carrying new paddy sheaves outside a coastal church",
+      "scene_short": "Monti Fest outside a church"
+    },
+    {
+      "id": "dasara_ka",
+      "name": "Mysuru Dasara",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "kodava"
+      ],
+      "when": "September-October",
+      "scene": "Mysuru Dasara evening, crowds before the illuminated Mysore Palace",
+      "scene_short": "illuminated Mysore Palace at Dasara"
+    },
+    {
+      "id": "ugadi",
+      "name": "Ugadi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "March-April",
+      "scene": "Ugadi morning, mango-leaf garland over the door and rangoli at the threshold",
+      "scene_short": "Ugadi mango leaves and rangoli"
+    },
+    {
+      "id": "deepavali_ka",
+      "name": "Deepavali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "kodava"
+      ],
+      "when": "October-November",
+      "scene": "Deepavali evening, clay lamps along a courtyard wall",
+      "scene_short": "Deepavali lamps"
+    },
+    {
+      "id": "christmas_ka",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "mangalorean_catholic"
+      ],
+      "when": "December",
+      "scene": "Christmas evening, star lanterns outside a coastal home",
+      "scene_short": "Christmas star lanterns"
+    },
+    {
+      "id": "eid_ka",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in a busy street",
+      "scene_short": "Eid morning street"
+    },
+    {
+      "id": "wedding_guest_ka",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding hall decorated with banana stems and jasmine",
+      "scene_short": "wedding hall with banana stems"
+    }
+  ],
+  "settings": [
+    {
+      "id": "bengaluru_street",
+      "type": "urban",
+      "description": "busy Bengaluru street with tech offices and old rain trees",
+      "short": "Bengaluru street",
+      "sub_regions": [
+        "old_mysore"
+      ]
+    },
+    {
+      "id": "mysuru_street",
+      "type": "urban",
+      "description": "Mysuru street with heritage buildings",
+      "short": "Mysuru heritage street",
+      "sub_regions": [
+        "old_mysore"
+      ]
+    },
+    {
+      "id": "mangaluru_street",
+      "type": "urban",
+      "description": "Mangaluru street with tiled-roof houses and coconut palms",
+      "short": "Mangaluru street",
+      "sub_regions": [
+        "coastal"
+      ]
+    },
+    {
+      "id": "hubballi_market",
+      "type": "urban",
+      "description": "busy Hubballi market street",
+      "short": "Hubballi market",
+      "sub_regions": [
+        "kittur"
+      ]
+    },
+    {
+      "id": "kalaburagi_street",
+      "type": "urban",
+      "description": "Kalaburagi old-city street with stone buildings",
+      "short": "Kalaburagi street",
+      "sub_regions": [
+        "kalyana"
+      ]
+    },
+    {
+      "id": "madikeri_town",
+      "type": "urban",
+      "description": "Madikeri hill town in light mist",
+      "short": "misty Madikeri",
+      "sub_regions": [
+        "kodagu"
+      ]
+    },
+    {
+      "id": "coffee_estate",
+      "type": "rural",
+      "description": "coffee estate under tall shade trees on green hills",
+      "short": "coffee estate",
+      "sub_regions": [
+        "kodagu",
+        "malnad"
+      ]
+    },
+    {
+      "id": "areca_garden",
+      "type": "rural",
+      "description": "arecanut garden with tiled-roof house in the Western Ghats",
+      "short": "arecanut garden, Western Ghats",
+      "sub_regions": [
+        "malnad",
+        "coastal"
+      ]
+    },
+    {
+      "id": "paddy_coast",
+      "type": "rural",
+      "description": "green paddy fields with coconut palms near the coast",
+      "short": "coastal paddy and palms",
+      "sub_regions": [
+        "coastal"
+      ]
+    },
+    {
+      "id": "sugarcane_ka",
+      "type": "rural",
+      "description": "sugarcane fields beside a canal",
+      "short": "sugarcane fields",
+      "sub_regions": [
+        "old_mysore"
+      ]
+    },
+    {
+      "id": "deccan_village",
+      "type": "rural",
+      "description": "dry Deccan village with stone houses and sunflower fields",
+      "short": "Deccan village, sunflower fields",
+      "sub_regions": [
+        "kittur",
+        "kalyana"
+      ]
+    },
+    {
+      "id": "lambani_tanda",
+      "type": "rural",
+      "description": "hamlet of small houses on a rocky hillside",
+      "short": "rocky hillside hamlet",
+      "sub_regions": [
+        "kalyana",
+        "kittur"
+      ],
+      "communities": [
+        "lambani"
+      ]
+    },
+    {
+      "id": "home_city_ka",
+      "type": "home",
+      "description": "apartment balcony with potted plants",
+      "short": "apartment balcony",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_ka",
+      "type": "home",
+      "description": "village house verandah with a swept courtyard and rangoli",
+      "short": "village verandah with rangoli",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_ka",
+      "type": "work",
+      "description": "tech office in Bengaluru",
+      "short": "Bengaluru tech office",
+      "sub_regions": [
+        "old_mysore"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in the fields"
+    },
+    {
+      "id": "coffee_planter",
+      "name": "Coffee planter",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "checking coffee berries on the estate"
+    },
+    {
+      "id": "weaver",
+      "name": "Handloom weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving a saree at a handloom"
+    },
+    {
+      "id": "embroiderer",
+      "name": "Embroiderer",
+      "setting": "rural",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "stitching patchwork embroidery"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "monsoon": "Very heavy on the coast and in the Western Ghats (June-September).",
+    "summer": "Hot in the north (March-May).",
+    "winter": "Mild; cool in Kodagu and Malnad."
+  },
+  "heritage": [
+    {
+      "id": "mysore_court",
+      "name": "Mysore (Wadiyar) court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only, in the era phase; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "mysuru_peta",
+      "name": "Mysuru peta",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "ka_mysuru_peta"
+      ],
+      "reason": "Turban of honour for grooms and dignitaries; restricted, never auto-selected.",
+      "sources": [
+        "aza_ka"
+      ]
+    },
+    {
+      "id": "kodava_arms",
+      "name": "Kodava peeche kathi and odi kathi",
+      "kind": "warrior",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "The dagger and sword are part of the Kodava men's dress and warrior culture, but weapons are excluded from the public library; the kupya and chele are shown without them.",
+      "sources": [
+        "kodagufirst_kupya"
+      ]
+    },
+    {
+      "id": "white_kupya",
+      "name": "White kupya",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "ka_white_kupya_m"
+      ],
+      "reason": "Reserved for grooms, priests, village heads and the dead; restricted.",
+      "sources": [
+        "kodagufirst_kupya"
+      ]
+    },
+    {
+      "id": "buta_kola",
+      "name": "Buta Kola",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "The performer embodies the deity; hereditary ritual specialists. Not shown.",
+      "sources": [
+        "wiki_buta_kola"
+      ]
+    },
+    {
+      "id": "yakshagana",
+      "name": "Yakshagana costume",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Theatre costume of trained performers; not given to characters (performer characters may come later with their own sources).",
+      "sources": [
+        "aza_ka"
+      ]
+    },
+    {
+      "id": "jain_monastic_ka",
+      "name": "Jain monastic orders (incl. Digambara)",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Characters are lay people.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Caste labels or caste surnames (e.g. Gowda, Lingayat, Shetty, Rao); caste or reservation politics.",
+    "Weapons with Kodava dress; Buta Kola, Karaga or Yakshagana costumes on characters.",
+    "Language or border politics; communal imagery (e.g. hijab controversy framing).",
+    "Bengaluru traffic or tech-only cliches; north Karnataka drought-only framing.",
+    "Kodava, Lambani or Mangalorean Catholic dress outside those communities."
+  ],
+  "todo": [
+    "Muslim (Dakhni, Beary, Nawayath) dress with sources.",
+    "Tulu Nadu Hindu dress specifics; Siddi of Uttara Kannada.",
+    "Jenu Kuruba and Koraga (PVTGs) held back until priority-1/2 sources and extra review.",
+    "Kailpodh, Kaveri Sankramana, Sankranti, Karaga (not depicted), Kambala with sources and decisions.",
+    "Native review (ideally coastal, Kodagu and north Karnataka)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Karnataka religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/29-karnataka.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_ka",
+      "title": "Karnataka heritage textiles and traditional style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/the-ultimate-guide-to-karnataka-heritage-textiles-traditional-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "kodagufirst_kupya",
+      "title": "Kuppya chele: attire of a warrior culture (Kodagu First)",
+      "url": "https://www.kodagufirst.in/?p=47603",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "dh_puthari",
+      "title": "Puthari, Kodagu's harvest festival (Deccan Herald)",
+      "url": "https://www.deccanherald.com/india/karnataka/puthari-kodagus-harvest-festival-920820.html",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "globalinch_lambani",
+      "title": "Lambani/Banjara embroidery of Sandur (Global InCH)",
+      "url": "https://globalinch.org/craft/banjara-embroidery-of-sandur-karnataka/",
+      "type": "community",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_mc_attire",
+      "title": "Attire of Mangalorean Catholics (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Attire_of_Mangalorean_Catholics",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_mc",
+      "title": "Mangalorean Catholics (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangalorean_Catholics",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Thaali",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "kt_dasara",
+      "title": "Mysuru Dasara (Karnataka Tourism)",
+      "url": "https://karnatakatourism.org/en/events/mysuru-dasara-festival",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_buta_kola",
+      "title": "Buta Kola (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Buta_Kola",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "bluestone_mangalsutra",
+      "title": "Traditional South Indian mangalsutra designs: a regional style guide (BlueStone)",
+      "url": "https://blog.bluestone.com/traditional-south-indian-mangalsutra-designs-meanings-a-regional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_kodava",
+      "title": "Kodava people (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kodava_people",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (3 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "2 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Corrected: the Kodava saree prompt now says the pallu is pinned at the right shoulder (pleats at the back), as Wikipedia's Kodava people page describes; before it only said 'wrapped across the front'. Wikipedia also confirms the kupya is now worn only on ceremonial occasions, which matches the file.",
+      "Checked: Ilkal and Mysore silk sarees and Sandur Lambani embroidery are Karnataka GI products; Monti Fest on 8 September is the Mangalorean Catholic harvest feast (Nativity of Mary)."
+    ]
+  }
+}

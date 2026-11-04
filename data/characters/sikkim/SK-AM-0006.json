@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0006",
+  "name": "Suresh Bahadur",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_daura_suruwal_m",
+    "sk_tika",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

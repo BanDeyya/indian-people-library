@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "ML-OF-0003",
+  "name": "Wanshai",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "ml_silk_jainsem_f",
+    "ml_jainsem_f",
+    "ml_jainkup_f"
+  ],
+  "language": [
+    "Khasi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

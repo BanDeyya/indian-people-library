@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0012",
+  "name": "Madhumita Arindam",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "large dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "tr_modern_f",
+    "tr_silk_saree_f",
+    "tr_laal_paar_f",
+    "tr_shakha_pola",
+    "tr_sindoor"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

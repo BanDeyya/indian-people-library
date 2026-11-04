@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-OF-0007",
+  "name": "Lavanya",
+  "region": "andhra-pradesh",
+  "sub_region": "krishna_guntur",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with large eyes",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "ap_mangalagiri_f",
+    "ap_uppada_f",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

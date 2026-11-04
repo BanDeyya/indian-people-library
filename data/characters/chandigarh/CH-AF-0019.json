@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0019",
+  "name": "Rupinder Kaur",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "sikh",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "ch_kara",
+    "ch_suit_head_f",
+    "ch_phulkari_f",
+    "ch_suit_f",
+    "ch_winter_jacket"
+  ],
+  "always_wear": [
+    "ch_kara"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

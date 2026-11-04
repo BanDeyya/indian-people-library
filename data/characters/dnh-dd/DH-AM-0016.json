@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0016",
+  "name": "Laxman Raghu",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "dd_shirt_trousers_m",
+    "dd_warli_m"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

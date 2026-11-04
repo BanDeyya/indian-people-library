@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UK-OM-0002",
+  "name": "Dhan Singh Lal",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "garhwali",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "square weathered face",
+    "eyes": "dark brown eyes",
+    "hair": "short grey hair",
+    "build": "lean and strong",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "uk_kurta_sadri_m",
+    "uk_shirt_trousers_m",
+    "uk_topi",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

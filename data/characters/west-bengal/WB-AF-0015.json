@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-AF-0015",
+  "name": "Ruksana",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with soft features",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair under a light dupatta",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "wb_jamdani_f",
+    "wb_salwar_f",
+    "wb_tant_f",
+    "wb_studs"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

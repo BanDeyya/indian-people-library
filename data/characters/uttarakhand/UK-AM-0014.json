@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0014",
+  "name": "Puran Dutt",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short side-parted black hair",
+    "build": "lean",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "uk_kurta_sadri_m",
+    "uk_shirt_trousers_m",
+    "uk_topi",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

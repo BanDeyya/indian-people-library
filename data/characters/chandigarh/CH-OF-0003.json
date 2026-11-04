@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "CH-OF-0003",
+  "name": "Jyoti Rani",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ch_phulkari_f",
+    "ch_suit_f",
+    "ch_shawl"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

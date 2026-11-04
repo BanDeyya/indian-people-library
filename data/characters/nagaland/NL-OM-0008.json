@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0008",
+  "name": "Merentoshi",
+  "region": "nagaland",
+  "sub_region": "mokokchung",
+  "community": "ao",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "narrow face with high cheekbones, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "nl_trousers_m",
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Ao",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

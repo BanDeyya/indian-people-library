@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-OM-0012",
+  "name": "Alok Kumar",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "up_chikan_kurta_m",
+    "up_dhoti_kurta_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

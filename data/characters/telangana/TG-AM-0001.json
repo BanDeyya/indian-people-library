@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0001",
+  "name": "Yadagiri",
+  "region": "telangana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "moustache",
+    "build": "thin",
+    "signature_mark": "dye-stained fingertips and a scar on his thumb"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

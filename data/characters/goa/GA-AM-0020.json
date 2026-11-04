@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GA-AM-0020",
+  "name": "Bosco",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "gawda",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "strong lined face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_kurta_pyjama_m",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

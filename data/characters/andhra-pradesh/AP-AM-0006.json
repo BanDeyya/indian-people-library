@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-AM-0006",
+  "name": "Suresh Yadagiri",
+  "region": "andhra-pradesh",
+  "sub_region": "south_coast",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ap_pancha_shirt_m",
+    "ap_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

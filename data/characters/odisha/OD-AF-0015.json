@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0015",
+  "name": "Priyanka Gopinath",
+  "region": "odisha",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face with large eyes",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "strong",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "od_bomkai_f",
+    "od_salwar_f",
+    "od_khandua_f",
+    "od_sindoor",
+    "od_sakha_pola"
+  ],
+  "language": [
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

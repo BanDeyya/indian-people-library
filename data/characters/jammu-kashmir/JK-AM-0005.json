@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JK-AM-0005",
+  "name": "Adil",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "long face with a sharp nose",
+    "eyes": "green-brown eyes",
+    "hair": "short black hair greying at the sides",
+    "build": "strong",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "jk_kurta_pyjama_m",
+    "jk_pheran_m"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

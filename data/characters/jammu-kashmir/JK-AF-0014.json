@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0014",
+  "name": "Sudha",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_pandit",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with soft features",
+    "eyes": "light brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "jk_salwar_f",
+    "jk_pandit_pheran_f"
+  ],
+  "language": [
+    "Kashmiri",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

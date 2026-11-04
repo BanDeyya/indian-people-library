@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AR-AM-0001",
+  "name": "Tuki",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "nyishi",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_smart_m",
+    "ar_nyishi_robe_m",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Nyishi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

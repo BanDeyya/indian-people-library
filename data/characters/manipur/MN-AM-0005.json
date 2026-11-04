@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-AM-0005",
+  "name": "Thangminlen",
+  "region": "manipur",
+  "sub_region": "south_hills",
+  "community": "kuki_zo",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face with laugh lines",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his forehead"
+  },
+  "wardrobe": [
+    "mn_shirt_trousers_m",
+    "mn_smart_m",
+    "mn_kuki_shawl_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Thadou",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

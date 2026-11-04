@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0018",
+  "name": "Rukhsana Khatoon",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 61,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "brown eyes",
+    "hair": "shoulder-length black hair",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "mh_salwar_f",
+    "mh_cotton_saree_f"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

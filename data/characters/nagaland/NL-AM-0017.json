@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0017",
+  "name": "Pangnyu",
+  "region": "nagaland",
+  "sub_region": "eastern",
+  "community": "phom",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 52,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_trousers_m",
+    "nl_plain_shirt_m"
+  ],
+  "language": [
+    "Phom",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

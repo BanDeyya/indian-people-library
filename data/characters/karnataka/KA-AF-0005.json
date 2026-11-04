@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0005",
+  "name": "Lalibai",
+  "region": "karnataka",
+  "sub_region": "kalyana",
+  "community": "lambani",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair under her odhni",
+    "build": "slim",
+    "signature_mark": "small scar on her left hand"
+  },
+  "wardrobe": [
+    "ka_lambani_f",
+    "ka_lambani_ornaments",
+    "ka_cotton_saree_f"
+  ],
+  "language": [
+    "Lambani",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

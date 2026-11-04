@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0002",
+  "name": "Nilesh Dinesh",
+  "region": "gujarat",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "diamond_polisher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short side-parted black hair",
+    "facial_hair": "trimmed moustache",
+    "build": "lean",
+    "signature_mark": "small scar on his right thumb"
+  },
+  "wardrobe": [
+    "gj_shirt_trousers_m",
+    "gj_kurta_m",
+    "gj_kediyu_garba_m"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

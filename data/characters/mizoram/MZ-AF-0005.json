@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AF-0005",
+  "name": "Vanlalhmangaihi",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "black hair tied back",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "mz_ngotekherh_f",
+    "mz_church_dress_f",
+    "mz_hmaram_f",
+    "mz_puanchei_f"
+  ],
+  "language": [
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "CH-AM-0016",
+  "name": "Rahul Kumar",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "tall and strong",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "ch_shirt_jeans_m",
+    "ch_kurta_pajama_m",
+    "ch_saluka_m",
+    "ch_shawl"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

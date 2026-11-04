@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-OM-0007",
+  "name": "Bijen",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "mn_shirt_trousers_m",
+    "mn_dhoti_kurta_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Meiteilon"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

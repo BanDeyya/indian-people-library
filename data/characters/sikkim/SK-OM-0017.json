@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-OM-0017",
+  "name": "Pema",
+  "region": "sikkim",
+  "sub_region": "gangtok",
+  "community": "bhutia",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad weathered face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_bakhu_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Sikkimese (Bhutia)",
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

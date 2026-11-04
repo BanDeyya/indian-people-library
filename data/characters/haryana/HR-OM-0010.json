@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-OM-0010",
+  "name": "Sandeep",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "tall and wiry",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_pagri",
+    "hr_chaddar",
+    "hr_shirt_trousers_m"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

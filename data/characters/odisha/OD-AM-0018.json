@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0018",
+  "name": "Gopinath",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square weathered face",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "od_ikat_kurta_m",
+    "od_shirt_trousers_m",
+    "od_dhoti_kurta_m",
+    "od_gamuchha"
+  ],
+  "language": [
+    "Sambalpuri",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

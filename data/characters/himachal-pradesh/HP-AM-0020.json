@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0020",
+  "name": "Surat",
+  "region": "himachal-pradesh",
+  "sub_region": "kinnaur",
+  "community": "kinnaura",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "short greying hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "grey moustache"
+  },
+  "wardrobe": [
+    "hp_kinnaur_m",
+    "hp_shirt_trousers_m",
+    "hp_thepang",
+    "hp_shawl_m"
+  ],
+  "language": [
+    "Kinnauri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

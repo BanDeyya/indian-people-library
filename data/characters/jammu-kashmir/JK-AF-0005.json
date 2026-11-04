@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0005",
+  "name": "Nazira Bano",
+  "region": "jammu-kashmir",
+  "sub_region": "pir_panjal",
+  "community": "gujjar_bakarwal",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "herder",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "black hair under her cap",
+    "build": "slim",
+    "signature_mark": "small mole on her neck"
+  },
+  "wardrobe": [
+    "jk_gujjar_f",
+    "jk_lachko"
+  ],
+  "language": [
+    "Gojri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

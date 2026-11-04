@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-OF-0016",
+  "name": "Lakhi",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "mising",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with full cheeks and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "as_mising_ege_f",
+    "as_small_studs",
+    "as_mekhela_chador_f"
+  ],
+  "language": [
+    "Mising",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

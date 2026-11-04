@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0017",
+  "name": "Ramadevi Narasimhulu",
+  "region": "telangana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ts_gadwal_f",
+    "ts_langa_voni_f",
+    "ts_gollabama_f"
+  ],
+  "language": [
+    "Telugu",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

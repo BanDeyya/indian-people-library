@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0014",
+  "name": "Pooja Rani",
+  "region": "punjab",
+  "sub_region": "puadh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 83,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "pb_suit_f",
+    "pb_jhumka"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

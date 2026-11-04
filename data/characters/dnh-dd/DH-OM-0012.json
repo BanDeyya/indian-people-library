@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0012",
+  "name": "Chirag Jignesh",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dd_dhoti_kurta_m",
+    "dd_kurta_m",
+    "dd_kediyu_m"
+  ],
+  "language": [
+    "Gujarati",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

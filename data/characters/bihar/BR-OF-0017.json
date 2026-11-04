@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-OF-0017",
+  "name": "Meera",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "br_bhagalpuri_f",
+    "br_cotton_saree_f",
+    "br_sindoor",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Angika",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MP-OF-0015",
+  "name": "Vandana",
+  "region": "madhya-pradesh",
+  "sub_region": "bundelkhand",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 80,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair under her lugra",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "mp_lehenga_lugra_f",
+    "mp_chanderi_f",
+    "mp_maheshwari_cotton_f"
+  ],
+  "language": [
+    "Malvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

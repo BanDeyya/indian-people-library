@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0005",
+  "name": "Rajib Daulagupu",
+  "region": "nagaland",
+  "sub_region": "dimapur_plains",
+  "community": "kachari",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with soft features",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small scar on his left cheek"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_trousers_m",
+    "nl_plain_shirt_m"
+  ],
+  "language": [
+    "Dimasa",
+    "Nagamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

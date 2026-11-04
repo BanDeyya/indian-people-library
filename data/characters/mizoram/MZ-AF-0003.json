@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AF-0003",
+  "name": "Lalnunmawii",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "black hair tied back",
+    "build": "slim",
+    "signature_mark": "mole on her left cheek"
+  },
+  "wardrobe": [
+    "mz_ngotekherh_f",
+    "mz_puanchei_f"
+  ],
+  "language": [
+    "Lai",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

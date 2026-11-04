@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OF-0018",
+  "name": "Farida",
+  "region": "rajasthan",
+  "sub_region": "mewat_braj",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with a strong nose",
+    "eyes": "dark brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "rj_ghagra_f",
+    "rj_festive_ghagra_f"
+  ],
+  "language": [
+    "Mewati",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0008",
+  "name": "Gopalan Sajeevan",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with a pointed chin",
+    "eyes": "brown eyes behind thin black glasses",
+    "hair": "short neatly combed black hair",
+    "build": "slim",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "kl_kasavu_mundu_m",
+    "kl_shirt_trousers_m",
+    "kl_melmundu_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-AM-0008",
+  "name": "Sourav Ratan",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "bengali_hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "lean face with sharp cheekbones",
+    "eyes": "large dark brown eyes",
+    "hair": "short black hair, greying at the sides",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "wb_dhoti_panjabi_m",
+    "wb_shirt_trousers_m",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

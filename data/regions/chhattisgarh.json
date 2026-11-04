@@ -1,0 +1,1338 @@
+{
+  "schema_version": 2,
+  "slug": "chhattisgarh",
+  "code": "CG",
+  "name": "Chhattisgarh",
+  "type": "state",
+  "zone": "central",
+  "capital": "Raipur",
+  "status": "reviewed",
+  "languages": [
+    "Hindi (official)",
+    "Chhattisgarhi",
+    "Gondi",
+    "Halbi",
+    "Kurukh",
+    "Sadri"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 93.25,
+      "muslim": 2.02,
+      "christian": 1.92,
+      "other": 2.81
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "plains",
+      "name": "Central plains",
+      "notes": "Raipur, Durg, Bilaspur, Rajnandgaon, Janjgir-Champa, Raigarh; the 'rice bowl', Chhattisgarhi-speaking; kosa weaving in Champa and Raigarh."
+    },
+    {
+      "id": "bastar",
+      "name": "Bastar",
+      "notes": "Jagdalpur, Dantewada, Kanker, Kondagaon, Narayanpur and the south; sal forests, many Adivasi communities, Halbi and Gondi; Bastar Dussehra."
+    },
+    {
+      "id": "north",
+      "name": "North Chhattisgarh",
+      "notes": "Surguja, Ambikapur, Jashpur, Korba, Balrampur; hills and forests; Oraon and Kanwar communities; larger Christian community in Jashpur."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Chhattisgarhi",
+      "religion": "hindu",
+      "prompt": "Chhattisgarhi",
+      "notes": "Men: dhoti with kurta or shirt and a cloth pagdi. Women: cotton saree in the knee-length lugda drape for field work; kosa silk for weddings and festivals; bichiya and kardhan (not by widows) when married; silver painjan anklets.",
+      "names": {
+        "female": [
+          "Sukwaro",
+          "Janki",
+          "Pooja",
+          "Muskan",
+          "Sunita",
+          "Rameshwari",
+          "Kiran",
+          "Dulari",
+          "Phoolbasan",
+          "Sarita",
+          "Champa",
+          "Lata",
+          "Rukmani",
+          "Radha",
+          "Gayatri",
+          "Shanti",
+          "Kamla",
+          "Indu",
+          "Basanti",
+          "Ganga",
+          "Uma",
+          "Pushpa",
+          "Lalita",
+          "Savitri",
+          "Rekha",
+          "Nirmala",
+          "Durga",
+          "Yamuna"
+        ],
+        "male": [
+          "Budhram",
+          "Dukalu",
+          "Deepak",
+          "Rohan",
+          "Santosh",
+          "Rameshwar",
+          "Bhupendra",
+          "Tikeshwar",
+          "Kamlesh",
+          "Ghanshyam",
+          "Mohan",
+          "Sukhram",
+          "Ramkumar",
+          "Shivkumar",
+          "Bhupesh",
+          "Tikaram",
+          "Dilip",
+          "Lakhan",
+          "Govind",
+          "Manoj",
+          "Ganesh",
+          "Kailash",
+          "Rajkumar",
+          "Bisahu",
+          "Dhaniram",
+          "Pawan"
+        ],
+        "second_female": [
+          "Bai",
+          "Kumari"
+        ],
+        "second_male": [
+          "Ram",
+          "Kumar"
+        ]
+      }
+    },
+    {
+      "id": "gond",
+      "name": "Gond and other Bastar Adivasi communities",
+      "culture": "Gond and Bastar Adivasi",
+      "prompt": "Gond Adivasi",
+      "sub_regions": [
+        "bastar",
+        "north",
+        "plains"
+      ],
+      "notes": "Bastar cotton sarees with prints of local plants and animals; tribal women wear the husli/sutia silver neck ring; dokra and bead jewellery at festivals. Includes Muria and Maria (no Abujhmaria characters).",
+      "names": {
+        "female": [
+          "Sukli",
+          "Somari",
+          "Phulo",
+          "Budhni",
+          "Kamla",
+          "Rajo",
+          "Sumitra",
+          "Dhaneshwari",
+          "Mangli",
+          "Jaymati",
+          "Rajkumari",
+          "Shanti",
+          "Kamli",
+          "Lalita",
+          "Bhagwati",
+          "Dhaniya",
+          "Chandrakali",
+          "Sunita",
+          "Phulwati",
+          "Durga",
+          "Mangali",
+          "Sukwari",
+          "Ramkali",
+          "Shyamwati",
+          "Kamala"
+        ],
+        "male": [
+          "Lakhmu",
+          "Somaru",
+          "Budhru",
+          "Mangal",
+          "Sukhram",
+          "Ramlal",
+          "Dhanu",
+          "Bhagat",
+          "Pandru",
+          "Jagdev",
+          "Budhram",
+          "Ramsingh",
+          "Lakhan",
+          "Sukhlal",
+          "Dhaniram",
+          "Shyamlal",
+          "Mohan",
+          "Jagat",
+          "Pancham",
+          "Hiralal",
+          "Dashrath"
+        ]
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Chhattisgarhi",
+      "religion": "christian",
+      "prompt": "Chhattisgarhi Christian",
+      "sub_regions": [
+        "north",
+        "plains"
+      ],
+      "notes": "Largest in Jashpur and Surguja. Specific dress not yet sourced.",
+      "names": {
+        "female": [
+          "Mary",
+          "Anita",
+          "Grace",
+          "Pushpa",
+          "Sushila",
+          "Esther",
+          "Kiran",
+          "Rekha",
+          "Martha",
+          "Sunita",
+          "Lily",
+          "Shanti",
+          "Ruth",
+          "Agnes"
+        ],
+        "male": [
+          "Anil",
+          "Paulus",
+          "Prakash",
+          "Samuel",
+          "Emmanuel",
+          "Daniel",
+          "Raju",
+          "Peter",
+          "John",
+          "Joseph",
+          "Sunil",
+          "Prabhu",
+          "Thomas",
+          "Vinod"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Chhattisgarhi",
+      "religion": "muslim",
+      "prompt": "Chhattisgarhi Muslim",
+      "sub_regions": [
+        "plains"
+      ],
+      "notes": "Mostly in towns. Specific dress not yet sourced.",
+      "names": {
+        "female": [
+          "Rukhsana",
+          "Nazia",
+          "Shabana",
+          "Farzana",
+          "Ayesha",
+          "Nasreen",
+          "Shaheen",
+          "Sana",
+          "Rubina",
+          "Zainab",
+          "Fatima",
+          "Hina",
+          "Parveen",
+          "Asma",
+          "Shabnam",
+          "Nargis",
+          "Sadia",
+          "Zeenat",
+          "Tabassum",
+          "Kausar",
+          "Afsana",
+          "Gulshan",
+          "Nusrat",
+          "Rehana",
+          "Ishrat",
+          "Shagufta",
+          "Mehnaz",
+          "Saba",
+          "Bushra",
+          "Huma"
+        ],
+        "male": [
+          "Imran",
+          "Arif",
+          "Salim",
+          "Shahid",
+          "Irfan",
+          "Javed",
+          "Rashid",
+          "Aslam",
+          "Faisal",
+          "Naseem",
+          "Sajid",
+          "Tariq",
+          "Wasim",
+          "Zubair",
+          "Rizwan",
+          "Salman",
+          "Zafar",
+          "Anwar",
+          "Nadeem",
+          "Shakeel",
+          "Asif",
+          "Kamran",
+          "Iqbal"
+        ],
+        "second_female": [
+          "Parveen",
+          "Khatoon",
+          "Bano"
+        ],
+        "second_male": [
+          "Ahmad",
+          "Ali",
+          "Hussain",
+          "Akhtar"
+        ]
+      }
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      5,
+      9
+    ],
+    "hair": "Black hair, often in a bun.",
+    "notes": "Wheatish to deep brown. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus Kumar, Devi, Bai or father's name. Many surnames mark caste or sect (e.g. Sahu, Verma, Sharma); never use them, and never label characters by caste-linked sects."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "cg_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "cg_dhoti_kurta_m",
+      "name": "Dhoti-kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white dhoti with a cotton kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "aza_cg"
+      ]
+    },
+    {
+      "id": "cg_pagdi",
+      "name": "Pagdi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "white cloth pagdi tied on the head",
+      "short": "white cloth pagdi",
+      "sources": [
+        "aza_cg"
+      ]
+    },
+    {
+      "id": "cg_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "cg_lugda_f",
+      "name": "Lugda saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "cotton saree draped in the knee-length lugda style",
+      "short": "knee-length lugda saree",
+      "sources": [
+        "aza_cg"
+      ]
+    },
+    {
+      "id": "cg_cotton_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "simple cotton saree",
+      "short": "cotton saree",
+      "sources": [
+        "aza_cg"
+      ]
+    },
+    {
+      "id": "cg_kosa_f",
+      "name": "Kosa silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "kosa silk saree with a subtle golden sheen",
+      "short": "kosa silk saree",
+      "sources": [
+        "aza_cg",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "cg_bastar_saree_f",
+      "name": "Bastar cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gond",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "cotton Bastar saree printed with local plant and animal motifs",
+      "short": "printed Bastar cotton saree",
+      "sources": [
+        "aza_cg"
+      ]
+    },
+    {
+      "id": "cg_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": []
+    },
+    {
+      "id": "cg_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "cg_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton frock with full-length leggings",
+      "short": "girl's frock and leggings",
+      "sources": []
+    },
+    {
+      "id": "cg_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk skirt with a long-sleeved blouse",
+      "short": "girl's long silk skirt",
+      "sources": []
+    },
+    {
+      "id": "cg_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "cg_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "cg_bichiya",
+      "name": "Bichiya (toe rings)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "silver toe rings",
+      "short": "silver toe rings",
+      "sources": [
+        "sahapedia_cg_ornaments",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "cg_kardhan",
+      "name": "Kardhan (waist chain)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "silver kardhan waist chain",
+      "short": "silver waist chain",
+      "sources": [
+        "sahapedia_cg_ornaments"
+      ]
+    },
+    {
+      "id": "cg_sutia",
+      "name": "Sutia (silver neck ring)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gond",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "heavy silver sutia neck ring",
+      "short": "silver neck ring",
+      "sources": [
+        "sahapedia_cg_ornaments"
+      ]
+    },
+    {
+      "id": "cg_painjan",
+      "name": "Painjan anklets",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silver painjan anklets",
+      "short": "silver anklets",
+      "sources": [
+        "aza_cg",
+        "sahapedia_cg_ornaments"
+      ]
+    },
+    {
+      "id": "cg_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "cg_lugda_f"
+        ],
+        [
+          "cg_cotton_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "cg_kosa_f"
+        ],
+        [
+          "cg_bastar_saree_f",
+          "cg_sutia"
+        ]
+      ],
+      "reason": "Knee-length lugda or cotton saree daily; kosa silk for weddings; Bastar saree for Bastar women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "cg_dhoti_kurta_m",
+          "cg_pagdi"
+        ],
+        [
+          "cg_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "cg_dhoti_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta with pagdi."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "cg_lugda_f"
+        ]
+      ],
+      "festive": [
+        [
+          "cg_kosa_f"
+        ]
+      ],
+      "reason": "Lugda."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "cg_dhoti_kurta_m",
+          "cg_pagdi"
+        ]
+      ],
+      "festive": [
+        [
+          "cg_dhoti_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "cg_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "cg_kids_g_fest"
+        ]
+      ],
+      "reason": "Long silk skirt."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "cg_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "cg_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "hareli",
+      "name": "Hareli",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "gond"
+      ],
+      "when": "July-August (Saavan new moon)",
+      "scene": "Hareli, cleaned farm tools laid out for worship and children walking on tall bamboo gedi stilts by green paddy fields",
+      "scene_short": "Hareli tools and gedi stilts"
+    },
+    {
+      "id": "pola",
+      "name": "Pola",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "gond"
+      ],
+      "when": "August-September (Bhadon new moon)",
+      "scene": "Pola, decorated oxen and clay bull toys outside village houses",
+      "scene_short": "Pola decorated oxen"
+    },
+    {
+      "id": "bastar_dussehra",
+      "name": "Bastar Dussehra",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "gond",
+        "hindu"
+      ],
+      "when": "July/August-October (rituals over 75 days; the main ten days end on Dussehra)",
+      "sub_regions": [
+        "bastar"
+      ],
+      "scene": "Bastar Dussehra in Jagdalpur, crowds pulling a huge wooden chariot",
+      "scene_short": "Bastar Dussehra chariot"
+    },
+    {
+      "id": "diwali_cg",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "gond"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, clay lamps at the doorstep of a village house",
+      "scene_short": "Diwali lamps"
+    },
+    {
+      "id": "christmas_cg",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "christian"
+      ],
+      "when": "December",
+      "scene": "Christmas evening, star lanterns outside a church in a hill town",
+      "scene_short": "Christmas star lanterns"
+    },
+    {
+      "id": "eid_cg",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in a town lane",
+      "scene_short": "Eid morning lane"
+    },
+    {
+      "id": "wedding_guest_cg",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding under a decorated canopy",
+      "scene_short": "wedding canopy"
+    }
+  ],
+  "settings": [
+    {
+      "id": "raipur_street",
+      "type": "urban",
+      "description": "busy Raipur market street",
+      "short": "Raipur market",
+      "sub_regions": [
+        "plains"
+      ]
+    },
+    {
+      "id": "bilaspur_street",
+      "type": "urban",
+      "description": "Bilaspur town street",
+      "short": "Bilaspur street",
+      "sub_regions": [
+        "plains"
+      ]
+    },
+    {
+      "id": "jagdalpur_market",
+      "type": "urban",
+      "description": "Jagdalpur town market",
+      "short": "Jagdalpur market",
+      "sub_regions": [
+        "bastar"
+      ]
+    },
+    {
+      "id": "ambikapur_street",
+      "type": "urban",
+      "description": "Ambikapur town street with hills behind",
+      "short": "Ambikapur street",
+      "sub_regions": [
+        "north"
+      ]
+    },
+    {
+      "id": "rice_plains",
+      "type": "rural",
+      "description": "flat paddy fields with a village pond and mango trees",
+      "short": "paddy fields and pond",
+      "sub_regions": [
+        "plains"
+      ]
+    },
+    {
+      "id": "bastar_village",
+      "type": "rural",
+      "description": "village of tiled mud houses in a sal forest",
+      "short": "Bastar forest village",
+      "sub_regions": [
+        "bastar"
+      ]
+    },
+    {
+      "id": "bastar_haat",
+      "type": "rural",
+      "description": "weekly haat market under big trees",
+      "short": "weekly haat under trees",
+      "sub_regions": [
+        "bastar"
+      ]
+    },
+    {
+      "id": "north_hills",
+      "type": "rural",
+      "description": "village on forested hills with terraced fields",
+      "short": "forested hill village",
+      "sub_regions": [
+        "north"
+      ]
+    },
+    {
+      "id": "chitrakote",
+      "type": "nature",
+      "description": "wide waterfall on the Indravati river",
+      "short": "Indravati waterfall",
+      "sub_regions": [
+        "bastar"
+      ]
+    },
+    {
+      "id": "home_city_cg",
+      "type": "home",
+      "description": "rooftop of a city house with potted plants",
+      "short": "city rooftop",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_cg",
+      "type": "home",
+      "description": "village courtyard with a clay stove and a tulsi platform",
+      "short": "village courtyard",
+      "lives_in": "rural",
+      "communities": [
+        "hindu"
+      ]
+    },
+    {
+      "id": "home_village_cg2",
+      "type": "home",
+      "description": "mud house verandah with painted walls",
+      "short": "painted mud verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_cg",
+      "type": "work",
+      "description": "office in Raipur",
+      "short": "Raipur office",
+      "sub_regions": [
+        "plains"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "transplanting paddy"
+    },
+    {
+      "id": "weaver",
+      "name": "Kosa weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving kosa silk at a handloom"
+    },
+    {
+      "id": "dokra_artisan",
+      "name": "Dokra metal artisan",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "shaping a dokra figure"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot (April-June).",
+    "monsoon": "Heavy (June-September); paddy season.",
+    "winter": "Cool, cold nights in the north."
+  },
+  "heritage": [
+    {
+      "id": "bastar_court",
+      "name": "Bastar royal court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "dance_headgear",
+      "name": "Feathered and horned dance headgear",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Dance headgear with feathers, cowries and horns belongs to performers and community rituals; not given to characters.",
+      "sources": [
+        "aza_cg"
+      ]
+    },
+    {
+      "id": "ghotul",
+      "name": "Ghotul",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Community youth institution long sensationalised by outsiders; not shown.",
+      "sources": []
+    },
+    {
+      "id": "village_rites",
+      "name": "Baiga (village ritual head) rites",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Ritual roles at Hareli and other rites; characters appear as farmers and families.",
+      "sources": [
+        "sahapedia_hareli"
+      ]
+    }
+  ],
+  "avoid": [
+    "Naxal or Maoist conflict, security forces or violence imagery.",
+    "'Primitive', 'exotic' or ghotul-sensational framing of Adivasi people.",
+    "Caste or caste-linked sect labels; caste-named ornaments.",
+    "Poverty-only or mining-displacement framing.",
+    "Feathered or horned headgear on characters."
+  ],
+  "todo": [
+    "Muslim and Christian dress with sources.",
+    "Muria, Maria, Halba, Dhurwa, Bhatra, Oraon and Kanwar dress with sources; PVTGs (Abujhmaria, Baiga, Birhor, Kamar, Pahari Korwa) held back.",
+    "Teeja, Cherchera, Rajim Maghi Punni Mela, Madai fairs with sources.",
+    "Native review (plains and Bastar)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Chhattisgarh religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/22-chhattisgarh.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_cg",
+      "title": "Chhattisgarh heritage textiles and traditional style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/chhattisgarh-heritage-textiles-traditional-style",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "sahapedia_cg_ornaments",
+      "title": "Folk ornaments of Chhattisgarh (Sahapedia)",
+      "url": "https://www.sahapedia.org/folk-ornaments-of-chhattisgarh",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "sahapedia_hareli",
+      "title": "Agricultural festivals of Hareli and Pola (Sahapedia)",
+      "url": "https://www.sahapedia.org/celebration-of-labor-agricultural-festivals-of-hareli-and-pola-chhattisgarh",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "incredible_bastar",
+      "title": "Bastar Dussehra (Incredible India, Ministry of Tourism)",
+      "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/chhattisgarh/bastar-dussehra",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_cg_festivals",
+      "title": "Festivals of Chhattisgarh (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Festivals_of_Chhattisgarh",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "sahapedia_hareli_pola",
+      "title": "Agricultural festivals of Hareli and Pola (Sahapedia)",
+      "url": "https://www.sahapedia.org/celebration-of-labor-agricultural-festivals-of-hareli-and-pola-chhattisgarh",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (1 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Confirmed: Hareli on the Saavan new moon with gedi stilts and tool worship, Pola on the Bhadon new moon with decorated oxen (Sahapedia and Wikipedia's Festivals of Chhattisgarh).",
+      "Conflict resolved: Wikipedia's Festivals of Chhattisgarh and most reports give Bastar Dussehra 75 days, while Wikipedia's Bastar Dussehra page describes ten days of worship; both are true (75 days of rituals, ten main days), so the date text now says so.",
+      "Open (single commercial source): knee-length lugda drape and Bastar printed saree come from Aza Fashions only; Sahapedia's ornament list supports the toe rings, kardhan and sutia."
+    ]
+  }
+}

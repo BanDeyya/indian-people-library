@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MP-AM-0013",
+  "name": "Arjun Kumar",
+  "region": "madhya-pradesh",
+  "sub_region": "mahakoshal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 64,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "mp_dhoti_kurta_m",
+    "mp_shirt_trousers_m",
+    "mp_bandi_m",
+    "mp_gamchha",
+    "mp_safa",
+    "mp_mirzai"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

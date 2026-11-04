@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "OD-OM-0013",
+  "name": "Debasis Dhaneswar",
+  "region": "odisha",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square weathered face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "od_dhoti_kurta_m",
+    "od_ikat_kurta_m"
+  ],
+  "language": [
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

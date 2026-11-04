@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PY-AF-0012",
+  "name": "Muthulakshmi Kumaran",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "py_silk_saree_f",
+    "py_churidar_f",
+    "py_jasmine"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

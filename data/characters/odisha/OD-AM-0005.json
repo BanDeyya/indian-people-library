@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0005",
+  "name": "Akhtar Hussain",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short greying hair",
+    "facial_hair": "short grey beard",
+    "build": "thin",
+    "signature_mark": "mole on his forehead"
+  },
+  "wardrobe": [
+    "od_kurta_pyjama_m",
+    "od_shirt_trousers_m"
+  ],
+  "language": [
+    "Odia",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

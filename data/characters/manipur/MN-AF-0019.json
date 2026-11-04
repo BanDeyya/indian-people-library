@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-AF-0019",
+  "name": "Nengboi",
+  "region": "manipur",
+  "sub_region": "south_hills",
+  "community": "kuki_zo",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 54,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "shoulder-length straight black hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "mn_modern_f",
+    "mn_ponve_f",
+    "mn_velvet_jacket_f"
+  ],
+  "language": [
+    "Thadou",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

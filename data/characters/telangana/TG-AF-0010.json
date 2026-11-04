@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0010",
+  "name": "Sunitha",
+  "region": "telangana",
+  "sub_region": "warangal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "long black plait",
+    "build": "strong",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "ts_salwar_f",
+    "ts_modern_f",
+    "ts_pochampally_f",
+    "ts_gadwal_f",
+    "ts_jasmine",
+    "ts_mangalsutra"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

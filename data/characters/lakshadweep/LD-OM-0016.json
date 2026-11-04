@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LD-OM-0016",
+  "name": "Ismail Koya",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "large dark eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white beard"
+  },
+  "wardrobe": [
+    "ld_lungi_shirt_m",
+    "ld_white_mundu_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

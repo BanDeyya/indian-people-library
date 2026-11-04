@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AS-AM-0017",
+  "name": "Bharat",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "mising",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with full cheeks and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "as_shirt_m",
+    "as_mibu_galuk_m",
+    "as_white_wrap_m",
+    "as_damur"
+  ],
+  "language": [
+    "Mising",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

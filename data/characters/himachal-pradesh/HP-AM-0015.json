@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0015",
+  "name": "Chuni Chand",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "gaddi",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "shepherd",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long weathered face",
+    "eyes": "light brown eyes",
+    "hair": "short black hair",
+    "build": "tall and strong",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "full beard"
+  },
+  "wardrobe": [
+    "hp_chola_m",
+    "hp_shirt_trousers_m",
+    "hp_topi",
+    "hp_shawl_m"
+  ],
+  "language": [
+    "Gaddi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

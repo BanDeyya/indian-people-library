@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0002",
+  "name": "Radha Kumari",
+  "region": "uttar-pradesh",
+  "sub_region": "braj",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small birthmark on her right wrist"
+  },
+  "wardrobe": [
+    "up_salwar_f",
+    "up_lehenga_f",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Braj Bhasha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

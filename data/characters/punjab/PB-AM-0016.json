@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "PB-AM-0016",
+  "name": "Karan",
+  "region": "punjab",
+  "sub_region": "puadh",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with a short nose",
+    "eyes": "brown eyes",
+    "hair": "short black hair with a side parting",
+    "build": "stocky",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "neat moustache"
+  },
+  "wardrobe": [
+    "pb_shirt_jeans_m",
+    "pb_kurta_pajama_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

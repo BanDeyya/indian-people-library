@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AP-AM-0004",
+  "name": "Mohammed Ghouse",
+  "region": "andhra-pradesh",
+  "sub_region": "rayalaseema",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "average",
+    "signature_mark": "mole on his forehead"
+  },
+  "wardrobe": [
+    "ap_kurta_pyjama_m",
+    "ap_shirt_trousers_m"
+  ],
+  "language": [
+    "Urdu",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

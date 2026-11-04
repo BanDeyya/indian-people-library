@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-AM-0005",
+  "name": "Jigmet",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "buddhist",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "broad face with high cheekbones, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "la_modern_m",
+    "la_goncha_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

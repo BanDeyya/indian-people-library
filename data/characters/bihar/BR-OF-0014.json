@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-OF-0014",
+  "name": "Phoolmati Devi",
+  "region": "bihar",
+  "sub_region": "vajjika",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "br_bhagalpuri_f",
+    "br_cotton_saree_f",
+    "br_sindoor"
+  ],
+  "language": [
+    "Angika",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

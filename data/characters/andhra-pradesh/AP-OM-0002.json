@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "AP-OM-0002",
+  "name": "Srinivas Suresh",
+  "region": "andhra-pradesh",
+  "sub_region": "krishna_guntur",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ap_pancha_shirt_m",
+    "ap_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0007",
+  "name": "Smitha",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with high cheekbones and a straight nose",
+    "eyes": "dark brown eyes",
+    "hair": "long thick wavy black hair in a loose plait",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "kl_set_mundu_f",
+    "kl_churidar_f",
+    "kl_kasavu_saree_f",
+    "kl_temple_flowers"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

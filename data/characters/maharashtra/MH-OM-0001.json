@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-OM-0001",
+  "name": "Dattatray Shankar",
+  "region": "maharashtra",
+  "sub_region": "marathwada",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean weathered face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "facial_hair": "white moustache",
+    "build": "wiry",
+    "signature_mark": "mole beside his nose"
+  },
+  "wardrobe": [
+    "mh_dhoti_bandi_m",
+    "mh_gandhi_topi",
+    "mh_festive_kurta_m",
+    "mh_pheta",
+    "mh_kolhapuri"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

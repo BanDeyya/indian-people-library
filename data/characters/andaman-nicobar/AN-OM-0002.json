@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-OM-0002",
+  "name": "Pradip",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "bengali_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "weathered oval face",
+    "eyes": "large dark eyes",
+    "hair": "short grey hair",
+    "build": "wiry",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "an_shirt_trousers_m",
+    "an_lungi_m",
+    "an_dhoti_panjabi_m"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

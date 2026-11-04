@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0019",
+  "name": "Dilip",
+  "region": "nagaland",
+  "sub_region": "dimapur_plains",
+  "community": "kachari",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with soft features",
+    "eyes": "brown eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "nl_trousers_m",
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Dimasa",
+    "Nagamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "WB-AF-0007",
+  "name": "Kamala",
+  "region": "west-bengal",
+  "sub_region": "kolkata",
+  "community": "bengali_hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "thin face with deep wrinkles",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "wb_salwar_f",
+    "wb_tant_f",
+    "wb_laal_paar_f",
+    "wb_shakha_pola",
+    "wb_sindoor",
+    "wb_studs"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

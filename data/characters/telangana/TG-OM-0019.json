@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-OM-0019",
+  "name": "Shankar",
+  "region": "telangana",
+  "sub_region": "warangal",
+  "community": "lambada",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_turban_m",
+    "ts_kurta_pyjama_m"
+  ],
+  "language": [
+    "Lambadi",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "BR-OF-0020",
+  "name": "Rubina Khatoon",
+  "region": "bihar",
+  "sub_region": "seemanchal",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "mithila_artist",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "br_salwar_f",
+    "br_festive_suit_f",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "Magahi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

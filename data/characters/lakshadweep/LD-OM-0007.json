@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LD-OM-0007",
+  "name": "Shukoor Hussain",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "white beard"
+  },
+  "wardrobe": [
+    "ld_lungi_shirt_m",
+    "ld_white_mundu_m"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-OM-0009",
+  "name": "Rajeev Naresh",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined oval face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ch_kurta_pajama_m",
+    "ch_shawl",
+    "ch_shirt_jeans_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "OD-OM-0007",
+  "name": "Satyajit Pramod",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "od_ikat_kurta_m",
+    "od_dhoti_kurta_m"
+  ],
+  "language": [
+    "Desia",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

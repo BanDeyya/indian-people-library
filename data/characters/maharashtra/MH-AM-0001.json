@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0001",
+  "name": "Ganesh Vitthal",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "thick moustache",
+    "build": "stocky",
+    "signature_mark": "scar on his right forearm"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_festive_kurta_m",
+    "mh_pheta",
+    "mh_kolhapuri"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

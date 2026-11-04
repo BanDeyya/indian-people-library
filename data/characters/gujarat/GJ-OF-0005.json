@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OF-0005",
+  "name": "Kiran",
+  "region": "gujarat",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a soft chin",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "gj_bandhani_saree_f",
+    "gj_saree_f",
+    "gj_sindoor"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

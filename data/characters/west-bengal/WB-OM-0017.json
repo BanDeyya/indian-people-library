@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-OM-0017",
+  "name": "Mohidul Islam",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "long face with a strong jaw",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "short white hair",
+    "build": "stocky",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "white beard, trimmed"
+  },
+  "wardrobe": [
+    "wb_lungi_m",
+    "wb_pyjama_panjabi_m",
+    "wb_tupi",
+    "wb_shawl"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

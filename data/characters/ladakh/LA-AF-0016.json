@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-AF-0016",
+  "name": "Ruqaya",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "leh_muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "black hair tied back",
+    "build": "average",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "la_phiren_leh_f",
+    "la_salwar_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0020",
+  "name": "Anurag",
+  "region": "jharkhand",
+  "sub_region": "santhal_pargana",
+  "community": "christian",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 80,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "average",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Kurukh",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0003",
+  "name": "Sunita Devi",
+  "region": "uttar-pradesh",
+  "sub_region": "bundelkhand",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face with strong cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair covered by her saree pallu at the back",
+    "build": "strong",
+    "signature_mark": "small scar on her left hand"
+  },
+  "wardrobe": [
+    "up_cotton_saree_f",
+    "up_lehenga_f",
+    "up_sindoor",
+    "up_bichiya",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Bundeli",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

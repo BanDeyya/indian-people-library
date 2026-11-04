@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0009",
+  "name": "Usha Bhanwar",
+  "region": "rajasthan",
+  "sub_region": "mewar",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "heart-shaped face",
+    "eyes": "brown eyes",
+    "hair": "long black hair under her odhni",
+    "build": "plump",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "rj_festive_ghagra_f",
+    "rj_suit_f",
+    "rj_poshak_f",
+    "rj_bichiya",
+    "rj_silver_payal",
+    "rj_studs",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

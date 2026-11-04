@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0009",
+  "name": "Anjali",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face with soft features",
+    "eyes": "brown eyes behind thin black glasses",
+    "hair": "long thick wavy black hair in a loose plait",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "kl_churidar_f",
+    "kl_set_mundu_f",
+    "kl_kasavu_saree_f",
+    "kl_thali",
+    "kl_temple_flowers"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

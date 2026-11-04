@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0006",
+  "name": "Balaji",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face with deep forehead lines",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair with grey streaks",
+    "build": "stocky",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "thick black moustache"
+  },
+  "wardrobe": [
+    "tn_silk_veshti_m",
+    "tn_shirt_trousers_m"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

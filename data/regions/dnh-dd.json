@@ -1,0 +1,1552 @@
+{
+  "schema_version": 2,
+  "slug": "dnh-dd",
+  "code": "DH",
+  "name": "Dadra and Nagar Haveli and Daman and Diu",
+  "type": "union_territory",
+  "zone": "west",
+  "capital": "Daman",
+  "status": "reviewed",
+  "languages": [
+    "Gujarati (official)",
+    "Hindi (official)",
+    "Marathi",
+    "English",
+    "Varli",
+    "Kokna",
+    "Dhodia",
+    "Portuguese (a few families)"
+  ],
+  "religion_mix": {
+    "source": "census2011_dnh_dd",
+    "shares": {
+      "hindu": 92.51,
+      "muslim": 5.49,
+      "christian": 1.35,
+      "jain": 0.26,
+      "buddhist": 0.14,
+      "sikh": 0.06,
+      "other": 0.19
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ],
+    "note": "Religion shares combine the two former UTs by population; each agrees with its own row in Pew's 2011 table (Dadra and Nagar Haveli Hindu 94%, Daman and Diu Hindu 91%)."
+  },
+  "sub_regions": [
+    {
+      "id": "dnh",
+      "name": "Dadra and Nagar Haveli",
+      "notes": "Silvassa and forested villages; Warli, Kokna, Dhodia and other Adivasi communities; industry around Silvassa.",
+      "place": "Dadra and Nagar Haveli"
+    },
+    {
+      "id": "daman",
+      "name": "Daman",
+      "notes": "Moti and Nani Daman on either side of the Damanganga creek; Portuguese fort, churches; Gujarati fishing families; Nariyal Purnima.",
+      "place": "Daman"
+    },
+    {
+      "id": "diu",
+      "name": "Diu",
+      "notes": "Island off Saurashtra; Diu fort; Gujarati fishing and trading families.",
+      "place": "Diu"
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Gujarati",
+      "religion": "hindu",
+      "prompt": "Gujarati",
+      "notes": "Gujarati families of Daman, Diu and Silvassa, including fishing communities; sarees with the pallu in front, chaniya choli for garba; kurta-pyjama and dhoti; sindoor when married.",
+      "names": {
+        "female": [
+          "Diya",
+          "Hetal",
+          "Krupa",
+          "Shantaben",
+          "Jyotsna",
+          "Krisha",
+          "Bhavna",
+          "Nisha",
+          "Daksha",
+          "Kinjal",
+          "Rekha",
+          "Mittal",
+          "Parul",
+          "Hansaben",
+          "Asha",
+          "Meena",
+          "Kokila",
+          "Kiran",
+          "Jagruti",
+          "Pinal",
+          "Dimple",
+          "Foram",
+          "Rupal",
+          "Bhumi",
+          "Hemlata",
+          "Manisha",
+          "Kajal",
+          "Chetna",
+          "Nayna"
+        ],
+        "male": [
+          "Nilesh",
+          "Bharat",
+          "Jay",
+          "Bhavesh",
+          "Jivanbhai",
+          "Hiren",
+          "Mehul",
+          "Paresh",
+          "Kalpesh",
+          "Dinesh",
+          "Rajesh",
+          "Ketan",
+          "Mukesh",
+          "Jignesh",
+          "Mahesh",
+          "Hitesh",
+          "Chirag",
+          "Jayesh",
+          "Vipul",
+          "Hardik"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "warli",
+      "name": "Warli",
+      "culture": "Warli (Varli)",
+      "prompt": "Warli Adivasi",
+      "sub_regions": [
+        "dnh"
+      ],
+      "notes": "Largest Adivasi community of Dadra and Nagar Haveli; Warli painting and Tarpa dance. Women: knee-length lugden with a padar over the upper body, black-bead kali ganthi when married. Men: shirt, waistcoat, long dhoti and a head cloth.",
+      "names": {
+        "female": [
+          "Kamli",
+          "Sumi",
+          "Jayu",
+          "Nami",
+          "Sakhu",
+          "Hirki",
+          "Bhimi",
+          "Ganga",
+          "Yamuna",
+          "Laxmi",
+          "Shevanti",
+          "Sunita",
+          "Kamala",
+          "Jijabai",
+          "Mangala",
+          "Rami",
+          "Lakshmi",
+          "Savita",
+          "Chandra",
+          "Parvati",
+          "Sita",
+          "Sarita",
+          "Durga",
+          "Bhagi",
+          "Jaya",
+          "Kusum"
+        ],
+        "male": [
+          "Ramesh",
+          "Sanjay",
+          "Shivram",
+          "Jivya",
+          "Kalu",
+          "Budhya",
+          "Somnath",
+          "Ganpat",
+          "Lahanu",
+          "Raghu",
+          "Balu",
+          "Sadashiv",
+          "Shankar",
+          "Kashinath",
+          "Raju",
+          "Vasant",
+          "Mahadu",
+          "Laxman",
+          "Dattu",
+          "Kisan",
+          "Bhagwan",
+          "Rama"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "dhodia",
+      "name": "Dhodia",
+      "culture": "Dhodia",
+      "prompt": "Dhodia Adivasi",
+      "sub_regions": [
+        "dnh"
+      ],
+      "notes": "Adivasi community known by the women's draping of the sari; bright, often blue sarees. Holi with tur and drum, Diwaso. Body tattoos of older women not depicted.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Kokila",
+          "Manjula",
+          "Sarita",
+          "Ramila",
+          "Jashoda",
+          "Hansa",
+          "Rekha",
+          "Usha",
+          "Kamla",
+          "Savita",
+          "Nirmala",
+          "Geeta",
+          "Bhavna"
+        ],
+        "male": [
+          "Ramesh",
+          "Ganpat",
+          "Naresh",
+          "Kishan",
+          "Dinesh",
+          "Mohan",
+          "Babu",
+          "Ishwar",
+          "Jayesh",
+          "Prakash",
+          "Natu",
+          "Mahesh",
+          "Suresh",
+          "Kanu"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "kokna",
+      "name": "Kokna",
+      "culture": "Kokna",
+      "sub_regions": [
+        "dnh"
+      ],
+      "notes": "Adivasi community; colourful sarees; Tarpa dance. No characters yet."
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Gujarati",
+      "religion": "muslim",
+      "prompt": "Muslim",
+      "sub_regions": [
+        "daman",
+        "diu",
+        "dnh"
+      ],
+      "notes": "Gujarati-speaking Muslim families in Daman, Diu and Silvassa.",
+      "names": {
+        "female": [
+          "Rehana",
+          "Shabana",
+          "Farida",
+          "Ruksana",
+          "Yasmin",
+          "Nasim",
+          "Shahin",
+          "Hasina",
+          "Salma",
+          "Mehrunnisa",
+          "Sakina",
+          "Zubeda",
+          "Nasreen",
+          "Shahnaz",
+          "Rubina",
+          "Hamida",
+          "Shabnam",
+          "Mumtaz",
+          "Amina",
+          "Zarina",
+          "Rehmat",
+          "Sultana",
+          "Kulsum",
+          "Jannat",
+          "Afsana",
+          "Najma"
+        ],
+        "male": [
+          "Irfan",
+          "Yusuf",
+          "Salim",
+          "Javed",
+          "Iqbal",
+          "Asif",
+          "Rafiq",
+          "Imran",
+          "Ayub",
+          "Ismail",
+          "Hanif",
+          "Ibrahim",
+          "Aslam",
+          "Siraj",
+          "Firoz",
+          "Altaf",
+          "Farooq",
+          "Gulam"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "catholic",
+      "name": "Catholic",
+      "culture": "Luso-Indian (Daman and Diu)",
+      "religion": "christian",
+      "prompt": "Catholic",
+      "sub_regions": [
+        "daman",
+        "diu"
+      ],
+      "notes": "Small Catholic community with Portuguese-era roots; dresses, lace church dresses; Christmas with Portuguese dances. Pano bhaju is older dress.",
+      "names": {
+        "female": [
+          "Maria",
+          "Rita",
+          "Sandra",
+          "Celina",
+          "Sharon",
+          "Luiza",
+          "Anita",
+          "Eliza",
+          "Teresa",
+          "Clara",
+          "Monica",
+          "Rosy"
+        ],
+        "male": [
+          "Joseph",
+          "Anthony",
+          "Peter",
+          "Francis",
+          "Joao",
+          "Lawrence",
+          "Mario",
+          "Ivan",
+          "Paul",
+          "Michael",
+          "Victor",
+          "Dominic"
+        ]
+      }
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      8
+    ],
+    "hair": "Black hair.",
+    "notes": "Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Gujarati given names; surnames mark caste."
+    },
+    {
+      "community": "warli",
+      "notes": "Given names only."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "dd_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "dd_kurta_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": [
+        "iz_ut_costumes",
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "dd_dhoti_kurta_m",
+      "name": "Dhoti and kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "white dhoti with a cotton kurta",
+      "short": "dhoti and kurta",
+      "sources": [
+        "iz_ut_costumes",
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "dd_kediyu_m",
+      "name": "Kediyu for garba",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "embroidered kediyu with churidar",
+      "short": "embroidered kediyu",
+      "sources": [
+        "garvi_navratri",
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "dd_topi_m",
+      "name": "Prayer cap",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "white crocheted cotton prayer cap",
+      "short": "white prayer cap",
+      "sources": [
+        "wiki_taqiyah"
+      ]
+    },
+    {
+      "id": "dd_warli_m",
+      "name": "Warli men's dress",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "warli",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "cotton shirt with a waistcoat and a long dhoti, cloth tied on the head",
+      "short": "shirt, waistcoat, dhoti and head cloth",
+      "sources": [
+        "iz_ut_costumes",
+        "trti_warli"
+      ]
+    },
+    {
+      "id": "dd_fisher_m",
+      "name": "Fisherman's work clothes",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "folded checked lungi with a vest and a towel on the shoulder",
+      "short": "folded lungi and vest",
+      "sources": []
+    },
+    {
+      "id": "dd_smart_m",
+      "name": "Pressed shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "pressed long-sleeved shirt with dark trousers",
+      "short": "pressed shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "dd_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton saree draped with the pallu in front",
+      "short": "cotton saree, pallu in front",
+      "sources": [
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "dd_chaniya_f",
+      "name": "Chaniya choli",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "flared chaniya skirt with mirror work, embroidered choli and a bandhani odhni",
+      "short": "chaniya choli",
+      "sources": [
+        "garvi_navratri",
+        "iz_ut_costumes",
+        "wiki_gi_list",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "dd_bandhani_saree_f",
+      "name": "Bandhani saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "red bandhani tie-dye saree with the pallu in front",
+      "short": "red bandhani saree",
+      "sources": [
+        "garvi_navratri",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "dd_salwar_f",
+      "name": "Salwar suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar suit",
+      "sources": []
+    },
+    {
+      "id": "dd_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "dd_lugden_f",
+      "name": "Lugden with padar",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "warli",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "knee-length lugden sari with a padar cloth over the upper body, worn with a blouse",
+      "short": "lugden sari with padar",
+      "sources": [
+        "iz_ut_costumes",
+        "trti_warli"
+      ]
+    },
+    {
+      "id": "dd_dhodia_saree_f",
+      "name": "Dhodia saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "dhodia",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "bright blue cotton saree draped in the Dhodia style, with a blouse",
+      "short": "blue Dhodia-draped saree",
+      "sources": [
+        "iz_ut_costumes",
+        "trti_dhodia"
+      ]
+    },
+    {
+      "id": "dd_dress_f",
+      "name": "Dress",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "catholic",
+      "prompt": "knee-length cotton dress with sleeves",
+      "short": "cotton dress",
+      "sources": []
+    },
+    {
+      "id": "dd_church_dress_f",
+      "name": "Church dress",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "catholic",
+      "prompt": "long dress with lace trim",
+      "short": "long lace-trimmed dress",
+      "sources": []
+    },
+    {
+      "id": "dd_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton kurta with full-length leggings",
+      "short": "girl's kurta and leggings",
+      "sources": []
+    },
+    {
+      "id": "dd_kids_g_fest",
+      "name": "Girl's chaniya choli",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length chaniya choli with long sleeves and a small odhni",
+      "short": "girl's chaniya choli",
+      "sources": [
+        "garvi_navratri",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "dd_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "dd_kids_b_fest",
+      "name": "Boy's kurta-pyjama",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton kurta with pyjama",
+      "short": "boy's kurta and pyjama",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "dd_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "dd_kali_ganthi",
+      "name": "Kali ganthi",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "warli",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "black-bead kali ganthi necklace",
+      "short": "black-bead necklace",
+      "sources": [
+        "trti_warli"
+      ]
+    },
+    {
+      "id": "dd_cross",
+      "name": "Small gold cross",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "catholic",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "small gold cross on a thin chain",
+      "short": "small gold cross",
+      "sources": []
+    },
+    {
+      "id": "dd_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "dd_saree_f"
+        ],
+        [
+          "dd_lugden_f"
+        ]
+      ],
+      "festive": [
+        [
+          "dd_chaniya_f"
+        ],
+        [
+          "dd_bandhani_saree_f"
+        ]
+      ],
+      "reason": "Gujarati saree and chaniya choli; lugden and padar among Warli women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "dd_shirt_trousers_m"
+        ],
+        [
+          "dd_warli_m"
+        ]
+      ],
+      "festive": [
+        [
+          "dd_kurta_m"
+        ],
+        [
+          "dd_kediyu_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama; kediyu for garba."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "dd_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "dd_bandhani_saree_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "dd_dhoti_kurta_m"
+        ]
+      ],
+      "festive": [
+        [
+          "dd_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "dd_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "dd_kids_g_fest"
+        ]
+      ],
+      "reason": "Chaniya choli."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "dd_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "dd_kids_b_fest"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "tarpa",
+      "name": "Tarpa dance festival",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "warli",
+        "dhodia",
+        "kokna"
+      ],
+      "sub_regions": [
+        "dnh"
+      ],
+      "when": "26-31 December (post-harvest)",
+      "scene": "Tarpa dance under the moonlight, villagers dancing in a circle around a tarpa player",
+      "scene_short": "Tarpa circle dance"
+    },
+    {
+      "id": "nariyal_purnima",
+      "name": "Nariyal Purnima",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "sub_regions": [
+        "daman",
+        "diu"
+      ],
+      "when": "August",
+      "scene": "Nariyal Purnima at the Daman creek, fishing families offering coconuts to the sea and decorated boats",
+      "scene_short": "coconut offering at the creek"
+    },
+    {
+      "id": "navratri_dd",
+      "name": "Navratri",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "September-October",
+      "scene": "Navratri night, circles of people dancing garba under strings of lights",
+      "scene_short": "garba circles"
+    },
+    {
+      "id": "diwali_dd",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "warli",
+        "dhodia"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, rangoli and clay lamps at the doorstep of a house",
+      "scene_short": "Diwali lamps and rangoli"
+    },
+    {
+      "id": "christmas_dd",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "catholic"
+      ],
+      "sub_regions": [
+        "daman"
+      ],
+      "when": "25 December",
+      "scene": "Christmas evening in Moti Daman, a white church and houses lit with coloured lamps",
+      "scene_short": "Daman Christmas lamps"
+    },
+    {
+      "id": "eid_dd",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in an old town lane",
+      "scene_short": "Eid morning"
+    },
+    {
+      "id": "kite_dd",
+      "name": "Kite festival (Makar Sankranti)",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "January",
+      "scene": "Makar Sankranti, families flying colourful kites from rooftops",
+      "scene_short": "rooftop kite flying"
+    },
+    {
+      "id": "wedding_guest_dd",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "November-February mostly",
+      "scene": "guests at a wedding under a decorated mandap with marigolds",
+      "scene_short": "wedding mandap"
+    }
+  ],
+  "settings": [
+    {
+      "id": "silvassa_street",
+      "type": "urban",
+      "description": "Silvassa town street with green hills behind",
+      "short": "Silvassa street",
+      "sub_regions": [
+        "dnh"
+      ]
+    },
+    {
+      "id": "dnh_village",
+      "type": "rural",
+      "description": "Adivasi village with tiled-roof houses, paddy fields and teak forest",
+      "short": "forest village",
+      "sub_regions": [
+        "dnh"
+      ]
+    },
+    {
+      "id": "moti_daman",
+      "type": "urban",
+      "description": "lane inside the Moti Daman fort with old Portuguese-era buildings",
+      "short": "Moti Daman fort lane",
+      "sub_regions": [
+        "daman"
+      ]
+    },
+    {
+      "id": "daman_creek",
+      "type": "rural",
+      "description": "Damanganga creek with colourful fishing boats",
+      "short": "fishing boats on the creek",
+      "sub_regions": [
+        "daman"
+      ]
+    },
+    {
+      "id": "diu_fort",
+      "type": "urban",
+      "description": "Diu fort walls by the sea",
+      "short": "Diu fort by the sea",
+      "sub_regions": [
+        "diu"
+      ]
+    },
+    {
+      "id": "diu_beach",
+      "type": "nature",
+      "description": "quiet Diu beach with palms",
+      "short": "Diu beach",
+      "sub_regions": [
+        "diu"
+      ]
+    },
+    {
+      "id": "home_city_dd",
+      "type": "home",
+      "description": "house verandah with a swing and potted plants",
+      "short": "house verandah",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_dd",
+      "type": "home",
+      "description": "village courtyard with a tiled-roof house and Warli paintings on the wall",
+      "short": "courtyard with Warli wall art",
+      "sub_regions": [
+        "dnh"
+      ],
+      "communities": [
+        "warli"
+      ],
+      "lives_in": "rural"
+    },
+    {
+      "id": "home_village_dd2",
+      "type": "home",
+      "description": "village courtyard with a tiled-roof house and a tulsi planter",
+      "short": "tiled-roof village courtyard",
+      "sub_regions": [
+        "dnh"
+      ],
+      "communities": [
+        "dhodia",
+        "kokna",
+        "hindu"
+      ],
+      "lives_in": "rural"
+    },
+    {
+      "id": "home_coast_dd",
+      "type": "home",
+      "description": "fishing family's house with nets drying outside",
+      "short": "house with drying nets",
+      "sub_regions": [
+        "daman",
+        "diu"
+      ],
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_dd",
+      "type": "work",
+      "description": "factory office in Silvassa",
+      "short": "Silvassa factory office",
+      "sub_regions": [
+        "dnh"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "factory_worker",
+      "name": "Factory worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a workbench in a factory"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in paddy fields"
+    },
+    {
+      "id": "fisher",
+      "name": "Fisher",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "mending fishing nets beside a boat"
+    },
+    {
+      "id": "fish_seller",
+      "name": "Fish seller",
+      "setting": "both",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "selling fish at a market stall"
+    },
+    {
+      "id": "painter",
+      "name": "Warli painter",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male",
+        "old_female"
+      ],
+      "scene": "painting white Warli figures on a dark wall"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "adult_male"
+      ],
+      "scene": "in a hospital ward"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot (March-May).",
+    "monsoon": "Heavy rain (June-September).",
+    "winter": "Mild (December-February)."
+  },
+  "heritage": [
+    {
+      "id": "dd_portuguese",
+      "name": "Portuguese-era and pano bhaju dress",
+      "kind": "other",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Older Luso-Indian dress for an era phase.",
+      "sources": [
+        "iz_ut_costumes"
+      ]
+    },
+    {
+      "id": "dd_tattoos",
+      "name": "Adivasi body tattoos",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Tattoos of older Dhodia and Kokna women are not added to fictional people.",
+      "sources": [
+        "iz_ut_costumes"
+      ]
+    }
+  ],
+  "avoid": [
+    "'Liquor tourism' and party cliches about Daman and Diu.",
+    "Industrial-pollution or displacement framing.",
+    "Warli art as a costume print on Warli people."
+  ],
+  "todo": [
+    "Kokna, Dubla and Siddi dress with sources; Siddi community of Diu.",
+    "Daman fishing community women's dress with sources.",
+    "Diwaso and Bhawada as scenes.",
+    "Native review."
+  ],
+  "sources": [
+    {
+      "id": "census2011_dnh_dd",
+      "title": "Dadra and Nagar Haveli and Daman and Diu religion data, Census 2011 (two former UTs combined by population)",
+      "url": "https://www.census2011.co.in/data/religion/state/26-dadra-and-nagar-haveli.html",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "census2011_dd",
+      "title": "Daman and Diu religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/25-daman-and-diu.html",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "iz_ut_costumes",
+      "title": "Costumes of Union Territories of India (Indianetzone)",
+      "url": "https://www.indianetzone.com/costumes_union_territories_india",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "trti_warli",
+      "title": "Brief details of Warli (Tribal Research and Training Institute, Govt. of Gujarat)",
+      "url": "https://trti.gujarat.gov.in/warli",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "trti_dhodia",
+      "title": "Brief details of Dhodia (Tribal Research and Training Institute, Govt. of Gujarat)",
+      "url": "https://trti.gujarat.gov.in/dhodia",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "vajiram_dnh_tribes",
+      "title": "Tribes of Dadra and Nagar Haveli and Daman and Diu (Vajiram and Ravi)",
+      "url": "https://vajiramandravi.com/current-affairs/tribes-of-dadra-and-nagar-haveli-and-daman-and-diu/",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "incredible_silvassa",
+      "title": "Arts and handicrafts of Silvassa (Incredible India)",
+      "url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa/immerse-yourself-in-the-vibrant-arts-and-handicrafts-of-silvassa",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "dded_festivals",
+      "title": "Daman: fairs and festivals (Department of Tourism, DNH and DD)",
+      "url": "https://dded.gov.in/detail.php?id=27",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "holidify_gj",
+      "title": "Traditional dresses of Gujarat (Holidify)",
+      "url": "https://www.holidify.com/pages/gujarati-dresses-125.html",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "garvi_navratri",
+      "title": "Navratri fashion guide (Garvi Gurjari, Government of Gujarat)",
+      "url": "https://garvigurjari.gujarat.gov.in/blog/navratri-fashion-guide-traditional-gujarati-outfits-textiles-32/navratri-fashion-guide-traditional-gujarati-outfits-textiles-31",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_taqiyah",
+      "title": "Taqiyah (cap) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Taqiyah_(cap)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "ii_dnh_tribal",
+      "title": "Tribal culture of Dadra and Nagar Haveli (Incredible India)",
+      "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/states/daman-and-diu/experiences/tribal-culture-of-dadra-and-nagar-haveli.html",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "foi_tarpa",
+      "title": "Tarpa dance festival (Festivals of India)",
+      "url": "https://www.festivalsofindia.in/tarpa-festival",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-11-02",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (2 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "2 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Corrected: Tarpa festival date made precise (26-31 December, Incredible India); Festivals of India confirms December and that Warli, Kokna and Koli men and women dance in a circle round the tarpa player. Incredible India also gives tribals as 62% of Dadra and Nagar Haveli.",
+      "Open (single source): Warli lugden with padar and men's waistcoat, dhoti and head cloth come from Indianetzone and TRTI Gujarat; Dhodia blue saree from Indianetzone only (TRTI only says Dhodia women are known by how they drape the sari)."
+    ]
+  }
+}

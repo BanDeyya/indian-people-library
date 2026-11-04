@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-AM-0002",
+  "name": "Rezaul Karim",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese_muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with a prominent nose",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "trimmed black beard",
+    "build": "lean",
+    "signature_mark": "small scar under his left eye"
+  },
+  "wardrobe": [
+    "as_kurta_lungi_m",
+    "as_shirt_m",
+    "as_gamosa"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

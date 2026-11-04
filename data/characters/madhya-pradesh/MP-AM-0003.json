@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MP-AM-0003",
+  "name": "Imran Ali",
+  "region": "madhya-pradesh",
+  "sub_region": "central",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "average",
+    "signature_mark": "mole on his forehead"
+  },
+  "wardrobe": [
+    "mp_kurta_pyjama_m",
+    "mp_shirt_trousers_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

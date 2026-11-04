@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0004",
+  "name": "Angmo Dolma",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "buddhist",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with wind-reddened cheeks, Tibetan-type features",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in long plaits",
+    "build": "small",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_sulma_f",
+    "la_slogpa_f",
+    "la_tibi"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

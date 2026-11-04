@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "id": "PB-AF-0005",
+  "name": "Balwinder Kaur",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a single braid",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_kurti_jeans_f",
+    "pb_suit_head_f",
+    "pb_suit_f",
+    "pb_phulkari_f",
+    "pb_jhumka",
+    "pb_parandi",
+    "pb_loyi_wrap"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

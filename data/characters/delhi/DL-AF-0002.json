@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0002",
+  "name": "Manpreet",
+  "region": "delhi",
+  "sub_region": "west",
+  "community": "punjabi_hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with full cheeks",
+    "eyes": "light brown eyes",
+    "hair": "long black hair in a low bun",
+    "build": "medium",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "dl_suit_f",
+    "dl_festive_suit_f",
+    "dl_shawl",
+    "dl_sindoor_pb"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

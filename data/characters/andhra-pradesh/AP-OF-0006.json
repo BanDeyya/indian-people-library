@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AP-OF-0006",
+  "name": "Sathvika",
+  "region": "andhra-pradesh",
+  "sub_region": "krishna_guntur",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with large eyes",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ap_uppada_f",
+    "ap_mangalagiri_f",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

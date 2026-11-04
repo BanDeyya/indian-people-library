@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PY-AM-0002",
+  "name": "Murugan",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "weathered broad face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "stocky",
+    "signature_mark": "mole on his left cheek",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "py_fisher_m",
+    "py_lungi_m",
+    "py_veshti_sattai_m",
+    "py_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

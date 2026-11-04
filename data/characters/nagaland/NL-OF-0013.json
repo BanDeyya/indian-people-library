@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0013",
+  "name": "Hukheli",
+  "region": "nagaland",
+  "sub_region": "zunheboto",
+  "community": "sumi",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 88,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "nl_sumi_lototsu_f",
+    "nl_plain_top_f",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Sumi",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

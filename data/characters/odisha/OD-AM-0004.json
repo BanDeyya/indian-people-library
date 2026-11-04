@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0004",
+  "name": "Prakash Joseph",
+  "region": "odisha",
+  "sub_region": "central",
+  "community": "christian",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small mole above his lip"
+  },
+  "wardrobe": [
+    "od_shirt_trousers_m",
+    "od_kurta_pyjama_m"
+  ],
+  "language": [
+    "Odia",
+    "Kui"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

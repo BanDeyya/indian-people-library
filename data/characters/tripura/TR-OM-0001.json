@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0001",
+  "name": "Haripada",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small scar on his forehead",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "tr_lungi_m",
+    "tr_dhoti_panjabi_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

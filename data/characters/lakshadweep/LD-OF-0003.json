@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "LD-OF-0003",
+  "name": "Jasna Shukoor",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 77,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair under the thattam",
+    "build": "small",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ld_kachi_f",
+    "ld_churidar_f"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

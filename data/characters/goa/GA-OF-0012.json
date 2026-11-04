@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0012",
+  "name": "Sneha Prashant",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small and thin",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "ga_silk_saree_f",
+    "ga_saree_f",
+    "ga_galsiri",
+    "ga_sindoor",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

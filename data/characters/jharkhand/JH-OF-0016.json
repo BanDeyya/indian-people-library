@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0016",
+  "name": "Phulmoni",
+  "region": "jharkhand",
+  "sub_region": "kolhan",
+  "community": "santal",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "jh_phutta_f",
+    "jh_cotton_saree_f"
+  ],
+  "language": [
+    "Santali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0020",
+  "name": "Savitri",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "gawda",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "strong lined face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a low bun",
+    "build": "wiry",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_kapodd_f"
+  ],
+  "language": [
+    "Konkani"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

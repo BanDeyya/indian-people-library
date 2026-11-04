@@ -1,0 +1,1508 @@
+{
+  "schema_version": 2,
+  "slug": "rajasthan",
+  "code": "RJ",
+  "name": "Rajasthan",
+  "type": "state",
+  "zone": "north",
+  "capital": "Jaipur",
+  "status": "reviewed",
+  "languages": [
+    "Hindi",
+    "Rajasthani (Marwari, Mewari, Dhundhari, Hadoti, Mewati, Wagdi and others)",
+    "English"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 88.49,
+      "muslim": 9.07,
+      "sikh": 1.27,
+      "jain": 0.91,
+      "christian": 0.14,
+      "other": 0.13
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "marwar",
+      "name": "Marwar",
+      "notes": "Western desert region: Jodhpur, Nagaur, Barmer and nearby."
+    },
+    {
+      "id": "mewar",
+      "name": "Mewar",
+      "notes": "South: Udaipur, Chittorgarh, Rajsamand, Bhilwara."
+    },
+    {
+      "id": "dhundhar",
+      "name": "Dhundhar",
+      "notes": "East-central around Jaipur and Dausa."
+    },
+    {
+      "id": "shekhawati",
+      "name": "Shekhawati",
+      "notes": "North-east: Sikar, Jhunjhunu, Churu; known for painted havelis."
+    },
+    {
+      "id": "hadoti",
+      "name": "Hadoti",
+      "notes": "South-east: Kota, Bundi, Jhalawar, Baran."
+    },
+    {
+      "id": "vagad",
+      "name": "Vagad",
+      "notes": "Far south: Dungarpur and Banswara; large Bhil population."
+    },
+    {
+      "id": "godwar",
+      "name": "Godwar",
+      "notes": "Pali, Jalore and Sirohi."
+    },
+    {
+      "id": "mewat_braj",
+      "name": "Mewat and Braj",
+      "notes": "North-east: Alwar and Bharatpur (Mewat), Dholpur and Karauli (Braj)."
+    },
+    {
+      "id": "merwara",
+      "name": "Merwara",
+      "notes": "Around Ajmer."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Rajasthani",
+      "religion": "hindu",
+      "notes": "Men: white dhoti or pyjama with kurta or angrakha and a safa or pagri. Women: ghagra, choli and odhni; married women wear bichiya toe rings.",
+      "names": {
+        "female": [
+          "Kamla",
+          "Sunita",
+          "Pooja",
+          "Chanda",
+          "Bhanwari",
+          "Santosh",
+          "Kanta",
+          "Lalita",
+          "Manju",
+          "Geeta",
+          "Suman",
+          "Rekha",
+          "Mamta",
+          "Dhapu",
+          "Kesar",
+          "Saroj",
+          "Kanchan",
+          "Indra",
+          "Shanti",
+          "Usha",
+          "Pushpa",
+          "Sita",
+          "Mohini",
+          "Gauri",
+          "Rukmani",
+          "Sushila",
+          "Bhagwati",
+          "Dhanni",
+          "Laxmi",
+          "Kiran"
+        ],
+        "male": [
+          "Mangilal",
+          "Bhanwar",
+          "Ramesh",
+          "Mahendra",
+          "Vikram",
+          "Suresh",
+          "Prakash",
+          "Gopal",
+          "Ratan",
+          "Kailash",
+          "Shankar",
+          "Bhagirath",
+          "Om",
+          "Rohit",
+          "Shyam",
+          "Narendra",
+          "Om Prakash",
+          "Govind",
+          "Jagdish",
+          "Kishore",
+          "Bhawani",
+          "Harish",
+          "Sohan",
+          "Mohan",
+          "Pratap"
+        ],
+        "second_female": [
+          "Devi",
+          "Bai"
+        ],
+        "second_male": [
+          "Lal"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Rajasthani (incl. Meo)",
+      "religion": "muslim",
+      "notes": "Meos of Mewat (Alwar, Bharatpur) are the largest Muslim group; Rajasthani-speaking, many shared Hindu-Muslim customs, women not secluded. Dress details still to source.",
+      "names": {
+        "female": [
+          "Shabnam",
+          "Mehrunnisa",
+          "Sakina",
+          "Hamida",
+          "Rubina",
+          "Naziya",
+          "Farida",
+          "Jamila",
+          "Asmina",
+          "Rukhsana",
+          "Shahnaz",
+          "Zubeda",
+          "Noorjahan",
+          "Hasina"
+        ],
+        "male": [
+          "Irshad",
+          "Hussain",
+          "Mubarik",
+          "Aslam",
+          "Jamshed",
+          "Haneef",
+          "Sabir",
+          "Zakir",
+          "Ilyas",
+          "Mausam",
+          "Jahid",
+          "Rashid",
+          "Nasir",
+          "Akram"
+        ]
+      }
+    },
+    {
+      "id": "jain",
+      "name": "Jain",
+      "culture": "Rajasthani",
+      "religion": "jain",
+      "notes": "Mostly urban trading families; dress follows regional Rajasthani and modern wear. Religious dress (monks and nuns) is never used on ordinary characters.",
+      "names": {
+        "female": [
+          "Pooja",
+          "Shweta",
+          "Monika",
+          "Neha",
+          "Rina",
+          "Sonal",
+          "Priyanka",
+          "Ankita",
+          "Swati",
+          "Jinal",
+          "Shilpa",
+          "Rachna",
+          "Sangeeta",
+          "Nidhi",
+          "Priya",
+          "Anju",
+          "Kavita",
+          "Rekha",
+          "Seema",
+          "Manju",
+          "Ritu",
+          "Sarita",
+          "Payal",
+          "Megha",
+          "Disha",
+          "Kalpana"
+        ],
+        "male": [
+          "Hemant",
+          "Abhinav",
+          "Abhinandan",
+          "Sanjay",
+          "Rakesh",
+          "Manish",
+          "Pankaj",
+          "Nitin",
+          "Rajendra",
+          "Vimal",
+          "Rajesh",
+          "Sunil",
+          "Anil",
+          "Ashok",
+          "Vikas",
+          "Sandeep",
+          "Mahavir",
+          "Ajit",
+          "Abhay",
+          "Sumit"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "culture": "Rajasthani",
+      "religion": "sikh",
+      "notes": "Mainly in the canal districts of the north (Sri Ganganagar, Hanumangarh). Same articles of faith as in Punjab."
+    },
+    {
+      "id": "bhil",
+      "name": "Bhil",
+      "culture": "Bhil",
+      "notes": "Second-largest tribe; Vagad and Mewar. Baneshwar fair is their great gathering. Dress still to source.",
+      "names": {
+        "female": [
+          "Savitaben",
+          "Rami",
+          "Kamli",
+          "Dhapu",
+          "Sukli",
+          "Gita",
+          "Sita",
+          "Hirli",
+          "Mangli",
+          "Kesli",
+          "Radha",
+          "Kamla",
+          "Shanti",
+          "Ganga",
+          "Dhuli",
+          "Kali",
+          "Lakshmi",
+          "Ramila",
+          "Sunita",
+          "Champa",
+          "Bhuri",
+          "Rukmani",
+          "Mira",
+          "Parvati",
+          "Kesar"
+        ],
+        "male": [
+          "Ramesh",
+          "Kalu",
+          "Bheru",
+          "Dhanna",
+          "Mangla",
+          "Thavra",
+          "Kesu",
+          "Raju",
+          "Lalu",
+          "Naru",
+          "Bhima",
+          "Nathu",
+          "Bhura",
+          "Hira",
+          "Nanda",
+          "Jaga",
+          "Rupa",
+          "Shankar",
+          "Thawar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "meena",
+      "name": "Meena",
+      "culture": "Meena",
+      "notes": "Largest tribe in the state; eastern Rajasthan. Dress still to source."
+    },
+    {
+      "id": "sahariya",
+      "name": "Sahariya",
+      "culture": "Sahariya",
+      "notes": "Particularly Vulnerable Tribal Group of Baran district (Kishanganj, Shahbad). No characters until priority-1/2 sources and extra review."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      3,
+      8
+    ],
+    "hair": "Black; women's long hair under the odhni.",
+    "facial_hair": "Moustaches are common among older rural men.",
+    "notes": "Light wheatish to brown; desert and field work gives many rural people sun-tanned skin. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus father's name. No caste or clan surnames (library rule)."
+    },
+    {
+      "community": "muslim",
+      "notes": "Many Meos have Hindu given names, sometimes with Khan added."
+    },
+    {
+      "community": "jain",
+      "notes": "Given name plus father's name; no clan surnames."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "rj_dhoti_kurta_m",
+      "name": "White dhoti and kurta",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white cotton dhoti with a plain white kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "holidify_rj",
+        "ct_rj_dress",
+        "rajras_costumes"
+      ]
+    },
+    {
+      "id": "rj_angrakha_m",
+      "name": "Angrakha with dhoti",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "knee-length printed cotton angrakha tied at the side, worn with a white dhoti",
+      "short": "printed angrakha with dhoti",
+      "sources": [
+        "holidify_rj",
+        "ct_rj_dress",
+        "rajras_costumes"
+      ]
+    },
+    {
+      "id": "rj_safa_m",
+      "name": "Single-colour safa",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "single-colour cotton safa turban",
+      "short": "plain colour safa turban",
+      "sources": [
+        "holidify_rj",
+        "wiki_pagri"
+      ]
+    },
+    {
+      "id": "rj_festive_safa_m",
+      "name": "Festive multicolour safa",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "bright multicolour tie-dyed festive safa turban",
+      "short": "bright tie-dyed festive safa",
+      "sources": [
+        "holidify_rj",
+        "wiki_pagri"
+      ]
+    },
+    {
+      "id": "rj_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "casual shirt and trousers, everyday city wear",
+      "short": "casual shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "rj_ghagra_f",
+      "name": "Ghagra, choli and odhni",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "printed cotton ghagra skirt ending above the ankles, cotton choli and an odhni over the head, face uncovered",
+      "short": "printed ghagra, choli, odhni over the head",
+      "sources": [
+        "holidify_rj",
+        "ct_rj_dress",
+        "rajras_costumes"
+      ]
+    },
+    {
+      "id": "rj_festive_ghagra_f",
+      "name": "Festive ghagra with bandhej odhni",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "flared festive ghagra with gota trim, silk choli and a bright bandhej tie-dye odhni over the head, face uncovered",
+      "short": "festive ghagra and bandhej odhni",
+      "sources": [
+        "holidify_rj",
+        "aza_rj"
+      ]
+    },
+    {
+      "id": "rj_lehariya_saree_f",
+      "name": "Lehariya saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "lehariya saree with diagonal wave tie-dye stripes",
+      "short": "lehariya wave-pattern saree",
+      "sources": [
+        "holidify_rj",
+        "aza_rj"
+      ]
+    },
+    {
+      "id": "rj_suit_f",
+      "name": "Salwar suit",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar suit with a dupatta, everyday city wear",
+      "short": "cotton salwar suit and dupatta",
+      "sources": []
+    },
+    {
+      "id": "rj_ghagra_g",
+      "name": "Girl's lehenga-choli",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's small bright lehenga skirt with a matching full-sleeve blouse and light dupatta",
+      "short": "girl's bright lehenga-choli",
+      "sources": []
+    },
+    {
+      "id": "rj_suit_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's simple cotton salwar suit, ordinary everyday clothes",
+      "short": "girl's cotton salwar suit",
+      "sources": []
+    },
+    {
+      "id": "rj_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton shirt and full-length trousers, ordinary everyday clothes",
+      "short": "cotton shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "rj_mojari",
+      "name": "Mojari / jutti",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female",
+        "child_boy",
+        "child_girl"
+      ],
+      "slot": "feet",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "embroidered leather mojari shoes",
+      "short": "embroidered mojari shoes",
+      "sources": [
+        "holidify_rj"
+      ]
+    },
+    {
+      "id": "rj_shawl_m",
+      "name": "Winter shawl",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "thick woollen shawl wrapped around the shoulders, cold desert morning",
+      "short": "woollen shawl",
+      "sources": [
+        "wiki_climate_rj"
+      ]
+    },
+    {
+      "id": "rj_bandhgala_m",
+      "name": "Jodhpuri bandhgala",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "tailored Jodhpuri bandhgala jacket with a closed high collar and fine embroidery, worn with matching trousers",
+      "short": "Jodhpuri bandhgala with high collar",
+      "sources": [
+        "wiki_jodhpuri"
+      ]
+    },
+    {
+      "id": "rj_poshak_f",
+      "name": "Poshak (royal-style festive set)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "Rajasthani poshak: long silk kurti, flared ghagra with gota patti work and a large bandhani odhna over the head, face uncovered",
+      "short": "Rajasthani poshak with gota work and odhna",
+      "sources": [
+        "wiki_poshak",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "rj_kids_b_fest",
+      "name": "Boy's festive kurta",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's bright cotton kurta with pyjama",
+      "short": "boy's bright kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "rj_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "white cotton kurta with pyjama trousers",
+      "short": "white kurta-pyjama",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "rj_bichiya",
+      "name": "Bichiya (toe rings)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "silver bichiya toe rings",
+      "short": "silver toe rings",
+      "sources": [
+        "outlook_rj_bridal",
+        "wiki_mangalsutra",
+        "rajras_costumes"
+      ]
+    },
+    {
+      "id": "rj_rakhdi",
+      "name": "Rakhdi / borla",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "meaning": [
+        "bridal",
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "restricted": true,
+      "prompt": "bell-shaped kundan rakhdi ornament on the forehead",
+      "short": "kundan rakhdi on the forehead",
+      "sources": [
+        "outlook_rj_bridal",
+        "rajras_costumes"
+      ]
+    },
+    {
+      "id": "rj_bajuband",
+      "name": "Bajuband",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "prompt": "gold bajuband armlet on the upper arm",
+      "short": "gold armlet",
+      "sources": [
+        "outlook_rj_bridal"
+      ]
+    },
+    {
+      "id": "rj_silver_payal",
+      "name": "Silver payal",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive"
+      ],
+      "prompt": "silver payal anklets",
+      "short": "silver anklets",
+      "sources": [
+        "outlook_rj_bridal"
+      ]
+    },
+    {
+      "id": "rj_studs",
+      "name": "Small gold studs",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    },
+    {
+      "id": "rj_kalgi",
+      "name": "Kalgi / sarpech (turban jewel)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "meaning": [
+        "honour"
+      ],
+      "restricted": true,
+      "prompt": "jewelled peacock-head kalgi ornament on the turban",
+      "short": "jewelled kalgi on turban",
+      "sources": [
+        "crafts_museum_kalgi",
+        "rajras_costumes"
+      ]
+    }
+  ],
+  "best_representation": {
+    "adult_male": {
+      "daily": [
+        [
+          "rj_dhoti_kurta_m",
+          "rj_safa_m"
+        ],
+        [
+          "rj_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "rj_angrakha_m",
+          "rj_festive_safa_m",
+          "rj_mojari"
+        ],
+        [
+          "rj_bandhgala_m",
+          "rj_festive_safa_m",
+          "rj_mojari"
+        ]
+      ],
+      "reason": "White dhoti-kurta with a single-colour safa for daily wear; printed angrakha with a bright festive safa for weddings and festivals. The Jodhpuri bandhgala, from the Jodhpur court, is now common wedding wear."
+    },
+    "adult_female": {
+      "daily": [
+        [
+          "rj_ghagra_f",
+          "rj_silver_payal"
+        ],
+        [
+          "rj_suit_f"
+        ]
+      ],
+      "festive": [
+        [
+          "rj_festive_ghagra_f",
+          "rj_bajuband"
+        ],
+        [
+          "rj_poshak_f",
+          "rj_bajuband"
+        ],
+        [
+          "rj_lehariya_saree_f"
+        ]
+      ],
+      "reason": "Ghagra, choli and odhni are the defining dress of Rajasthani women; bandhej and lehariya tie-dye mark festivals. The royal-style poshak is worn at weddings, Teej and Gangaur."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "rj_dhoti_kurta_m",
+          "rj_safa_m"
+        ]
+      ],
+      "festive": [
+        [
+          "rj_angrakha_m",
+          "rj_festive_safa_m"
+        ]
+      ],
+      "reason": "Same as adult men."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "rj_ghagra_f"
+        ]
+      ],
+      "festive": [
+        [
+          "rj_festive_ghagra_f"
+        ]
+      ],
+      "reason": "Same as adult women."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "rj_suit_g",
+          "rj_studs"
+        ]
+      ],
+      "festive": [
+        [
+          "rj_ghagra_g",
+          "rj_studs"
+        ]
+      ],
+      "reason": "Small lehenga-choli for festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "rj_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "rj_dhoti_kurta_m"
+        ]
+      ],
+      "reason": "Kurta for festivals."
+    }
+  },
+  "grooming": [
+    {
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "community": "hindu",
+      "notes": "Henna on the palms on the eve of Gangaur.",
+      "prompt": "henna on the palms"
+    },
+    {
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "notes": "Moustaches common among older rural men."
+    }
+  ],
+  "occasions": [
+    {
+      "id": "gangaur",
+      "name": "Gangaur",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "Chaitra (March-April)",
+      "scene": "Gangaur procession through an old Jaipur street with decorated palanquins and folk musicians",
+      "scene_short": "Gangaur procession in old Jaipur",
+      "marital_status": [
+        "single",
+        "married"
+      ]
+    },
+    {
+      "id": "diwali_rj",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "jain",
+        "sikh"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, rows of clay lamps on the steps of an old haveli",
+      "scene_short": "clay lamps on haveli steps"
+    },
+    {
+      "id": "holi_rj",
+      "name": "Holi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "March",
+      "scene": "Holi morning in a village lane, people with coloured powder on their faces and clothes",
+      "scene_short": "Holi colours in a village lane"
+    },
+    {
+      "id": "eid_rj",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (Islamic calendar)",
+      "scene": "Eid morning in a Rajasthan town, neighbours embracing outside a mosque",
+      "scene_short": "Eid greetings outside a mosque"
+    },
+    {
+      "id": "baneshwar",
+      "name": "Baneshwar fair",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bhil"
+      ],
+      "when": "January-February (Magh)",
+      "scene": "Baneshwar fair at the river confluence near Dungarpur, crowds, stalls and folk dancers",
+      "scene_short": "Baneshwar fair crowds by the river",
+      "sub_regions": [
+        "vagad"
+      ]
+    },
+    {
+      "id": "wedding_guest_rj",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "winter season mostly",
+      "scene": "guests at a Rajasthani wedding in a courtyard with marigold decorations",
+      "scene_short": "guests at a Rajasthani wedding courtyard"
+    }
+  ],
+  "settings": [
+    {
+      "id": "desert_village",
+      "type": "rural",
+      "description": "Thar desert village with round mud houses and sand dunes behind",
+      "short": "Thar desert village with mud houses",
+      "sub_regions": [
+        "marwar"
+      ]
+    },
+    {
+      "id": "stepwell",
+      "type": "nature",
+      "description": "old stone stepwell with geometric steps",
+      "short": "old stone stepwell"
+    },
+    {
+      "id": "shekhawati_haveli",
+      "type": "home",
+      "description": "courtyard of an old painted Shekhawati haveli",
+      "short": "painted haveli courtyard",
+      "sub_regions": [
+        "shekhawati"
+      ]
+    },
+    {
+      "id": "jaipur_bazaar",
+      "type": "urban",
+      "description": "busy pink-walled Jaipur bazaar",
+      "short": "pink Jaipur bazaar",
+      "sub_regions": [
+        "dhundhar"
+      ]
+    },
+    {
+      "id": "jodhpur_old_city",
+      "type": "urban",
+      "description": "narrow lane of blue-painted houses in old Jodhpur",
+      "short": "blue lanes of old Jodhpur",
+      "sub_regions": [
+        "marwar"
+      ]
+    },
+    {
+      "id": "udaipur_lake",
+      "type": "urban",
+      "description": "lakeside ghat in Udaipur at dusk",
+      "short": "Udaipur lakeside ghat",
+      "sub_regions": [
+        "mewar"
+      ]
+    },
+    {
+      "id": "mustard_fields_rj",
+      "type": "rural",
+      "description": "yellow mustard fields in eastern Rajasthan in winter",
+      "short": "yellow mustard fields",
+      "sub_regions": [
+        "hadoti",
+        "dhundhar",
+        "mewat_braj",
+        "shekhawati"
+      ]
+    },
+    {
+      "id": "village_courtyard_rj",
+      "type": "rural",
+      "description": "village courtyard with a cot and clay pots",
+      "short": "village courtyard with clay pots"
+    },
+    {
+      "id": "office_rj",
+      "type": "work",
+      "description": "modern office in Jaipur",
+      "short": "modern Jaipur office"
+    },
+    {
+      "id": "temple_rj",
+      "type": "religious",
+      "description": "outside an old stone temple",
+      "short": "old stone temple"
+    },
+    {
+      "id": "mosque_rj",
+      "type": "religious",
+      "description": "outside a mosque in a Rajasthan town",
+      "short": "town mosque"
+    },
+    {
+      "id": "jain_temple",
+      "type": "religious",
+      "description": "outside a white marble Jain temple",
+      "short": "white marble Jain temple"
+    },
+    {
+      "id": "city_home_rj",
+      "type": "home",
+      "description": "living room of a city flat in Jaipur",
+      "short": "Jaipur city home",
+      "sub_regions": [
+        "dhundhar"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "in mustard fields"
+    },
+    {
+      "id": "herder",
+      "name": "Camel and goat herder",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "with camels and goats near desert dunes"
+    },
+    {
+      "id": "artisan",
+      "name": "Block printer / dyer",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male"
+      ],
+      "scene": "printing cloth with wooden blocks in a workshop"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male"
+      ],
+      "scene": "behind the counter of a bazaar shop"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a modern office"
+    }
+  ],
+  "seasons": {
+    "summer": "March-June, very hot (May-June hottest); safa and odhni protect from the sun.",
+    "monsoon": "June-September, moderate rain.",
+    "winter": "October-February: pleasant days, cold nights; shawls; peak wedding and festival season."
+  },
+  "avoid": [
+    "Palaces, camels and maharajas as the default image; most people live in towns, villages and cities.",
+    "Turban colours or patterns that mark a particular caste or community on characters outside it; keep everyday safas plain.",
+    "Veils covering the face: the odhni is over the head, face always visible.",
+    "Caste or clan surnames (e.g. Rajput clan names) on characters.",
+    "Jain monks' or nuns' robes on ordinary characters.",
+    "Showing Rajasthan as only desert: Hadoti, Mewar and Vagad are green and hilly.",
+    "Poshak colours carry marital meaning (red/green for married women, white for mourning); do not use white poshak for festive scenes."
+  ],
+  "todo": [
+    "Bhil, Meena and Garasia dress with sources; Sahariya with priority-1/2 sources and extra review.",
+    "Meo and other Muslim dress with sources.",
+    "Rabari, Bishnoi and other pastoral communities.",
+    "Teej festival with a source.",
+    "Married women's daily ornaments beyond bichiya (e.g. borla in daily wear), with sources.",
+    "Native review (someone from Rajasthan).",
+    "Era phase: princely court and warrior dress from museum sources (City Palace Jaipur and Udaipur, Mehrangarh)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Rajasthan religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/8-rajasthan.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "holidify_rj",
+      "title": "Dress of Rajasthan (Holidify)",
+      "url": "https://www.holidify.com/pages/rajasthani-dresses-109.html",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_rj",
+      "title": "Rajasthan heritage textiles (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/the-ultimate-guide-to-rajasthan-heritage-textiles-traditional-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_pagri",
+      "title": "Pagri (turban) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Pagri_(turban)",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "outlook_rj_bridal",
+      "title": "Rajasthan brides' traditional jewellery (Outlook Traveller)",
+      "url": "https://www.outlooktraveller.com/amp/story/experiences/shopping/rajasthan-brides-traditional-jewellery",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "utsav_gangaur",
+      "title": "Gangaur festival (Utsav portal, Government of India)",
+      "url": "https://utsav.gov.in/view-event/gangaur-festival",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_baneshwar",
+      "title": "Baneshwar fair (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Baneshwar_fair",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "everyculture_meo",
+      "title": "Meo (Countries and Their Cultures)",
+      "url": "https://www.everyculture.com/South-Asia/Meo.html",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "drishti_sahariya",
+      "title": "Sahariya tribe and PM-JANMAN (Drishti IAS)",
+      "url": "https://www.drishtiias.com/state-pcs-current-affairs/sahariya-tribe-pm-janman",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "frontdesk_zones",
+      "title": "Nine culture zones of Rajasthan (Frontdesk)",
+      "url": "https://frontdesk.co.in/?p=11666",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_climate_rj",
+      "title": "Climate of Rajasthan (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Climate_of_Rajasthan",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_jodhpuri",
+      "title": "Jodhpuri (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Jodhpuri",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_poshak",
+      "title": "Rajputi poshak (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Rajputi_poshak",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "crafts_museum_kalgi",
+      "title": "Kalgi, Rajasthan (National Crafts Museum, Government of India)",
+      "url": "https://nationalcraftsmuseum.nic.in/artifacts-detail/31284",
+      "type": "museum",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "ct_rj_dress",
+      "title": "An introduction to Rajasthan's traditional dress (Culture Trip)",
+      "url": "https://theculturetrip.com/asia/india/articles/an-introduction-to-rajasthans-traditional-dress",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "rajras_costumes",
+      "title": "Rajasthani costumes and jewellery (RajRAS)",
+      "url": "https://rajras.in/?p=157901",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved incl. royal-inspired festive wear; native review still welcome."
+    }
+  ],
+  "heritage": [
+    {
+      "id": "royal_inspired_festive",
+      "name": "Royal-inspired festive wear (bandhgala, poshak)",
+      "kind": "royal_court",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "rj_bandhgala_m",
+        "rj_poshak_f"
+      ],
+      "reason": "Born in the princely courts but widely worn today at weddings and festivals. Named as regional festive dress, never as a caste's dress.",
+      "sources": [
+        "wiki_jodhpuri",
+        "wiki_poshak"
+      ]
+    },
+    {
+      "id": "royal_insignia",
+      "name": "Royal turban jewels (kalgi, sarpech)",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "contemporary_items",
+      "items": [
+        "rj_kalgi"
+      ],
+      "reason": "Marks of royal rank; kept as a restricted item, never on generic characters.",
+      "sources": [
+        "crafts_museum_kalgi"
+      ]
+    },
+    {
+      "id": "court_dress",
+      "name": "Historical princely court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Period dress needs museum-grade sources and the era system. Fictional people only; no real royal family, crest or palace presented as theirs.",
+      "sources": [
+        "wiki_jodhpuri"
+      ]
+    },
+    {
+      "id": "warrior_dress",
+      "name": "Historical warrior dress",
+      "kind": "warrior",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Era phase only, shown without weapons (public-library safety rule) and without glorifying any one community.",
+      "sources": []
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (1 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Confirmed: dhoti with angrakha, pagri as a mark of honour and the safa at weddings and festivals; ghagra with choli (kanchli) and odhni; rakhdi as a symbol of marriage (suhag), bichiya toe rings for married women, kalangi as a turban ornament (Culture Trip and RajRAS). Culture Trip adds the full angrakha was mostly worn by the well-off, with a shorter angarkhi for everyday."
+    ]
+  }
+}

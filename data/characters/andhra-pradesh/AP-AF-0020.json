@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-AF-0020",
+  "name": "Salma",
+  "region": "andhra-pradesh",
+  "sub_region": "south_coast",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "long black hair in a low bun",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ap_mangalagiri_f",
+    "ap_uppada_f",
+    "ap_jasmine"
+  ],
+  "language": [
+    "Urdu",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OF-0004",
+  "name": "Kokila",
+  "region": "gujarat",
+  "sub_region": "saurashtra",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "gj_bandhani_saree_f",
+    "gj_saree_f",
+    "gj_sindoor"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

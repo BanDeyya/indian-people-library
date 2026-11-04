@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0001",
+  "name": "Mahendra Prasad",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "thick moustache",
+    "build": "stocky",
+    "signature_mark": "scar on his left forearm"
+  },
+  "wardrobe": [
+    "jh_dhoti_kurta_m",
+    "jh_shirt_trousers_m"
+  ],
+  "language": [
+    "Khortha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

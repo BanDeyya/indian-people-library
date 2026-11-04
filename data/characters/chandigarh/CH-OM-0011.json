@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CH-OM-0011",
+  "name": "Rajeev",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lined oval face",
+    "eyes": "light brown eyes behind glasses",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ch_kurta_pajama_m",
+    "ch_saluka_m",
+    "ch_shawl",
+    "ch_shirt_jeans_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

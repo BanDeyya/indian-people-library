@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MZ-OM-0002",
+  "name": "Thangmawia",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "deeply lined face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "mz_shirt_trousers_m",
+    "mz_smart_m",
+    "mz_pawndum",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

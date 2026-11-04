@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0014",
+  "name": "Chumben",
+  "region": "nagaland",
+  "sub_region": "wokha",
+  "community": "lotha",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with deep laugh lines, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair neatly combed",
+    "build": "average",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_trousers_m",
+    "nl_lotha_sutam_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Lotha",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

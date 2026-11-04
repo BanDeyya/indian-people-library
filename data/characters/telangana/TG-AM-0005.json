@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0005",
+  "name": "Anil Prasad",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ts_pancha_kurta_m",
+    "ts_shirt_trousers_m",
+    "ts_pancha_shirt_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

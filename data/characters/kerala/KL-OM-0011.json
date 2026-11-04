@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KL-OM-0011",
+  "name": "Sajeev",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with a pointed chin",
+    "eyes": "brown eyes",
+    "hair": "thin white hair, balding on top",
+    "build": "thin",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "kl_melmundu_m",
+    "kl_mundu_shirt_m",
+    "kl_kasavu_mundu_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

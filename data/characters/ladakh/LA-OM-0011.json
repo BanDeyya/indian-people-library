@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-OM-0011",
+  "name": "Jaffar Ali",
+  "region": "ladakh",
+  "sub_region": "kargil",
+  "community": "kargil_muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "full white beard"
+  },
+  "wardrobe": [
+    "la_choga_m",
+    "la_modern_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Purgi",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

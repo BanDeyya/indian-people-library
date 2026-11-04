@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0001",
+  "name": "Sundar Lal",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "garhwali",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square weathered face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "moustache",
+    "build": "lean and strong",
+    "signature_mark": "scar on his left hand"
+  },
+  "wardrobe": [
+    "uk_shirt_trousers_m",
+    "uk_topi",
+    "uk_kurta_sadri_m",
+    "uk_dhoti_kurta_m",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

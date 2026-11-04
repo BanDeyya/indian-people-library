@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "character.schema.json",
+  "title": "Character, schema v2",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "id", "name", "region", "community", "group", "age_band", "age", "setting",
+               "marital_status", "look", "wardrobe", "language", "release", "status"],
+  "properties": {
+    "schema_version": { "const": 2 },
+    "id": { "type": "string", "pattern": "^[A-Z]{2}-(AM|AF|OM|OF|CB|CG)-[0-9]{4}$", "description": "<region code>-<group code>-<number>, e.g. KL-AF-0001." },
+    "name": { "type": "string", "description": "Fictional name. Must not be a known real person." },
+    "region": { "type": "string", "description": "Region slug, e.g. kerala." },
+    "sub_region": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "community": { "type": "string", "pattern": "^[a-z0-9_]+$", "description": "Community id from the region file." },
+    "group": { "enum": ["adult_male", "adult_female", "old_male", "old_female", "child_boy", "child_girl"] },
+    "age_band": { "type": "string" },
+    "age": { "type": "integer", "minimum": 6, "maximum": 95, "description": "Exact age; must sit inside age_band." },
+    "setting": { "enum": ["rural", "urban"], "description": "Where the character lives; drives outfit and backdrop choice." },
+    "marital_status": { "enum": ["single", "married", "widowed", "unspecified"], "description": "Controls marital symbols. Children are always 'single'." },
+    "occupation": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "era": { "type": "integer", "description": "Decade the character lives in, e.g. 1990. Absent = contemporary." },
+    "look": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["skin_tone_mst", "face", "hair", "build", "signature_mark"],
+      "properties": {
+        "skin_tone_mst": { "type": "integer", "minimum": 1, "maximum": 10 },
+        "face": { "type": "string" },
+        "eyes": { "type": "string" },
+        "hair": { "type": "string" },
+        "facial_hair": { "type": "string" },
+        "build": { "type": "string" },
+        "signature_mark": { "type": "string", "description": "One small fixed detail that helps the face stay the same." }
+      }
+    },
+    "wardrobe": { "type": "array", "minItems": 1, "items": { "type": "string" }, "description": "Item ids from the region's wardrobe/accessories." },
+    "always_wear": { "type": "array", "items": { "type": "string" }, "description": "Item ids that appear in every image (a Sikh man's turban, a kada). Must also be in wardrobe." },
+    "language": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "voice_notes": { "type": "string" },
+    "release": { "enum": ["public", "private"], "description": "Intended audience. Children are always private." },
+    "published": { "type": "boolean", "description": "True only once actually published." },
+    "status": { "enum": ["draft", "candidate", "approved", "retired"] },
+    "reference_image": { "type": "string", "description": "Backend reference id or relative path of the locked face." },
+    "output_folder": { "type": "string" },
+    "image_check": { "enum": ["not_run", "passed", "failed"] },
+    "human_approved": { "type": "boolean" },
+    "origin": { "enum": ["handmade", "generated"], "description": "handmade = written by a researcher; generated = drafted by scripts/new_character.py. Absent = handmade." },
+    "notes": { "type": "string" }
+  }
+}

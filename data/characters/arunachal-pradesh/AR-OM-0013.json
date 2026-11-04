@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-OM-0013",
+  "name": "Joseph",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "christian",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short white hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_smart_m"
+  ],
+  "language": [
+    "Galo",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

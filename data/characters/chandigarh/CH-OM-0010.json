@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "CH-OM-0010",
+  "name": "Pawan Mohit",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lined oval face",
+    "eyes": "dark brown eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ch_kurta_pajama_m",
+    "ch_saluka_m",
+    "ch_shawl",
+    "ch_shirt_jeans_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

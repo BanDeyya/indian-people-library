@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0012",
+  "name": "Sivakumar",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "long face with a pointed chin",
+    "eyes": "brown eyes",
+    "hair": "short wavy black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "thick black moustache"
+  },
+  "wardrobe": [
+    "tn_silk_veshti_m",
+    "tn_veshti_sattai_m",
+    "tn_shirt_trousers_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

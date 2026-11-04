@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "ML-OM-0006",
+  "name": "Batskhem",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "wiry",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ml_jymphong_m",
+    "ml_shirt_trousers_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Khasi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0010",
+  "name": "Binod",
+  "region": "sikkim",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_daura_suruwal_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-OF-0016",
+  "name": "Sushila",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair under her chunder",
+    "build": "sturdy",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "hr_daaman_f",
+    "hr_sindoor",
+    "hr_winter_jacket",
+    "hr_suit_f"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

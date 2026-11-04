@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0019",
+  "name": "Tara",
+  "region": "himachal-pradesh",
+  "sub_region": "kinnaur",
+  "community": "kinnaura",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a long plait",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "hp_dohru_f",
+    "hp_suit_f",
+    "hp_thepang",
+    "hp_pattu_f"
+  ],
+  "language": [
+    "Kinnauri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

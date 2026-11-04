@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AF-0016",
+  "name": "Lalhmangaihi",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "mz_church_dress_f",
+    "mz_modern_f",
+    "mz_puanchei_f",
+    "mz_ngotekherh_f",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

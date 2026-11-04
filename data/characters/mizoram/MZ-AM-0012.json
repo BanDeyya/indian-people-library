@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AM-0012",
+  "name": "Lalnunmawia",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "musician",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "mz_shirt_trousers_m",
+    "mz_smart_m",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

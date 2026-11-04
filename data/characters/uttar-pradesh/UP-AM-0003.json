@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0003",
+  "name": "Aman Kumar",
+  "region": "uttar-pradesh",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short side-parted black hair",
+    "facial_hair": "short beard",
+    "build": "average",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "up_shirt_trousers_m",
+    "up_kurta_pyjama_m",
+    "up_chikan_kurta_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

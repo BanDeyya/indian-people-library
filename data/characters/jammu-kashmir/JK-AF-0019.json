@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0019",
+  "name": "Reshma Bano",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "gujjar_bakarwal",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "herder",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face with high cheekbones",
+    "eyes": "light brown eyes",
+    "hair": "black hair under her cap",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "jk_gujjar_f",
+    "jk_salwar_f"
+  ],
+  "language": [
+    "Gojri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

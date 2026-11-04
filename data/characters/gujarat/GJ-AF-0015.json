@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0015",
+  "name": "Godavari Bhikhabhai",
+  "region": "gujarat",
+  "sub_region": "saurashtra",
+  "community": "rabari",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pastoralist",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair covered by her odhni",
+    "build": "slim and strong",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "gj_rabari_f",
+    "gj_rabari_earrings",
+    "gj_saree_f"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

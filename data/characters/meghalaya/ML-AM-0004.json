@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0004",
+  "name": "Rakkam",
+  "region": "meghalaya",
+  "sub_region": "garo_hills",
+  "community": "garo",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole near his left eye"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Garo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

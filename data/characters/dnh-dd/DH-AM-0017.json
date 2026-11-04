@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0017",
+  "name": "Budhya",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "dd_warli_m",
+    "dd_shirt_trousers_m"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

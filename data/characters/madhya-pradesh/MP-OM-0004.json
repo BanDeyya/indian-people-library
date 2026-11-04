@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MP-OM-0004",
+  "name": "Raghavendra Kumar",
+  "region": "madhya-pradesh",
+  "sub_region": "nimar",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "mp_dhoti_kurta_m",
+    "mp_mirzai",
+    "mp_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "Malvi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

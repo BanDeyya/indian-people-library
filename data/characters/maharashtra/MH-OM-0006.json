@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MH-OM-0006",
+  "name": "Shankar",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face with deep lines",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "mh_festive_kurta_m",
+    "mh_modern_m",
+    "mh_pheta",
+    "mh_kolhapuri"
+  ],
+  "language": [
+    "Marathi",
+    "Ahirani",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

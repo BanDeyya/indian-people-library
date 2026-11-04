@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0016",
+  "name": "Sarita",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "christian",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 51,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "shoulder-length black hair",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "an_tant_f",
+    "an_silk_saree_f",
+    "an_cross"
+  ],
+  "language": [
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

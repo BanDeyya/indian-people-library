@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0016",
+  "name": "Jivya Raghu",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dd_warli_m",
+    "dd_shirt_trousers_m"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

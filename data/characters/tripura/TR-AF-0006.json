@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0006",
+  "name": "Puja Somnath",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "medium",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "tr_silk_saree_f",
+    "tr_laal_paar_f",
+    "tr_tant_f",
+    "tr_shakha_pola",
+    "tr_sindoor",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

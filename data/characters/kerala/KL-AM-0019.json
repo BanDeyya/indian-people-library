@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0019",
+  "name": "Varghese Jose",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "syrian_christian",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face with a broad nose and a strong jaw",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair, grey at the temples, slightly receding",
+    "build": "stocky",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "neatly trimmed short beard"
+  },
+  "wardrobe": [
+    "kl_shirt_trousers_m",
+    "kl_mundu_shirt_m",
+    "kl_kasavu_mundu_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

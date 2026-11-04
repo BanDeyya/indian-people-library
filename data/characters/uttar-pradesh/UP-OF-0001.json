@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0001",
+  "name": "Kalawati Devi",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small dark mole on her chin"
+  },
+  "wardrobe": [
+    "up_cotton_saree_f",
+    "up_banarasi_f",
+    "up_sindoor",
+    "up_bichiya",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

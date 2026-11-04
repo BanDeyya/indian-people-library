@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-OM-0014",
+  "name": "Bhalchandra Harishchandra",
+  "region": "maharashtra",
+  "sub_region": "konkan",
+  "community": "koli",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 82,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "muscular",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "mh_koli_surka_m",
+    "mh_modern_m",
+    "mh_koli_cap"
+  ],
+  "language": [
+    "Koli",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

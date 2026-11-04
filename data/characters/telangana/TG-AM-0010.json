@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0010",
+  "name": "Ravi Teja",
+  "region": "telangana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_pancha_kurta_m",
+    "ts_kurta_pyjama_m"
+  ],
+  "language": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

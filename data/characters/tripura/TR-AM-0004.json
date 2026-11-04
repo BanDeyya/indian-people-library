@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TR-AM-0004",
+  "name": "Jyoti Bikash",
+  "region": "tripura",
+  "sub_region": "north",
+  "community": "chakma",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "mole near his right ear"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_chakma_m"
+  ],
+  "language": [
+    "Chakma",
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

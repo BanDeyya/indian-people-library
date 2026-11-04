@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0019",
+  "name": "Rabindra",
+  "region": "odisha",
+  "sub_region": "northern",
+  "community": "santal",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "od_shirt_trousers_m",
+    "od_ikat_kurta_m"
+  ],
+  "language": [
+    "Santali",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AF-0002",
+  "name": "Zothanpuii",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a low bun",
+    "build": "medium",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "mz_ngotekherh_f",
+    "mz_puanchei_f",
+    "mz_church_dress_f",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

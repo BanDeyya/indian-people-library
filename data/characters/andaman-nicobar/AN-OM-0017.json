@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-OM-0017",
+  "name": "Daniel",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "nicobarese",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "broad weathered face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "thin white hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "an_nicobar_m",
+    "an_smart_m"
+  ],
+  "language": [
+    "Nicobarese",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

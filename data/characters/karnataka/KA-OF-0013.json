@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-OF-0013",
+  "name": "Lakshmi",
+  "region": "karnataka",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "ka_ilkal_f",
+    "ka_mysore_silk_f",
+    "ka_mangalsutra"
+  ],
+  "language": [
+    "Tulu",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

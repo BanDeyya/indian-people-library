@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "UK-OF-0004",
+  "name": "Kalpana Devi",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "garhwali",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "uk_ghagri_f",
+    "uk_saree_f",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

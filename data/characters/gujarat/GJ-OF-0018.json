@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OF-0018",
+  "name": "Rehana Ibrahim",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face",
+    "eyes": "brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "gj_saree_f",
+    "gj_bandhani_saree_f"
+  ],
+  "language": [
+    "Gujarati",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

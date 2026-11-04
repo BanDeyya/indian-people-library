@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-OF-0003",
+  "name": "Debjani Suman",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "bengali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "an_tant_f",
+    "an_silk_saree_f",
+    "an_laal_paar_f"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OF-0005",
+  "name": "Geeta",
+  "region": "rajasthan",
+  "sub_region": "dhundhar",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with fine wrinkles",
+    "eyes": "dark eyes",
+    "hair": "grey hair under her odhni",
+    "build": "stocky",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "rj_ghagra_f",
+    "rj_festive_ghagra_f",
+    "rj_silver_payal",
+    "rj_shawl_m",
+    "rj_bichiya"
+  ],
+  "language": [
+    "Marwari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

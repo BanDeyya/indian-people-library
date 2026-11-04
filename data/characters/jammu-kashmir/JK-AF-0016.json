@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0016",
+  "name": "Sudesh Devi",
+  "region": "jammu-kashmir",
+  "sub_region": "jammu",
+  "community": "dogra",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "strong",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "jk_salwar_f",
+    "jk_dogra_f",
+    "jk_winter_jacket"
+  ],
+  "language": [
+    "Dogri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

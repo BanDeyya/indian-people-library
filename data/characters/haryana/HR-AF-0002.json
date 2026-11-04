@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0002",
+  "name": "Sunita Devi",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a plait",
+    "build": "strong",
+    "signature_mark": "small scar on her left hand"
+  },
+  "wardrobe": [
+    "hr_suit_f",
+    "hr_daaman_f",
+    "hr_sindoor",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Bagri",
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

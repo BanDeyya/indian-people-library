@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0005",
+  "name": "Ajith",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "short neatly combed black hair",
+    "build": "slim",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "kl_kasavu_mundu_m",
+    "kl_mundu_shirt_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

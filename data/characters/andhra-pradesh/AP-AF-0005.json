@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-AF-0005",
+  "name": "Sujatha",
+  "region": "andhra-pradesh",
+  "sub_region": "krishna_guntur",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with large eyes",
+    "eyes": "dark brown eyes",
+    "hair": "very long black plait",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ap_salwar_f",
+    "ap_uppada_f",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

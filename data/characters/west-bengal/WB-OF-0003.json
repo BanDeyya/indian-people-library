@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0003",
+  "name": "Rumpa",
+  "region": "west-bengal",
+  "sub_region": "kolkata",
+  "community": "bengali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "heart-shaped face",
+    "eyes": "large dark eyes",
+    "hair": "grey hair in a small bun",
+    "build": "thin",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "wb_baluchari_f",
+    "wb_tant_f",
+    "wb_laal_paar_f",
+    "wb_shakha_pola",
+    "wb_sindoor",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

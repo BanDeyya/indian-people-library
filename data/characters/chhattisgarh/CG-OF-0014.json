@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "CG-OF-0014",
+  "name": "Radha Kumari",
+  "region": "chhattisgarh",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "cg_lugda_f",
+    "cg_kosa_f",
+    "cg_sindoor",
+    "cg_bichiya",
+    "cg_kardhan",
+    "cg_painjan"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

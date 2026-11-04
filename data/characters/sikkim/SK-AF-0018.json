@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-AF-0018",
+  "name": "Dolma",
+  "region": "sikkim",
+  "sub_region": "north",
+  "community": "bhutia",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 59,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a low bun",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "sk_bakhu_f",
+    "sk_kurta_f",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Sikkimese (Bhutia)",
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

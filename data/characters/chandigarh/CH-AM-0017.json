@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CH-AM-0017",
+  "name": "Ramesh",
+  "region": "chandigarh",
+  "sub_region": "villages",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "tall and strong",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "ch_kurta_pajama_m",
+    "ch_shirt_jeans_m",
+    "ch_saluka_m",
+    "ch_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Bhojpuri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

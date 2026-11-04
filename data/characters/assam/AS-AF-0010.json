@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-AF-0010",
+  "name": "Kabita",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "assamese",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "brown eyes",
+    "hair": "shoulder-length black hair",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "as_mekhela_chador_f",
+    "as_muga_f",
+    "as_keru"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0019",
+  "name": "Nek Chand",
+  "region": "himachal-pradesh",
+  "sub_region": "kinnaur",
+  "community": "kinnaura",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "short greying hair",
+    "build": "stocky",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "grey moustache"
+  },
+  "wardrobe": [
+    "hp_kinnaur_m",
+    "hp_shirt_trousers_m",
+    "hp_thepang",
+    "hp_shawl_m"
+  ],
+  "language": [
+    "Kinnauri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

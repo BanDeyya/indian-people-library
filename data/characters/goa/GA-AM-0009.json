@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-AM-0009",
+  "name": "Gopal Siddhesh",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ga_shirt_shorts_m",
+    "ga_shirt_trousers_m",
+    "ga_dhoti_m",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

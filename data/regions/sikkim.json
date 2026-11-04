@@ -1,0 +1,1169 @@
+{
+  "schema_version": 2,
+  "slug": "sikkim",
+  "code": "SK",
+  "name": "Sikkim",
+  "type": "state",
+  "zone": "northeast",
+  "capital": "Gangtok",
+  "status": "reviewed",
+  "languages": [
+    "Nepali (official)",
+    "Sikkimese (Bhutia, official)",
+    "Lepcha (official)",
+    "English (official)",
+    "Limbu",
+    "Hindi"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 57.76,
+      "buddhist": 27.39,
+      "christian": 9.91,
+      "other": 2.97,
+      "muslim": 1.62,
+      "sikh": 0.31,
+      "jain": 0.05
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "gangtok",
+      "name": "Gangtok and the east",
+      "notes": "Gangtok, Rangpo, Pakyong; capital region."
+    },
+    {
+      "id": "north",
+      "name": "North Sikkim (Mangan)",
+      "notes": "Lachung, Lachen and Dzongu (Lepcha reserve); Buddhist-majority district."
+    },
+    {
+      "id": "south",
+      "name": "South Sikkim (Namchi)",
+      "notes": "Namchi, Ravangla; Nepali-speaking villages and Buddhist monasteries."
+    },
+    {
+      "id": "west",
+      "name": "West Sikkim (Gyalshing and Soreng)",
+      "notes": "Pelling, Yuksom, Tashiding; Limbu and Nepali villages."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Sikkimese Nepali",
+      "religion": "hindu",
+      "prompt": "Nepali",
+      "notes": "Majority Nepali-speaking families (Chettri, Bahun, Rai, Newar and others). Men: daura-suruwal with a waistcoat for festivals; women: multicoloured pharia with a hembari waist cloth for festivals. Dashain (tika from elders), Tihar.",
+      "names": {
+        "female": [
+          "Kamala",
+          "Sangita",
+          "Asmita",
+          "Pramila",
+          "Sunita",
+          "Anita",
+          "Bishnu",
+          "Laxmi",
+          "Sarita",
+          "Manju",
+          "Dipa",
+          "Rita",
+          "Sabina",
+          "Mina",
+          "Durga",
+          "Gita",
+          "Radha",
+          "Bimala",
+          "Shanti",
+          "Kalpana",
+          "Sushila",
+          "Rupa",
+          "Parbati",
+          "Mamata",
+          "Anjana",
+          "Puja",
+          "Sharmila",
+          "Prabha",
+          "Saraswati",
+          "Indira"
+        ],
+        "male": [
+          "Aaryan",
+          "Ganesh",
+          "Bishal",
+          "Hari",
+          "Bikash",
+          "Ramesh",
+          "Suraj",
+          "Prakash",
+          "Dinesh",
+          "Santosh",
+          "Gopal",
+          "Krishna",
+          "Raju",
+          "Binod",
+          "Ram",
+          "Suresh",
+          "Rajesh",
+          "Narayan",
+          "Bhim",
+          "Dil",
+          "Kumar"
+        ],
+        "second_male": [
+          "Prasad",
+          "Bahadur"
+        ]
+      }
+    },
+    {
+      "id": "buddhist",
+      "name": "Buddhist",
+      "culture": "Sikkimese Nepali (Tamang, Gurung, Sherpa and others)",
+      "religion": "buddhist",
+      "prompt": "Nepali",
+      "notes": "Nepali-speaking Buddhist families; Nepali or Bhutia-style dress depending on family. Losar."
+    },
+    {
+      "id": "bhutia",
+      "name": "Bhutia",
+      "culture": "Bhutia (Sikkimese)",
+      "religion": "buddhist",
+      "prompt": "Bhutia",
+      "sub_regions": [
+        "north",
+        "gangtok",
+        "south",
+        "west"
+      ],
+      "notes": "Buddhist community. Bakhu (kho), a loose robe fastened at the neck and waist, belted with silk or cotton; women wear it over a full-sleeve honju blouse. Losar, Losoong, Saga Dawa.",
+      "names": {
+        "female": [
+          "Dechen",
+          "Pema",
+          "Tshering",
+          "Dolkar",
+          "Choden",
+          "Yangchen",
+          "Sonam",
+          "Diki",
+          "Ongmu",
+          "Lhamu",
+          "Yangzom",
+          "Diki Doma",
+          "Chukey",
+          "Kunzang",
+          "Lhaden",
+          "Tshering Doma",
+          "Sangay",
+          "Dawa",
+          "Phurba",
+          "Chimi",
+          "Dolma",
+          "Karma",
+          "Nima",
+          "Rinzing",
+          "Ugen"
+        ],
+        "male": [
+          "Karma",
+          "Tshering",
+          "Pema",
+          "Sonam",
+          "Dorjee",
+          "Pasang",
+          "Tenzing",
+          "Ugyen",
+          "Norbu",
+          "Lhendup",
+          "Ugen",
+          "Phurba",
+          "Nima",
+          "Dawa",
+          "Kunga",
+          "Wangchuk",
+          "Rinzing",
+          "Gyatso",
+          "Chewang"
+        ]
+      }
+    },
+    {
+      "id": "lepcha",
+      "name": "Lepcha",
+      "culture": "Lepcha",
+      "religion": "buddhist",
+      "prompt": "Lepcha",
+      "sub_regions": [
+        "north",
+        "gangtok",
+        "south"
+      ],
+      "notes": "Indigenous people of Sikkim; mostly Buddhist, some Christian. Women's ankle-length dumvum with a loose tago blouse, nyamrek belt and taro cap; men's thokro-dum with calf-length white trousers and a striped cloth pinned at the shoulder. Losoong, Namsoong.",
+      "names": {
+        "female": [
+          "Ongmu",
+          "Nimkit",
+          "Dawa",
+          "Pemu",
+          "Rinzing",
+          "Sangmu",
+          "Kunzang",
+          "Lhamu",
+          "Diki",
+          "Chumden",
+          "Pema",
+          "Sonam",
+          "Karma",
+          "Rinchen",
+          "Doma",
+          "Tshering",
+          "Kinzang",
+          "Yangchen",
+          "Phurba",
+          "Chimden",
+          "Lakit",
+          "Namchu",
+          "Pemkit"
+        ],
+        "male": [
+          "Sonam",
+          "Dorjee",
+          "Karma",
+          "Pemba",
+          "Norden",
+          "Tashi",
+          "Lobzang",
+          "Ugen",
+          "Nimtsering",
+          "Rinchen",
+          "Tshering",
+          "Lakpa",
+          "Nim",
+          "Pasang",
+          "Rinzing",
+          "Namgyal",
+          "Ongdup",
+          "Thendup",
+          "Sherap",
+          "Phurba",
+          "Gyatso",
+          "Lhendup"
+        ]
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Sikkimese Nepali and Lepcha",
+      "religion": "christian",
+      "sub_regions": [
+        "gangtok",
+        "south",
+        "west"
+      ],
+      "notes": "Nepali and Lepcha Christian families. No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      2,
+      6
+    ],
+    "hair": "Straight black hair.",
+    "notes": "East Asian features common among Bhutia, Lepcha and many Nepali communities. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Nepali given names (Sangita, Bishal, Pramila); surnames mark caste or clan, use given names only."
+    },
+    {
+      "community": "bhutia",
+      "notes": "Tibetan-style given names (Tshering, Pema, Karma, Dechen)."
+    },
+    {
+      "community": "lepcha",
+      "notes": "Lepcha or Buddhist given names."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "sk_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers with a sweater",
+      "short": "shirt, trousers and sweater",
+      "sources": []
+    },
+    {
+      "id": "sk_daura_suruwal_m",
+      "name": "Daura-suruwal",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "closed-neck pleated daura shirt with tie strings and fitted suruwal trousers, waistcoat on top",
+      "short": "daura-suruwal with waistcoat",
+      "sources": [
+        "wiki_daura_suruwal",
+        "pt_sikkim"
+      ]
+    },
+    {
+      "id": "sk_bakhu_m",
+      "name": "Bakhu (men)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "ceremonial",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bhutia",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "loose knee-length bakhu robe fastened at the neck on one side and belted at the waist with a silk sash, over a shirt and trousers",
+      "short": "men's bakhu robe",
+      "sources": [
+        "wiki_kho",
+        "pt_sikkim"
+      ]
+    },
+    {
+      "id": "sk_thokro_dum_m",
+      "name": "Thokro-dum",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lepcha",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "Lepcha shirt with calf-length white trousers and a multicoloured striped cloth pinned at one shoulder",
+      "short": "Lepcha thokro-dum",
+      "sources": [
+        "pt_sikkim",
+        "wiki_lepcha"
+      ]
+    },
+    {
+      "id": "sk_bakhu_f",
+      "name": "Bakhu with honju",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "ceremonial",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bhutia",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "ankle-length sleeveless bakhu robe fastened near the waist with a cloth belt, over a full-sleeve silk honju blouse",
+      "short": "bakhu and honju",
+      "sources": [
+        "wiki_kho",
+        "pt_sikkim"
+      ]
+    },
+    {
+      "id": "sk_dumvum_f",
+      "name": "Dumvum",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lepcha",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "ankle-length solid-colour dumvum folded over one shoulder and belted at the waist, over a loose contrasting long-sleeved blouse",
+      "short": "solid dumvum belted at the waist",
+      "sources": [
+        "pt_sikkim",
+        "wiki_dumdyam",
+        "wiki_lepcha"
+      ]
+    },
+    {
+      "id": "sk_pharia_f",
+      "name": "Pharia with hembari",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "multicoloured saree-like pharia with a loose long-sleeved blouse and a hembari cloth tied at the waist",
+      "short": "pharia with waist cloth",
+      "sources": [
+        "pt_sikkim"
+      ]
+    },
+    {
+      "id": "sk_kurta_f",
+      "name": "Kurta suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "long kurta with trousers and a shawl",
+      "short": "kurta, trousers and shawl",
+      "sources": []
+    },
+    {
+      "id": "sk_modern_f",
+      "name": "Top and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "sweater with jeans",
+      "short": "sweater and jeans",
+      "sources": []
+    },
+    {
+      "id": "sk_winter_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "padded jacket",
+      "short": "padded jacket",
+      "sources": []
+    },
+    {
+      "id": "sk_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long-sleeved dress with leggings and a sweater",
+      "short": "girl's dress and sweater",
+      "sources": []
+    },
+    {
+      "id": "sk_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk skirt with a long-sleeved blouse",
+      "short": "girl's long silk skirt",
+      "sources": []
+    },
+    {
+      "id": "sk_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    },
+    {
+      "id": "sk_kids_b_fest",
+      "name": "Boy's daura-suruwal",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's daura shirt with suruwal trousers and a waistcoat",
+      "short": "boy's daura-suruwal",
+      "sources": [
+        "wiki_daura_suruwal"
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "id": "sk_tika",
+      "name": "Dashain tika",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "red rice tika on the forehead",
+      "short": "red tika on the forehead",
+      "sources": [
+        "soreng_fest"
+      ]
+    },
+    {
+      "id": "sk_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "sk_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "sk_kurta_f"
+        ],
+        [
+          "sk_dumvum_f"
+        ]
+      ],
+      "festive": [
+        [
+          "sk_pharia_f"
+        ],
+        [
+          "sk_bakhu_f"
+        ],
+        [
+          "sk_dumvum_f"
+        ]
+      ],
+      "reason": "Pharia (Nepali), bakhu with honju (Bhutia), dumvum (Lepcha)."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "sk_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "sk_daura_suruwal_m"
+        ],
+        [
+          "sk_bakhu_m"
+        ],
+        [
+          "sk_thokro_dum_m"
+        ]
+      ],
+      "reason": "Daura-suruwal, bakhu or thokro-dum by community."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "sk_kurta_f"
+        ]
+      ],
+      "festive": [
+        [
+          "sk_pharia_f"
+        ],
+        [
+          "sk_bakhu_f"
+        ]
+      ],
+      "reason": "Community dress."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "sk_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "sk_daura_suruwal_m"
+        ],
+        [
+          "sk_bakhu_m"
+        ]
+      ],
+      "reason": "Community dress."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "sk_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "sk_kids_g_fest"
+        ]
+      ],
+      "reason": "Long silk skirt."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "sk_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "sk_kids_b_fest"
+        ]
+      ],
+      "reason": "Daura-suruwal."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "dashain_sk",
+      "name": "Dashain",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "September-October",
+      "scene": "Dashain at home, elders blessing younger family members with red tika",
+      "scene_short": "Dashain tika blessing"
+    },
+    {
+      "id": "losar_sk",
+      "name": "Losar",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bhutia",
+        "buddhist",
+        "lepcha"
+      ],
+      "when": "February",
+      "scene": "Losar, families feasting at home with prayer flags outside",
+      "scene_short": "Losar at home"
+    },
+    {
+      "id": "losoong",
+      "name": "Losoong",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bhutia",
+        "lepcha"
+      ],
+      "when": "December",
+      "scene": "Losoong in a Sikkim village, archery contests and feasts after the harvest",
+      "scene_short": "Losoong archery and feast"
+    },
+    {
+      "id": "maghe_sankranti",
+      "name": "Maghe Sankranti",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "buddhist"
+      ],
+      "when": "January",
+      "scene": "Maghe Sankranti fair on a river bank, families among food stalls",
+      "scene_short": "river bank fair"
+    },
+    {
+      "id": "wedding_guest_sk",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding in a decorated hall",
+      "scene_short": "wedding hall"
+    }
+  ],
+  "settings": [
+    {
+      "id": "mg_marg",
+      "type": "urban",
+      "description": "MG Marg in Gangtok, a clean pedestrian street with flower beds",
+      "short": "MG Marg, Gangtok",
+      "sub_regions": [
+        "gangtok"
+      ]
+    },
+    {
+      "id": "gangtok_hills",
+      "type": "urban",
+      "description": "Gangtok houses stacked on a steep hillside with mountains behind",
+      "short": "Gangtok hillside",
+      "sub_regions": [
+        "gangtok"
+      ]
+    },
+    {
+      "id": "namchi_town",
+      "type": "urban",
+      "description": "Namchi town street with hills behind",
+      "short": "Namchi street",
+      "sub_regions": [
+        "south"
+      ]
+    },
+    {
+      "id": "lachung_valley",
+      "type": "rural",
+      "description": "high mountain valley with pine forest and a river",
+      "short": "Lachung mountain valley",
+      "sub_regions": [
+        "north"
+      ]
+    },
+    {
+      "id": "cardamom_fields",
+      "type": "rural",
+      "description": "terraced fields and cardamom plantation under tall trees",
+      "short": "terraced fields",
+      "sub_regions": [
+        "south",
+        "west",
+        "gangtok"
+      ]
+    },
+    {
+      "id": "kanchenjunga_view",
+      "type": "nature",
+      "description": "snow peaks of Kanchenjunga above green hills",
+      "short": "Kanchenjunga view",
+      "sub_regions": [
+        "west",
+        "south"
+      ]
+    },
+    {
+      "id": "home_city_sk",
+      "type": "home",
+      "description": "wooden balcony with flower pots overlooking the hills",
+      "short": "hillside balcony",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_sk",
+      "type": "home",
+      "description": "village house with a wooden verandah and marigolds",
+      "short": "village verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_sk",
+      "type": "work",
+      "description": "office in Gangtok",
+      "short": "Gangtok office",
+      "sub_regions": [
+        "gangtok"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "adult_male"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in terraced fields"
+    },
+    {
+      "id": "tour_guide",
+      "name": "Tour guide",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "guiding visitors at a viewpoint"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "summer": "Mild (March-May).",
+    "monsoon": "Heavy rain (June-September).",
+    "winter": "Cold, snow at height (December-February)."
+  },
+  "heritage": [
+    {
+      "id": "sk_chogyal",
+      "name": "Chogyal court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Dress of the former Sikkim royal court; fictional people only, no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "sk_cham",
+      "name": "Masked and warrior dances (cham, Pang Lhabsol)",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Monastery masked dances and warrior dances are ritual performances.",
+      "sources": [
+        "soreng_fest"
+      ]
+    },
+    {
+      "id": "sk_monastic",
+      "name": "Monastic robes",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Not everyday dress.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Ethnic-quota or citizenship politics; 'Nepali' as foreigners.",
+    "Tourist-only snow and momo cliches.",
+    "Monastic robes or masked-dance costume as fashion."
+  ],
+  "todo": [
+    "Limbu, Rai and Tamang dress with sources.",
+    "Lepcha taro cap and Bhutia pangden apron with sources.",
+    "Saga Dawa, Pang Lhabsol and Tihar as scenes.",
+    "Native review (Nepali, Bhutia, Lepcha)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Sikkim religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/11-sikkim.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_kho",
+      "title": "Kho (Bhutia dress) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kho_(costume)",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pt_sikkim",
+      "title": "The vibrant traditional dresses of Sikkim (Pratidin Time)",
+      "url": "https://www.pratidintime.com/north-east/sikkim/traditional-dresses-of-sikkim",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_dumdyam",
+      "title": "Dumdyam (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dumdyam",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_daura_suruwal",
+      "title": "Daura-Suruwal (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Daura-Suruwal",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "soreng_fest",
+      "title": "Festivals (Soreng district, Government of Sikkim)",
+      "url": "https://soreng.nic.in/festivals/",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_lepcha",
+      "title": "Lepcha people (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Lepcha_people",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-11-02",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Confirmed: Lepcha women's ankle-length solid-colour dumvun (dumdyam) folded over one shoulder and pinned, with a contrasting long-sleeved blouse; men's multicoloured hand-woven cloth (thakraw) pinned at one shoulder over a white shirt and trousers (Wikipedia's Lepcha people page). Conflict: Wikipedia calls the tago a waistband, Pratidin Time a blouse; the prompts name neither.",
+      "Confirmed: Dashain tika from elders, Losar in early February, Losoong after the harvest in December, Maghe Sankranti fairs on river banks in January (Soreng district page). Open (single source): the Nepali women's pharia with a hembari waist cloth comes from Pratidin Time only."
+    ]
+  }
+}

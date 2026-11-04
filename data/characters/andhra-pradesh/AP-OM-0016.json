@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "AP-OM-0016",
+  "name": "Krishna Satyanarayana",
+  "region": "andhra-pradesh",
+  "sub_region": "godavari",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ap_pancha_shirt_m",
+    "ap_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

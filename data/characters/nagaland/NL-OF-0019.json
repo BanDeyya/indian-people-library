@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0019",
+  "name": "Chingnyei",
+  "region": "nagaland",
+  "sub_region": "eastern",
+  "community": "phom",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "nl_phom_skirt_f",
+    "nl_plain_top_f",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Phom",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

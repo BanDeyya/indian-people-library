@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0014",
+  "name": "Koya Abdul Kader",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face with deep forehead lines",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short trimmed beard"
+  },
+  "wardrobe": [
+    "kl_kurta_mundu_m",
+    "kl_mundu_shirt_m",
+    "kl_thalangara_thoppi"
+  ],
+  "language": [
+    "Malayalam",
+    "English",
+    "Arabic (prayers)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

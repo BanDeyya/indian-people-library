@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AM-0011",
+  "name": "Lalrosanga",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "musician",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "mz_smart_m",
+    "mz_shirt_trousers_m",
+    "mz_pawndum",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Lai",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

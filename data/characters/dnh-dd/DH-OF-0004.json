@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0004",
+  "name": "Bhavna Jivanbhai",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 77,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "dd_bandhani_saree_f",
+    "dd_saree_f",
+    "dd_sindoor"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

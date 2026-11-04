@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0019",
+  "name": "Jasmine",
+  "region": "puducherry",
+  "sub_region": "puducherry",
+  "community": "christian",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "py_silk_saree_f",
+    "py_churidar_f",
+    "py_cross"
+  ],
+  "language": [
+    "Tamil",
+    "English",
+    "French"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

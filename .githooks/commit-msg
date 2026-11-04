@@ -1,0 +1,3 @@
+#!/bin/sh
+# Blocks a commit whose message contains personal information or private links.
+exec uv run -q scripts/privacy_check.py --commit-msg "$1"

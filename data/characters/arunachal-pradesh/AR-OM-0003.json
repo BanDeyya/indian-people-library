@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AR-OM-0003",
+  "name": "Samuel",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "nyishi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "athletic",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "ar_smart_m",
+    "ar_shirt_trousers_m",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Nyishi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

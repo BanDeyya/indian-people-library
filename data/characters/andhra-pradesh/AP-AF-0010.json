@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AP-AF-0010",
+  "name": "Rajamma",
+  "region": "andhra-pradesh",
+  "sub_region": "krishna_guntur",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "heavyset",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ap_mangalagiri_f",
+    "ap_venkatagiri_f",
+    "ap_uppada_f",
+    "ap_jasmine",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

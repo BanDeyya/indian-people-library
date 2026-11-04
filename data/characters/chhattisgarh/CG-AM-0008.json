@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0008",
+  "name": "Dhaniram",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square sun-darkened face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean and strong",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "cg_shirt_trousers_m",
+    "cg_dhoti_kurta_m",
+    "cg_kurta_pyjama_m",
+    "cg_pagdi"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

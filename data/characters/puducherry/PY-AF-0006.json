@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "PY-AF-0006",
+  "name": "Revathi",
+  "region": "puducherry",
+  "sub_region": "puducherry",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "lined round face",
+    "eyes": "large dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "py_silk_saree_f",
+    "py_cotton_saree_f",
+    "py_jasmine",
+    "py_thali",
+    "py_metti"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

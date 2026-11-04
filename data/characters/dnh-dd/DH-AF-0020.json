@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DH-AF-0020",
+  "name": "Salma",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "average",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "dd_saree_f",
+    "dd_chaniya_f"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0008",
+  "name": "Venkatesh Satyanarayana",
+  "region": "telangana",
+  "sub_region": "hyderabad",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ts_shirt_trousers_m",
+    "ts_pancha_kurta_m",
+    "ts_pancha_shirt_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

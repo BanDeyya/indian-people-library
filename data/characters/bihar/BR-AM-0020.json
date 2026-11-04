@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0020",
+  "name": "Rizwan",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "narrow face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "br_shirt_trousers_m",
+    "br_kurta_pyjama_m"
+  ],
+  "language": [
+    "Surjapuri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

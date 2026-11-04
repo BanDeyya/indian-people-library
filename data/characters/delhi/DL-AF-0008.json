@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0008",
+  "name": "Sarita",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "shoulder-length straight black hair",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "dl_suit_f",
+    "dl_festive_suit_f",
+    "dl_winter_jacket",
+    "dl_sindoor"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

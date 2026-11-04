@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0010",
+  "name": "Wanpyn",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "college_student",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ml_jymphong_m",
+    "ml_shirt_trousers_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

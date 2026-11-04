@@ -1,0 +1,1568 @@
+{
+  "schema_version": 2,
+  "slug": "andaman-nicobar",
+  "code": "AN",
+  "name": "Andaman and Nicobar Islands",
+  "type": "union_territory",
+  "zone": "islands",
+  "capital": "Sri Vijaya Puram (Port Blair)",
+  "status": "reviewed",
+  "languages": [
+    "Hindi (official)",
+    "English (official)",
+    "Bengali",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Nicobarese",
+    "Kurukh and Sadri (Ranchi community)"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 69.45,
+      "christian": 21.28,
+      "muslim": 8.52,
+      "sikh": 0.34,
+      "buddhist": 0.09,
+      "jain": 0.01,
+      "other": 0.33
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "south_andaman",
+      "name": "South Andaman",
+      "notes": "Sri Vijaya Puram (Port Blair), Swaraj Dweep (Havelock), Shaheed Dweep (Neil); mixed 'mini India' population; Cellular Jail."
+    },
+    {
+      "id": "north_middle",
+      "name": "North and Middle Andaman",
+      "notes": "Rangat, Mayabunder, Diglipur; settler farming villages, many Bengali families settled after 1947 and in the 1960s-70s."
+    },
+    {
+      "id": "nicobar",
+      "name": "Nicobar Islands",
+      "notes": "Car Nicobar, Nancowry and Great Nicobar; Nicobarese majority, mostly Christian; entry for outsiders restricted."
+    }
+  ],
+  "communities": [
+    {
+      "id": "bengali_hindu",
+      "name": "Hindu",
+      "culture": "Bengali",
+      "religion": "hindu",
+      "prompt": "Bengali",
+      "sub_regions": [
+        "south_andaman",
+        "north_middle"
+      ],
+      "notes": "Largest settler group; Bengali dress, shakha-pola and sindoor when married; Durga Puja.",
+      "names": {
+        "female": [
+          "Riya",
+          "Moumita",
+          "Sutapa",
+          "Kamala",
+          "Mitali",
+          "Kalpana",
+          "Sharmila",
+          "Tithi",
+          "Rupa",
+          "Sanchita",
+          "Ananya",
+          "Paromita",
+          "Shampa",
+          "Debjani",
+          "Rina",
+          "Mousumi",
+          "Supriya",
+          "Rumpa",
+          "Sumana",
+          "Puja",
+          "Rituparna",
+          "Madhumita",
+          "Mithu",
+          "Bulbul",
+          "Chandana",
+          "Shipra",
+          "Arpita",
+          "Nandini",
+          "Sharmistha",
+          "Tanushree",
+          "Swapna",
+          "Lipika"
+        ],
+        "male": [
+          "Gopal",
+          "Arindam",
+          "Subrata",
+          "Haripada",
+          "Suman",
+          "Sourav",
+          "Partha",
+          "Debashis",
+          "Anirban",
+          "Biswajit",
+          "Tapas",
+          "Pradip",
+          "Amit",
+          "Ranjan",
+          "Subir",
+          "Sanjay",
+          "Prosenjit",
+          "Tarun",
+          "Biplab",
+          "Kaushik",
+          "Somnath",
+          "Utpal",
+          "Asim",
+          "Abhijit",
+          "Subhash",
+          "Sudip",
+          "Pintu",
+          "Bapi",
+          "Ratan",
+          "Arun",
+          "Dipankar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "tamil_hindu",
+      "name": "Hindu",
+      "culture": "Tamil",
+      "religion": "hindu",
+      "prompt": "Tamil",
+      "sub_regions": [
+        "south_andaman",
+        "north_middle"
+      ],
+      "notes": "Tamil settler families; veshti, sarees, thali when married; Pongal.",
+      "names": {
+        "female": [
+          "Kavitha",
+          "Saraswathi",
+          "Divya",
+          "Lakshmi",
+          "Meenakshi",
+          "Selvi",
+          "Kamakshi",
+          "Nila",
+          "Kavya",
+          "Revathi",
+          "Priya",
+          "Malathi",
+          "Vasuki",
+          "Thenmozhi",
+          "Sangeetha",
+          "Anitha",
+          "Gomathi",
+          "Jayanthi",
+          "Valli",
+          "Bhuvana",
+          "Sumathi",
+          "Kalaivani",
+          "Muthulakshmi",
+          "Shanthi",
+          "Indira",
+          "Deepa",
+          "Pavithra",
+          "Sudha",
+          "Yamuna",
+          "Ponni",
+          "Malar",
+          "Kalpana"
+        ],
+        "male": [
+          "Karthik",
+          "Arun",
+          "Ramasamy",
+          "Senthil",
+          "Murugan",
+          "Rajendran",
+          "Saravanan",
+          "Vignesh",
+          "Prakash",
+          "Selvam",
+          "Balaji",
+          "Dinesh",
+          "Ganesan",
+          "Anand",
+          "Kumaravel",
+          "Vel",
+          "Velu",
+          "Muthu",
+          "Kumaran",
+          "Manikandan",
+          "Sivakumar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Islander (mixed, local-born)",
+      "religion": "hindu",
+      "sub_regions": [
+        "south_andaman",
+        "north_middle"
+      ],
+      "notes": "Local-born families of mixed mainland origin, including descendants of people brought by the British; Hindi is the common language.",
+      "names": {
+        "female": [
+          "Riya",
+          "Pihu",
+          "Priya",
+          "Neha",
+          "Kavita",
+          "Sunita",
+          "Pooja",
+          "Anita",
+          "Rekha",
+          "Seema",
+          "Suman",
+          "Asha",
+          "Meena",
+          "Usha",
+          "Geeta",
+          "Jyoti",
+          "Ritu",
+          "Shalini",
+          "Anjali",
+          "Nisha",
+          "Komal",
+          "Mamta",
+          "Sapna",
+          "Rani",
+          "Poonam",
+          "Kiran"
+        ],
+        "male": [
+          "Ravi",
+          "Amit",
+          "Rakesh",
+          "Sunil",
+          "Mohan",
+          "Ajay",
+          "Vijay",
+          "Rajesh",
+          "Deepak",
+          "Manoj",
+          "Sanjay",
+          "Mukesh",
+          "Dinesh",
+          "Ashok",
+          "Anil",
+          "Pawan",
+          "Ramesh"
+        ]
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Ranchi community (Chotanagpur)",
+      "religion": "christian",
+      "prompt": "Ranchi",
+      "sub_regions": [
+        "south_andaman",
+        "north_middle"
+      ],
+      "notes": "Descendants of Oraon, Munda and other Chotanagpur families who came as workers from the early 1900s; mostly Christian; speak Sadri and Kurukh.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Mariam",
+          "Agnes",
+          "Florence",
+          "Prisca",
+          "Anita",
+          "Basanti",
+          "Elizabeth",
+          "Christina",
+          "Shanti",
+          "Mary",
+          "Sushila",
+          "Margaret",
+          "Celestina",
+          "Rosa",
+          "Lily",
+          "Monika",
+          "Pushpa",
+          "Asha",
+          "Sarita",
+          "Rita",
+          "Josephine",
+          "Martha",
+          "Philomina",
+          "Grace",
+          "Tarsila"
+        ],
+        "male": [
+          "Anil",
+          "Prabhu",
+          "Sylvester",
+          "Lucas",
+          "Paulus",
+          "Emmanuel",
+          "Johan",
+          "Birsa",
+          "Samuel",
+          "Peter",
+          "Joseph",
+          "Benedict",
+          "Sunil",
+          "John",
+          "Sebastian",
+          "Thomas",
+          "Francis",
+          "Patras",
+          "Alphonse",
+          "Michael"
+        ]
+      }
+    },
+    {
+      "id": "nicobarese",
+      "name": "Nicobarese",
+      "culture": "Nicobarese",
+      "religion": "christian",
+      "prompt": "Nicobarese",
+      "sub_regions": [
+        "nicobar",
+        "south_andaman"
+      ],
+      "notes": "Majority of the Nicobar Islands, mostly Christian with traditional beliefs; coconut and fruit gardens, fishing, canoes; many in government jobs. Women's colourful papoi wrap skirt with a blouse; men's sarong-like cloth (shown with a shirt).",
+      "names": {
+        "female": [
+          "Agnes",
+          "Rita",
+          "Esther",
+          "Mercy",
+          "Ruth",
+          "Dorothy",
+          "Hannah",
+          "Jessica",
+          "Mary",
+          "Lilly",
+          "Martha",
+          "Grace",
+          "Lucy",
+          "Elizabeth",
+          "Joyce",
+          "Monica",
+          "Sarah",
+          "Rebecca",
+          "Naomi",
+          "Susan",
+          "Priscilla",
+          "Deborah",
+          "Ann",
+          "Julie",
+          "Florence"
+        ],
+        "male": [
+          "John",
+          "Moses",
+          "Joseph",
+          "Paul",
+          "Abraham",
+          "Daniel",
+          "Philip",
+          "Rasheed",
+          "Titus",
+          "Simon",
+          "Peter",
+          "Thomas",
+          "James",
+          "Andrew",
+          "David",
+          "Samuel",
+          "Stephen",
+          "Michael",
+          "George",
+          "Matthew",
+          "Isaac"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Islander (Malayali and others)",
+      "religion": "muslim",
+      "prompt": "Muslim",
+      "sub_regions": [
+        "south_andaman"
+      ],
+      "notes": "Families of Malayali (Moplah) and other origins in Sri Vijaya Puram and nearby villages.",
+      "names": {
+        "female": [
+          "Rahila",
+          "Sajina",
+          "Fathima",
+          "Ayisha",
+          "Nasreen",
+          "Sabeena",
+          "Shameema",
+          "Haseena",
+          "Ramla",
+          "Shabna",
+          "Sajida",
+          "Rubeena",
+          "Nafeesa",
+          "Shahina",
+          "Sumayya",
+          "Zeenath",
+          "Raziya",
+          "Sabira",
+          "Najma",
+          "Hajira",
+          "Thasleena",
+          "Fousiya",
+          "Rehana"
+        ],
+        "male": [
+          "Shafeeq",
+          "Rasheed",
+          "Abdul",
+          "Basheer",
+          "Nizar",
+          "Shihab",
+          "Ismail",
+          "Yusuf",
+          "Abdul Rasheed",
+          "Musthafa",
+          "Ashraf",
+          "Kasim",
+          "Hamza",
+          "Riyas",
+          "Nazeer",
+          "Shameer",
+          "Rafeeq",
+          "Noushad",
+          "Ibrahim",
+          "Salim"
+        ]
+      }
+    }
+  ],
+  "excluded_communities": [
+    {
+      "name": "Great Andamanese, Onge, Jarawa, Sentinelese and Shompen",
+      "reason": "Particularly vulnerable tribal groups living in protected reserves; under the 2012 amendment to the Andaman and Nicobar Protection of Aboriginal Tribes Regulation, photographing or filming them and entering their reserves for tourism are punishable offences. No images or characters of them will be made.",
+      "source": "bs_anpatr_2012"
+    }
+  ],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      8
+    ],
+    "hair": "Black hair.",
+    "notes": "Mixed settler population; East Asian features among Nicobarese. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "bengali_hindu",
+      "notes": "Bengali given names; surnames mark caste."
+    },
+    {
+      "community": "nicobarese",
+      "notes": "Christian given names are common."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "an_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "light cotton shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "an_lungi_m",
+      "name": "Lungi and shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "checked cotton lungi with a half-sleeve shirt",
+      "short": "lungi and shirt",
+      "sources": []
+    },
+    {
+      "id": "an_dhoti_panjabi_m",
+      "name": "Dhoti and panjabi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "prompt": "white dhoti with a cream cotton panjabi",
+      "short": "dhoti and panjabi",
+      "sources": []
+    },
+    {
+      "id": "an_veshti_m",
+      "name": "Veshti and shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "tamil_hindu",
+      "prompt": "white cotton veshti with a gold border and a white shirt",
+      "short": "veshti and shirt",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "an_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "an_topi_m",
+      "name": "Prayer cap",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "white crocheted cotton prayer cap",
+      "short": "white prayer cap",
+      "sources": [
+        "wiki_taqiyah"
+      ]
+    },
+    {
+      "id": "an_smart_m",
+      "name": "Pressed shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "pressed long-sleeved shirt with dark trousers",
+      "short": "pressed shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "an_nicobar_m",
+      "name": "Wrap cloth and shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "nicobarese",
+      "prompt": "colourful sarong-like cloth wrapped at the waist with a short-sleeved shirt",
+      "short": "sarong cloth and shirt",
+      "sources": [
+        "iz_ut_costumes"
+      ]
+    },
+    {
+      "id": "an_tant_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "light cotton saree with a contrast border",
+      "short": "cotton saree",
+      "sources": []
+    },
+    {
+      "id": "an_laal_paar_f",
+      "name": "Red-bordered saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "prompt": "white saree with a broad red border, worn with a red blouse",
+      "short": "red-bordered white saree",
+      "sources": []
+    },
+    {
+      "id": "an_silk_saree_f",
+      "name": "Silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silk saree with a gold zari border",
+      "short": "silk saree",
+      "sources": []
+    },
+    {
+      "id": "an_salwar_f",
+      "name": "Salwar suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar suit",
+      "sources": []
+    },
+    {
+      "id": "an_papoi_f",
+      "name": "Papoi wrap skirt",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "nicobarese",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "colourful sarong-style papoi wrap skirt with a blouse",
+      "short": "papoi wrap skirt and blouse",
+      "sources": [
+        "iz_ut_costumes"
+      ]
+    },
+    {
+      "id": "an_modern_f",
+      "name": "Top and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton top with jeans",
+      "short": "top and jeans",
+      "sources": []
+    },
+    {
+      "id": "an_church_dress_f",
+      "name": "Church dress",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "long-sleeved ankle-length printed dress",
+      "short": "long printed dress",
+      "sources": []
+    },
+    {
+      "id": "an_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton frock with short sleeves and leggings",
+      "short": "girl's cotton frock",
+      "sources": []
+    },
+    {
+      "id": "an_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk skirt with a matching blouse",
+      "short": "girl's long silk skirt",
+      "sources": []
+    },
+    {
+      "id": "an_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's half-sleeve shirt with full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "an_kids_b_fest",
+      "name": "Boy's festive clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's white shirt with dark trousers",
+      "short": "boy's white shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "an_shakha_pola",
+      "name": "Shakha and pola",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "white conch-shell shakha and red pola bangles on both wrists",
+      "short": "shakha and pola bangles",
+      "sources": [
+        "wiki_shankha",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "an_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "an_thali",
+      "name": "Thali",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "tamil_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "gold thali pendant on a yellow thread around the neck",
+      "short": "gold thali on yellow thread",
+      "sources": [
+        "weddingsutra_tamil",
+        "bluestone_mangalsutra"
+      ]
+    },
+    {
+      "id": "an_cross",
+      "name": "Small cross",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "christian",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "small cross on a thin chain",
+      "short": "small cross pendant",
+      "sources": []
+    },
+    {
+      "id": "an_cross_nc",
+      "name": "Small cross",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "nicobarese",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "small cross on a thin chain",
+      "short": "small cross pendant",
+      "sources": []
+    },
+    {
+      "id": "an_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "an_tant_f"
+        ],
+        [
+          "an_salwar_f"
+        ],
+        [
+          "an_papoi_f"
+        ]
+      ],
+      "festive": [
+        [
+          "an_silk_saree_f"
+        ],
+        [
+          "an_papoi_f"
+        ]
+      ],
+      "reason": "Mainland dress of each settler community; papoi among Nicobarese women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "an_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "an_kurta_pyjama_m"
+        ],
+        [
+          "an_smart_m"
+        ]
+      ],
+      "reason": "Light cotton clothes for the hot, humid islands."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "an_tant_f"
+        ]
+      ],
+      "festive": [
+        [
+          "an_silk_saree_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "an_lungi_m"
+        ]
+      ],
+      "festive": [
+        [
+          "an_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Lungi at home."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "an_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "an_kids_g_fest"
+        ]
+      ],
+      "reason": "Long silk skirt."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "an_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "an_kids_b_fest"
+        ]
+      ],
+      "reason": "Shirt and trousers."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "durga_puja_an",
+      "name": "Durga Puja",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bengali_hindu",
+        "hindu"
+      ],
+      "when": "September-October",
+      "scene": "Durga Puja evening in an island town, families visiting a lit pandal",
+      "scene_short": "island Durga Puja"
+    },
+    {
+      "id": "pongal_an",
+      "name": "Pongal",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "tamil_hindu"
+      ],
+      "when": "January",
+      "scene": "Pongal morning outside a house, rice boiling over in a clay pot and a kolam on the ground",
+      "scene_short": "Pongal pot and kolam"
+    },
+    {
+      "id": "christmas_an",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "christian",
+        "nicobarese"
+      ],
+      "when": "25 December",
+      "scene": "Christmas morning, families walking to a village church among coconut palms",
+      "scene_short": "Christmas among palms"
+    },
+    {
+      "id": "eid_an",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families in new clothes greeting each other",
+      "scene_short": "Eid morning"
+    },
+    {
+      "id": "island_fest",
+      "name": "Island Tourism Festival",
+      "type": "festival",
+      "occasion": "festive",
+      "sub_regions": [
+        "south_andaman"
+      ],
+      "when": "late December (27-31 December in 2024 and 2025; earlier editions ran in January)",
+      "scene": "Island Tourism Festival in Sri Vijaya Puram, crowds at cultural stalls and a stage show",
+      "scene_short": "island festival grounds"
+    },
+    {
+      "id": "wedding_guest_an",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding in a decorated hall",
+      "scene_short": "wedding hall"
+    }
+  ],
+  "settings": [
+    {
+      "id": "port_blair_street",
+      "type": "urban",
+      "description": "hilly street in Sri Vijaya Puram with the sea in view",
+      "short": "Sri Vijaya Puram street",
+      "sub_regions": [
+        "south_andaman"
+      ]
+    },
+    {
+      "id": "aberdeen_bazaar",
+      "type": "urban",
+      "description": "busy Aberdeen Bazaar market with a clock tower",
+      "short": "Aberdeen Bazaar",
+      "sub_regions": [
+        "south_andaman"
+      ]
+    },
+    {
+      "id": "rangat_town",
+      "type": "urban",
+      "description": "small Middle Andaman town with a jetty",
+      "short": "island town jetty",
+      "sub_regions": [
+        "north_middle"
+      ]
+    },
+    {
+      "id": "paddy_an",
+      "type": "rural",
+      "description": "paddy fields and areca palms at the edge of tropical forest",
+      "short": "paddy fields by the forest",
+      "sub_regions": [
+        "north_middle",
+        "south_andaman"
+      ]
+    },
+    {
+      "id": "beach_an",
+      "type": "nature",
+      "description": "white sand beach with clear turquoise water and tall trees",
+      "short": "island beach",
+      "sub_regions": [
+        "south_andaman",
+        "north_middle"
+      ]
+    },
+    {
+      "id": "nicobar_village",
+      "type": "rural",
+      "description": "Nicobar village with coconut palms by the sea",
+      "short": "coconut palm village",
+      "sub_regions": [
+        "nicobar"
+      ]
+    },
+    {
+      "id": "home_city_an",
+      "type": "home",
+      "description": "wooden house verandah with potted plants",
+      "short": "house verandah",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_an",
+      "type": "home",
+      "description": "village house with a tin roof and banana plants",
+      "short": "village house",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_an",
+      "type": "work",
+      "description": "office in Sri Vijaya Puram",
+      "short": "island office",
+      "sub_regions": [
+        "south_andaman"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "adult_male"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in paddy fields"
+    },
+    {
+      "id": "fisher",
+      "name": "Fisher",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "bringing in a small boat at the shore"
+    },
+    {
+      "id": "coconut_grower",
+      "name": "Coconut grower",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "gathering coconuts in a palm garden"
+    },
+    {
+      "id": "tour_guide",
+      "name": "Tour guide",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "guiding visitors on a beach"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot and humid (March-May).",
+    "monsoon": "Heavy rain (May-December).",
+    "winter": "Warm and dry (January-March)."
+  },
+  "heritage": [
+    {
+      "id": "an_colonial",
+      "name": "Penal-settlement era",
+      "kind": "other",
+      "status": "historical",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Cellular Jail prisoners' dress and convict history are not used for fictional characters.",
+      "sources": []
+    },
+    {
+      "id": "an_nicobar_rites",
+      "name": "Nicobarese ossuary feast and shaman roles",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Rites and ritual roles are not shown.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Any image, character or 'tribal tour' content about the protected tribes; 'uncontacted' sensationalism.",
+    "Bare-chested or leaf-garment 'native' imagery.",
+    "Convict ancestry jokes; tsunami disaster imagery."
+  ],
+  "todo": [
+    "Telugu, Malayali and Karen settler dress.",
+    "Nicobarese festive dress with sources and Nicobarese review.",
+    "Native review (settler communities)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Andaman and Nicobar Islands religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/35-andaman-and-nicobar-islands.html",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "go2andaman_demography",
+      "title": "Andaman and Nicobar Islands demography (Go2Andaman)",
+      "url": "https://go2andaman.com/andaman-nicobar-islands/demography/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "iz_ut_costumes",
+      "title": "Costumes of Union Territories of India (Indianetzone)",
+      "url": "https://www.indianetzone.com/costumes_union_territories_india",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_nicobarese",
+      "title": "Nicobarese people (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Nicobarese_people",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "aza_tn",
+      "title": "Tamil Nadu traditional clothing (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/tamil-nadu-traditional-clothing-textiles-style/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "weddingsutra_tamil",
+      "title": "A traditional jewellery guide for the Tamil bride (WeddingSutra)",
+      "url": "https://weddingsutra.com/bride/bridal-fashion/a-traditional-jewellery-guide-for-the-tamil-bride/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_taqiyah",
+      "title": "Taqiyah (cap) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Taqiyah_(cap)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_shankha",
+      "title": "Shankha (ornament) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Shankha_(ornament)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "bluestone_mangalsutra",
+      "title": "Traditional South Indian mangalsutra designs: a regional style guide (BlueStone)",
+      "url": "https://blog.bluestone.com/traditional-south-indian-mangalsutra-designs-meanings-a-regional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "nicobartimes_itf",
+      "title": "Island Tourism Festival 2025 set to begin on December 27 (Nicobar Times)",
+      "url": "https://nicobartimes.com/?p=23851",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "outlook_itf",
+      "title": "Island Tourism Festival 2025 begins across 13 venues (Outlook Traveller)",
+      "url": "https://www.outlooktraveller.com/News/island-tourism-festival-2025-begins-across-andaman-and-nicobar-islands-at-13-venues",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "tt_an_festivals",
+      "title": "Festivals of Andaman and Nicobar Islands (TravelTriangle)",
+      "url": "https://traveltriangle.com/blog/festivals-of-andaman-and-nicobar-islands/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "bs_anpatr_2012",
+      "title": "Govt makes exploitation of Andaman tribes a jailable offence (Business Standard/PTI, 2012)",
+      "url": "https://business-standard.com/article/pti-stories/govt-makes-exploitation-of-andaman-tribes-jailable-offence-112053100353_1.html",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-11-02",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Corrected: Island Tourism Festival moved from 'January' to late December; Nicobar Times and Outlook Traveller report 27-31 December in 2024 and 2025, while a travel blog still gives January 5-15 for 2026 (older pattern).",
+      "Open (single source): the Nicobarese papoi wrap skirt and men's sarong-like cloth come from Indianetzone only; Wikipedia's Nicobarese page and travel guides do not describe dress. Needs a Nicobarese reviewer.",
+      "Checked: Durga Puja is the Bengali community's main festival in Sri Vijaya Puram, and Christmas the biggest in the Nicobar group (TravelTriangle), as the file says.",
+      "Exclusion checked: the 2012 amendment to the Protection of Aboriginal Tribes Regulation made photographing the protected tribes and tourism in their reserves punishable (Business Standard/PTI, Down To Earth); the exclusion text now says this precisely and cites it."
+    ]
+  }
+}

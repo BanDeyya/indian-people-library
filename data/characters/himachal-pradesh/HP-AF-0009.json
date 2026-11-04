@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0009",
+  "name": "Indu",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a plait",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "hp_modern_f",
+    "hp_ghagra_f",
+    "hp_winter_jacket",
+    "hp_chandrahaar",
+    "hp_sindoor"
+  ],
+  "language": [
+    "Pahari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-AF-0001",
+  "name": "Stanzin Dolma",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "buddhist",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with wind-reddened cheeks, Tibetan-type features",
+    "eyes": "dark brown eyes",
+    "hair": "long straight black hair in a ponytail",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "la_modern_f",
+    "la_salwar_f",
+    "la_sulma_f",
+    "la_tibi",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

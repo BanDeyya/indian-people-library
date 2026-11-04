@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TG-OM-0020",
+  "name": "Rupla",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "lambada",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_turban_m",
+    "ts_kurta_pyjama_m"
+  ],
+  "language": [
+    "Lambadi",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

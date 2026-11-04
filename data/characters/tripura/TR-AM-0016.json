@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-AM-0016",
+  "name": "Dhirendra",
+  "region": "tripura",
+  "sub_region": "hills",
+  "community": "tripuri",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "rubber_tapper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_rikutu_gamcha_m"
+  ],
+  "language": [
+    "Kokborok",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

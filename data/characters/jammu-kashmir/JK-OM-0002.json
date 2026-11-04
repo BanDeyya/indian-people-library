@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "JK-OM-0002",
+  "name": "Fayaz Ahmad",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "square face",
+    "eyes": "light brown eyes",
+    "hair": "short grey hair",
+    "build": "lean",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "jk_pheran_m",
+    "jk_kurta_pyjama_m",
+    "jk_winter_jacket"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

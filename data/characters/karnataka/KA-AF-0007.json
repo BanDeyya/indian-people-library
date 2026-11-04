@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0007",
+  "name": "Shilpa Ravi",
+  "region": "karnataka",
+  "sub_region": "old_mysore",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "ka_salwar_f",
+    "ka_mysore_silk_f",
+    "ka_cotton_saree_f",
+    "ka_mangalsutra"
+  ],
+  "language": [
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0004",
+  "name": "Mohammed Rafiq",
+  "region": "karnataka",
+  "sub_region": "kalyana",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "average",
+    "signature_mark": "small scar above his right eyebrow"
+  },
+  "wardrobe": [
+    "ka_kurta_pyjama_m",
+    "ka_shirt_trousers_m"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "NL-AF-0019",
+  "name": "Junu",
+  "region": "nagaland",
+  "sub_region": "dimapur_plains",
+  "community": "kachari",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with soft features",
+    "eyes": "brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "nl_modern_f",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Dimasa",
+    "Nagamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

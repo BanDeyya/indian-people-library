@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "GA-OM-0013",
+  "name": "Pandurang Datta",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean lined face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ga_dhoti_m",
+    "ga_shirt_trousers_m"
+  ],
+  "language": [
+    "Konkani"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

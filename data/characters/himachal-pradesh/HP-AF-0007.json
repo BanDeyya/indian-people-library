@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0007",
+  "name": "Meena",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with rosy cheeks",
+    "eyes": "hazel-brown eyes",
+    "hair": "long dark brown hair",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "hp_suit_f",
+    "hp_ghagra_f",
+    "hp_winter_jacket",
+    "hp_chandrahaar",
+    "hp_sindoor"
+  ],
+  "language": [
+    "Kangri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

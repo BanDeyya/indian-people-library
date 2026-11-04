@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-OF-0011",
+  "name": "Usha",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 87,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "an_salwar_f",
+    "an_silk_saree_f"
+  ],
+  "language": [
+    "Hindi",
+    "English",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

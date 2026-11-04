@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "JK-AM-0010",
+  "name": "Tariq",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "kashmiri_muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "orchardist",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "green eyes",
+    "hair": "short black hair greying at the sides",
+    "build": "strong",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "jk_pheran_m",
+    "jk_kurta_pyjama_m",
+    "jk_shirt_trousers_m",
+    "jk_winter_jacket"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

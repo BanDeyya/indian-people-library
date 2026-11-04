@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0005",
+  "name": "Jivanbhai Chirag",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "weathered square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dd_kurta_m",
+    "dd_kediyu_m"
+  ],
+  "language": [
+    "Gujarati",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

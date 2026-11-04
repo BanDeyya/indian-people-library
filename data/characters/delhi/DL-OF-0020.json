@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "DL-OF-0020",
+  "name": "Manjit Kaur",
+  "region": "delhi",
+  "sub_region": "west",
+  "community": "sikh",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "dl_kara",
+    "dl_suit_f",
+    "dl_festive_suit_f",
+    "dl_winter_jacket"
+  ],
+  "always_wear": [
+    "dl_kara"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

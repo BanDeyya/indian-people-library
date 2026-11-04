@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0015",
+  "name": "Rekha",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "strong",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "hr_daaman_f",
+    "hr_festive_suit_f",
+    "hr_suit_f",
+    "hr_sindoor",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Bagri",
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

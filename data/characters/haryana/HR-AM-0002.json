@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0002",
+  "name": "Vikas Kumar",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "trimmed moustache",
+    "build": "athletic",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_kurta_pyjama_m",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Ahirwati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

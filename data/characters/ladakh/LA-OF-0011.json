@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0011",
+  "name": "Nasreen",
+  "region": "ladakh",
+  "sub_region": "kargil",
+  "community": "kargil_muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 81,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with soft cheekbones",
+    "eyes": "hazel-brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_phiren_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Purgi",
+    "Balti",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

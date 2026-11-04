@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-OF-0002",
+  "name": "Geetha",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "kl_set_mundu_f",
+    "kl_kasavu_saree_f",
+    "kl_jimikki",
+    "kl_cotton_saree_f",
+    "kl_temple_flowers"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

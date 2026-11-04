@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-OF-0016",
+  "name": "Bijayalaxmi Akshaya",
+  "region": "odisha",
+  "sub_region": "koraput",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face with large eyes",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "od_sambalpuri_f",
+    "od_bomkai_f",
+    "od_sindoor",
+    "od_sakha_pola"
+  ],
+  "language": [
+    "Odia",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

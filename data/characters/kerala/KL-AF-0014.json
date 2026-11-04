@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0014",
+  "name": "Sajna Muhammed",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "soft round face with full cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "hair covered by her headscarf",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "kl_kuppayam_f",
+    "kl_churidar_hijab_f",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

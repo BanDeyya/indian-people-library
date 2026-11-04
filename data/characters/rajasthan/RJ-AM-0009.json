@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0009",
+  "name": "Om Prakash",
+  "region": "rajasthan",
+  "sub_region": "dhundhar",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "long face with a hooked nose and deep wrinkles",
+    "eyes": "dark eyes",
+    "hair": "short black hair under his safa",
+    "build": "lean",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "rj_dhoti_kurta_m",
+    "rj_angrakha_m",
+    "rj_bandhgala_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MN-AF-0005",
+  "name": "Rasheshori",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined round face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "mn_phanek_f",
+    "mn_modern_f",
+    "mn_phanek_innaphi_f",
+    "mn_velvet_jacket_f"
+  ],
+  "language": [
+    "Meiteilon",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

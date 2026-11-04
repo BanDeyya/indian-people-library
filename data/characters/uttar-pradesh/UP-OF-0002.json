@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0002",
+  "name": "Sarita Devi",
+  "region": "uttar-pradesh",
+  "sub_region": "bundelkhand",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a soft jaw",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "up_cotton_saree_f",
+    "up_banarasi_f",
+    "up_sindoor",
+    "up_bichiya"
+  ],
+  "language": [
+    "Braj Bhasha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

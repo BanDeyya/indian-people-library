@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "HR-OF-0012",
+  "name": "Sushila Devi",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair under her chunder",
+    "build": "sturdy",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "hr_suit_f",
+    "hr_festive_suit_f"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

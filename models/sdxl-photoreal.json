@@ -1,0 +1,22 @@
+{
+  "id": "sdxl-photoreal",
+  "family": "sdxl",
+  "description": "Photoreal SDXL fine-tunes (e.g. RealVisXL). Default profile.",
+  "tokenizer": "clip",
+  "token_budget": 75,
+  "long_prompt": "truncate",
+  "max_chunks": 1,
+  "negatives": true,
+  "variant": "short",
+  "sizes": {
+    "portrait": [
+      1024,
+      1024
+    ],
+    "full": [
+      832,
+      1216
+    ]
+  },
+  "style": "realistic photo, natural light, real skin texture"
+}

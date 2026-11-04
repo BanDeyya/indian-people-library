@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0002",
+  "name": "Priyanka Sudhir",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on her right wrist"
+  },
+  "wardrobe": [
+    "od_modern_f",
+    "od_salwar_f",
+    "od_khandua_f",
+    "od_alta"
+  ],
+  "language": [
+    "Odia",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

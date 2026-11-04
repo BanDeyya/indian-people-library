@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0006",
+  "name": "Manish",
+  "region": "delhi",
+  "sub_region": "old_delhi",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dl_festive_kurta_m",
+    "dl_shirt_trousers_m",
+    "dl_kurta_pyjama_m"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

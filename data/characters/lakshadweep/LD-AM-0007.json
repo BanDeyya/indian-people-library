@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0007",
+  "name": "Irfan Kasim",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ld_shirt_trousers_m",
+    "ld_lungi_shirt_m",
+    "ld_white_mundu_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "id": "PB-AM-0010",
+  "name": "Hardeep Singh",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "long face with a strong jaw and a straight nose",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "unshorn hair tied under his turban",
+    "build": "athletic",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "full dark beard, neatly kept"
+  },
+  "wardrobe": [
+    "pb_dastar_m",
+    "pb_kada",
+    "pb_kurta_pajama_m",
+    "pb_khes_wrap",
+    "pb_kurta_tehmat_m"
+  ],
+  "always_wear": [
+    "pb_dastar_m",
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

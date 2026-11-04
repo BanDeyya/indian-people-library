@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0011",
+  "name": "Kitboklang",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ml_jymphong_m",
+    "ml_shirt_trousers_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Khasi",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

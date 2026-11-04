@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-AM-0018",
+  "name": "Valentine",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "catholic",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair greying at the temples",
+    "build": "medium",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_suit_m",
+    "ga_cross",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Portuguese (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

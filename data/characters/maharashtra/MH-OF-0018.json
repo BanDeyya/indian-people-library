@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MH-OF-0018",
+  "name": "Huma",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "mh_cotton_saree_f",
+    "mh_salwar_f"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

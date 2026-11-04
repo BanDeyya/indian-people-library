@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0008",
+  "name": "Mahendra",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "garhwali",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean and strong",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "uk_kurta_sadri_m",
+    "uk_shirt_trousers_m",
+    "uk_topi",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

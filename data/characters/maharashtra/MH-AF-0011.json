@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0011",
+  "name": "Ujwala",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face with a pointed chin",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "mh_nauvari_silk_f",
+    "mh_salwar_f",
+    "mh_paithani_f",
+    "mh_pheta_f",
+    "mh_mangalsutra",
+    "mh_green_bangles",
+    "mh_kolhapuri_saaj"
+  ],
+  "language": [
+    "Marathi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

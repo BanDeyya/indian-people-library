@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0014",
+  "name": "Kamlesh",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean and strong",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "cg_dhoti_kurta_m",
+    "cg_kurta_pyjama_m",
+    "cg_shirt_trousers_m"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

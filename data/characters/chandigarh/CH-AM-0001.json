@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-AM-0001",
+  "name": "Rahul",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his left eyebrow",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "ch_shirt_jeans_m",
+    "ch_kurta_pajama_m",
+    "ch_saluka_m",
+    "ch_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

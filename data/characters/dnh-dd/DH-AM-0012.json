@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0012",
+  "name": "Hiren",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 52,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dd_kurta_m",
+    "dd_shirt_trousers_m",
+    "dd_kediyu_m"
+  ],
+  "language": [
+    "Gujarati",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

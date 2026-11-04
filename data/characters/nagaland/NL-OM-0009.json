@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0009",
+  "name": "Kughavi",
+  "region": "nagaland",
+  "sub_region": "zunheboto",
+  "community": "sumi",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 82,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "slim",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "nl_trousers_m",
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_sumi_nisuphi_m"
+  ],
+  "language": [
+    "Sumi",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

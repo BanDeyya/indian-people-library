@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TN-OF-0007",
+  "name": "Thenmozhi Muthu",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a small knot",
+    "build": "thin",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "tn_chettinad_f",
+    "tn_kanjeevaram_f",
+    "tn_studs",
+    "tn_thali",
+    "tn_metti"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

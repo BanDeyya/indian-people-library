@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MH-OM-0016",
+  "name": "Harishchandra Ganesh",
+  "region": "maharashtra",
+  "sub_region": "mumbai",
+  "community": "koli",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "muscular",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "mh_koli_surka_m",
+    "mh_modern_m",
+    "mh_koli_cap"
+  ],
+  "language": [
+    "Koli",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

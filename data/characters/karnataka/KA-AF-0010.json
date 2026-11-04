@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0010",
+  "name": "Prema",
+  "region": "karnataka",
+  "sub_region": "kittur",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ka_mysore_silk_f",
+    "ka_salwar_f",
+    "ka_cotton_saree_f",
+    "ka_jasmine",
+    "ka_mangalsutra"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

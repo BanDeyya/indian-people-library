@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MH-OF-0019",
+  "name": "Shabana Parveen",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "fish_seller",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "mh_cotton_saree_f",
+    "mh_salwar_f"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

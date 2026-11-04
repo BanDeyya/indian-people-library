@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-OF-0016",
+  "name": "Faith",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "christian",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "ar_church_dress_f",
+    "ar_skirt_f"
+  ],
+  "language": [
+    "Galo",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

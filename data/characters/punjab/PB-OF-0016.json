@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0016",
+  "name": "Shilpa Ashok",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 81,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with a rounded chin",
+    "eyes": "brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "pb_suit_f",
+    "pb_karva_chauth_f",
+    "pb_jhumka"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

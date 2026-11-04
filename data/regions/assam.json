@@ -1,0 +1,1580 @@
+{
+  "schema_version": 2,
+  "slug": "assam",
+  "code": "AS",
+  "name": "Assam",
+  "type": "state",
+  "zone": "northeast",
+  "capital": "Dispur",
+  "status": "reviewed",
+  "languages": [
+    "Assamese",
+    "Bodo",
+    "Bengali",
+    "Mising",
+    "Karbi",
+    "Hindi"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 61.47,
+      "muslim": 34.22,
+      "christian": 3.74,
+      "other": 0.57
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "communities": [
+    {
+      "id": "assamese",
+      "name": "Hindu",
+      "culture": "Assamese",
+      "religion": "hindu",
+      "notes": "Mostly Vaishnava; satras and namghars are central institutions. Mekhela chador for women, dhoti/kurta and gamosa for men; gamosa used by everyone, across religions.",
+      "names": {
+        "female": [
+          "Malati",
+          "Mitali",
+          "Dipika",
+          "Rimjhim",
+          "Junmoni",
+          "Pallavi",
+          "Bornali",
+          "Anjali",
+          "Nilakshi",
+          "Rupjyoti",
+          "Mridula",
+          "Pranami",
+          "Bhanita",
+          "Ankita",
+          "Rina",
+          "Jonali",
+          "Barnali",
+          "Dipali",
+          "Moonmoon",
+          "Nirmali",
+          "Rupali",
+          "Puja",
+          "Minakshi",
+          "Rashmi",
+          "Debajani",
+          "Pinky",
+          "Kabita",
+          "Jahnabi",
+          "Arpita",
+          "Gitali"
+        ],
+        "male": [
+          "Pranjal",
+          "Bhaskar",
+          "Dhrubajyoti",
+          "Rituparna",
+          "Hemanta",
+          "Pulak",
+          "Nayan",
+          "Bijoy",
+          "Manash",
+          "Kaushik",
+          "Dipankar",
+          "Jayanta",
+          "Partha",
+          "Utpal",
+          "Dhruba",
+          "Bitupan",
+          "Kamal",
+          "Ajit",
+          "Manoj",
+          "Rupam",
+          "Prasanta",
+          "Dilip",
+          "Mridul"
+        ]
+      }
+    },
+    {
+      "id": "assamese_muslim",
+      "name": "Muslim",
+      "culture": "Assamese (Goria, Moriya, Deshi, Julah, Syed)",
+      "religion": "muslim",
+      "notes": "About 40 lakh Assamese-speaking Muslims, recognised as indigenous Assamese Muslims in 2022. Men wear kurta and lungi with a gamosa; women wear the mekhela sador adapted for modesty. Celebrate Bihu as well as Eid; zikir and zari devotional songs (from the 17th-century saint Azan Faqir) are part of Assamese culture.",
+      "names": {
+        "female": [
+          "Nasreen",
+          "Anowara",
+          "Rupa",
+          "Monowara",
+          "Rasida",
+          "Jahanara",
+          "Saleha",
+          "Rehana",
+          "Hasina",
+          "Nazma",
+          "Mamoni",
+          "Sahida",
+          "Sahina",
+          "Rumi",
+          "Jasmin",
+          "Hafiza",
+          "Begum",
+          "Rashida",
+          "Sabina",
+          "Nilufa",
+          "Sufia",
+          "Rozina",
+          "Momina",
+          "Asma",
+          "Hamida",
+          "Fatema",
+          "Rehena",
+          "Mumtaz"
+        ],
+        "male": [
+          "Rezaul",
+          "Abdul",
+          "Anwar",
+          "Jamal",
+          "Ismail",
+          "Hafiz",
+          "Kamaluddin",
+          "Nurul",
+          "Rafique",
+          "Saiful",
+          "Mukhtar",
+          "Ainul",
+          "Rafiq",
+          "Jahangir",
+          "Sahidul",
+          "Mofidul",
+          "Habib",
+          "Ashraf",
+          "Kamal",
+          "Moinul",
+          "Faruk",
+          "Iqbal"
+        ],
+        "second_female": [
+          "Begum",
+          "Khatun"
+        ],
+        "second_male": [
+          "Ali",
+          "Hussain",
+          "Islam"
+        ]
+      }
+    },
+    {
+      "id": "bengali_muslim",
+      "name": "Muslim",
+      "culture": "Bengali-origin",
+      "religion": "muslim",
+      "notes": "Bengali-speaking Muslim community, distinct from Assamese Muslims. Dress still to research; depict neutrally in everyday life (see avoid list)."
+    },
+    {
+      "id": "bengali_hindu",
+      "name": "Hindu",
+      "culture": "Bengali",
+      "religion": "hindu",
+      "notes": "Majority in the Barak Valley. Dress still to research."
+    },
+    {
+      "id": "bodo",
+      "name": "Bodo",
+      "culture": "Bodo",
+      "prompt": "Bodo",
+      "notes": "Women: dokhona with colourful woven floral designs. Men: gamsa tied at the waist. Aronai scarf for honour and winter.",
+      "names": {
+        "female": [
+          "Rupali",
+          "Jwngshri",
+          "Sansumwi",
+          "Rwisumwi",
+          "Gwmwthi",
+          "Binita",
+          "Pratima",
+          "Anjali",
+          "Rinku",
+          "Daisy",
+          "Swmkhwr",
+          "Jwmwi",
+          "Mamoni",
+          "Junu",
+          "Rupa",
+          "Bandana",
+          "Dipika",
+          "Sangita",
+          "Nirmala",
+          "Jyotsna",
+          "Sumitra",
+          "Anita",
+          "Sewali",
+          "Bina",
+          "Lakhi",
+          "Mitali",
+          "Ratna",
+          "Monika"
+        ],
+        "male": [
+          "Gwmsar",
+          "Rwngsar",
+          "Dwimalu",
+          "Sansuma",
+          "Bikram",
+          "Ranjit",
+          "Pradip",
+          "Raju",
+          "Dhiren",
+          "Bijit",
+          "Rabindra",
+          "Mahendra",
+          "Prakash",
+          "Hagrama",
+          "Biswajit",
+          "Kampa",
+          "Derhasat",
+          "Mohan",
+          "Dilip",
+          "Jwngsar",
+          "Bijoy",
+          "Gautam",
+          "Ramesh",
+          "Prasanta"
+        ]
+      }
+    },
+    {
+      "id": "mising",
+      "name": "Mising",
+      "culture": "Mising",
+      "prompt": "Mising",
+      "notes": "River-valley community of Upper Assam. Women: ege (lower wrap) with gero; men: white mibu galuk shirt, damur cloth. Ali-Aye-Ligang sowing festival.",
+      "names": {
+        "female": [
+          "Jonali",
+          "Lakhimi",
+          "Bornali",
+          "Nirmali",
+          "Ritamoni",
+          "Purnima",
+          "Ranjita",
+          "Sewali",
+          "Junali",
+          "Pallabi",
+          "Jamuna",
+          "Monika",
+          "Rupali",
+          "Mamoni",
+          "Anima",
+          "Jonmoni",
+          "Bharati",
+          "Prabhati",
+          "Lakhi",
+          "Dipali",
+          "Rekha",
+          "Sumitra",
+          "Kalpana",
+          "Hira",
+          "Gitanjali",
+          "Junu",
+          "Minu",
+          "Pranita"
+        ],
+        "male": [
+          "Bhaben",
+          "Dipen",
+          "Ranjit",
+          "Jiten",
+          "Bharat",
+          "Bishnu",
+          "Hemanta",
+          "Nabin",
+          "Ramesh",
+          "Lohit",
+          "Indreswar",
+          "Pranab",
+          "Rantu",
+          "Jibon",
+          "Bhuban",
+          "Ratul",
+          "Pradip",
+          "Dilip",
+          "Rajib",
+          "Dulal",
+          "Ranoj",
+          "Tabu",
+          "Bipul",
+          "Jitu",
+          "Prasanta",
+          "Mohan",
+          "Lakhinath"
+        ]
+      }
+    },
+    {
+      "id": "karbi",
+      "name": "Karbi",
+      "culture": "Karbi",
+      "notes": "Hill community of Karbi Anglong. Textiles: pini (women's lower garment), vamkok (women's girdle), pekok, seleng, jiso khonjari, jirik; a GI tag is being sought. Full outfits not yet sourced."
+    },
+    {
+      "id": "rabha",
+      "name": "Rabha",
+      "culture": "Rabha",
+      "notes": "Lower Assam (e.g. Goalpara). Baikho pre-monsoon harvest festival. Dress names not yet sourced."
+    },
+    {
+      "id": "tea_garden",
+      "name": "Tea-garden (Adivasi) communities",
+      "culture": "Tea-garden Adivasi",
+      "notes": "Descendants of workers brought from central India in the 19th century. Red and white sarees popular among women; Jhumur dance. Show in varied roles, not only as plantation labour.",
+      "names": {
+        "female": [
+          "Sumitra",
+          "Phulmani",
+          "Basanti",
+          "Sukurmani",
+          "Lalita",
+          "Shanti",
+          "Mangri",
+          "Somari",
+          "Budhni",
+          "Saraswati",
+          "Jayanti",
+          "Anita",
+          "Sukmoni",
+          "Malati",
+          "Kamla",
+          "Rita",
+          "Parbati",
+          "Gita",
+          "Mamta",
+          "Somni",
+          "Laxmi",
+          "Anjali",
+          "Sunita",
+          "Champa",
+          "Urmila",
+          "Puja",
+          "Radha",
+          "Bimla"
+        ],
+        "male": [
+          "Bikash",
+          "Somra",
+          "Budhu",
+          "Lakhan",
+          "Mangal",
+          "Birsa",
+          "Ramu",
+          "Sanatan",
+          "Etwa",
+          "Mohan",
+          "Sukra",
+          "Bhola",
+          "Ramesh",
+          "Prakash",
+          "Raju",
+          "Bijoy",
+          "Gopal",
+          "Sanjay",
+          "Dilip",
+          "Rajesh",
+          "Kartik"
+        ]
+      }
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      2,
+      8
+    ],
+    "notes": "Very wide range. Must not default Assam to a generic North Indian look or a generic East Asian look. Assam has no Particularly Vulnerable Tribal Groups. Starting range, tune after test renders.",
+    "by_community": [
+      {
+        "community": "bodo",
+        "notes": "Many people have East Asian facial features (Tibeto-Burman-speaking community)."
+      },
+      {
+        "community": "mising",
+        "notes": "Many people have East Asian facial features (Tibeto-Burman-speaking community)."
+      },
+      {
+        "community": "tea_garden",
+        "skin_tone_mst": [
+          5,
+          9
+        ],
+        "notes": "Often deeper brown."
+      }
+    ]
+  },
+  "wardrobe": [
+    {
+      "id": "as_mekhela_chador_f",
+      "name": "Mekhela chador",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Assamese mekhela chador in cream cotton or pat silk: pleated mekhela wrapped at the waist and chador draped over the upper body, with an elbow-sleeve blouse",
+      "short": "cream Assamese mekhela chador",
+      "sources": [
+        "assam_gov_culture",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "as_muga_f",
+      "name": "Muga silk mekhela chador",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "golden muga silk mekhela chador with red woven motifs, worn with a matching blouse",
+      "short": "golden muga silk mekhela chador with red motifs",
+      "sources": [
+        "assam_gov_culture",
+        "wiki_gi_list",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "as_mekhela_g",
+      "name": "Girl's mekhela chador",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's simple cotton mekhela chador with a red border and a full-sleeve blouse",
+      "short": "girl's cotton mekhela chador",
+      "sources": [
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "as_dhoti_kurta_m",
+      "name": "Dhoti and kurta",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white dhoti with a white kurta",
+      "short": "white dhoti and kurta",
+      "sources": []
+    },
+    {
+      "id": "as_gamosa",
+      "name": "Gamosa",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male",
+        "old_female",
+        "child_boy",
+        "child_girl"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white handwoven gamosa cloth with red borders around the neck",
+      "short": "red-bordered white gamosa",
+      "sources": [
+        "assam_gov_culture"
+      ]
+    },
+    {
+      "id": "as_bihu_head_m",
+      "name": "Gamosa tied on head (Bihu)",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "red-bordered gamosa tied around the head, Bihu festival style",
+      "short": "gamosa tied on head",
+      "sources": [
+        "assam_gov_culture"
+      ]
+    },
+    {
+      "id": "as_dokhona_f",
+      "name": "Dokhona",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bodo",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Bodo dokhona, a handwoven wrap dress with colourful floral woven patterns, worn with a blouse and a light scarf",
+      "short": "Bodo dokhona with floral woven patterns",
+      "sources": [
+        "chirang_gov_attire",
+        "wiki_dokhona"
+      ]
+    },
+    {
+      "id": "as_gamsa_m",
+      "name": "Gamsa",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bodo",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "Bodo gamsa in green and white, tied at the waist and reaching the knees",
+      "short": "green and white Bodo gamsa",
+      "sources": [
+        "chirang_gov_attire"
+      ]
+    },
+    {
+      "id": "as_shirt_upper_m",
+      "name": "Plain shirt (with gamsa)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "upper",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain light cotton shirt",
+      "short": "plain cotton shirt",
+      "sources": []
+    },
+    {
+      "id": "as_aronai",
+      "name": "Aronai scarf",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male",
+        "old_female"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any",
+        "winter"
+      ],
+      "community": "bodo",
+      "meaning": [
+        "community",
+        "honour"
+      ],
+      "prompt": "Bodo aronai scarf with woven patterns worn around the neck",
+      "short": "Bodo aronai scarf",
+      "sources": [
+        "chirang_gov_attire",
+        "wiki_dokhona"
+      ]
+    },
+    {
+      "id": "as_kurti_f",
+      "name": "Kurti / everyday",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with straight pants and a light scarf, everyday wear",
+      "short": "cotton kurti and straight pants",
+      "sources": []
+    },
+    {
+      "id": "as_shirt_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "casual cotton shirt and trousers, everyday wear",
+      "short": "casual shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "as_kids_everyday_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton t-shirt and full-length trousers, ordinary everyday clothes",
+      "short": "cotton t-shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "as_kurta_lungi_m",
+      "name": "Kurta and lungi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "assamese_muslim",
+      "representative": true,
+      "prompt": "long cotton kurta with a checked lungi",
+      "short": "kurta and checked lungi",
+      "sources": [
+        "wiki_goriya"
+      ]
+    },
+    {
+      "id": "as_mekhela_modest_f",
+      "name": "Mekhela sador, head covered",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "assamese_muslim",
+      "meaning": [
+        "religious"
+      ],
+      "representative": true,
+      "prompt": "cream Assamese mekhela sador with a full-sleeve blouse and the sador drawn over the head",
+      "short": "mekhela sador drawn over the head",
+      "sources": [
+        "wiki_goriya",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "as_mising_ege_f",
+      "name": "Ege and gero",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "mising",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Mising ege, an ankle-length pleated wrap, with a gero tied over it, white with a red and black woven central design",
+      "short": "Mising ege and gero, red and black design",
+      "sources": [
+        "nvli_mising",
+        "wiki_mising"
+      ]
+    },
+    {
+      "id": "as_mibu_galuk_m",
+      "name": "Mibu galuk",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "upper",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "mising",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "white Mising mibu galuk, an open-front short-sleeved shirt with coloured stripes at the back and waist",
+      "short": "white striped mibu galuk shirt",
+      "sources": [
+        "nvli_mising",
+        "wiki_mising"
+      ]
+    },
+    {
+      "id": "as_white_wrap_m",
+      "name": "White waist wrap",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain white cotton waist wrap reaching the ankles",
+      "short": "white ankle-length waist wrap",
+      "sources": []
+    },
+    {
+      "id": "as_damur",
+      "name": "Damur",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "mising",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "handwoven white damur cloth with a red border over the shoulder",
+      "short": "white red-bordered damur",
+      "sources": [
+        "nvli_mising"
+      ]
+    },
+    {
+      "id": "as_gadu_galuk_m",
+      "name": "Gadu galuk (winter)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "daily"
+      ],
+      "season": [
+        "winter"
+      ],
+      "community": "mising",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "thick half-sleeved open-front Mising gadu galuk in dark blue",
+      "short": "dark blue gadu galuk",
+      "sources": [
+        "nvli_mising"
+      ]
+    },
+    {
+      "id": "as_red_white_saree_f",
+      "name": "Red and white saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "tea_garden",
+      "representative": true,
+      "prompt": "white cotton saree with a broad red border, worn with a red blouse",
+      "short": "white saree with broad red border",
+      "sources": [
+        "esamskriti_jhumur"
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "id": "as_gold_set",
+      "name": "Assamese gold jewellery",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "prompt": "handmade Assamese gold necklace with red and green enamel and small red stones",
+      "short": "Assamese gold necklace with red enamel",
+      "sources": [
+        "assam_gov_culture"
+      ]
+    },
+    {
+      "id": "as_keru",
+      "name": "Keru earrings",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest"
+      ],
+      "prompt": "traditional Assamese gold keru earrings",
+      "short": "gold keru earrings",
+      "sources": [
+        "assam_gov_culture"
+      ]
+    },
+    {
+      "id": "as_small_studs",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "as_mekhela_chador_f",
+          "as_keru"
+        ],
+        [
+          "as_mekhela_modest_f"
+        ]
+      ],
+      "festive": [
+        [
+          "as_muga_f",
+          "as_gold_set"
+        ],
+        [
+          "as_dokhona_f",
+          "as_aronai"
+        ],
+        [
+          "as_mising_ege_f"
+        ]
+      ],
+      "reason": "The mekhela chador is the defining dress of Assamese women across religions (with the sador over the head for many Muslim women); golden muga silk, the Bodo dokhona and the Mising ege-gero are signature festive dresses."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "as_shirt_m"
+        ],
+        [
+          "as_kurta_lungi_m",
+          "as_gamosa"
+        ]
+      ],
+      "festive": [
+        [
+          "as_dhoti_kurta_m",
+          "as_gamosa"
+        ],
+        [
+          "as_mibu_galuk_m",
+          "as_white_wrap_m",
+          "as_damur"
+        ]
+      ],
+      "reason": "Shirt and trousers or kurta-lungi with gamosa for everyday; dhoti, kurta and gamosa, or the Mising mibu galuk, for festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "as_mekhela_chador_f"
+        ]
+      ],
+      "festive": [
+        [
+          "as_muga_f",
+          "as_gold_set"
+        ]
+      ],
+      "reason": "Same as adult women."
+    },
+    "old_male": {
+      "festive": [
+        [
+          "as_dhoti_kurta_m",
+          "as_gamosa"
+        ]
+      ],
+      "reason": "Same as adult men."
+    },
+    "child_girl": {
+      "festive": [
+        [
+          "as_mekhela_g",
+          "as_small_studs"
+        ]
+      ],
+      "reason": "Small mekhela chador at festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "as_kids_everyday_b"
+        ]
+      ],
+      "festive": [
+        [
+          "as_dhoti_kurta_m",
+          "as_gamosa"
+        ]
+      ],
+      "reason": "Boys wear dhoti, kurta and gamosa at Bihu."
+    }
+  },
+  "occasions": [
+    {
+      "id": "rongali_bihu",
+      "name": "Rongali (Bohag) Bihu",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "April",
+      "scene": "Rongali Bihu celebration outdoors in spring, people in mekhela chador and gamosa, dhol drums",
+      "scene_short": "Rongali Bihu spring celebration with dhol"
+    },
+    {
+      "id": "bhogali_bihu",
+      "name": "Bhogali (Magh) Bihu",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "January",
+      "scene": "Magh Bihu morning, community bonfire beside harvested paddy fields, families sharing pitha",
+      "scene_short": "Magh Bihu bonfire by harvested fields"
+    },
+    {
+      "id": "kati_bihu",
+      "name": "Kati (Kongali) Bihu",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "October",
+      "scene": "Kati Bihu evening, small earthen lamps lit at the edge of green paddy fields",
+      "scene_short": "earthen lamps at paddy field edge"
+    },
+    {
+      "id": "baisagu",
+      "name": "Baisagu",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bodo"
+      ],
+      "when": "mid-April (1st Baisakh)",
+      "scene": "Bodo Baisagu festival, people in dokhona and aronai gathered in a village",
+      "scene_short": "Bodo Baisagu village festival"
+    },
+    {
+      "id": "durga_puja_assam",
+      "name": "Durga Puja",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "September-October",
+      "scene": "decorated Durga Puja pandal at night with families visiting",
+      "scene_short": "Durga Puja pandal at night"
+    },
+    {
+      "id": "eid_assam",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "assamese_muslim",
+        "bengali_muslim"
+      ],
+      "when": "varies (Islamic calendar)",
+      "scene": "Eid morning in an Assam town, families in new clothes greeting neighbours",
+      "scene_short": "Eid morning greetings in an Assam town"
+    },
+    {
+      "id": "zikir",
+      "name": "Zikir singing",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "assamese_muslim"
+      ],
+      "when": "any",
+      "scene": "group singing zikir devotional songs in a village courtyard",
+      "scene_short": "zikir singing in a village courtyard"
+    },
+    {
+      "id": "ali_aye_ligang",
+      "name": "Ali-Aye-Ligang",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "mising"
+      ],
+      "when": "February (starts on the first Wednesday, five days)",
+      "scene": "Mising Ali-Aye-Ligang sowing festival, people in ege, gero and mibu galuk dancing outside stilt houses",
+      "scene_short": "Ali-Aye-Ligang festival by stilt houses"
+    },
+    {
+      "id": "baikho",
+      "name": "Baikho",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "rabha"
+      ],
+      "when": "June (pre-monsoon)",
+      "scene": "Rabha Baikho harvest prayer festival in a village, women in traditional dress",
+      "scene_short": "Rabha Baikho village festival"
+    },
+    {
+      "id": "jhumur",
+      "name": "Jhumur dance",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "tea_garden"
+      ],
+      "when": "festivals",
+      "scene": "women dancing Jhumur shoulder to shoulder in a tea garden clearing, men playing madal drums",
+      "scene_short": "Jhumur dance in a tea garden"
+    },
+    {
+      "id": "wedding_guest_as",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at an Assamese wedding under a decorated pandal",
+      "scene_short": "guests at an Assamese wedding"
+    }
+  ],
+  "settings": [
+    {
+      "id": "tea_garden",
+      "type": "rural",
+      "description": "neat rows of a green tea garden with shade trees, soft morning light",
+      "short": "green tea garden rows",
+      "sub_regions": [
+        "upper_assam"
+      ]
+    },
+    {
+      "id": "brahmaputra",
+      "type": "nature",
+      "description": "wide Brahmaputra river bank with a wooden country boat",
+      "short": "Brahmaputra river bank with a boat"
+    },
+    {
+      "id": "stilt_house",
+      "type": "home",
+      "description": "village house of bamboo raised on stilts, surrounded by greenery",
+      "short": "bamboo stilt house"
+    },
+    {
+      "id": "paddy_hills",
+      "type": "rural",
+      "description": "green paddy fields with blue hills in the distance",
+      "short": "paddy fields and blue hills"
+    },
+    {
+      "id": "guwahati_street",
+      "type": "urban",
+      "description": "ordinary Guwahati city street with shops and auto-rickshaws",
+      "short": "Guwahati city street",
+      "sub_regions": [
+        "lower_assam"
+      ]
+    },
+    {
+      "id": "namghar",
+      "type": "religious",
+      "description": "outside a simple Assamese namghar prayer hall with a tin roof",
+      "short": "Assamese namghar prayer hall"
+    },
+    {
+      "id": "silchar_street",
+      "type": "urban",
+      "description": "busy market street in Silchar in the Barak Valley",
+      "short": "Silchar market street",
+      "sub_regions": [
+        "barak_valley"
+      ]
+    },
+    {
+      "id": "village_pond",
+      "type": "rural",
+      "description": "Assamese village with a pond, betel nut trees and bamboo groves",
+      "short": "Assam village with pond and betel trees"
+    },
+    {
+      "id": "loom_house",
+      "type": "home",
+      "description": "verandah of a village house with a traditional handloom",
+      "short": "village verandah with a handloom"
+    }
+  ],
+  "avoid": [
+    "Treating community dress as exotic or as costume.",
+    "One generic Northeast look for every character, or a generic North Indian look for every character.",
+    "Bihu dance pose as the default image.",
+    "Tea-garden communities shown only as labourers.",
+    "Inventing dress details for communities not yet researched.",
+    "Any citizenship, NRC, 'illegal migrant' or eviction framing of any community.",
+    "Bengali-origin Muslims shown only in flood or char-island hardship scenes.",
+    "Conflict or militant imagery for any community.",
+    "Mising men's translucent ugon lower garment (use a plain white wrap instead)."
+  ],
+  "todo": [
+    "Bengali-origin Muslim and Bengali Hindu dress with sources.",
+    "Karbi full outfits (only textile names sourced so far).",
+    "Rabha dress names and descriptions with sources.",
+    "Mising naming, and Dimasa, Tiwa, Deuri communities.",
+    "Christian communities (3.7%).",
+    "Check the skin tone range against test renders.",
+    "Native review (someone from Assam)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Assam religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/18-assam.html",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "assam_gov_culture",
+      "title": "Culture of Assam (Government of Assam)",
+      "url": "https://assam.gov.in/node/391",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "chirang_gov_attire",
+      "title": "Traditional attire (Chirang district, Government of Assam)",
+      "url": "https://chirang.assam.gov.in/information-and-services/traditioal-attire",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "scroll_indigenous_muslims",
+      "title": "40 lakh Assamese-speaking Muslims recognised as natives (Scroll)",
+      "url": "https://scroll.in/latest/1027723/scroll_in",
+      "type": "indian_press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "wiki_goriya",
+      "title": "Goriya Muslims of Assam (Wikipedia via Wikiwand)",
+      "url": "https://www.wikiwand.com/en/articles/Goriya_Muslims_of_Assam",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "sentinel_zikir",
+      "title": "Linguistic blending and tribal voices of Assamese zikirs (The Sentinel)",
+      "url": "https://www.sentinelassam.com/more-news/life/beyond-the-valley-linguistic-blending-and-tribal-voices-of-assamese-zikirs",
+      "type": "indian_press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "nvli_mising",
+      "title": "Traditional attire of the Mising tribe (National Virtual Library of India, Ministry of Culture)",
+      "url": "https://icvtesting.nvli.in/snippets/traditional-attire-mising-tribe",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "assamtribune_karbi_gi",
+      "title": "Karbi Anglong council seeks GI tag for traditional textiles (The Assam Tribune)",
+      "url": "https://assamtribune.com/assam/karbi-anglong-council-seeks-gi-tag-for-traditional-textiles-to-safeguard-heritage-1594591",
+      "type": "indian_press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "borok_baikho",
+      "title": "Rabha community celebrates Baikho festival in Dudhnoi (Borok Times)",
+      "url": "https://boroktimes.com/rabha-community-celebrates-baikho-festival-in-dudhnoi",
+      "type": "indian_press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "esamskriti_jhumur",
+      "title": "Jhumur dance of the tea tribes (eSamskriti)",
+      "url": "https://www.esamskriti.com/essays/textfile/30_8448_9549.txt",
+      "type": "community",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "tribal_pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "wiki_barak",
+      "title": "Barak Valley (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Barak_Valley",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "sentinel_ahom",
+      "title": "The Ahom dynasty and its vivid attires (The Sentinel)",
+      "url": "https://www.sentinelassam.com/more-news/life/the-ahom-dynasty-and-its-vivid-attires",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_dokhona",
+      "title": "Dokhona (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dokhona",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mising",
+      "title": "Mising people (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mising_people",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_bwisagu",
+      "title": "Bwisagu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Bwisagu",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "eastmojo_baikho",
+      "title": "Rabha community celebrates Baikho festival (EastMojo, June 2024)",
+      "url": "https://eastmojo.com/assam/2024/06/02/assam-rabha-community-celebrates-baikho-festival-with-grandeur/",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "sub_regions": [
+    {
+      "id": "upper_assam",
+      "name": "Upper Assam",
+      "notes": "Eastern Brahmaputra valley; tea country; large Assamese and Mising populations."
+    },
+    {
+      "id": "lower_assam",
+      "name": "Lower Assam",
+      "notes": "Western Brahmaputra valley incl. Kamrup, Barpeta, Nalbari and Goalpara."
+    },
+    {
+      "id": "barak_valley",
+      "name": "Barak Valley",
+      "notes": "Southern Assam (Cachar, Sribhumi/Karimganj, Hailakandi); Bengali-speaking majority."
+    },
+    {
+      "id": "hill_districts",
+      "name": "Hill districts",
+      "notes": "Karbi Anglong and Dima Hasao."
+    }
+  ],
+  "naming": [
+    {
+      "community": "assamese",
+      "notes": "Given name, or given name plus father's name. Common Assamese surnames (e.g. Das, Gogoi, Saikia, Bora) mark caste or Ahom clan titles; never used."
+    },
+    {
+      "community": "assamese_muslim",
+      "notes": "Arabic-origin given names; Assamese-speaking."
+    },
+    {
+      "community": "bodo",
+      "notes": "Bodo clan surnames (e.g. Basumatary, Narzary) are community, not caste, names."
+    },
+    {
+      "community": "mising",
+      "notes": "To research."
+    }
+  ],
+  "occupations": [
+    {
+      "id": "tea_plucker",
+      "name": "Tea plucker",
+      "setting": "rural",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "plucking tea leaves into a basket in a tea garden"
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "setting": "rural",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving at a handloom on a village verandah"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "in green paddy fields"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a Guwahati office"
+    }
+  ],
+  "seasons": {
+    "winter": "Magh Bihu bonfires in January; wool shawls and the Mising gadu galuk and eri-silk wraps in winter."
+  },
+  "heritage": [
+    {
+      "id": "ahom_court",
+      "name": "Ahom royal and court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Rank-coded pat and muga silk dress (seleng sadar turbans, majankari) not worn by commoners; waits for the era system. Today's muga mekhela chador is already in the wardrobe.",
+      "sources": [
+        "sentinel_ahom",
+        "assam_gov_culture"
+      ]
+    },
+    {
+      "id": "satra_monastic",
+      "name": "Satra monastic dress",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Dress of resident Vaishnava monks of the satras; never on ordinary characters.",
+      "sources": [
+        "assam_gov_culture"
+      ]
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Named handloom textiles (1 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "4 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Confirmed by Wikipedia: Bodo dokhona (chest-to-ankle wrap) and aronai scarf; Mising ege and mibu galuk; Bwisagu in mid-April; Ali-Aye-Ligang starts on the first Wednesday of February (date made precise).",
+      "Corrected: Baikho date narrowed from 'pre-monsoon (around June)' to June, confirmed by EastMojo, Sentinel and India Today NE reports of 2023-2026.",
+      "Open: Wikipedia calls the Mising 'gadu' a blanket, while the Ministry of Culture's NVLI page describes a 'gadu galuk' jacket; kept as NVLI describes (the jacket), to be confirmed by a Mising reviewer. Aronai: Wikipedia describes a decorative scarf for special occasions; its use as an honour scarf comes from the Chirang district page only. Green Bodo gamsa is single-source (Chirang district)."
+    ]
+  }
+}

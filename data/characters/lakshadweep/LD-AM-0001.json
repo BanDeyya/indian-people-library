@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0001",
+  "name": "Koya",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ld_lungi_shirt_m",
+    "ld_fisher_m",
+    "ld_white_mundu_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

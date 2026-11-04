@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0010",
+  "name": "Madhuri",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with laugh lines",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "mh_salwar_f",
+    "mh_nauvari_silk_f",
+    "mh_paithani_f",
+    "mh_nath",
+    "mh_mangalsutra",
+    "mh_green_bangles"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

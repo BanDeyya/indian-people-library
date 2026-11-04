@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MN-OM-0015",
+  "name": "Ngalangzar",
+  "region": "manipur",
+  "sub_region": "north_hills",
+  "community": "tangkhul",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "mn_shirt_trousers_m",
+    "mn_smart_m",
+    "mn_haora_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Tangkhul",
+    "Meiteilon",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

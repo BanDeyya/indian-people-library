@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "MP-AM-0004",
+  "name": "Abhinandan Kumar",
+  "region": "madhya-pradesh",
+  "sub_region": "bundelkhand",
+  "community": "jain",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 52,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "short greying hair",
+    "build": "heavyset",
+    "signature_mark": "mole on his right cheek"
+  },
+  "wardrobe": [
+    "mp_shirt_trousers_m",
+    "mp_kurta_pyjama_m"
+  ],
+  "language": [
+    "Hindi",
+    "Bundeli"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

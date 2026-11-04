@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0011",
+  "name": "Vasuki",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "tamil_hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "an_silk_saree_f",
+    "an_salwar_f",
+    "an_tant_f",
+    "an_thali"
+  ],
+  "language": [
+    "Tamil",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

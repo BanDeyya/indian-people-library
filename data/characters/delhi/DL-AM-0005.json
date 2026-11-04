@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0005",
+  "name": "Satbir",
+  "region": "delhi",
+  "sub_region": "outer",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad sun-tanned face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "tall and strong",
+    "signature_mark": "mole on his right cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dl_dhoti_kurta_m",
+    "dl_kurta_pyjama_m",
+    "dl_shawl"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

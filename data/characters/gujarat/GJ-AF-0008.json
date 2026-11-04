@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0008",
+  "name": "Krupa",
+  "region": "gujarat",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "average",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "gj_bandhani_saree_f",
+    "gj_chaniya_f",
+    "gj_salwar_f"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

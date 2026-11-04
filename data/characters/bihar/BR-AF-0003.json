@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-AF-0003",
+  "name": "Kanchan Devi",
+  "region": "bihar",
+  "sub_region": "anga",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "silk_weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "average",
+    "signature_mark": "small scar on her left thumb"
+  },
+  "wardrobe": [
+    "br_cotton_saree_f",
+    "br_bhagalpuri_f",
+    "br_sindoor",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Angika",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

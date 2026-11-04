@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AF-0007",
+  "name": "Rosangpuii",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "musician",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "mz_church_dress_f",
+    "mz_ngotekherh_f",
+    "mz_modern_f",
+    "mz_hmaram_f",
+    "mz_puanchei_f",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Lai",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

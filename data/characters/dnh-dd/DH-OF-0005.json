@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0005",
+  "name": "Jyotsna Chirag",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "dd_saree_f",
+    "dd_bandhani_saree_f",
+    "dd_sindoor"
+  ],
+  "language": [
+    "Gujarati",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

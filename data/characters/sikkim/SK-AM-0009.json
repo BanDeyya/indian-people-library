@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0009",
+  "name": "Dil",
+  "region": "sikkim",
+  "sub_region": "gangtok",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_daura_suruwal_m",
+    "sk_tika",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

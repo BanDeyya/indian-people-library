@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OM-0017",
+  "name": "Arjan Vela",
+  "region": "gujarat",
+  "sub_region": "saurashtra",
+  "community": "rabari",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "long white moustache"
+  },
+  "wardrobe": [
+    "gj_rabari_m",
+    "gj_rabari_earrings",
+    "gj_shirt_trousers_m"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

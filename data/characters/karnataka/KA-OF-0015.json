@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-OF-0015",
+  "name": "Najma",
+  "region": "karnataka",
+  "sub_region": "old_mysore",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face",
+    "eyes": "brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ka_ilkal_f",
+    "ka_cotton_saree_f"
+  ],
+  "language": [
+    "Urdu",
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

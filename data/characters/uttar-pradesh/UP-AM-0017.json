@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0017",
+  "name": "Zafar Ahmad",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short greying hair",
+    "build": "average",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "neat grey beard"
+  },
+  "wardrobe": [
+    "up_kurta_pyjama_m",
+    "up_sherwani_m",
+    "up_chikan_kurta_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

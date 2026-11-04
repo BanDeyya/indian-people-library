@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-OF-0015",
+  "name": "Binita",
+  "region": "assam",
+  "sub_region": "hill_districts",
+  "community": "bodo",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 81,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "rounded face with soft cheekbones and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "as_dokhona_f",
+    "as_mekhela_chador_f"
+  ],
+  "language": [
+    "Bodo",
+    "Assamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

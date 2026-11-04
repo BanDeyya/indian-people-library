@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OM-0020",
+  "name": "Kesu",
+  "region": "rajasthan",
+  "sub_region": "vagad",
+  "community": "bhil",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "lean",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "rj_angrakha_m",
+    "rj_dhoti_kurta_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Wagdi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

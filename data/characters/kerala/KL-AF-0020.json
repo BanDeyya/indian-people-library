@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0020",
+  "name": "Sheeba",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "latin_christian",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face with strong cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair tied in a knot",
+    "build": "sturdy",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "kl_kasavu_saree_f",
+    "kl_fisher_f",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

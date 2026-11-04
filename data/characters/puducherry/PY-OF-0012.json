@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0012",
+  "name": "Muthulakshmi Kumaravel",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "py_cotton_saree_f",
+    "py_silk_saree_f",
+    "py_thali",
+    "py_metti"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

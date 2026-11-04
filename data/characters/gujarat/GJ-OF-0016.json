@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OF-0016",
+  "name": "Rataben",
+  "region": "gujarat",
+  "sub_region": "north",
+  "community": "rabari",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 80,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pastoralist",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim and strong",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "gj_rabari_f",
+    "gj_rabari_earrings",
+    "gj_saree_f"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

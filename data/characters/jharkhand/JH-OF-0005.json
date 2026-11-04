@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0005",
+  "name": "Poonam Devi",
+  "region": "jharkhand",
+  "sub_region": "palamu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "jh_tussar_f",
+    "jh_cotton_saree_f",
+    "jh_silver_f"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

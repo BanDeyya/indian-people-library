@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0003",
+  "name": "Hemant Ramniklal",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "jain",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "textile_trader",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with a soft jaw",
+    "eyes": "dark brown eyes",
+    "hair": "short greying hair",
+    "build": "heavyset",
+    "signature_mark": "mole on his left cheek"
+  },
+  "wardrobe": [
+    "gj_shirt_trousers_m",
+    "gj_kurta_m"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

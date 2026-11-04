@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0020",
+  "name": "Pintu",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "large dark eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Bengali",
+    "English",
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "SK-OF-0015",
+  "name": "Yangzom",
+  "region": "sikkim",
+  "sub_region": "west",
+  "community": "bhutia",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "medium",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "sk_bakhu_f",
+    "sk_kurta_f"
+  ],
+  "language": [
+    "Sikkimese (Bhutia)",
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

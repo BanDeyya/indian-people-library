@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0005",
+  "name": "Suman Pradip",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "tr_dhoti_panjabi_m",
+    "tr_shirt_trousers_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

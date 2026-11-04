@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TN-OF-0018",
+  "name": "Indira Saravanan",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "thin face with deep wrinkles",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a small knot",
+    "build": "thin",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "tn_chettinad_f",
+    "tn_kanjeevaram_f",
+    "tn_studs",
+    "tn_thali",
+    "tn_metti"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

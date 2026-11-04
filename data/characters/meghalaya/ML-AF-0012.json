@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "ML-AF-0012",
+  "name": "Ibakordor",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "ml_silk_jainsem_f",
+    "ml_jainsem_f",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

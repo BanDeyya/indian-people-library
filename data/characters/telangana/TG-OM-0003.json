@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-OM-0003",
+  "name": "Sai Kiran Prasad",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

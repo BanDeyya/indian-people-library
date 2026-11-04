@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-OF-0014",
+  "name": "Shalu",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with rosy cheeks",
+    "eyes": "light brown eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "hp_ghagra_f",
+    "hp_suit_f",
+    "hp_pattu_f",
+    "hp_sindoor"
+  ],
+  "language": [
+    "Hindi",
+    "Pahari",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

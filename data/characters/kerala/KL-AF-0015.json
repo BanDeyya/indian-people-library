@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0015",
+  "name": "Jaseena",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "soft round face with full cheeks",
+    "eyes": "brown eyes",
+    "hair": "hair covered by her headscarf",
+    "build": "average",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "kl_kuppayam_f",
+    "kl_churidar_hijab_f",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

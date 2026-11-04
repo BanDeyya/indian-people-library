@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AS-OM-0017",
+  "name": "Gopal",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "tea_garden",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short grey hair",
+    "build": "slim",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "as_dhoti_kurta_m",
+    "as_white_wrap_m",
+    "as_gamosa"
+  ],
+  "language": [
+    "Assamese",
+    "Sadri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

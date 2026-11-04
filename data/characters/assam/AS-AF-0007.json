@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-AF-0007",
+  "name": "Rupjyoti",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with a narrow chin",
+    "eyes": "brown eyes",
+    "hair": "shoulder-length black hair",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "as_mekhela_chador_f",
+    "as_kurti_f",
+    "as_muga_f"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

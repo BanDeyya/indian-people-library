@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0018",
+  "name": "Om Lal",
+  "region": "rajasthan",
+  "sub_region": "dhundhar",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face with a cleft chin",
+    "eyes": "brown eyes",
+    "hair": "short neat black hair",
+    "build": "lean",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "thick curled moustache"
+  },
+  "wardrobe": [
+    "rj_bandhgala_m",
+    "rj_angrakha_m",
+    "rj_dhoti_kurta_m",
+    "rj_festive_safa_m",
+    "rj_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

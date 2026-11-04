@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0017",
+  "name": "Shivkumar",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "cg_dhoti_kurta_m",
+    "cg_shirt_trousers_m",
+    "cg_kurta_pyjama_m"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

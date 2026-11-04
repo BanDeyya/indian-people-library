@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0018",
+  "name": "Chorol",
+  "region": "ladakh",
+  "sub_region": "changthang",
+  "community": "changpa",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "pashmina_herder",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with wind-reddened cheeks, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "strong",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_changpa_sulma_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Changskat",
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

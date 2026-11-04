@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-OM-0019",
+  "name": "Peerya",
+  "region": "karnataka",
+  "sub_region": "kittur",
+  "community": "lambani",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 88,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ka_panche_shirt_m",
+    "ka_kurta_pyjama_m"
+  ],
+  "language": [
+    "Lambani",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

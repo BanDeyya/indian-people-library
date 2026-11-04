@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "LD-AF-0019",
+  "name": "Ramla Abdul Khader",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair under her headscarf",
+    "build": "medium",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "ld_churidar_f",
+    "ld_festive_churidar_f",
+    "ld_kachi_f"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

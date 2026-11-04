@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "OD-OF-0001",
+  "name": "Kanaklata",
+  "region": "odisha",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small dark mole on her chin"
+  },
+  "wardrobe": [
+    "od_sambalpuri_f",
+    "od_bomkai_f",
+    "od_sindoor",
+    "od_sakha_pola"
+  ],
+  "language": [
+    "Sambalpuri",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

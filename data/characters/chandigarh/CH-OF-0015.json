@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-OF-0015",
+  "name": "Kavita Devi",
+  "region": "chandigarh",
+  "sub_region": "villages",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 86,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ch_suit_f",
+    "ch_saree_f",
+    "ch_shawl"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

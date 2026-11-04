@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0005",
+  "name": "Rohit Sunil",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "narrow face with a sharp nose",
+    "eyes": "dark brown eyes",
+    "hair": "short side-parted black hair",
+    "build": "lean",
+    "signature_mark": "small scar above his left eyebrow"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_kurta_pyjama_m",
+    "mh_festive_kurta_m",
+    "mh_pheta"
+  ],
+  "language": [
+    "Marathi",
+    "Ahirani",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "published": false,
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

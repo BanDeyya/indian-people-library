@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "ML-OM-0014",
+  "name": "Rakseng",
+  "region": "meghalaya",
+  "sub_region": "garo_hills",
+  "community": "garo",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "slim",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "ml_smart_m",
+    "ml_shirt_trousers_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Garo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

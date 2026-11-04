@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0014",
+  "name": "Pratiksha",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 57,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ga_silk_saree_f",
+    "ga_saree_f",
+    "ga_glass_bangles",
+    "ga_galsiri",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

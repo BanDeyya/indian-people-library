@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0020",
+  "name": "Shankar",
+  "region": "gujarat",
+  "sub_region": "north",
+  "community": "bhil",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "gj_shirt_trousers_m",
+    "gj_kurta_m"
+  ],
+  "language": [
+    "Bhili",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

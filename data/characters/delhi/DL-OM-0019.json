@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0019",
+  "name": "Wasim",
+  "region": "delhi",
+  "sub_region": "east",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes behind round glasses",
+    "hair": "short grey hair",
+    "build": "lean",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "dl_kurta_pyjama_m",
+    "dl_winter_jacket",
+    "dl_shirt_trousers_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

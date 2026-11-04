@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0006",
+  "name": "Anjali Rajendra",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "mh_nauvari_silk_f",
+    "mh_salwar_f",
+    "mh_paithani_f",
+    "mh_kolhapuri",
+    "mh_pheta_f",
+    "mh_kolhapuri_saaj"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

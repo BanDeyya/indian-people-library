@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-OM-0015",
+  "name": "Yogesh",
+  "region": "uttar-pradesh",
+  "sub_region": "braj",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "up_dhoti_kurta_m",
+    "up_chikan_kurta_m",
+    "up_pagri"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

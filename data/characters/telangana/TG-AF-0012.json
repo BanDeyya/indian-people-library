@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0012",
+  "name": "Madhavi Yadagiri",
+  "region": "telangana",
+  "sub_region": "warangal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "strong",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ts_salwar_f",
+    "ts_gadwal_f",
+    "ts_gollabama_f",
+    "ts_jasmine",
+    "ts_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

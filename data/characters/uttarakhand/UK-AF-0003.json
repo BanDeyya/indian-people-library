@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "UK-AF-0003",
+  "name": "Pooja",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "long black plait",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "uk_suit_f",
+    "uk_ghagri_f",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

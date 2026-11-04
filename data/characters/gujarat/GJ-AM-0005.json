@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0005",
+  "name": "Kalpesh Mukesh",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short side-parted black hair",
+    "build": "lean",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "gj_kurta_m",
+    "gj_dhoti_kurta_m",
+    "gj_kediyu_chorno_m",
+    "gj_kediyu_garba_m",
+    "gj_phento"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

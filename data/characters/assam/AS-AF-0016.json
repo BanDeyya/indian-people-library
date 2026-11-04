@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AS-AF-0016",
+  "name": "Mamoni",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "bodo",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "tea_plucker",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "rounded face with soft cheekbones and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "straight black hair to the shoulders",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "as_dokhona_f",
+    "as_kurti_f",
+    "as_small_studs"
+  ],
+  "language": [
+    "Bodo",
+    "Assamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

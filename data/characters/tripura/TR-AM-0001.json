@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-AM-0001",
+  "name": "Subrata",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "small scar on his right eyebrow",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_dhoti_panjabi_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

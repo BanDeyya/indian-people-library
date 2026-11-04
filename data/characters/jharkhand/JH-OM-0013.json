@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0013",
+  "name": "Junas",
+  "region": "jharkhand",
+  "sub_region": "kolhan",
+  "community": "adivasi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "jh_sarhul_m",
+    "jh_dhoti_kurta_m"
+  ],
+  "language": [
+    "Mundari",
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

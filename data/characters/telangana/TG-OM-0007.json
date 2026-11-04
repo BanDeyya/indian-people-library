@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TG-OM-0007",
+  "name": "Raju",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ts_pancha_kurta_m",
+    "ts_pancha_shirt_m",
+    "ts_turban_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

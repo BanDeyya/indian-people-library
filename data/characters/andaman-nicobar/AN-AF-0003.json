@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0003",
+  "name": "Selvi",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "tamil_hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "mole above her lip"
+  },
+  "wardrobe": [
+    "an_tant_f",
+    "an_silk_saree_f",
+    "an_thali",
+    "an_salwar_f"
+  ],
+  "language": [
+    "Tamil",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

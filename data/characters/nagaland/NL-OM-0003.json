@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0003",
+  "name": "Visakuolie",
+  "region": "nagaland",
+  "sub_region": "kohima",
+  "community": "angami",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with soft cheekbones, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_trousers_m",
+    "nl_angami_lohe_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Angami",
+    "English",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

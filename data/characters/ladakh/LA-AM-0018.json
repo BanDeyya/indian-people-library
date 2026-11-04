@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LA-AM-0018",
+  "name": "Namgyal",
+  "region": "ladakh",
+  "sub_region": "changthang",
+  "community": "changpa",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pashmina_herder",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean sun-darkened face with deep lines, Tibetan-type features",
+    "eyes": "narrow dark eyes",
+    "hair": "short black hair neatly combed",
+    "build": "wiry",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "la_modern_m",
+    "la_shanlag_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Changskat",
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

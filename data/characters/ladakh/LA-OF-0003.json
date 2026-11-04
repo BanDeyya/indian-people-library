@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0003",
+  "name": "Lhamo",
+  "region": "ladakh",
+  "sub_region": "zanskar",
+  "community": "buddhist",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round weathered face with deep laugh lines, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "grey hair in long plaits",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "la_sulma_f",
+    "la_salwar_f",
+    "la_slogpa_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

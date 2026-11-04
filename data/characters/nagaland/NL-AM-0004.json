@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0004",
+  "name": "Wangpong Manlong",
+  "region": "nagaland",
+  "sub_region": "mon",
+  "community": "konyak",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with a short nose, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small mole beside his left eye"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_winter_jacket",
+    "nl_trousers_m",
+    "nl_plain_shirt_m"
+  ],
+  "language": [
+    "Konyak",
+    "Nagamese",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "notes": "No facial tattoos (see heritage)."
+}

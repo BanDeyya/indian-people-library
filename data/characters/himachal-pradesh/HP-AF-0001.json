@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0001",
+  "name": "Anjali Kumari",
+  "region": "himachal-pradesh",
+  "sub_region": "shimla",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with rosy cheeks",
+    "eyes": "light brown eyes",
+    "hair": "long dark brown hair",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "hp_modern_f",
+    "hp_suit_f",
+    "hp_ghagra_f",
+    "hp_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Pahari",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

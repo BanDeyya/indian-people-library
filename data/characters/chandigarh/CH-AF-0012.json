@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0012",
+  "name": "Monika Rani",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "doctor",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "medium",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ch_phulkari_f",
+    "ch_suit_f",
+    "ch_modern_f",
+    "ch_winter_jacket"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

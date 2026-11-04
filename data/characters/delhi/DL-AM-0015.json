@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0015",
+  "name": "Shailesh",
+  "region": "delhi",
+  "sub_region": "east",
+  "community": "purvanchali_hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "dl_dhoti_p",
+    "dl_shirt_trousers_m",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Maithili",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

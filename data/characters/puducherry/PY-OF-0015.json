@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0015",
+  "name": "Lakshmi Ajith",
+  "region": "puducherry",
+  "sub_region": "mahe",
+  "community": "malayali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "py_cotton_saree_f",
+    "py_silk_saree_f"
+  ],
+  "language": [
+    "Malayalam",
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

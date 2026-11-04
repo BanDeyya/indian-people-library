@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0013",
+  "name": "Sandhya Ramesh",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "lined round face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small and thin",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_silk_saree_f",
+    "ga_glass_bangles",
+    "ga_galsiri"
+  ],
+  "language": [
+    "Konkani",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

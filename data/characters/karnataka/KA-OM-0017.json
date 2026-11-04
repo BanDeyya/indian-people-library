@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KA-OM-0017",
+  "name": "Muthanna Somanna",
+  "region": "karnataka",
+  "sub_region": "kodagu",
+  "community": "kodava",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "coffee_planter",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "strong square face with a straight nose",
+    "eyes": "light brown eyes",
+    "hair": "short grey hair",
+    "build": "tall and broad",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ka_kupya_m",
+    "ka_shirt_trousers_m"
+  ],
+  "language": [
+    "Kodava",
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

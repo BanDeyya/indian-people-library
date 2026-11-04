@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "UK-OF-0001",
+  "name": "Kamla Devi",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "garhwali",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "small dark mole on her chin"
+  },
+  "wardrobe": [
+    "uk_saree_f",
+    "uk_ghagri_f",
+    "uk_sindoor_g",
+    "uk_hansuli",
+    "uk_guluband"
+  ],
+  "language": [
+    "Garhwali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

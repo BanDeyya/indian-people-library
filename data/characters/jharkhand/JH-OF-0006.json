@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0006",
+  "name": "Rekha",
+  "region": "jharkhand",
+  "sub_region": "santhal_pargana",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "jh_tussar_f",
+    "jh_cotton_saree_f",
+    "jh_sindoor"
+  ],
+  "language": [
+    "Khortha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

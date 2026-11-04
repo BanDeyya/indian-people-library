@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0002",
+  "name": "Naveen Kumar",
+  "region": "telangana",
+  "sub_region": "hyderabad",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "average",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "ts_shirt_trousers_m",
+    "ts_kurta_pyjama_m",
+    "ts_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

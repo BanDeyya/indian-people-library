@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0017",
+  "name": "Mangli",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "santal",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "strong",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "wb_tant_f",
+    "wb_phutta_sari_f"
+  ],
+  "language": [
+    "Santali",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

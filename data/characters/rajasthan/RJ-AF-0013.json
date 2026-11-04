@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0013",
+  "name": "Lalita Prakash",
+  "region": "rajasthan",
+  "sub_region": "hadoti",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with high cheekbones",
+    "eyes": "brown eyes",
+    "hair": "long black hair with grey streaks under her odhni",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "rj_poshak_f",
+    "rj_festive_ghagra_f",
+    "rj_ghagra_f",
+    "rj_silver_payal",
+    "rj_bichiya",
+    "rj_studs",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0011",
+  "name": "Kalpana Biplab",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "heart-shaped face",
+    "eyes": "brown eyes behind black-rimmed glasses",
+    "hair": "grey hair in a small bun",
+    "build": "thin",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "wb_baluchari_f",
+    "wb_tant_f",
+    "wb_laal_paar_f",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

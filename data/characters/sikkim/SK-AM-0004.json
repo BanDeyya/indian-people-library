@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0004",
+  "name": "Sonam",
+  "region": "sikkim",
+  "sub_region": "north",
+  "community": "lepcha",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "mole near his right ear"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_thokro_dum_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Lepcha",
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

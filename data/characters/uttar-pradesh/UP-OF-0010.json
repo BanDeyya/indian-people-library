@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0010",
+  "name": "Asha",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "chikan_artisan",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "up_banarasi_f",
+    "up_cotton_saree_f",
+    "up_lehenga_f",
+    "up_sindoor",
+    "up_bichiya",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Bundeli",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

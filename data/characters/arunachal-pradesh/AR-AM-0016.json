@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AR-AM-0016",
+  "name": "Joshua",
+  "region": "arunachal-pradesh",
+  "sub_region": "east",
+  "community": "christian",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_smart_m"
+  ],
+  "language": [
+    "Galo",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

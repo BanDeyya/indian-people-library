@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0020",
+  "name": "Kavitha",
+  "region": "karnataka",
+  "sub_region": "kittur",
+  "community": "lambani",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 49,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair under her odhni",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ka_cotton_saree_f",
+    "ka_lambani_f"
+  ],
+  "language": [
+    "Lambani",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

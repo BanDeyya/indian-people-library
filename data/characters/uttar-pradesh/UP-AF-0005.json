@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0005",
+  "name": "Phoolmati",
+  "region": "uttar-pradesh",
+  "sub_region": "terai",
+  "community": "tharu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole on her neck"
+  },
+  "wardrobe": [
+    "up_tharu_f",
+    "up_salwar_f"
+  ],
+  "language": [
+    "Tharu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0018",
+  "name": "Yanpvuli",
+  "region": "nagaland",
+  "sub_region": "wokha",
+  "community": "lotha",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 84,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "grey hair pulled back",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "nl_lotha_married_f",
+    "nl_plain_top_f"
+  ],
+  "language": [
+    "Lotha",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

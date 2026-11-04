@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JK-OM-0001",
+  "name": "Lal Din",
+  "region": "jammu-kashmir",
+  "sub_region": "pir_panjal",
+  "community": "gujjar_bakarwal",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "herder",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long weathered face with a hooked nose",
+    "eyes": "light brown eyes",
+    "hair": "white hair under his turban",
+    "facial_hair": "long white beard",
+    "build": "tall and wiry",
+    "signature_mark": "scar across his left eyebrow"
+  },
+  "wardrobe": [
+    "jk_gujjar_m",
+    "jk_gujjar_pagh"
+  ],
+  "language": [
+    "Gojri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-AF-0020",
+  "name": "Kimneilhing",
+  "region": "manipur",
+  "sub_region": "south_hills",
+  "community": "kuki_zo",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 49,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "shoulder-length straight black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "mn_modern_f",
+    "mn_ponve_f",
+    "mn_velvet_jacket_f"
+  ],
+  "language": [
+    "Thadou",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0014",
+  "name": "Ashwani",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "punjabi_hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with full cheeks",
+    "eyes": "light brown eyes behind glasses",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "dl_shirt_trousers_m",
+    "dl_festive_kurta_m",
+    "dl_nehru_jacket",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

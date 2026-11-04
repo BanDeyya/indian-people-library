@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0011",
+  "name": "Kundan Chandra",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short side-parted black hair",
+    "build": "lean",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "uk_kurta_sadri_m",
+    "uk_shirt_trousers_m",
+    "uk_topi",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0019",
+  "name": "Mohan",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "chakma",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 80,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short white hair",
+    "build": "athletic",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_chakma_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Chakma",
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

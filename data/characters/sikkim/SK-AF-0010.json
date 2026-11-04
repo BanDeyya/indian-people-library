@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "SK-AF-0010",
+  "name": "Laxmi",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "medium",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "sk_pharia_f",
+    "sk_modern_f",
+    "sk_kurta_f",
+    "sk_winter_jacket",
+    "sk_sindoor"
+  ],
+  "language": [
+    "Nepali",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

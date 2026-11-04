@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-AF-0012",
+  "name": "Amina",
+  "region": "ladakh",
+  "sub_region": "kargil",
+  "community": "kargil_muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with soft cheekbones",
+    "eyes": "brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "la_phiren_f",
+    "la_salwar_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Purgi",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

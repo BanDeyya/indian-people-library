@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-AF-0009",
+  "name": "Sandhyarani",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "mn_phanek_innaphi_f",
+    "mn_phanek_f"
+  ],
+  "language": [
+    "Meiteilon",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

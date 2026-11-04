@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-AM-0001",
+  "name": "Ibomcha",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his left eyebrow"
+  },
+  "wardrobe": [
+    "mn_shirt_trousers_m",
+    "mn_dhoti_kurta_m",
+    "mn_dark_jacket_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Meiteilon",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

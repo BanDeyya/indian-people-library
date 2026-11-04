@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0011",
+  "name": "Swaroopa Sai Kiran",
+  "region": "telangana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "strong",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "ts_salwar_f",
+    "ts_pochampally_f",
+    "ts_gadwal_f",
+    "ts_jasmine",
+    "ts_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

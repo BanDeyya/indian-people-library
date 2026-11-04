@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0006",
+  "name": "Lambok",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_jymphong_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Khasi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MP-AF-0006",
+  "name": "Shobha Bai",
+  "region": "madhya-pradesh",
+  "sub_region": "nimar",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "mp_maheshwari_cotton_f",
+    "mp_modern_f",
+    "mp_salwar_f",
+    "mp_chanderi_f",
+    "mp_sindoor",
+    "mp_bichiya"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

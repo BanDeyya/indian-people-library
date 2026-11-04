@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0006",
+  "name": "Kalaivani Velu",
+  "region": "puducherry",
+  "sub_region": "puducherry",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "py_cotton_saree_f",
+    "py_silk_saree_f",
+    "py_thali",
+    "py_metti"
+  ],
+  "language": [
+    "Tamil",
+    "English",
+    "French (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

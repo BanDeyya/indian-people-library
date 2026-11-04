@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0014",
+  "name": "Inali",
+  "region": "nagaland",
+  "sub_region": "zunheboto",
+  "community": "sumi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "nl_sumi_lototsu_f",
+    "nl_plain_top_f"
+  ],
+  "language": [
+    "Sumi",
+    "Nagamese",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

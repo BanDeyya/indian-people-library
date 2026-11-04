@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CG-AF-0010",
+  "name": "Rukmani Kumari",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "cg_kosa_f",
+    "cg_cotton_saree_f",
+    "cg_modern_f",
+    "cg_painjan"
+  ],
+  "language": [
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

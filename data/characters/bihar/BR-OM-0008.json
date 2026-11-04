@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "BR-OM-0008",
+  "name": "Rakesh Prasad",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "br_dhoti_kurta_m",
+    "br_gamchha",
+    "br_kurta_pyjama_m"
+  ],
+  "language": [
+    "Magahi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

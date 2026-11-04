@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-OM-0013",
+  "name": "Jagdish",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "lean deeply lined face",
+    "eyes": "hazel-brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hp_kurta_jacket_m",
+    "hp_shawl_m",
+    "hp_shirt_trousers_m"
+  ],
+  "language": [
+    "Kangri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

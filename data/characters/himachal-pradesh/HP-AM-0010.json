@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0010",
+  "name": "Vipin",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean deeply lined face",
+    "eyes": "dark brown eyes",
+    "hair": "short side-parted brown-black hair",
+    "build": "stocky",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "hp_shirt_trousers_m",
+    "hp_kurta_jacket_m",
+    "hp_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "Pahari"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

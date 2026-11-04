@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MH-OM-0018",
+  "name": "Nadeem",
+  "region": "maharashtra",
+  "sub_region": "marathwada",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 88,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "short grey hair",
+    "build": "slim",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

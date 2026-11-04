@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0013",
+  "name": "Meena Devi",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "hr_suit_f",
+    "hr_modern_f",
+    "hr_festive_suit_f",
+    "hr_winter_jacket",
+    "hr_sindoor"
+  ],
+  "language": [
+    "Ahirwati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

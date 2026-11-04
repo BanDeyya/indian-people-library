@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OM-0008",
+  "name": "Mukesh",
+  "region": "gujarat",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "slim",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "gj_kurta_m",
+    "gj_kediyu_chorno_m"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

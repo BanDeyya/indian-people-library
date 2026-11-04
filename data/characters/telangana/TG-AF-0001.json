@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0001",
+  "name": "Sahithi",
+  "region": "telangana",
+  "sub_region": "hyderabad",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small mole near her right eyebrow"
+  },
+  "wardrobe": [
+    "ts_modern_f",
+    "ts_salwar_f",
+    "ts_gadwal_f",
+    "ts_langa_voni_f",
+    "ts_jasmine"
+  ],
+  "language": [
+    "Telugu",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

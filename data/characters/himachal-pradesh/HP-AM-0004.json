@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0004",
+  "name": "Devi Prakash",
+  "region": "himachal-pradesh",
+  "sub_region": "kinnaur",
+  "community": "kinnaura",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 52,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short greying hair",
+    "facial_hair": "grey moustache",
+    "build": "stocky",
+    "signature_mark": "mole on his forehead"
+  },
+  "wardrobe": [
+    "hp_kinnaur_m",
+    "hp_thepang",
+    "hp_shirt_trousers_m"
+  ],
+  "language": [
+    "Kinnauri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

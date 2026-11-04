@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0011",
+  "name": "Nisha",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "doctor",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "soft round face",
+    "eyes": "dark eyes",
+    "hair": "shoulder-length black hair",
+    "build": "medium",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ch_modern_f",
+    "ch_phulkari_f",
+    "ch_suit_f",
+    "ch_winter_jacket",
+    "ch_sindoor_pb"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

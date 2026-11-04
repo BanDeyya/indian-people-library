@@ -1,0 +1,1794 @@
+{
+  "schema_version": 2,
+  "slug": "gujarat",
+  "code": "GJ",
+  "name": "Gujarat",
+  "type": "state",
+  "zone": "west",
+  "capital": "Gandhinagar",
+  "status": "reviewed",
+  "languages": [
+    "Gujarati (official)",
+    "Kutchi",
+    "Hindi",
+    "Urdu",
+    "Bhili",
+    "Sindhi"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 88.57,
+      "muslim": 9.67,
+      "jain": 0.96,
+      "christian": 0.52,
+      "sikh": 0.1,
+      "other": 0.18
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "kutch",
+      "name": "Kutch",
+      "notes": "Rann of Kutch, Bhuj, Banni grasslands; pastoral communities, embroidery, bandhani, ajrakh."
+    },
+    {
+      "id": "saurashtra",
+      "name": "Saurashtra (Kathiawar)",
+      "notes": "Rajkot, Jamnagar, Junagadh, Bhavnagar, Surendranagar, Dwarka; groundnut and cotton; Tarnetar fair."
+    },
+    {
+      "id": "north",
+      "name": "North Gujarat",
+      "notes": "Banaskantha, Mehsana, Patan, Sabarkantha; dairy villages; Patan patola."
+    },
+    {
+      "id": "central",
+      "name": "Central Gujarat",
+      "notes": "Ahmedabad, Gandhinagar, Kheda, Anand, Vadodara; old-city pols, Amul dairy belt."
+    },
+    {
+      "id": "south",
+      "name": "South Gujarat",
+      "notes": "Surat, Bharuch, Navsari, Valsad, Dang; textiles and diamonds in Surat, forests in Dang."
+    },
+    {
+      "id": "east_tribal",
+      "name": "Eastern tribal belt",
+      "notes": "Panchmahal, Dahod, Chhota Udaipur and the eastern hills; Bhil and other Adivasi villages."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Gujarati",
+      "religion": "hindu",
+      "prompt": "Gujarati",
+      "notes": "Men: shirt-trousers or kurta daily; dhoti-kurta or kediyu with chorno and a phento in villages; kediyu for garba. Women: saree with the pallu in front or salwar-kameez daily; chaniya choli with odhni and bandhani for Navratri and weddings.",
+      "names": {
+        "female": [
+          "Diya",
+          "Hetal",
+          "Krupa",
+          "Shantaben",
+          "Jyotsna",
+          "Krisha",
+          "Bhavna",
+          "Nisha",
+          "Daksha",
+          "Kinjal",
+          "Rekha",
+          "Mittal",
+          "Parul",
+          "Hansaben",
+          "Asha",
+          "Meena",
+          "Kokila",
+          "Kiran",
+          "Jagruti",
+          "Pinal",
+          "Dimple",
+          "Foram",
+          "Rupal",
+          "Bhumi",
+          "Hemlata",
+          "Manisha",
+          "Kajal",
+          "Chetna",
+          "Nayna"
+        ],
+        "male": [
+          "Nilesh",
+          "Bharat",
+          "Jay",
+          "Bhavesh",
+          "Jivanbhai",
+          "Hiren",
+          "Mehul",
+          "Paresh",
+          "Kalpesh",
+          "Dinesh",
+          "Rajesh",
+          "Ketan",
+          "Mukesh",
+          "Jignesh",
+          "Mahesh",
+          "Hitesh",
+          "Chirag",
+          "Jayesh",
+          "Vipul",
+          "Hardik"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "jain",
+      "name": "Jain",
+      "culture": "Gujarati",
+      "religion": "jain",
+      "prompt": "Gujarati Jain",
+      "sub_regions": [
+        "central",
+        "south",
+        "north",
+        "saurashtra",
+        "kutch"
+      ],
+      "notes": "Mostly urban trading families; Gujarati dress. Monastic robes not depicted.",
+      "names": {
+        "female": [
+          "Pooja",
+          "Shweta",
+          "Monika",
+          "Neha",
+          "Rina",
+          "Sonal",
+          "Priyanka",
+          "Ankita",
+          "Swati",
+          "Jinal",
+          "Shilpa",
+          "Rachna",
+          "Sangeeta",
+          "Nidhi",
+          "Priya",
+          "Anju",
+          "Kavita",
+          "Rekha",
+          "Seema",
+          "Manju",
+          "Ritu",
+          "Sarita",
+          "Payal",
+          "Megha",
+          "Disha",
+          "Kalpana"
+        ],
+        "male": [
+          "Hemant",
+          "Abhinav",
+          "Abhinandan",
+          "Sanjay",
+          "Rakesh",
+          "Manish",
+          "Pankaj",
+          "Nitin",
+          "Rajendra",
+          "Vimal",
+          "Rajesh",
+          "Sunil",
+          "Anil",
+          "Ashok",
+          "Vikas",
+          "Sandeep",
+          "Mahavir",
+          "Ajit",
+          "Abhay",
+          "Sumit"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "rabari",
+      "name": "Rabari (pastoralists)",
+      "culture": "Rabari",
+      "religion": "hindu",
+      "prompt": "Rabari",
+      "sub_regions": [
+        "kutch",
+        "saurashtra",
+        "north"
+      ],
+      "notes": "Semi-nomadic herders. Women: black ghagra-choli and odhni with dense embroidery. Men: all white, a white kediyu or abho over a white choksi, with an ajrakh cloth on the shoulder; gold or silver earrings for both.",
+      "names": {
+        "female": [
+          "Rataben",
+          "Hiraben",
+          "Jiviben",
+          "Kankuben",
+          "Ramiben",
+          "Lakhiben",
+          "Valiben",
+          "Devuben",
+          "Hansaben",
+          "Jamnaben",
+          "Kamuben",
+          "Shantaben",
+          "Raniben",
+          "Godavari",
+          "Laxmiben",
+          "Puriben",
+          "Kesarben",
+          "Meghiben",
+          "Sonalben",
+          "Champaben"
+        ],
+        "male": [
+          "Devabhai",
+          "Bhimabhai",
+          "Kanabhai",
+          "Raghubhai",
+          "Ranabhai",
+          "Gelabhai",
+          "Lakhabhai",
+          "Hamirbhai",
+          "Bhikhabhai",
+          "Ramabhai",
+          "Sagarbhai",
+          "Vashrambhai",
+          "Deva",
+          "Karsan",
+          "Mala",
+          "Bhura",
+          "Arjan",
+          "Naran",
+          "Raja",
+          "Vela",
+          "Jesa",
+          "Kana",
+          "Hira",
+          "Lakha"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Gujarati",
+      "religion": "muslim",
+      "prompt": "Gujarati Muslim",
+      "notes": "Several communities (incl. Memon, Khoja and others) across the state; specific dress not yet sourced, characters wear shared kurta-pyjama and salwar-kameez.",
+      "names": {
+        "female": [
+          "Rehana",
+          "Shabana",
+          "Farida",
+          "Ruksana",
+          "Yasmin",
+          "Nasim",
+          "Shahin",
+          "Hasina",
+          "Salma",
+          "Mehrunnisa",
+          "Sakina",
+          "Zubeda",
+          "Nasreen",
+          "Shahnaz",
+          "Rubina",
+          "Hamida",
+          "Shabnam",
+          "Mumtaz",
+          "Amina",
+          "Zarina",
+          "Rehmat",
+          "Sultana",
+          "Kulsum",
+          "Jannat",
+          "Afsana",
+          "Najma"
+        ],
+        "male": [
+          "Irfan",
+          "Yusuf",
+          "Salim",
+          "Javed",
+          "Iqbal",
+          "Asif",
+          "Rafiq",
+          "Imran",
+          "Ayub",
+          "Ismail",
+          "Hanif",
+          "Ibrahim",
+          "Aslam",
+          "Siraj",
+          "Firoz",
+          "Altaf",
+          "Farooq",
+          "Gulam"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "bohra",
+      "name": "Dawoodi Bohra",
+      "culture": "Gujarati",
+      "religion": "muslim",
+      "prompt": "Bohra",
+      "sub_regions": [
+        "south",
+        "central",
+        "north"
+      ],
+      "notes": "Women: rida in bright colours (never black) covering hair and body, face open. Men: white three-piece outfit and a white topi with gold embroidery, beard.",
+      "names": {
+        "female": [
+          "Sakina",
+          "Fatema",
+          "Zainab",
+          "Mariya",
+          "Insiya",
+          "Tasneem",
+          "Rashida",
+          "Batul",
+          "Sakeena",
+          "Arwa",
+          "Shirin",
+          "Nafisa",
+          "Alefiya",
+          "Tasnim",
+          "Rehana",
+          "Fatima",
+          "Zahra",
+          "Munira",
+          "Sabiha",
+          "Sharifa",
+          "Kulsum",
+          "Jumana",
+          "Lubaina",
+          "Zehra",
+          "Nafeesa",
+          "Rukhsana"
+        ],
+        "male": [
+          "Taher",
+          "Mufaddal",
+          "Hussain",
+          "Murtaza",
+          "Yusuf",
+          "Burhanuddin",
+          "Juzer",
+          "Shabbir",
+          "Ali Asgar",
+          "Qaid",
+          "Mustafa",
+          "Qutbuddin",
+          "Abbas",
+          "Aliasgar",
+          "Huzefa",
+          "Moiz",
+          "Hatim",
+          "Ammar",
+          "Ibrahim"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "bhil",
+      "name": "Bhil",
+      "culture": "Bhil",
+      "prompt": "Bhil Adivasi",
+      "sub_regions": [
+        "east_tribal",
+        "north",
+        "south"
+      ],
+      "notes": "Largest Scheduled Tribe of Gujarat. Women: ghagra, choli and odhni, or colourful sarees; toe rings mark a married woman. Men: dhoti, kurta and safa; older men wore a mundasa head cloth.",
+      "names": {
+        "female": [
+          "Savitaben",
+          "Rami",
+          "Kamli",
+          "Dhapu",
+          "Sukli",
+          "Gita",
+          "Sita",
+          "Hirli",
+          "Mangli",
+          "Kesli",
+          "Radha",
+          "Kamla",
+          "Shanti",
+          "Ganga",
+          "Dhuli",
+          "Kali",
+          "Lakshmi",
+          "Ramila",
+          "Sunita",
+          "Champa",
+          "Bhuri",
+          "Rukmani",
+          "Mira",
+          "Parvati",
+          "Kesar"
+        ],
+        "male": [
+          "Ramesh",
+          "Kalu",
+          "Bheru",
+          "Dhanna",
+          "Mangla",
+          "Thavra",
+          "Kesu",
+          "Raju",
+          "Lalu",
+          "Naru",
+          "Bhima",
+          "Nathu",
+          "Bhura",
+          "Hira",
+          "Nanda",
+          "Jaga",
+          "Rupa",
+          "Shankar",
+          "Thawar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Gujarati",
+      "religion": "christian",
+      "sub_regions": [
+        "central",
+        "south"
+      ],
+      "notes": "Mainly Kheda, Anand and the south. No characters yet."
+    },
+    {
+      "id": "parsi",
+      "name": "Parsi",
+      "culture": "Parsi",
+      "religion": "other",
+      "sub_regions": [
+        "south"
+      ],
+      "notes": "Navsari, Udvada, Surat. No characters yet; sudreh and kusti are sacred garments and not depicted."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      3,
+      9
+    ],
+    "hair": "Black hair, straight or wavy.",
+    "notes": "Light wheatish to deep brown; deeper tones common among pastoral and Adivasi communities. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Gujarati custom is given name, father's name, surname. Most Gujarati surnames mark caste (e.g. Patel, Desai, Shah, Joshi); use given name plus father's name. -ben and -bhai are polite suffixes."
+    },
+    {
+      "community": "bohra",
+      "notes": "Arabic-origin given name plus father's name."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "gj_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "gj_kurta_m",
+      "name": "Kurta and pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": [
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "gj_dhoti_kurta_m",
+      "name": "Dhoti-kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white dhoti with a cotton kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "holidify_gj",
+        "trti_bhil"
+      ]
+    },
+    {
+      "id": "gj_kediyu_chorno_m",
+      "name": "Kediyu with chorno",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "short pleated frock-like kediyu jacket tied with strings, worn over loose cotton chorno trousers",
+      "short": "kediyu jacket with chorno",
+      "sources": [
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "gj_kediyu_garba_m",
+      "name": "Kediyu for garba",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "embroidered kediyu with churidar",
+      "short": "embroidered kediyu and churidar",
+      "sources": [
+        "garvi_navratri",
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "gj_phento",
+      "name": "Phento (turban)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "red phento turban",
+      "short": "red phento turban",
+      "sources": [
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "gj_rabari_m",
+      "name": "Rabari men's white dress",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "rabari",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "all-white dress: white kediyu over a white choksi, with an ajrakh-printed cloth over the shoulder",
+      "short": "white kediyu and choksi with ajrakh cloth",
+      "sources": [
+        "gaatha_rabari",
+        "globalinch_rabari"
+      ]
+    },
+    {
+      "id": "gj_bohra_m",
+      "name": "Bohra white three-piece with topi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bohra",
+      "meaning": [
+        "community",
+        "religious"
+      ],
+      "representative": true,
+      "prompt": "white three-piece outfit (kurta, long saya overcoat and loose izaar trousers) with a white crocheted topi with gold detailing",
+      "short": "white three-piece with gold-trimmed topi",
+      "sources": [
+        "pri_bohra",
+        "wiki_dawoodi_bohra"
+      ]
+    },
+    {
+      "id": "gj_saree_f",
+      "name": "Gujarati-style saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton saree draped with the pallu in front",
+      "short": "saree with pallu in front",
+      "sources": [
+        "holidify_gj"
+      ]
+    },
+    {
+      "id": "gj_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": []
+    },
+    {
+      "id": "gj_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "gj_chaniya_f",
+      "name": "Chaniya choli with odhni",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "flared chaniya skirt with mirror work, embroidered choli and a bandhani odhni",
+      "short": "mirror-work chaniya choli with bandhani odhni",
+      "sources": [
+        "garvi_navratri",
+        "holidify_gj",
+        "wiki_gi_list",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "gj_bandhani_saree_f",
+      "name": "Bandhani saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "red bandhani tie-dye saree with the pallu in front",
+      "short": "red bandhani saree",
+      "sources": [
+        "garvi_navratri",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "gj_rabari_f",
+      "name": "Rabari women's black dress",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "rabari",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "black ghagra-choli and black odhni densely embroidered with mirrors and bright thread",
+      "short": "black embroidered ghagra-choli and odhni",
+      "sources": [
+        "gaatha_rabari",
+        "ignca_rabari",
+        "globalinch_rabari"
+      ]
+    },
+    {
+      "id": "gj_rida_f",
+      "name": "Bohra rida",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bohra",
+      "meaning": [
+        "community",
+        "religious"
+      ],
+      "representative": true,
+      "prompt": "bright pastel two-piece rida covering the hair and body, face open",
+      "short": "bright pastel rida",
+      "sources": [
+        "pri_bohra",
+        "wiki_dawoodi_bohra"
+      ]
+    },
+    {
+      "id": "gj_bhil_f",
+      "name": "Bhil ghagra-choli",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bhil",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "colourful ghagra, choli and odhni",
+      "short": "colourful ghagra, choli and odhni",
+      "sources": [
+        "trti_bhil"
+      ]
+    },
+    {
+      "id": "gj_panetar",
+      "name": "Panetar and gharchola (bridal)",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "bridal"
+      ],
+      "restricted": true,
+      "prompt": "white panetar saree with a red bandhani border",
+      "short": "white panetar with red border",
+      "sources": [
+        "holidify_gj",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "gj_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton kurta with full-length leggings",
+      "short": "girl's kurta and leggings",
+      "sources": []
+    },
+    {
+      "id": "gj_kids_g_fest",
+      "name": "Girl's chaniya choli",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length chaniya choli with long sleeves and a small odhni",
+      "short": "girl's long chaniya choli",
+      "sources": [
+        "garvi_navratri",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "gj_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "gj_kids_b_fest",
+      "name": "Boy's kediyu",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's embroidered kediyu with full-length churidar",
+      "short": "boy's kediyu and churidar",
+      "sources": [
+        "garvi_navratri"
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "id": "gj_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "gj_bhil_toe_rings",
+      "name": "Toe rings (Bhil)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bhil",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "silver toe rings",
+      "short": "silver toe rings",
+      "sources": [
+        "trti_bhil",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "gj_rabari_earrings",
+      "name": "Rabari gold earrings",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "rabari",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "heavy gold earrings",
+      "short": "gold earrings",
+      "sources": [
+        "gaatha_rabari"
+      ]
+    },
+    {
+      "id": "gj_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "gj_saree_f"
+        ],
+        [
+          "gj_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "gj_chaniya_f"
+        ],
+        [
+          "gj_bandhani_saree_f"
+        ],
+        [
+          "gj_rabari_f"
+        ]
+      ],
+      "reason": "Saree with pallu in front or salwar-kameez daily; chaniya choli with bandhani for Navratri; each community's own dress where it has one."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "gj_shirt_trousers_m"
+        ],
+        [
+          "gj_dhoti_kurta_m"
+        ]
+      ],
+      "festive": [
+        [
+          "gj_kediyu_garba_m"
+        ],
+        [
+          "gj_kediyu_chorno_m",
+          "gj_phento"
+        ]
+      ],
+      "reason": "Shirt-trousers in towns, dhoti-kurta in villages; kediyu for garba and festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "gj_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "gj_bandhani_saree_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "gj_dhoti_kurta_m",
+          "gj_phento"
+        ]
+      ],
+      "festive": [
+        [
+          "gj_kediyu_chorno_m",
+          "gj_phento"
+        ]
+      ],
+      "reason": "Dhoti-kurta with phento in villages."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "gj_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "gj_kids_g_fest"
+        ]
+      ],
+      "reason": "Chaniya choli for Navratri."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "gj_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "gj_kids_b_fest"
+        ]
+      ],
+      "reason": "Kediyu for Navratri."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "navratri",
+      "name": "Navratri (garba)",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "jain",
+        "rabari"
+      ],
+      "when": "September-October",
+      "scene": "Navratri night, circles of people dancing garba under strings of lights",
+      "scene_short": "Navratri garba circles at night"
+    },
+    {
+      "id": "uttarayan",
+      "name": "Uttarayan",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "14 January",
+      "scene": "Uttarayan, families flying colourful kites from rooftops on a clear winter day",
+      "scene_short": "Uttarayan kites from rooftops"
+    },
+    {
+      "id": "tarnetar",
+      "name": "Tarnetar fair",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "rabari",
+        "hindu"
+      ],
+      "when": "August-September (Bhadrapada; 26-29 August in 2025)",
+      "sub_regions": [
+        "saurashtra"
+      ],
+      "scene": "Tarnetar fair, men parading with embroidered umbrellas and women in bright flared chaniyas",
+      "scene_short": "Tarnetar fair embroidered umbrellas"
+    },
+    {
+      "id": "diwali_gj",
+      "name": "Diwali and Gujarati New Year",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "jain",
+        "rabari"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, rangoli and clay lamps at the doorstep of a house",
+      "scene_short": "Diwali rangoli and lamps"
+    },
+    {
+      "id": "eid_gj",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim",
+        "bohra"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in an old-city lane",
+      "scene_short": "Eid morning in an old-city lane"
+    },
+    {
+      "id": "bhil_holi",
+      "name": "Holi in a Bhil village",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bhil"
+      ],
+      "when": "March",
+      "scene": "Holi in a hill village, drums and circle dancing",
+      "scene_short": "village Holi drums and dancing"
+    },
+    {
+      "id": "wedding_guest_gj",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "November-May mostly",
+      "scene": "guests at a wedding under a decorated mandap with marigolds",
+      "scene_short": "wedding mandap with marigolds"
+    }
+  ],
+  "settings": [
+    {
+      "id": "ahmedabad_pol",
+      "type": "urban",
+      "description": "old Ahmedabad pol with carved wooden house fronts",
+      "short": "old Ahmedabad pol",
+      "sub_regions": [
+        "central"
+      ]
+    },
+    {
+      "id": "vadodara_street",
+      "type": "urban",
+      "description": "Vadodara street with old buildings and trees",
+      "short": "Vadodara street",
+      "sub_regions": [
+        "central"
+      ]
+    },
+    {
+      "id": "surat_market",
+      "type": "urban",
+      "description": "busy Surat textile market",
+      "short": "Surat textile market",
+      "sub_regions": [
+        "south"
+      ]
+    },
+    {
+      "id": "rajkot_street",
+      "type": "urban",
+      "description": "busy Rajkot market street",
+      "short": "Rajkot market street",
+      "sub_regions": [
+        "saurashtra"
+      ]
+    },
+    {
+      "id": "bhuj_town",
+      "type": "urban",
+      "description": "Bhuj town street with craft shops",
+      "short": "Bhuj craft street",
+      "sub_regions": [
+        "kutch"
+      ]
+    },
+    {
+      "id": "rann",
+      "type": "nature",
+      "description": "white salt desert of the Rann of Kutch under a wide sky",
+      "short": "white Rann of Kutch",
+      "sub_regions": [
+        "kutch"
+      ]
+    },
+    {
+      "id": "bhunga_village",
+      "type": "rural",
+      "description": "Kutch village of round mud bhunga houses with painted doorways",
+      "short": "Kutch bhunga village",
+      "sub_regions": [
+        "kutch"
+      ]
+    },
+    {
+      "id": "saurashtra_village",
+      "type": "rural",
+      "description": "Saurashtra village with groundnut and cotton fields",
+      "short": "Saurashtra groundnut fields",
+      "sub_regions": [
+        "saurashtra"
+      ]
+    },
+    {
+      "id": "dairy_village",
+      "type": "rural",
+      "description": "village with buffaloes and green fodder fields",
+      "short": "village with buffaloes",
+      "sub_regions": [
+        "north",
+        "central"
+      ]
+    },
+    {
+      "id": "hill_village_gj",
+      "type": "rural",
+      "description": "village of tiled-roof houses among green hills and teak trees",
+      "short": "hill village among teak",
+      "sub_regions": [
+        "east_tribal",
+        "south"
+      ]
+    },
+    {
+      "id": "home_city_gj",
+      "type": "home",
+      "description": "apartment balcony with potted plants",
+      "short": "apartment balcony",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_gj",
+      "type": "home",
+      "description": "village house verandah with a swept courtyard",
+      "short": "village verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_gj",
+      "type": "work",
+      "description": "modern office in Ahmedabad",
+      "short": "Ahmedabad office",
+      "sub_regions": [
+        "central"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in the fields"
+    },
+    {
+      "id": "dairy_farmer",
+      "name": "Dairy farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "carrying milk cans to the village dairy"
+    },
+    {
+      "id": "pastoralist",
+      "name": "Herder",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "herding sheep and camels on open grassland"
+    },
+    {
+      "id": "embroiderer",
+      "name": "Embroiderer",
+      "setting": "rural",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "embroidering cloth with mirrors in a courtyard"
+    },
+    {
+      "id": "diamond_polisher",
+      "name": "Diamond polisher",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a diamond-polishing wheel in a workshop"
+    },
+    {
+      "id": "textile_trader",
+      "name": "Textile trader",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "in a cloth shop stacked with fabric"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male"
+      ],
+      "scene": "behind the counter of a small shop"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot and dry (March-June), very hot in Kutch.",
+    "monsoon": "July-September; heavier in the south.",
+    "winter": "Mild (November-February)."
+  },
+  "heritage": [
+    {
+      "id": "princely_courts",
+      "name": "Princely-state court dress (Saurashtra, Kutch, Baroda)",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only, in the era phase; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "rabari_dress",
+      "name": "Rabari black dress and embroidery",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "gj_rabari_f",
+        "gj_rabari_m"
+      ],
+      "reason": "Community identity dress; only on Rabari characters.",
+      "sources": [
+        "gaatha_rabari",
+        "ignca_rabari"
+      ]
+    },
+    {
+      "id": "bohra_dress",
+      "name": "Bohra rida and topi",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "gj_rida_f",
+        "gj_bohra_m"
+      ],
+      "reason": "Community and religious dress; only on Bohra characters.",
+      "sources": [
+        "pri_bohra"
+      ]
+    },
+    {
+      "id": "garba",
+      "name": "Garba (UNESCO intangible heritage, 2023)",
+      "kind": "other",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "gj_chaniya_f",
+        "gj_kediyu_garba_m"
+      ],
+      "reason": "Shown as Navratri garba circles.",
+      "sources": [
+        "wiki_garba"
+      ]
+    },
+    {
+      "id": "jain_monastic",
+      "name": "Jain monastic robes",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Characters are lay people.",
+      "sources": []
+    },
+    {
+      "id": "bridal_gj",
+      "name": "Panetar and gharchola",
+      "kind": "other",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "gj_panetar"
+      ],
+      "reason": "Bridal sarees; restricted (no bride characters).",
+      "sources": [
+        "holidify_gj"
+      ]
+    }
+  ],
+  "avoid": [
+    "Caste labels or caste surnames (e.g. Patel, Desai, Shah); caste or reservation politics.",
+    "Communal or riot imagery; election imagery.",
+    "Rabari or Bohra dress on characters outside those communities.",
+    "Siddi or Adivasi 'exotic' framing; Gol Gadhedo partner-choosing scenes.",
+    "'Dry state', business-only or diamond-wealth cliches."
+  ],
+  "todo": [
+    "Gujarati Muslim (Memon, Khoja, Sunni Vohra) dress with sources.",
+    "Patola (Patan), ajrakh and Kutch women's kanjari details with sources.",
+    "PVTGs Kathodi, Kotwalia, Padhar, Siddi (and Kolgha) held back until priority-1/2 sources and extra review.",
+    "Christian and Parsi characters with sources.",
+    "Native review (ideally Kutch, Saurashtra and Ahmedabad)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Gujarat religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/24-gujarat.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "holidify_gj",
+      "title": "Traditional dresses of Gujarat (Holidify)",
+      "url": "https://www.holidify.com/pages/gujarati-dresses-125.html",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "garvi_navratri",
+      "title": "Navratri fashion guide (Garvi Gurjari, Government of Gujarat)",
+      "url": "https://garvigurjari.gujarat.gov.in/blog/navratri-fashion-guide-traditional-gujarati-outfits-textiles-32/navratri-fashion-guide-traditional-gujarati-outfits-textiles-31",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "gaatha_rabari",
+      "title": "Story behind black clothes adorned by Rabaris (Gaatha)",
+      "url": "https://gaatha.com/story-behind-black-clothes-adorned-by-rabaris/",
+      "type": "community",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "ignca_rabari",
+      "title": "Dialogue with Rabaris (IGNCA)",
+      "url": "https://ignca.gov.in/PDF_data/Dialogue_with_Rabaris.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pri_bohra",
+      "title": "How Bohra Muslims set themselves apart (The World, PRI)",
+      "url": "https://theworld.org/stories/2016/08/02/how-bohra-muslims-set-themselves-apart",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "trti_bhil",
+      "title": "Brief details of Bhil (Tribal Research and Training Institute, Govt. of Gujarat)",
+      "url": "https://trti.gujarat.gov.in/bhil",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "theprint_uttarayan",
+      "title": "Kai po che: Ahmedabad old-city terraces keep Uttarayan spirit alive (ThePrint)",
+      "url": "https://theprint.in/india/kai-po-che-from-the-pols-ahmedabad-old-city-terraces-keep-uttarayan-spirit-alive/2825840",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "deshgujarat_tarnetar",
+      "title": "Tarnetar fair begins (DeshGujarat)",
+      "url": "https://deshgujarat.com/2024/09/05/taranetar-fair-gujarats-biggest-festival-begins-on-september-6",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_garba",
+      "title": "Garba (dance) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Garba_(dance)",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_dawoodi_bohra",
+      "title": "Dawoodi Bohra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dawoodi_Bohra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "globalinch_rabari",
+      "title": "The textiles and dress of the Rabari of Kutch (Global InCH)",
+      "url": "https://www.globalinch.org/craft/the-textiles-and-dress-of-the-rabari-of-kutch/",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "utsav_tarnetar",
+      "title": "Tarnetar Fair 2025 (Utsav, Ministry of Tourism)",
+      "url": "https://utsav.gov.in/view-event/tarnetar-fair-2025",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (3 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "2 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Confirmed: Dawoodi Bohra men's white three-piece (kurta, saya, izaar) with a white crocheted cap with gold detailing, and women's colourful two-piece rida with the face open (Wikipedia); the men's prompt now names the three pieces.",
+      "Confirmed: Tarnetar fair in Bhadrapada with young men parading embroidered umbrellas (Utsav: 26-29 August 2025).",
+      "Partly confirmed: Rabari women's woollen skirt and blouse, and silver jewellery for both sexes (Global InCH); black colour and the men's white kediyu come from Gaatha and IGNCA, while Global InCH mentions a white dhoti for men. Heavy gold earrings remain single-source (Gaatha)."
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MN-AM-0002",
+  "name": "Chaoba",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "sanamahi",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face",
+    "eyes": "dark eyes",
+    "hair": "short black hair greying at the sides",
+    "build": "wiry",
+    "signature_mark": "mole on his right cheek",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "mn_shirt_trousers_m",
+    "mn_dhoti_kurta_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Meiteilon"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

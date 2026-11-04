@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AS-AF-0011",
+  "name": "Arpita",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with fine wrinkles",
+    "eyes": "dark brown eyes",
+    "hair": "shoulder-length black hair",
+    "build": "average",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "as_kurti_f",
+    "as_mekhela_chador_f",
+    "as_muga_f"
+  ],
+  "language": [
+    "Assamese",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

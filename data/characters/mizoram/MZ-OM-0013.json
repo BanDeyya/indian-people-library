@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MZ-OM-0013",
+  "name": "Lalchhanhima",
+  "region": "mizoram",
+  "sub_region": "central_north",
+  "community": "mizo",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "deeply lined face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "mz_smart_m",
+    "mz_shirt_trousers_m",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

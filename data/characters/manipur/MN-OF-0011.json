@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "MN-OF-0011",
+  "name": "Leima",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "sanamahi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "mn_phanek_f",
+    "mn_phanek_innaphi_f"
+  ],
+  "language": [
+    "Meiteilon"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

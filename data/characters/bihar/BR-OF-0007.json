@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "BR-OF-0007",
+  "name": "Puja Devi",
+  "region": "bihar",
+  "sub_region": "bhojpur",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "br_bhagalpuri_f",
+    "br_cotton_saree_f",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Magahi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0005",
+  "name": "Abdul Rahim",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "narrow face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "thin",
+    "signature_mark": "callused fingertips and a small scar on his thumb"
+  },
+  "wardrobe": [
+    "up_kurta_pyjama_m",
+    "up_chikan_kurta_m"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

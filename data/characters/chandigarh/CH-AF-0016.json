@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0016",
+  "name": "Kavita",
+  "region": "chandigarh",
+  "sub_region": "villages",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ch_suit_f",
+    "ch_saree_f",
+    "ch_sindoor",
+    "ch_shawl"
+  ],
+  "language": [
+    "Hindi",
+    "Bhojpuri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

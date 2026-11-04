@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "id": "PB-OM-0006",
+  "name": "Davinder Singh",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face with a strong jaw and a straight nose",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "slim",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "pb_dastar_m",
+    "pb_kada",
+    "pb_kurta_pajama_m",
+    "pb_saluka_m",
+    "pb_khes_wrap"
+  ],
+  "always_wear": [
+    "pb_dastar_m",
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0020",
+  "name": "Iqbal",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "dd_shirt_trousers_m",
+    "dd_kurta_m",
+    "dd_topi_m"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

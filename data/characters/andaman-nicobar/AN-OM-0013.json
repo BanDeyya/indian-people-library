@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-OM-0013",
+  "name": "Ramesh",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "athletic",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "an_kurta_pyjama_m",
+    "an_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

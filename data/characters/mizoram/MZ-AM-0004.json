@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AM-0004",
+  "name": "Bimal",
+  "region": "mizoram",
+  "sub_region": "chakma_area",
+  "community": "chakma",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "mz_shirt_trousers_m",
+    "mz_chakma_m"
+  ],
+  "language": [
+    "Chakma",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "HP-OF-0016",
+  "name": "Ganga",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "gaddi",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "shepherd",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "hp_suit_f",
+    "hp_luanchari_f"
+  ],
+  "language": [
+    "Gaddi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

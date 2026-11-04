@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-OF-0008",
+  "name": "Amer",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "apatani",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "sturdy",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "ar_apatani_fest_f",
+    "ar_skirt_f",
+    "ar_apatani_old_f",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Apatani",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0018",
+  "name": "Zeenat",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with full cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "jh_salwar_f",
+    "jh_tussar_f"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0017",
+  "name": "Ashok Kumar",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 51,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean deeply lined face",
+    "eyes": "dark brown eyes",
+    "hair": "short curly black hair",
+    "build": "average",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "od_dhoti_kurta_m",
+    "od_kurta_pyjama_m"
+  ],
+  "language": [
+    "Odia",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

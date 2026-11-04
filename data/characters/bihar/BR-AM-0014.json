@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0014",
+  "name": "Brijesh Kumar",
+  "region": "bihar",
+  "sub_region": "anga",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "silk_weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "br_shirt_trousers_m",
+    "br_kurta_pyjama_m",
+    "br_gamchha"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

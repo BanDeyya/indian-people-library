@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0010",
+  "name": "Jagdish Kumar",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean deeply lined face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_dhoti_kurta_m",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

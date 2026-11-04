@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-OF-0003",
+  "name": "Kavitha Anand",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a small knot",
+    "build": "thin",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "tn_kanjeevaram_f",
+    "tn_sungudi_f",
+    "tn_chettinad_f",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

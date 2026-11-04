@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0013",
+  "name": "Musthafa",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face",
+    "eyes": "large dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ld_white_mundu_m",
+    "ld_fisher_m",
+    "ld_lungi_shirt_m"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

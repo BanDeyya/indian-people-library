@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0017",
+  "name": "Joanita",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "catholic",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 51,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes behind rectangular glasses",
+    "hair": "shoulder-length wavy black hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "ga_vestido_f",
+    "ga_dress_f",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0001",
+  "name": "Ravi Kumar",
+  "region": "karnataka",
+  "sub_region": "old_mysore",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "thick moustache",
+    "build": "stocky",
+    "signature_mark": "scar on his right forearm"
+  },
+  "wardrobe": [
+    "ka_panche_shirt_m",
+    "ka_shirt_trousers_m",
+    "ka_kurta_panche_m"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

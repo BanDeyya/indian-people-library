@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0014",
+  "name": "Ramesh Bhagwan",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "wiry",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "dd_shirt_trousers_m",
+    "dd_warli_m"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

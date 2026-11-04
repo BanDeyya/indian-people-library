@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0019",
+  "name": "Naseem Ali",
+  "region": "maharashtra",
+  "sub_region": "konkan",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

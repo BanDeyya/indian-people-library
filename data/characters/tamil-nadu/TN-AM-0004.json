@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0004",
+  "name": "Kumaravel",
+  "region": "tamil-nadu",
+  "sub_region": "kongu_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "textile_worker",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "short black hair with grey streaks",
+    "build": "lean",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "thick black moustache"
+  },
+  "wardrobe": [
+    "tn_shirt_trousers_m",
+    "tn_lungi_m",
+    "tn_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0001",
+  "name": "Rajbir",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "thick moustache",
+    "build": "broad and strong",
+    "signature_mark": "scar on his right forearm"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_pagri",
+    "hr_shirt_trousers_m",
+    "hr_chaddar"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

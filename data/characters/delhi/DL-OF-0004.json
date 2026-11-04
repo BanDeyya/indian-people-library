@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DL-OF-0004",
+  "name": "Archana Devi",
+  "region": "delhi",
+  "sub_region": "outer",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "dl_suit_f",
+    "dl_festive_suit_f",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

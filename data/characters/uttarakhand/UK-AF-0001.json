@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-AF-0001",
+  "name": "Neha Kumari",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "garhwali",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with rosy cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "uk_modern_f",
+    "uk_suit_f",
+    "uk_ghagri_f",
+    "uk_guluband",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

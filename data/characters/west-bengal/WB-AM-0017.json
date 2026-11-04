@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "WB-AM-0017",
+  "name": "Aminul Ali",
+  "region": "west-bengal",
+  "sub_region": "north_bengal_plains",
+  "community": "bengali_muslim",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short black beard"
+  },
+  "wardrobe": [
+    "wb_lungi_m",
+    "wb_pyjama_panjabi_m",
+    "wb_tupi"
+  ],
+  "language": [
+    "Bengali",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0004",
+  "name": "Mohammad Irfan",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 53,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face with a straight nose",
+    "eyes": "brown eyes",
+    "hair": "short greying hair",
+    "facial_hair": "neat grey beard",
+    "build": "average",
+    "signature_mark": "small mole on his forehead"
+  },
+  "wardrobe": [
+    "up_kurta_pyjama_m",
+    "up_chikan_kurta_m",
+    "up_sherwani_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "Awadhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

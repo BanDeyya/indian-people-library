@@ -1,0 +1,25 @@
+{
+  "$comment": "Communities that live in more than one state or UT. Each group lists the region files' community ids that belong to it, so a catalogue or a user can ask for e.g. all Santal characters in every state. Groups are cultural (language or people), never caste. Religion is a separate field on each community; filter by it with the region files.",
+  "schema_version": 1,
+  "groups": [
+    {"id": "bengali", "name": "Bengali", "members": ["west-bengal:bengali_hindu", "west-bengal:bengali_muslim", "tripura:hindu", "tripura:muslim", "assam:bengali_hindu", "assam:bengali_muslim", "delhi:bengali_hindu", "andaman-nicobar:bengali_hindu"]},
+    {"id": "punjabi", "name": "Punjabi", "members": ["punjab:sikh", "punjab:hindu", "punjab:christian", "punjab:muslim", "chandigarh:sikh", "chandigarh:punjabi_hindu", "delhi:sikh", "delhi:punjabi_hindu", "haryana:sikh", "haryana:punjabi_hindu", "uttarakhand:sikh"]},
+    {"id": "tamil", "name": "Tamil", "members": ["tamil-nadu:hindu", "tamil-nadu:muslim", "tamil-nadu:christian", "puducherry:hindu", "puducherry:muslim", "puducherry:christian", "andaman-nicobar:tamil_hindu"]},
+    {"id": "telugu", "name": "Telugu", "members": ["andhra-pradesh:hindu", "andhra-pradesh:muslim", "andhra-pradesh:christian", "telangana:hindu", "puducherry:telugu_hindu"]},
+    {"id": "malayali", "name": "Malayali", "members": ["kerala:hindu", "kerala:muslim", "kerala:syrian_christian", "kerala:latin_christian", "puducherry:malayali_hindu"]},
+    {"id": "gujarati", "name": "Gujarati", "members": ["gujarat:hindu", "gujarat:jain", "gujarat:muslim", "gujarat:bohra", "gujarat:christian", "dnh-dd:hindu", "dnh-dd:muslim"]},
+    {"id": "purvanchali", "name": "Bhojpuri and Maithil (Purvanchali)", "members": ["bihar:hindu", "bihar:maithil", "delhi:purvanchali_hindu"]},
+    {"id": "nepali", "name": "Nepali-speaking (Gorkha)", "members": ["sikkim:hindu", "sikkim:buddhist", "west-bengal:gorkha"]},
+    {"id": "naga", "name": "Naga", "members": ["nagaland:angami", "nagaland:ao", "nagaland:sumi", "nagaland:lotha", "nagaland:phom", "nagaland:konyak", "nagaland:chakhesang", "manipur:tangkhul", "manipur:naga_other"]},
+    {"id": "santal", "name": "Santal", "members": ["jharkhand:santal", "odisha:santal", "west-bengal:santal"]},
+    {"id": "bhil", "name": "Bhil", "members": ["gujarat:bhil", "madhya-pradesh:bhil", "rajasthan:bhil"]},
+    {"id": "gond", "name": "Gond", "members": ["madhya-pradesh:gond", "chhattisgarh:gond"]},
+    {"id": "warli", "name": "Warli", "members": ["maharashtra:warli", "dnh-dd:warli"]},
+    {"id": "banjara", "name": "Banjara (Lambani, Lambada)", "members": ["karnataka:lambani", "telangana:lambada"]},
+    {"id": "chakma", "name": "Chakma", "members": ["mizoram:chakma", "tripura:chakma"]},
+    {"id": "bru", "name": "Bru (Reang)", "members": ["mizoram:bru", "tripura:bru"]},
+    {"id": "lepcha", "name": "Lepcha", "members": ["sikkim:lepcha", "west-bengal:lepcha"]},
+    {"id": "tharu", "name": "Tharu", "members": ["bihar:tharu", "uttar-pradesh:tharu"]},
+    {"id": "parsi", "name": "Parsi", "members": ["gujarat:parsi", "maharashtra:parsi"]}
+  ]
+}

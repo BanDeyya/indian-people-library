@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-OF-0003",
+  "name": "Saritha Anil",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with high cheekbones and a straight nose",
+    "eyes": "large dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "kl_kasavu_saree_f",
+    "kl_set_mundu_f",
+    "kl_jimikki",
+    "kl_cotton_saree_f"
+  ],
+  "language": [
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

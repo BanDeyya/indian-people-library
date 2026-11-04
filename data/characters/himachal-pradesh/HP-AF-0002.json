@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0002",
+  "name": "Sushma Devi",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a plait",
+    "build": "average",
+    "signature_mark": "small birthmark on her left wrist"
+  },
+  "wardrobe": [
+    "hp_suit_f",
+    "hp_ghagra_f",
+    "hp_chandrahaar",
+    "hp_sindoor"
+  ],
+  "language": [
+    "Kangri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

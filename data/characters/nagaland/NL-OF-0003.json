@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0003",
+  "name": "Atono",
+  "region": "nagaland",
+  "sub_region": "kohima",
+  "community": "angami",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 82,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with soft cheekbones, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "nl_angami_f",
+    "nl_angami_loram_f"
+  ],
+  "language": [
+    "Angami",
+    "English",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

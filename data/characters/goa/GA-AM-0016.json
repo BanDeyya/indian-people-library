@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-AM-0016",
+  "name": "Agnelo",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "catholic",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair greying at the temples",
+    "build": "medium",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_kurta_pyjama_m",
+    "ga_cross",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PB-OM-0001",
+  "name": "Ram Lal",
+  "region": "punjab",
+  "sub_region": "majha",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face with deep frown lines",
+    "eyes": "brown eyes behind black-framed reading glasses",
+    "hair": "short white hair",
+    "facial_hair": "thick white moustache, no beard",
+    "build": "lean",
+    "signature_mark": "large mole on the side of his nose"
+  },
+  "wardrobe": [
+    "pb_kurta_pajama_m",
+    "pb_khes_wrap",
+    "pb_saluka_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

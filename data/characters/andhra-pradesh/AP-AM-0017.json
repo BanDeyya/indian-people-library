@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AP-AM-0017",
+  "name": "Anil Srinivasulu",
+  "region": "andhra-pradesh",
+  "sub_region": "uttarandhra",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "ap_kurta_pyjama_m",
+    "ap_shirt_trousers_m",
+    "ap_pancha_shirt_m",
+    "ap_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

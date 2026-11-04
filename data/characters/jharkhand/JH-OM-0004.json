@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0004",
+  "name": "Sanjay",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "slim",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Hindi",
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

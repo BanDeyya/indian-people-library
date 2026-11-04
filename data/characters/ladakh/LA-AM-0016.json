@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "LA-AM-0016",
+  "name": "Abbas",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "leh_muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair neatly combed",
+    "build": "average",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "la_choga_leh_m",
+    "la_down_jacket",
+    "la_modern_m"
+  ],
+  "language": [
+    "Ladakhi",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

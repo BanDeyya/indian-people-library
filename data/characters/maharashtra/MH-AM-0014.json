@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0014",
+  "name": "Ganesh",
+  "region": "maharashtra",
+  "sub_region": "konkan",
+  "community": "koli",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "muscular",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "mh_koli_surka_m",
+    "mh_modern_m",
+    "mh_koli_cap"
+  ],
+  "language": [
+    "Koli",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

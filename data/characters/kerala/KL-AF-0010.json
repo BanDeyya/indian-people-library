@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0010",
+  "name": "Ambili",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with soft features",
+    "eyes": "brown eyes behind thin black glasses",
+    "hair": "long thick wavy black hair in a loose plait",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "kl_set_mundu_f",
+    "kl_kasavu_saree_f",
+    "kl_churidar_f",
+    "kl_jimikki",
+    "kl_temple_flowers"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0020",
+  "name": "Sevya",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "lambada",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 54,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ts_shirt_trousers_m",
+    "ts_kurta_pyjama_m"
+  ],
+  "language": [
+    "Lambadi",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

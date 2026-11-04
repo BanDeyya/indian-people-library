@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AR-AF-0018",
+  "name": "Shanti",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "ar_saree_f",
+    "ar_sindoor",
+    "ar_winter_jacket",
+    "ar_skirt_f"
+  ],
+  "language": [
+    "Nepali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

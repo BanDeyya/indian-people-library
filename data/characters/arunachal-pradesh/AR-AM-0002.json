@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-AM-0002",
+  "name": "Apa",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "apatani",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "mole near his right eye"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_smart_m",
+    "ar_jikhe_m",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Apatani",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

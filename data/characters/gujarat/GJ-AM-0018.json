@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0018",
+  "name": "Farooq Aslam",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "gj_shirt_trousers_m",
+    "gj_kurta_m"
+  ],
+  "language": [
+    "Gujarati",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

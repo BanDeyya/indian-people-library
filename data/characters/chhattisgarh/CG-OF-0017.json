@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "CG-OF-0017",
+  "name": "Sukwari",
+  "region": "chhattisgarh",
+  "sub_region": "north",
+  "community": "gond",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dokra_artisan",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "strong",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "cg_bastar_saree_f",
+    "cg_sutia",
+    "cg_painjan",
+    "cg_bichiya",
+    "cg_cotton_saree_f"
+  ],
+  "language": [
+    "Halbi",
+    "Gondi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

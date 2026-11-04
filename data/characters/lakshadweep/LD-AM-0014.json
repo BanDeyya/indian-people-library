@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0014",
+  "name": "Hussain Abdul Rasheed",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "ld_white_mundu_m",
+    "ld_lungi_shirt_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

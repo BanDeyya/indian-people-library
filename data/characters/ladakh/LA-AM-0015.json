@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-AM-0015",
+  "name": "Qasim Hussain",
+  "region": "ladakh",
+  "sub_region": "nubra",
+  "community": "kargil_muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "narrow weathered face",
+    "eyes": "brown eyes",
+    "hair": "short black hair with a side part",
+    "build": "lean",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short black beard"
+  },
+  "wardrobe": [
+    "la_choga_m",
+    "la_modern_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Purgi",
+    "Balti",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

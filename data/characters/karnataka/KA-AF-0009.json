@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0009",
+  "name": "Sudha Nagaraj",
+  "region": "karnataka",
+  "sub_region": "malnad",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 64,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ka_salwar_f",
+    "ka_mysore_silk_f",
+    "ka_mangalsutra"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

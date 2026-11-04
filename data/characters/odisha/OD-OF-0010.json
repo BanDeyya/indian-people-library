@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "OD-OF-0010",
+  "name": "Puspanjali Biswajit",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "od_bomkai_f",
+    "od_sambalpuri_f",
+    "od_sindoor",
+    "od_sakha_pola"
+  ],
+  "language": [
+    "Sambalpuri",
+    "Odia",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

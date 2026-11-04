@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-OF-0005",
+  "name": "Anjali",
+  "region": "maharashtra",
+  "sub_region": "marathwada",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a low bun",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "mh_nauvari_silk_f",
+    "mh_paithani_f",
+    "mh_cotton_saree_f",
+    "mh_mangalsutra",
+    "mh_green_bangles",
+    "mh_kolhapuri_saaj"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

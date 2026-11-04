@@ -1,0 +1,11 @@
+# Copy to `local.toml` at the repo root (git-ignored) and edit. Only keys you set are overridden.
+
+[generation]
+# profile = "sdxl-compel"     # e.g. if your backend supports long prompts
+# candidates = 4
+
+[representation]
+# tiebreak = "state_majority"
+
+[backend.http]
+# url = "http://localhost:PORT"   # your own server; never commit this

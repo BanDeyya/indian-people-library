@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0016",
+  "name": "Pankaj Dutt",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "hazel-brown eyes",
+    "hair": "short side-parted black hair",
+    "build": "lean",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "uk_shirt_trousers_m",
+    "uk_kurta_sadri_m",
+    "uk_topi",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

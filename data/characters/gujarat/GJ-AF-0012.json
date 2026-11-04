@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0012",
+  "name": "Mittal Jay",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a long plait",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "gj_salwar_f",
+    "gj_bandhani_saree_f"
+  ],
+  "language": [
+    "Gujarati",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

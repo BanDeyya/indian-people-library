@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-AF-0013",
+  "name": "Jagruti",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fish_seller",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lined round face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "long black hair in a plait",
+    "build": "sturdy",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "dd_bandhani_saree_f",
+    "dd_chaniya_f",
+    "dd_saree_f",
+    "dd_sindoor"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

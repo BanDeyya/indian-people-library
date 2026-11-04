@@ -1,0 +1,1601 @@
+{
+  "schema_version": 2,
+  "slug": "nagaland",
+  "code": "NL",
+  "name": "Nagaland",
+  "type": "state",
+  "zone": "northeast",
+  "capital": "Kohima",
+  "status": "reviewed",
+  "languages": [
+    "English (official)",
+    "Nagamese",
+    "Angami",
+    "Ao",
+    "Sumi",
+    "Lotha",
+    "Konyak",
+    "and other tribal languages"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "christian": 87.93,
+      "hindu": 8.75,
+      "muslim": 2.47,
+      "other": 0.85
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "kohima",
+      "name": "Kohima and Tseminyu",
+      "notes": "State capital; Angami and Rengma areas."
+    },
+    {
+      "id": "dimapur_plains",
+      "name": "Dimapur, Chumoukedima and Niuland",
+      "notes": "Plains and commercial hub; most mixed population, incl. Kachari and residents from other states."
+    },
+    {
+      "id": "mokokchung",
+      "name": "Mokokchung",
+      "notes": "Ao heartland."
+    },
+    {
+      "id": "wokha",
+      "name": "Wokha",
+      "notes": "Lotha heartland."
+    },
+    {
+      "id": "zunheboto",
+      "name": "Zunheboto",
+      "notes": "Sumi heartland."
+    },
+    {
+      "id": "phek",
+      "name": "Phek and Meluri",
+      "notes": "Chakhesang and Pochury areas; terraced fields."
+    },
+    {
+      "id": "mon",
+      "name": "Mon",
+      "notes": "Konyak heartland."
+    },
+    {
+      "id": "eastern",
+      "name": "Eastern districts",
+      "notes": "Tuensang, Longleng, Kiphire, Noklak, Shamator: Chang, Phom, Khiamniungan, Sangtam, Yimkhiung, Tikhir."
+    }
+  ],
+  "communities": [
+    {
+      "id": "angami",
+      "name": "Angami",
+      "culture": "Angami",
+      "religion": "christian",
+      "prompt": "Angami",
+      "sub_regions": [
+        "kohima"
+      ],
+      "notes": "Men: shawls such as lohe (black with red and yellow bands) and loramhoushu (white with red and black bands). Women: blue or white cloth with black borders, white skirt (pfemhou). Priest's and warrior-marked cloths are restricted.",
+      "names": {
+        "female": [
+          "Neikhrienuo",
+          "Vilhouzonuo",
+          "Kevisenuo",
+          "Neikuonuo",
+          "Medonuo",
+          "Zhavino",
+          "Atono",
+          "Vizolenuo",
+          "Kezhalenuo",
+          "Dzüvinuo",
+          "Khrienuo",
+          "Seyievinuo",
+          "Vimenuo",
+          "Kevinuo",
+          "Neiketuonuo",
+          "Lhoukuonuo"
+        ],
+        "male": [
+          "Kevilie",
+          "Vilhousa",
+          "Kevichusa",
+          "Neikezhakuo",
+          "Medovi",
+          "Zhaleo",
+          "Kevisato",
+          "Vizovolie",
+          "Neilhoutuo",
+          "Thejao",
+          "Neiphrelie",
+          "Visakuolie",
+          "Kevizetuo",
+          "Sedevikho",
+          "Khriezotuo"
+        ]
+      }
+    },
+    {
+      "id": "ao",
+      "name": "Ao",
+      "culture": "Ao",
+      "religion": "christian",
+      "prompt": "Ao",
+      "sub_regions": [
+        "mokokchung"
+      ],
+      "notes": "Women: wrapped skirts such as azu jangnup su (red and black stripes). Men's warrior and merit shawls (tsungkotepsu, rongsu) and the wealthy's aomelep su are restricted.",
+      "names": {
+        "female": [
+          "Akumla",
+          "Imtisenla",
+          "Moalemla",
+          "Temjenla",
+          "Akangla",
+          "Sentila",
+          "Watijungla",
+          "Bendangla",
+          "Alemla",
+          "Lanu",
+          "Imnala",
+          "Aienla",
+          "Temsula",
+          "Sashila",
+          "Arenla",
+          "Imtila",
+          "Chubala"
+        ],
+        "male": [
+          "Temjen",
+          "Imli",
+          "Moa",
+          "Bendang",
+          "Imkong",
+          "Sentimoa",
+          "Akum",
+          "Watimongba",
+          "Lanu",
+          "Toshi",
+          "Imtiwapang",
+          "Supong",
+          "Alemba",
+          "Temsu",
+          "Sashi",
+          "Merentoshi"
+        ]
+      }
+    },
+    {
+      "id": "sumi",
+      "name": "Sumi",
+      "culture": "Sumi",
+      "religion": "christian",
+      "prompt": "Sumi",
+      "sub_regions": [
+        "zunheboto"
+      ],
+      "notes": "Women: lototsu, an ordinary unrestricted cloth. Men's akhum and avi-kiyi-phi are for rich men and notable warriors (restricted); nisuphi (broad black and white stripes) is worn in some villages.",
+      "names": {
+        "female": [
+          "Hokheli",
+          "Kiholi",
+          "Inali",
+          "Vikali",
+          "Akali",
+          "Tokheli",
+          "Hukheli",
+          "Kitoli",
+          "Ghonili",
+          "Shikhali"
+        ],
+        "male": [
+          "Hokuto",
+          "Kiyezhe",
+          "Hekiye",
+          "Vikato",
+          "Inaho",
+          "Kitovi",
+          "Toshiho",
+          "Akato",
+          "Hukavi",
+          "Kughavi"
+        ]
+      }
+    },
+    {
+      "id": "lotha",
+      "name": "Lotha",
+      "culture": "Lotha",
+      "religion": "christian",
+      "prompt": "Lotha",
+      "sub_regions": [
+        "wokha"
+      ],
+      "notes": "Men: sutam (white with dark blue stripes) for men who have performed no social genna. Women: plain dark blue skirt before marriage, loroesu after marriage. Higher genna cloths are restricted.",
+      "names": {
+        "female": [
+          "Ayangla",
+          "Yanbeni",
+          "Chumbeni",
+          "Nzanbeni",
+          "Yanpvuli",
+          "Mhonbeni",
+          "Rhonbeni",
+          "Ezanbeni",
+          "Lichanbeni",
+          "Chubeni"
+        ],
+        "male": [
+          "Mhonbemo",
+          "Chumben",
+          "Yanthung",
+          "Nzanthung",
+          "Ezamo",
+          "Tsenthung",
+          "Chonchibemo",
+          "Yanbemo",
+          "Myingthungo",
+          "Rhondemo"
+        ]
+      }
+    },
+    {
+      "id": "phom",
+      "name": "Phom",
+      "culture": "Phom",
+      "religion": "christian",
+      "prompt": "Phom",
+      "sub_regions": [
+        "eastern"
+      ],
+      "notes": "Men: henyu (red with white bands), once for rich men, is now the Phom national cloth open to all. Women: phom shungnang, a black skirt with red lines; shaka (white skirt) was for families of rich men (restricted).",
+      "names": {
+        "female": [
+          "Ngaiyang",
+          "Pangnyei",
+          "Yeangnyei",
+          "Chingnyei",
+          "Ahon",
+          "Mainyei",
+          "Phanyei",
+          "Langnyei"
+        ],
+        "male": [
+          "Chingmak",
+          "Yangsi",
+          "Pangnyu",
+          "Pongthang",
+          "Bahon",
+          "Yeangphong",
+          "Chingphong",
+          "Mongba"
+        ]
+      }
+    },
+    {
+      "id": "konyak",
+      "name": "Konyak",
+      "culture": "Konyak",
+      "religion": "christian",
+      "prompt": "Konyak",
+      "sub_regions": [
+        "mon"
+      ],
+      "notes": "Dress not yet sourced. Facial tattoos belong only to a fading generation of elders and are never given to characters.",
+      "names": {
+        "female": [
+          "Phejin",
+          "Ngaipong",
+          "Nyeimei",
+          "Phawang",
+          "Wangnei",
+          "Henyei",
+          "Shahnei",
+          "Yeihnei"
+        ],
+        "male": [
+          "Wangpong",
+          "Manlong",
+          "Tingkham",
+          "Ahon",
+          "Nyeiwang",
+          "Phowang",
+          "Wangsha",
+          "Honang"
+        ]
+      }
+    },
+    {
+      "id": "chakhesang",
+      "name": "Chakhesang",
+      "culture": "Chakhesang",
+      "religion": "christian",
+      "prompt": "Chakhesang",
+      "sub_regions": [
+        "phek"
+      ],
+      "notes": "Chakhesang shawl has a GI tag; designs not yet sourced.",
+      "names": {
+        "female": [
+          "Vimeno",
+          "Kevekhrolu",
+          "Neitho",
+          "Akhrole",
+          "Vesiinuo",
+          "Lhiichiise",
+          "Putsolu",
+          "Velhiiyiile"
+        ],
+        "male": [
+          "Vilhousa",
+          "Zhavise",
+          "Neikha",
+          "Khrieu",
+          "Kezhiise",
+          "Vetsiito",
+          "Diezo",
+          "Thuvo"
+        ]
+      }
+    },
+    {
+      "id": "kachari",
+      "name": "Kachari (Dimasa)",
+      "culture": "Dimasa Kachari",
+      "religion": "hindu",
+      "prompt": "Dimasa Kachari",
+      "sub_regions": [
+        "dimapur_plains"
+      ],
+      "notes": "Plains community of Dimapur; Bishu Dima festival. Dress not yet sourced.",
+      "names": {
+        "female": [
+          "Purnima",
+          "Ranjita",
+          "Mousumi",
+          "Bijoya",
+          "Kalpana",
+          "Champa",
+          "Jayanti",
+          "Sabita",
+          "Rupali",
+          "Mamoni",
+          "Junu",
+          "Anima"
+        ],
+        "male": [
+          "Rajib",
+          "Dilip",
+          "Prasanta",
+          "Ramen",
+          "Biswajit",
+          "Debojit",
+          "Jiban",
+          "Mohan",
+          "Pranab",
+          "Hemanta",
+          "Kamal",
+          "Nirmal"
+        ]
+      }
+    },
+    {
+      "id": "other_hindu",
+      "name": "Hindu",
+      "culture": "Residents from other states",
+      "religion": "hindu",
+      "sub_regions": [
+        "dimapur_plains"
+      ],
+      "notes": "Mostly in Dimapur; regional dress of their home states."
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Nagaland",
+      "religion": "muslim",
+      "sub_regions": [
+        "dimapur_plains"
+      ],
+      "notes": "Small community, mostly in Dimapur. Dress not yet sourced."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      2,
+      6
+    ],
+    "hair": "Straight black hair; many young people wear short modern cuts.",
+    "notes": "Light to light-brown; most Naga people have East Asian facial features, with real variety between tribes. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "angami",
+      "notes": "Naga given names (often with meaning) and Christian names are both common; clan names are used as surnames but no caste system. Use given name plus father's or clan-neutral second name."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "nl_modern_m",
+      "name": "Shirt and jeans",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "casual shirt and jeans",
+      "short": "shirt and jeans",
+      "sources": []
+    },
+    {
+      "id": "nl_modern_f",
+      "name": "Top and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "simple top with a cardigan and jeans",
+      "short": "top, cardigan and jeans",
+      "sources": []
+    },
+    {
+      "id": "nl_plain_top_f",
+      "name": "Plain blouse (worn with a tribal skirt)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "upper",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain long-sleeved blouse",
+      "short": "plain long-sleeved blouse",
+      "sources": []
+    },
+    {
+      "id": "nl_plain_shirt_m",
+      "name": "Plain shirt (under a shawl)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "upper",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain shirt",
+      "short": "plain shirt",
+      "sources": []
+    },
+    {
+      "id": "nl_trousers_m",
+      "name": "Plain trousers (with a shawl)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain dark trousers",
+      "short": "dark trousers",
+      "sources": []
+    },
+    {
+      "id": "nl_angami_lohe_m",
+      "name": "Angami lohe shawl",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "angami",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Angami lohe shawl, black with broad red and green bands near the borders, worn over the shoulders",
+      "short": "black Angami shawl with red and green bands",
+      "sources": [
+        "ignca_nagaland",
+        "wiki_lohepfhe",
+        "wiki_naga_shawl"
+      ]
+    },
+    {
+      "id": "nl_angami_loram_f",
+      "name": "Angami loramhoushü",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "angami",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "white Angami loramhoushü wrap-around skirt with broad black, green and red bands, worn with a long-sleeved blouse and a shawl over the shoulders",
+      "short": "white Angami loramhoushü skirt with bands",
+      "sources": [
+        "wiki_loramhoushu",
+        "wiki_naga_shawl",
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_angami_f",
+      "name": "Angami women's dress",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "angami",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "white Angami skirt (pfemhou) with a blue cloth with black borders wrapped over the shoulders",
+      "short": "white Angami skirt and blue black-bordered cloth",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_ao_azu_f",
+      "name": "Ao azu jangnup su skirt",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "ao",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Ao wrapped skirt with red and black stripes (azu jangnup su)",
+      "short": "Ao red and black striped wrap skirt",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_sumi_lototsu_f",
+      "name": "Sumi lototsu",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sumi",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Sumi lototsu wrapped cloth skirt",
+      "short": "Sumi lototsu wrap skirt",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_sumi_nisuphi_m",
+      "name": "Sumi nisuphi shawl",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sumi",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Sumi nisuphi shawl with broad black and white stripes",
+      "short": "Sumi shawl with broad black and white stripes",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_lotha_sutam_m",
+      "name": "Lotha sutam shawl",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lotha",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Lotha sutam shawl, white with dark blue stripes",
+      "short": "white Lotha shawl with dark blue stripes",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_lotha_single_f",
+      "name": "Lotha girl's dark blue skirt",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lotha",
+      "meaning": [
+        "community",
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "single"
+      },
+      "prompt": "plain dark blue Lotha wrap skirt",
+      "short": "plain dark blue Lotha wrap skirt",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_lotha_married_f",
+      "name": "Lotha loroesu skirt",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lotha",
+      "meaning": [
+        "community",
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "Lotha loroesu wrap skirt worn by married women",
+      "short": "Lotha married woman's loroesu skirt",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_phom_henyu_m",
+      "name": "Phom henyu shawl",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "phom",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Phom henyu shawl, red with white bands",
+      "short": "red Phom shawl with white bands",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_phom_skirt_f",
+      "name": "Phom shungnang skirt",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit",
+        "wedding_guest",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "phom",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Phom shungnang, a black wrap skirt with red lines",
+      "short": "black Phom wrap skirt with red lines",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_ao_warrior_m",
+      "name": "Ao tsungkotepsu (warrior/merit shawl)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "ao",
+      "meaning": [
+        "honour"
+      ],
+      "restricted": true,
+      "prompt": "Ao tsungkotepsu shawl with a painted white band",
+      "short": "Ao painted-band shawl",
+      "sources": [
+        "ignca_nagaland",
+        "wiki_naga_shawl"
+      ]
+    },
+    {
+      "id": "nl_sumi_akhum_m",
+      "name": "Sumi akhum (rich men's shawl)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sumi",
+      "meaning": [
+        "honour"
+      ],
+      "restricted": true,
+      "prompt": "Sumi akhum shawl, black with red bands",
+      "short": "black Sumi shawl with red bands",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_winter_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "warm padded jacket",
+      "short": "warm padded jacket",
+      "sources": []
+    },
+    {
+      "id": "nl_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long-sleeved top and full-length trousers, ordinary everyday clothes",
+      "short": "girl's top and trousers",
+      "sources": []
+    },
+    {
+      "id": "nl_ao_girl",
+      "name": "Ao girl's striped skirt",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "ao",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "girl's ankle-length Ao red and black striped wrap skirt with a long-sleeved top",
+      "short": "girl's Ao striped skirt and top",
+      "sources": [
+        "ignca_nagaland"
+      ]
+    },
+    {
+      "id": "nl_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "nl_modern_f"
+        ]
+      ],
+      "festive": [
+        [
+          "nl_angami_f"
+        ],
+        [
+          "nl_ao_azu_f",
+          "nl_plain_top_f"
+        ],
+        [
+          "nl_phom_skirt_f",
+          "nl_plain_top_f"
+        ]
+      ],
+      "reason": "Everyday wear is mostly modern; each tribe's own skirt and cloth for Sundays, festivals and, increasingly, daily wear."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "nl_modern_m"
+        ]
+      ],
+      "festive": [
+        [
+          "nl_plain_shirt_m",
+          "nl_trousers_m",
+          "nl_angami_lohe_m"
+        ],
+        [
+          "nl_plain_shirt_m",
+          "nl_trousers_m",
+          "nl_lotha_sutam_m"
+        ],
+        [
+          "nl_plain_shirt_m",
+          "nl_trousers_m",
+          "nl_phom_henyu_m"
+        ]
+      ],
+      "reason": "Modern daily wear; each tribe's unrestricted shawl over the shoulders for church, festivals and ceremonies."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "nl_angami_f"
+        ]
+      ],
+      "festive": [
+        [
+          "nl_angami_f"
+        ]
+      ],
+      "reason": "Older women wear their tribe's cloth more often."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "nl_modern_m"
+        ]
+      ],
+      "festive": [
+        [
+          "nl_plain_shirt_m",
+          "nl_trousers_m",
+          "nl_angami_lohe_m"
+        ]
+      ],
+      "reason": "Same as adult men."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "nl_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "nl_ao_girl"
+        ]
+      ],
+      "reason": "Tribe skirt for festivals and church."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "nl_kids_b"
+        ]
+      ],
+      "reason": "Modern clothes."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "hornbill",
+      "name": "Hornbill Festival",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "1-10 December",
+      "scene": "Hornbill Festival at Kisama heritage village, crowds and tribe pavilions on a hillside",
+      "scene_short": "Hornbill Festival crowds at Kisama"
+    },
+    {
+      "id": "sunday_church",
+      "name": "Sunday church service",
+      "type": "daily",
+      "occasion": "religious_visit",
+      "communities": [
+        "angami",
+        "ao",
+        "sumi",
+        "lotha",
+        "phom",
+        "konyak",
+        "chakhesang"
+      ],
+      "when": "Sundays",
+      "scene": "Sunday morning outside a hillside church, families in their tribe's shawls and skirts",
+      "scene_short": "Sunday morning outside a hillside church"
+    },
+    {
+      "id": "christmas_nl",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "angami",
+        "ao",
+        "sumi",
+        "lotha",
+        "phom",
+        "konyak",
+        "chakhesang"
+      ],
+      "when": "December",
+      "scene": "Christmas evening in a hill village with star lanterns and lights",
+      "scene_short": "hill village Christmas lights"
+    },
+    {
+      "id": "sekrenyi",
+      "name": "Sekrenyi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "angami"
+      ],
+      "when": "February",
+      "scene": "Angami Sekrenyi festival in a hill village",
+      "scene_short": "Angami Sekrenyi village festival"
+    },
+    {
+      "id": "moatsu",
+      "name": "Moatsu",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "ao"
+      ],
+      "when": "May (first week)",
+      "scene": "Ao Moatsu festival in a Mokokchung village, songs and feasting",
+      "scene_short": "Ao Moatsu village festival"
+    },
+    {
+      "id": "tuluni",
+      "name": "Tuluni",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "sumi"
+      ],
+      "when": "July",
+      "scene": "Sumi Tuluni festival gathering in a village",
+      "scene_short": "Sumi Tuluni village gathering"
+    },
+    {
+      "id": "tokhu_emong",
+      "name": "Tokhu Emong",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "lotha"
+      ],
+      "when": "November (first week, after harvest)",
+      "scene": "Lotha Tokhu Emong post-harvest festival in a village",
+      "scene_short": "Lotha Tokhu Emong festival"
+    },
+    {
+      "id": "monyu",
+      "name": "Monyu",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "phom"
+      ],
+      "when": "April (1-6)",
+      "scene": "Phom Monyu festival in a village",
+      "scene_short": "Phom Monyu festival"
+    },
+    {
+      "id": "aoleang",
+      "name": "Aoleang",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "konyak"
+      ],
+      "when": "April (first week)",
+      "scene": "Konyak Aoleang spring festival in a Mon village",
+      "scene_short": "Konyak Aoleang festival"
+    },
+    {
+      "id": "sukrunyi",
+      "name": "Sukrunyi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "chakhesang"
+      ],
+      "when": "January (also observed in March-April in some villages)",
+      "scene": "Chakhesang Sukrunyi festival in a Phek village",
+      "scene_short": "Chakhesang Sukrunyi festival"
+    },
+    {
+      "id": "bishu_dima",
+      "name": "Bishu Dima",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "kachari"
+      ],
+      "when": "January (27th)",
+      "scene": "Dimasa Kachari Bishu Dima festival in Dimapur",
+      "scene_short": "Bishu Dima festival in Dimapur"
+    },
+    {
+      "id": "wedding_guest_nl",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests outside a church after a wedding, hills behind",
+      "scene_short": "wedding guests outside a church"
+    }
+  ],
+  "settings": [
+    {
+      "id": "kohima_town",
+      "type": "urban",
+      "description": "Kohima town with houses stacked on green hillsides",
+      "short": "Kohima hillside town",
+      "sub_regions": [
+        "kohima"
+      ]
+    },
+    {
+      "id": "dimapur_market",
+      "type": "urban",
+      "description": "busy Dimapur market street",
+      "short": "Dimapur market street",
+      "sub_regions": [
+        "dimapur_plains"
+      ]
+    },
+    {
+      "id": "mokokchung_town",
+      "type": "urban",
+      "description": "Mokokchung town on a ridge",
+      "short": "Mokokchung ridge town",
+      "sub_regions": [
+        "mokokchung"
+      ]
+    },
+    {
+      "id": "terraced_fields",
+      "type": "rural",
+      "description": "terraced rice fields on steep green hills",
+      "short": "terraced rice fields on hills",
+      "sub_regions": [
+        "phek",
+        "kohima"
+      ]
+    },
+    {
+      "id": "hill_village",
+      "type": "rural",
+      "description": "hill village with tin-roofed houses and bamboo groves",
+      "short": "hill village with bamboo groves"
+    },
+    {
+      "id": "jhum_fields",
+      "type": "rural",
+      "description": "hillside jhum fields with forest around",
+      "short": "hillside jhum fields",
+      "sub_regions": [
+        "mon",
+        "eastern",
+        "zunheboto",
+        "wokha"
+      ]
+    },
+    {
+      "id": "home_nl",
+      "type": "home",
+      "description": "wooden house verandah with potted plants and misty hills",
+      "short": "wooden verandah, misty hills"
+    },
+    {
+      "id": "office_nl",
+      "type": "work",
+      "description": "office in Kohima",
+      "short": "Kohima office",
+      "sub_regions": [
+        "kohima"
+      ]
+    },
+    {
+      "id": "church_nl",
+      "type": "religious",
+      "description": "outside a hillside church",
+      "short": "hillside church"
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in terraced fields"
+    },
+    {
+      "id": "weaver",
+      "name": "Loin-loom weaver",
+      "setting": "rural",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving at a loin loom on a verandah"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male"
+      ],
+      "scene": "in a small shop in town"
+    },
+    {
+      "id": "musician",
+      "name": "Musician",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "playing guitar at a small café gig"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "monsoon": "Heavy rain (1800-2500 mm a year), mainly May-September.",
+    "winter": "Cool to cold, especially in the hills: warm jackets over everyday clothes."
+  },
+  "heritage": [
+    {
+      "id": "merit_shawls",
+      "name": "Warrior and feast-of-merit shawls",
+      "kind": "warrior",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "nl_ao_warrior_m",
+        "nl_sumi_akhum_m"
+      ],
+      "reason": "Shawls that record headhunting-era warrior status, feasts of merit or wealth are restricted; only each tribe's unrestricted cloths are given to characters.",
+      "sources": [
+        "ignca_nagaland",
+        "morung_mekhala"
+      ]
+    },
+    {
+      "id": "konyak_tattoos",
+      "name": "Konyak facial tattoos",
+      "kind": "warrior",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Earned through warfare in the headhunting era; only a fading generation of elders carries them.",
+      "sources": [
+        "morung_konyak"
+      ]
+    },
+    {
+      "id": "hornbill_feathers",
+      "name": "Hornbill feather and beak headgear",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Most hornbills are protected under Schedule I of the Wildlife (Protection) Act, 1972; communities are moving to replicas. Not shown.",
+      "sources": [
+        "sanctuary_hornbill"
+      ]
+    },
+    {
+      "id": "weapons",
+      "name": "Daos and spears in ceremonial dress",
+      "kind": "warrior",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Weapons are excluded from the public library.",
+      "sources": []
+    },
+    {
+      "id": "naga_designs",
+      "name": "Naga textile designs",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "nl_angami_lohe_m",
+        "nl_ao_azu_f",
+        "nl_phom_henyu_m"
+      ],
+      "reason": "Designs carry meaning and the state seeks GI protection against misuse; only sourced, unrestricted designs are used, each on members of its own tribe.",
+      "sources": [
+        "theprint_naga_gi"
+      ]
+    }
+  ],
+  "avoid": [
+    "One generic 'Naga' look: every character wears their own tribe's cloth.",
+    "Restricted warrior, merit, priest or rich men's shawls on ordinary characters.",
+    "Facial tattoos, hornbill feathers, daos or spears.",
+    "Headhunting, 'warrior tribe' or 'exotic' framing; show everyday modern life (offices, cafés, churches, farms).",
+    "Political conflict, insurgency or armed-forces imagery.",
+    "Treating the Hornbill Festival as all of Naga life."
+  ],
+  "todo": [
+    "Konyak, Chakhesang (GI shawl), Chang, Khiamniungan, Sangtam, Yimkhiung, Pochury, Rengma, Zeliang, Kuki, Tikhir dress with sources.",
+    "Ao and Angami men's unrestricted shawls beyond lohe, loramhoushu.",
+    "Kachari and Muslim dress with sources.",
+    "Native review (someone from Nagaland), ideally per tribe."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Nagaland religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/13-nagaland.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "ignca_nagaland",
+      "title": "Textiles of Nagaland (IGNCA, Ministry of Culture)",
+      "url": "https://ignca.gov.in/?p=50876",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "nl_gov_profile",
+      "title": "State profile (Government of Nagaland)",
+      "url": "https://nagaland.gov.in/nagaland-profile",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "nl_tourism_tribes",
+      "title": "Tribes and festivals (Nagaland Tourism)",
+      "url": "https://tourism.nagaland.gov.in/tribes/",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "morung_mekhala",
+      "title": "Mekhala renaissance: a fad or here to stay (Morung Express)",
+      "url": "https://morungexpress.com/mekhala-renaissance-a-fad-or-here-to-stay",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "morung_konyak",
+      "title": "At 90, one of last tattooed Konyak headhunters (Morung Express)",
+      "url": "https://morungexpress.com/at-90-one-of-last-tattooed-konyak-headhunters-sees-hope-in-naga-youth",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "sanctuary_hornbill",
+      "title": "Can fibreglass save the hornbill? (Sanctuary Nature Foundation)",
+      "url": "https://sanctuarynaturefoundation.org/article/can-fibreglass-save-the-hornbill%3F",
+      "type": "community",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "theprint_naga_gi",
+      "title": "GI tag needed for Naga traditional attires to prevent misuse: CM (ThePrint)",
+      "url": "https://theprint.in/india/gi-tag-needed-for-naga-traditional-attires-to-prevent-misuse-cm/967878",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_lohepfhe",
+      "title": "Lohepfhe (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Lohepfhe",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_loramhoushu",
+      "title": "Loramhoushü (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Loramhoush%C3%BC",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_naga_shawl",
+      "title": "Naga shawl (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Naga_shawl",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_naga_festivals",
+      "title": "List of traditional Naga festivals (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_traditional_Naga_festivals",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; gaps kept in todo; native review per tribe still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Corrected (major): 'loramhoushü' was filed as a men's shawl, but Wikipedia's Loramhoushü and Naga shawl pages describe it as a women's wrap-around skirt, white with broad black, green and red bands. Replaced by a women's festive item (nl_angami_loram_f); no character used the old item.",
+      "Corrected: the Angami lohe (lohepfhe) is black with red and green bands (yellow only in older pieces), per Wikipedia; the prompt said red and yellow.",
+      "Confirmed: the Ao tsungkotepsü was traditionally earned (warriors, later feasts of merit), so keeping it restricted is right (Wikipedia's Naga shawl page). Chakhesang shawl is a Nagaland GI product.",
+      "Confirmed against Wikipedia's List of traditional Naga festivals: Sekrenyi in February, Moatsü first week of May, Tülüni in July, Monyü first week of April; Hornbill Festival, Tokhü Emong, Aoleang and Sükhrünyie dates made precise (Hornbill 1-10 December). Bushu (Dimasa Kachari) is not in that list and stays single-source."
+    ]
+  }
+}

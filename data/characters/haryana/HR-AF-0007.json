@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0007",
+  "name": "Krishna Devi",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "hr_festive_suit_f",
+    "hr_daaman_f",
+    "hr_suit_f",
+    "hr_winter_jacket",
+    "hr_sindoor"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

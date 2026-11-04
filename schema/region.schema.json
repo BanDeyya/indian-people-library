@@ -1,0 +1,898 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "region.schema.json",
+  "title": "Region (state or union territory), schema v2",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "slug",
+    "code",
+    "name",
+    "type",
+    "zone",
+    "status",
+    "languages",
+    "religion_mix",
+    "communities",
+    "look_range",
+    "wardrobe",
+    "accessories",
+    "best_representation",
+    "occasions",
+    "settings",
+    "avoid",
+    "sources",
+    "reviews"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 2
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "Two-letter code used in character ids, e.g. KL."
+    },
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "enum": [
+        "state",
+        "union_territory"
+      ]
+    },
+    "zone": {
+      "enum": [
+        "north",
+        "south",
+        "east",
+        "west",
+        "central",
+        "northeast",
+        "islands"
+      ]
+    },
+    "capital": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "researched",
+        "reviewed"
+      ],
+      "description": "draft = partial; researched = checklist complete, except items listed in `todo` because no usable source was found; reviewed = a maintainer review exists in `reviews`."
+    },
+    "languages": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "verification": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["date", "notes"],
+      "description": "Cross-source verification: what was checked against a second source, what was corrected, and what stays open.",
+      "properties": {
+        "date": {"type": "string"},
+        "notes": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "religion_mix": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source",
+        "shares"
+      ],
+      "properties": {
+        "source": {
+          "type": "string",
+          "description": "Source id from `sources`."
+        },
+        "shares": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "description": "Percent of population per religion, e.g. {\"hindu\": 54.73}."
+        },
+        "checked_against": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Further source ids the shares were checked against (cross-source verification)."
+        },
+        "note": {
+          "type": "string",
+          "description": "How the figures were computed when not read directly from one table."
+        }
+      }
+    },
+    "sub_regions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "name",
+          "notes"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/id"
+          },
+          "name": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          },
+          "place": {
+            "type": "string",
+            "description": "Optional short place name used in image prompts instead of the region name ('woman from Daman'), for regions whose official name is long."
+          }
+        }
+      }
+    },
+    "communities": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "name",
+          "culture",
+          "notes"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/id"
+          },
+          "name": {
+            "type": "string",
+            "description": "For a religious group: the religion alone (e.g. 'Hindu', 'Muslim'), with only a religious qualifier in brackets if needed (e.g. 'Buddhist (Ambedkarite)'). For a cultural, tribal or denominational community: its own name (e.g. 'Kodava', 'Bodo', 'Syrian Christian'). Never region + religion in one name."
+          },
+          "culture": {
+            "type": "string",
+            "description": "Language, region or cultural group the dress comes from (e.g. 'Telugu', 'Kashmiri', 'Maithil', 'Kodava'). Kept separate from religion so one religion is never split into labels, and so a catalogue can filter by religion or by culture."
+          },
+          "religion": {
+            "type": "string",
+            "description": "Main religion key matching religion_mix, if the community is defined by or mostly of one religion."
+          },
+          "sub_regions": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/id"
+            }
+          },
+          "prompt": {
+            "type": "string",
+            "description": "Word used before 'woman'/'man' in prompts, only where it helps the look (e.g. Bodo). Never for a religion alone."
+          },
+          "notes": {
+            "type": "string"
+          },
+          "names": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["female", "male"],
+            "description": "Common given names the character generator picks from. Never caste or clan surnames.",
+            "properties": {
+              "female": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+              "male": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+              "second_female": {"type": "array", "items": {"type": "string"}, "description": "Optional neutral second names for women (e.g. Kaur, Devi); never caste surnames."},
+              "second_male": {"type": "array", "items": {"type": "string"}, "description": "Optional neutral second names for men (e.g. Singh, Kumar); never caste surnames."},
+              "second_always": {"type": "boolean", "description": "True when the second name is always used (e.g. Singh/Kaur for Sikhs); otherwise sometimes."},
+              "second_father": {"type": "boolean", "description": "True when the father's given name is the usual second name (e.g. Gujarat, Maharashtra, Tamil Nadu)."}
+            }
+          },
+          "always_wear": {
+            "type": "object",
+            "additionalProperties": {"type": "array", "items": {"$ref": "#/$defs/id"}},
+            "description": "Per group, items the generator puts in always_wear (e.g. a Sikh man's dastar and kara)."
+          }
+        }
+      }
+    },
+    "excluded_communities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "reason",
+          "source"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "look_range": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "skin_tone_mst",
+        "notes"
+      ],
+      "properties": {
+        "skin_tone_mst": {
+          "$ref": "#/$defs/mst_range"
+        },
+        "hair": {
+          "type": "string"
+        },
+        "facial_hair": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "by_community": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "community",
+              "notes"
+            ],
+            "properties": {
+              "community": {
+                "$ref": "#/$defs/id"
+              },
+              "skin_tone_mst": {
+                "$ref": "#/$defs/mst_range"
+              },
+              "notes": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "naming": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "community",
+          "notes"
+        ],
+        "properties": {
+          "community": {
+            "$ref": "#/$defs/id"
+          },
+          "notes": {
+            "type": "string"
+          },
+          "given_names": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "surnames": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "wardrobe": {
+      "type": "array",
+      "minItems": 4,
+      "items": {
+        "$ref": "#/$defs/item"
+      }
+    },
+    "accessories": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/item"
+      }
+    },
+    "best_representation": {
+      "type": "object",
+      "description": "Per group, the 1-3 outfits (item id lists) that best represent the region.",
+      "propertyNames": {
+        "$ref": "#/$defs/group"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "reason"
+        ],
+        "properties": {
+          "daily": {
+            "type": "array",
+            "maxItems": 3,
+            "items": {
+              "$ref": "#/$defs/outfit"
+            }
+          },
+          "festive": {
+            "type": "array",
+            "maxItems": 3,
+            "items": {
+              "$ref": "#/$defs/outfit"
+            }
+          },
+          "reason": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "grooming": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "for",
+          "notes"
+        ],
+        "properties": {
+          "for": {
+            "$ref": "#/$defs/groups"
+          },
+          "community": {
+            "$ref": "#/$defs/id"
+          },
+          "notes": {
+            "type": "string"
+          },
+          "prompt": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "occasions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "name",
+          "type",
+          "when",
+          "scene"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/id"
+          },
+          "name": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "festival",
+              "life_event",
+              "daily"
+            ]
+          },
+          "occasion": {
+            "$ref": "#/$defs/occasion"
+          },
+          "communities": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/id"
+            },
+            "description": "Empty = celebrated across communities."
+          },
+          "when": {
+            "type": "string"
+          },
+          "scene": {
+            "type": "string"
+          },
+          "scene_short": {
+            "type": "string"
+          },
+          "sub_regions": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/id"
+            },
+            "description": "Where this occasion mainly happens. Empty = whole region."
+          },
+          "marital_status": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "single",
+                "married",
+                "widowed",
+                "unspecified"
+              ]
+            },
+            "description": "Only characters with one of these statuses take part (e.g. festivals about marriage)."
+          },
+          "for": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/group"
+            },
+            "description": "Only these groups take part (e.g. a festival kept mostly by girls and women). Empty = everyone."
+          }
+        }
+      }
+    },
+    "settings": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "type",
+          "description"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/id"
+          },
+          "type": {
+            "enum": [
+              "rural",
+              "urban",
+              "home",
+              "work",
+              "religious",
+              "nature"
+            ]
+          },
+          "description": {
+            "type": "string"
+          },
+          "short": {
+            "type": "string"
+          },
+          "sub_regions": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/id"
+            },
+            "description": "Where this setting is found. Empty = anywhere in the region."
+          },
+          "communities": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/id"
+            },
+            "description": "Only for characters of these communities (e.g. a Koliwada for Koli characters). Empty = everyone."
+          },
+          "lives_in": {
+            "type": "string",
+            "enum": [
+              "rural",
+              "urban"
+            ],
+            "description": "For home and work settings: only for characters who live in this kind of place. Empty = both."
+          }
+        }
+      }
+    },
+    "occupations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "name",
+          "setting",
+          "for"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/id"
+          },
+          "name": {
+            "type": "string"
+          },
+          "setting": {
+            "enum": [
+              "rural",
+              "urban",
+              "both"
+            ]
+          },
+          "for": {
+            "$ref": "#/$defs/groups"
+          },
+          "outfit": {
+            "$ref": "#/$defs/outfit"
+          },
+          "scene": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "seasons": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "winter": {
+          "type": "string"
+        },
+        "monsoon": {
+          "type": "string"
+        },
+        "summer": {
+          "type": "string"
+        }
+      }
+    },
+    "avoid": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "todo": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "title",
+          "url",
+          "type"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/id"
+          },
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^https?://"
+          },
+          "type": {
+            "enum": [
+              "gov",
+              "museum",
+              "academic",
+              "indian_press",
+              "community",
+              "reference",
+              "commercial"
+            ]
+          },
+          "accessed": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          }
+        }
+      }
+    },
+    "reviews": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "by",
+          "kind",
+          "date"
+        ],
+        "properties": {
+          "by": {
+            "type": "string",
+            "pattern": "^(maintainer|[A-Za-z0-9-]{1,39})$",
+            "description": "'maintainer' or a GitHub username/pseudonym. Never a real name or email."
+          },
+          "kind": {
+            "enum": [
+              "maintainer",
+              "native"
+            ]
+          },
+          "date": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "heritage": {
+      "type": "array",
+      "description": "Distinctive traditions of the region beyond everyday life (royal or court dress, warrior orders, religious orders, sacred ritual forms, community-owned designs), each with a decision on how the library treats it.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "name",
+          "kind",
+          "status",
+          "decision",
+          "reason",
+          "sources"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/id"
+          },
+          "name": {
+            "type": "string"
+          },
+          "kind": {
+            "enum": [
+              "royal_court",
+              "warrior",
+              "religious_order",
+              "sacred_ritual",
+              "community_design",
+              "other"
+            ]
+          },
+          "status": {
+            "enum": [
+              "historical",
+              "living"
+            ]
+          },
+          "decision": {
+            "enum": [
+              "contemporary_items",
+              "era_phase",
+              "not_depicted"
+            ],
+            "description": "contemporary_items = what people wear today is in the wardrobe; era_phase = historical dress waits for the planned era (decade-by-decade) data; not_depicted = never shown as a character's dress."
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/id"
+            },
+            "description": "Wardrobe/accessory ids added for this tradition."
+          },
+          "reason": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/id"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    },
+    "group": {
+      "enum": [
+        "adult_male",
+        "adult_female",
+        "old_male",
+        "old_female",
+        "child_boy",
+        "child_girl"
+      ]
+    },
+    "groups": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/group"
+      }
+    },
+    "occasion": {
+      "enum": [
+        "daily",
+        "work",
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit",
+        "school",
+        "mourning"
+      ]
+    },
+    "mst_range": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 10
+      }
+    },
+    "outfit": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/id"
+      }
+    },
+    "item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "for",
+        "slot",
+        "setting",
+        "occasion",
+        "prompt",
+        "sources"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id"
+        },
+        "name": {
+          "type": "string"
+        },
+        "for": {
+          "$ref": "#/$defs/groups"
+        },
+        "slot": {
+          "enum": [
+            "full",
+            "upper",
+            "lower",
+            "drape",
+            "head",
+            "feet",
+            "outer",
+            "jewellery",
+            "accessory"
+          ],
+          "description": "Body slot. 'full' = one-piece or a set covering upper and lower body. Two items in the same slot (except jewellery/accessory) conflict."
+        },
+        "setting": {
+          "enum": [
+            "rural",
+            "urban",
+            "both"
+          ]
+        },
+        "occasion": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/occasion"
+          }
+        },
+        "season": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "any",
+              "winter",
+              "monsoon",
+              "summer"
+            ]
+          }
+        },
+        "community": {
+          "$ref": "#/$defs/id",
+          "description": "Set when the item belongs to one community; only characters of that community may wear it."
+        },
+        "meaning": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "marital",
+              "religious",
+              "honour",
+              "mourning",
+              "community",
+              "bridal"
+            ]
+          }
+        },
+        "requires": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "marital_status": {
+              "enum": [
+                "married",
+                "widowed",
+                "single"
+              ]
+            }
+          }
+        },
+        "restricted": {
+          "type": "boolean",
+          "description": "Honour, ritual or office-holder items. Never auto-selected for generic characters."
+        },
+        "representative": {
+          "type": "boolean"
+        },
+        "era": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "from"
+          ],
+          "properties": {
+            "from": {
+              "type": "integer"
+            },
+            "to": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          }
+        },
+        "prompt": {
+          "type": "string",
+          "description": "Full visual description for long-text models."
+        },
+        "short": {
+          "type": "string",
+          "description": "Compact description for 77-token models (CLIP). Falls back to prompt."
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/id"
+          }
+        }
+      }
+    }
+  }
+}

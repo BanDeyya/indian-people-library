@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-AM-0003",
+  "name": "Tapang",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "adi",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his left hand"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_smart_m",
+    "ar_lubling_m"
+  ],
+  "language": [
+    "Adi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0009",
+  "name": "Mahavir",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "broad and strong",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_dhoti_kurta_m",
+    "hr_kurta_pyjama_m"
+  ],
+  "language": [
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

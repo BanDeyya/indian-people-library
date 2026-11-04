@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0020",
+  "name": "Champa",
+  "region": "uttar-pradesh",
+  "sub_region": "terai",
+  "community": "tharu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "up_tharu_f",
+    "up_salwar_f"
+  ],
+  "language": [
+    "Tharu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

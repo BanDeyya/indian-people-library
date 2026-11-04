@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MZ-OF-0004",
+  "name": "Lalremsiami",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "mz_hmaram_f",
+    "mz_puanchei_f",
+    "mz_ngotekherh_f"
+  ],
+  "language": [
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-AF-0004",
+  "name": "Anita",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ar_saree_f",
+    "ar_sindoor",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Nepali",
+    "Hindi",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0016",
+  "name": "Shyam Vikram",
+  "region": "rajasthan",
+  "sub_region": "mewar",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face with deep sun lines",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair under his safa",
+    "build": "lean",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "thick curled moustache"
+  },
+  "wardrobe": [
+    "rj_angrakha_m",
+    "rj_bandhgala_m",
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_mojari",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hadoti",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

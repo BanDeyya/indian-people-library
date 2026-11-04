@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0018",
+  "name": "Simran Rani",
+  "region": "punjab",
+  "sub_region": "majha",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with a rounded chin",
+    "eyes": "brown eyes behind black-framed reading glasses",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "pb_suit_f",
+    "pb_karva_chauth_f",
+    "pb_jhumka",
+    "pb_khes_wrap"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

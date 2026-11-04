@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AP-AM-0008",
+  "name": "Chaitanya",
+  "region": "andhra-pradesh",
+  "sub_region": "south_coast",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "ap_shirt_trousers_m",
+    "ap_pancha_shirt_m",
+    "ap_kurta_pyjama_m",
+    "ap_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

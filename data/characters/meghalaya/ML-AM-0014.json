@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0014",
+  "name": "Chensrang",
+  "region": "meghalaya",
+  "sub_region": "garo_hills",
+  "community": "garo",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m"
+  ],
+  "language": [
+    "Garo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0009",
+  "name": "Ajay",
+  "region": "delhi",
+  "sub_region": "outer",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin, slightly stooped",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dl_kurta_pyjama_m",
+    "dl_dhoti_kurta_m",
+    "dl_pagri",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

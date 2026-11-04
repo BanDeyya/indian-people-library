@@ -1,0 +1,1476 @@
+{
+  "schema_version": 2,
+  "slug": "jammu-kashmir",
+  "code": "JK",
+  "name": "Jammu and Kashmir",
+  "type": "union_territory",
+  "zone": "north",
+  "capital": "Srinagar (summer), Jammu (winter)",
+  "status": "reviewed",
+  "languages": [
+    "Kashmiri",
+    "Dogri",
+    "Urdu",
+    "Hindi",
+    "English",
+    "Gojri",
+    "Pahari"
+  ],
+  "religion_mix": {
+    "source": "census2011_jk",
+    "shares": {
+      "muslim": 68.8,
+      "hindu": 28.8,
+      "sikh": 1.9,
+      "christian": 0.28,
+      "other": 0.22
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ],
+    "note": "Religion shares exclude Leh and Kargil (now Ladakh), computed from district data; Pew's 2011 row for undivided Jammu and Kashmir (Muslim 68%, Hindu 28%) agrees within rounding."
+  },
+  "sub_regions": [
+    {
+      "id": "valley",
+      "name": "Kashmir Valley",
+      "notes": "Srinagar, Anantnag, Baramulla, Ganderbal, Pulwama and nearby: Kashmiri-speaking; orchards, saffron, Dal Lake."
+    },
+    {
+      "id": "jammu",
+      "name": "Jammu plains and Shivaliks",
+      "notes": "Jammu, Kathua, Samba, Udhampur: Dogri-speaking; Dogra culture; many Kashmiri Pandit families settled here since 1990."
+    },
+    {
+      "id": "chenab",
+      "name": "Chenab valley",
+      "notes": "Doda, Kishtwar, Ramban: mixed Kashmiri, Dogri and Pahari communities; steep terraced villages."
+    },
+    {
+      "id": "pir_panjal",
+      "name": "Pir Panjal",
+      "notes": "Rajouri and Poonch: Pahari and Gojri speakers; Gujjar-Bakarwal pastoralists move to high meadows in summer."
+    }
+  ],
+  "communities": [
+    {
+      "id": "kashmiri_muslim",
+      "name": "Muslim",
+      "culture": "Kashmiri",
+      "religion": "muslim",
+      "prompt": "Kashmiri",
+      "sub_regions": [
+        "valley",
+        "chenab"
+      ],
+      "notes": "Pheran (knee-length, loose) for men and women; women's pherans colourful with flower designs and tilla embroidery for festivals and weddings; poots underneath in winter to protect from the kangri. Salwar-kameez and modern dress daily.",
+      "names": {
+        "female": [
+          "Iqra",
+          "Mehvish",
+          "Zoona",
+          "Shazia",
+          "Rifat",
+          "Nusrat",
+          "Saima",
+          "Rukhsana",
+          "Mehjabeen",
+          "Insha",
+          "Nighat",
+          "Shabnam",
+          "Afroza",
+          "Asifa",
+          "Nazia",
+          "Shaista",
+          "Sabreena",
+          "Rubeena",
+          "Tabasum",
+          "Mubeena",
+          "Shahnaz",
+          "Ruqaya",
+          "Zahida",
+          "Gulshan",
+          "Haleema",
+          "Fozia",
+          "Masrat",
+          "Raziya",
+          "Afreen"
+        ],
+        "male": [
+          "Aqib",
+          "Farooq",
+          "Showkat",
+          "Bilal",
+          "Mudasir",
+          "Tariq",
+          "Irshad",
+          "Javid",
+          "Mushtaq",
+          "Shabir",
+          "Gulzar",
+          "Nazir",
+          "Adil",
+          "Umar",
+          "Irfan",
+          "Javeed",
+          "Sajad",
+          "Rouf",
+          "Nisar",
+          "Altaf",
+          "Imtiyaz",
+          "Aijaz",
+          "Fayaz"
+        ],
+        "second_female": [
+          "Bashir",
+          "Akhtar",
+          "Begum"
+        ],
+        "second_male": [
+          "Ahmad",
+          "Rashid",
+          "Hussain"
+        ]
+      }
+    },
+    {
+      "id": "kashmiri_pandit",
+      "name": "Kashmiri Pandit",
+      "culture": "Kashmiri",
+      "religion": "hindu",
+      "prompt": "Kashmiri Pandit",
+      "sub_regions": [
+        "valley",
+        "jammu"
+      ],
+      "notes": "Long pheran reaching the feet; women's pheran with wide sleeves, embroidered or brocade cuffs, red borders and a coloured loongy sash. Taranga only for brides today. Herath and Mela Kheer Bhawani.",
+      "names": {
+        "female": [
+          "Aruna",
+          "Sunita",
+          "Rajni",
+          "Kiran",
+          "Asha",
+          "Shanta",
+          "Meenakshi",
+          "Neerja",
+          "Usha",
+          "Renu",
+          "Bimla",
+          "Sarla",
+          "Rita",
+          "Veena",
+          "Raj",
+          "Indira",
+          "Shobha",
+          "Kusum",
+          "Kamla",
+          "Sudha",
+          "Anjali",
+          "Nirmala",
+          "Lalita",
+          "Prabha",
+          "Kanta",
+          "Pushpa",
+          "Sushma"
+        ],
+        "male": [
+          "Rajnath",
+          "Ashok",
+          "Pyare",
+          "Sanjay",
+          "Vinod",
+          "Ramesh",
+          "Autar",
+          "Moti",
+          "Rakesh",
+          "Bushan",
+          "Arun",
+          "Omkar",
+          "Maharaj",
+          "Vijay",
+          "Rajinder",
+          "Ravinder",
+          "Anil",
+          "Pran",
+          "Rattan",
+          "Sunil",
+          "Dileep",
+          "Ajay"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "dogra",
+      "name": "Dogra",
+      "culture": "Dogra",
+      "religion": "hindu",
+      "prompt": "Dogra",
+      "sub_regions": [
+        "jammu",
+        "chenab"
+      ],
+      "notes": "Men: kurta with the pleated Dogri suthan (or churidar). Women: long straight kurta with suthan, or kurta with lehnga. All communities in Jammu wear the suthan.",
+      "names": {
+        "female": [
+          "Kanta",
+          "Seema",
+          "Neelam",
+          "Rekha",
+          "Sudesh",
+          "Kamla",
+          "Anita",
+          "Pooja",
+          "Shalini",
+          "Raj",
+          "Saroj",
+          "Meenakshi",
+          "Sunita",
+          "Usha",
+          "Rajni",
+          "Asha",
+          "Meena",
+          "Shashi",
+          "Renu",
+          "Kiran",
+          "Sarla",
+          "Bimla",
+          "Neha",
+          "Suman",
+          "Ritu",
+          "Anju",
+          "Shakuntala",
+          "Vandana"
+        ],
+        "male": [
+          "Rajinder",
+          "Aarav",
+          "Ashok",
+          "Vijay",
+          "Ravinder",
+          "Sanjeev",
+          "Kuldeep",
+          "Surinder",
+          "Anil",
+          "Jagdish",
+          "Pawan",
+          "Vikram",
+          "Rakesh",
+          "Ramesh",
+          "Kishore",
+          "Joginder",
+          "Satpal",
+          "Mohinder",
+          "Ajay"
+        ],
+        "second_female": [
+          "Devi"
+        ],
+        "second_male": [
+          "Kumar"
+        ]
+      }
+    },
+    {
+      "id": "gujjar_bakarwal",
+      "name": "Gujjar-Bakarwal",
+      "culture": "Gujjar-Bakarwal",
+      "religion": "muslim",
+      "prompt": "Gujjar-Bakarwal",
+      "sub_regions": [
+        "pir_panjal",
+        "valley",
+        "jammu",
+        "chenab"
+      ],
+      "notes": "Scheduled Tribe of pastoralists. Women: kurti or jubo with shalwar and a chaddar, and the hand-embroidered lachko (Gojri topi). Men: lungi/pagh turban.",
+      "names": {
+        "female": [
+          "Nazira",
+          "Fatima",
+          "Zarina",
+          "Reshma",
+          "Shamim",
+          "Noor",
+          "Hameeda",
+          "Saleema",
+          "Rafiqa",
+          "Jameela",
+          "Zubeda",
+          "Shahnaz",
+          "Haseena",
+          "Nasreen",
+          "Bano",
+          "Rehana",
+          "Jannat",
+          "Gulnaz",
+          "Shazia",
+          "Amina",
+          "Khadija",
+          "Zainab",
+          "Rabia",
+          "Mumtaz",
+          "Sakina",
+          "Naseema"
+        ],
+        "male": [
+          "Lal Din",
+          "Mohammad Din",
+          "Bashir",
+          "Yousuf",
+          "Akram",
+          "Ghulam",
+          "Rafiq",
+          "Sadiq",
+          "Mehboob",
+          "Sain",
+          "Mohammad Yousuf",
+          "Shafi",
+          "Abdul Rashid",
+          "Nazir",
+          "Mohammad Iqbal",
+          "Anwar",
+          "Manzoor",
+          "Ghulam Nabi",
+          "Noor",
+          "Shabir",
+          "Javed"
+        ],
+        "second_female": [
+          "Bano",
+          "Begum"
+        ]
+      }
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "culture": "Jammu and Kashmir",
+      "religion": "sikh",
+      "sub_regions": [
+        "jammu",
+        "valley"
+      ],
+      "notes": "Farming and business families in Jammu (R.S. Pura) and the Valley. No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      2,
+      6
+    ],
+    "hair": "Black or dark brown hair, straight or wavy.",
+    "notes": "Fair to light brown in the Valley, wheatish to brown in Jammu and among pastoral communities; light eyes occur. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "kashmiri_muslim",
+      "notes": "Arabic or Persian-origin given name plus father's name. Kashmiri family names (krams) can carry status meaning; avoid them."
+    },
+    {
+      "community": "kashmiri_pandit",
+      "notes": "Given name plus father's name; avoid kram surnames."
+    },
+    {
+      "community": "dogra",
+      "notes": "Given name plus Kumar, Devi or father's name; avoid caste surnames."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "jk_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt with a sweater and trousers",
+      "short": "shirt, sweater and trousers",
+      "sources": []
+    },
+    {
+      "id": "jk_pheran_m",
+      "name": "Men's pheran",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "winter"
+      ],
+      "community": "kashmiri_muslim",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "plain knee-length woollen pheran with narrow sleeves",
+      "short": "plain woollen pheran",
+      "sources": [
+        "wiki_pheran"
+      ]
+    },
+    {
+      "id": "jk_pandit_pheran_m",
+      "name": "Pandit men's pheran",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "winter"
+      ],
+      "community": "kashmiri_pandit",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "plain long pheran reaching the ankles with narrow sleeves",
+      "short": "long plain pheran",
+      "sources": [
+        "wiki_pheran",
+        "koa_costume"
+      ]
+    },
+    {
+      "id": "jk_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "jk_dogra_m",
+      "name": "Dogri kurta and suthan",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "dogra",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "kurta flaring from the waist to the knees, worn with a Dogri suthan pleated tight at the ankles",
+      "short": "Dogri kurta and pleated suthan",
+      "sources": [
+        "wiki_jammu_dress",
+        "jammuvirasat_dogra"
+      ]
+    },
+    {
+      "id": "jk_gujjar_m",
+      "name": "Gujjar men's dress",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gujjar_bakarwal",
+      "prompt": "long kurta with shalwar",
+      "short": "long kurta and shalwar",
+      "sources": [
+        "excelsior_lachko",
+        "theprint_gujjar"
+      ]
+    },
+    {
+      "id": "jk_gujjar_pagh",
+      "name": "Gujjar turban (lungi/pagh)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gujjar_bakarwal",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "wrapped lungi turban",
+      "short": "wrapped turban",
+      "sources": [
+        "excelsior_lachko",
+        "theprint_gujjar"
+      ]
+    },
+    {
+      "id": "jk_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "salwar-kameez with a dupatta and a cardigan",
+      "short": "salwar-kameez, dupatta and cardigan",
+      "sources": []
+    },
+    {
+      "id": "jk_modern_f",
+      "name": "Jeans and sweater",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "jeans with a long sweater",
+      "short": "jeans and long sweater",
+      "sources": []
+    },
+    {
+      "id": "jk_pheran_f",
+      "name": "Women's pheran",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "winter"
+      ],
+      "community": "kashmiri_muslim",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "knee-length woollen pheran with colourful flower embroidery, over loose trousers",
+      "short": "embroidered woollen pheran",
+      "sources": [
+        "wiki_pheran"
+      ]
+    },
+    {
+      "id": "jk_tilla_pheran_f",
+      "name": "Tilla pheran",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kashmiri_muslim",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "pheran with gold tilla embroidery at the neck and cuffs, with a dupatta",
+      "short": "pheran with gold tilla embroidery",
+      "sources": [
+        "wiki_pheran"
+      ]
+    },
+    {
+      "id": "jk_pandit_pheran_f",
+      "name": "Pandit women's pheran",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kashmiri_pandit",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "long pheran with wide embroidered cuffs, red borders and a coloured loongy sash at the waist",
+      "short": "long pheran with red borders and sash",
+      "sources": [
+        "koa_costume",
+        "wiki_pheran"
+      ]
+    },
+    {
+      "id": "jk_taranga",
+      "name": "Taranga (bridal)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kashmiri_pandit",
+      "meaning": [
+        "bridal"
+      ],
+      "restricted": true,
+      "prompt": "white taranga headdress flowing down the back",
+      "short": "white taranga headdress",
+      "sources": [
+        "wiki_taranga",
+        "koa_costume"
+      ]
+    },
+    {
+      "id": "jk_dogra_f",
+      "name": "Dogri kurta and suthan (women)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "dogra",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "long straight kurta with a coloured Dogri suthan and a dupatta",
+      "short": "long kurta, Dogri suthan and dupatta",
+      "sources": [
+        "wiki_jammu_dress",
+        "jammuvirasat_dogra"
+      ]
+    },
+    {
+      "id": "jk_gujjar_f",
+      "name": "Gujjar women's dress",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gujjar_bakarwal",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "kurti with a matching shalwar and a chaddar over the shoulders",
+      "short": "kurti, shalwar and chaddar",
+      "sources": [
+        "excelsior_lachko",
+        "theprint_gujjar"
+      ]
+    },
+    {
+      "id": "jk_lachko",
+      "name": "Lachko (Gojri topi)",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gujjar_bakarwal",
+      "meaning": [
+        "community",
+        "religious"
+      ],
+      "prompt": "round flat-topped cap hand-embroidered in bright thread",
+      "short": "embroidered round Gojri cap",
+      "sources": [
+        "excelsior_lachko",
+        "villagesquare_topi"
+      ]
+    },
+    {
+      "id": "jk_winter_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "thick padded jacket",
+      "short": "padded jacket",
+      "sources": []
+    },
+    {
+      "id": "jk_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long kurta with full-length trousers and a sweater",
+      "short": "girl's kurta, trousers and sweater",
+      "sources": []
+    },
+    {
+      "id": "jk_kids_g_fest",
+      "name": "Girl's festive pheran",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length embroidered pheran with trousers",
+      "short": "girl's long embroidered pheran",
+      "sources": [
+        "wiki_pheran"
+      ]
+    },
+    {
+      "id": "jk_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "jk_salwar_f"
+        ],
+        [
+          "jk_dogra_f"
+        ]
+      ],
+      "festive": [
+        [
+          "jk_tilla_pheran_f"
+        ],
+        [
+          "jk_pandit_pheran_f"
+        ],
+        [
+          "jk_dogra_f"
+        ]
+      ],
+      "reason": "Salwar-kameez or Dogri suthan daily; tilla pheran for Kashmiri weddings and Eid; long Pandit pheran for Herath and weddings."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "jk_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "jk_dogra_m"
+        ],
+        [
+          "jk_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Shirt-trousers, with the pheran in winter; Dogri kurta and suthan in Jammu."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "jk_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "jk_tilla_pheran_f"
+        ]
+      ],
+      "reason": "Pheran in winter."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "jk_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "jk_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Pheran in winter."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "jk_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "jk_kids_g_fest"
+        ]
+      ],
+      "reason": "Embroidered pheran for Eid."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "jk_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "jk_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "herath",
+      "name": "Herath (Mahashivratri)",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "kashmiri_pandit"
+      ],
+      "when": "February-March",
+      "scene": "Herath, a Kashmiri Pandit family sharing soaked walnuts at home",
+      "scene_short": "Herath walnuts at home"
+    },
+    {
+      "id": "kheer_bhawani",
+      "name": "Mela Kheer Bhawani",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "kashmiri_pandit"
+      ],
+      "when": "May-June (Jyeshtha Ashtami)",
+      "scene": "Mela Kheer Bhawani at Tulmulla, devotees with flowers and milk offerings under chinar trees",
+      "scene_short": "Kheer Bhawani under chinar trees"
+    },
+    {
+      "id": "eid_jk",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "kashmiri_muslim",
+        "gujjar_bakarwal"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in an old Srinagar lane",
+      "scene_short": "Eid morning in old Srinagar"
+    },
+    {
+      "id": "lohri_jk",
+      "name": "Lohri",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "dogra"
+      ],
+      "when": "13 January",
+      "scene": "Lohri evening in Jammu, families around a bonfire",
+      "scene_short": "Lohri bonfire in Jammu"
+    },
+    {
+      "id": "baisakhi_jk",
+      "name": "Baisakhi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "dogra"
+      ],
+      "when": "13-14 April",
+      "scene": "Baisakhi fair on a river bank near Jammu",
+      "scene_short": "Baisakhi fair near Jammu"
+    },
+    {
+      "id": "wedding_guest_jk",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "mostly spring and autumn",
+      "scene": "guests at a wedding in a garden with a decorated tent",
+      "scene_short": "garden wedding tent"
+    }
+  ],
+  "settings": [
+    {
+      "id": "dal_lake",
+      "type": "urban",
+      "description": "Dal Lake with wooden shikaras and houseboats, mountains behind",
+      "short": "Dal Lake shikaras",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "srinagar_old",
+      "type": "urban",
+      "description": "old Srinagar lane with wooden houses and carved windows",
+      "short": "old Srinagar lane",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "jammu_street",
+      "type": "urban",
+      "description": "busy Jammu market street",
+      "short": "Jammu market street",
+      "sub_regions": [
+        "jammu"
+      ]
+    },
+    {
+      "id": "apple_orchard",
+      "type": "rural",
+      "description": "apple orchard with snowy mountains behind",
+      "short": "apple orchard, snowy peaks",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "saffron_fields",
+      "type": "rural",
+      "description": "purple saffron fields on a plateau in autumn",
+      "short": "saffron fields",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "chinar_village",
+      "type": "rural",
+      "description": "Kashmiri village with brick houses under chinar trees",
+      "short": "village under chinars",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "jammu_fields",
+      "type": "rural",
+      "description": "wheat fields of the Jammu plains with low Shivalik hills",
+      "short": "Jammu wheat fields",
+      "sub_regions": [
+        "jammu"
+      ]
+    },
+    {
+      "id": "chenab_terraces",
+      "type": "rural",
+      "description": "terraced village on steep slopes above the Chenab river",
+      "short": "Chenab terraced village",
+      "sub_regions": [
+        "chenab"
+      ]
+    },
+    {
+      "id": "high_meadow",
+      "type": "rural",
+      "description": "high mountain meadow with grazing sheep and goats and mud-and-timber huts",
+      "short": "high meadow with flocks",
+      "sub_regions": [
+        "pir_panjal",
+        "valley"
+      ],
+      "communities": [
+        "gujjar_bakarwal"
+      ]
+    },
+    {
+      "id": "tulip_garden",
+      "type": "nature",
+      "description": "tulip garden in spring with mountains behind",
+      "short": "tulip garden",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "home_jk",
+      "type": "home",
+      "description": "room with carved wooden ceiling, carpets and a samovar",
+      "short": "carved wooden room with samovar",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "home_jammu",
+      "type": "home",
+      "description": "rooftop of a house in Jammu with potted plants",
+      "short": "Jammu rooftop",
+      "sub_regions": [
+        "jammu",
+        "chenab"
+      ]
+    },
+    {
+      "id": "home_hills",
+      "type": "home",
+      "description": "mud-and-timber house with a wooden verandah on a hillside",
+      "short": "hillside mud-and-timber house",
+      "sub_regions": [
+        "pir_panjal",
+        "chenab"
+      ]
+    },
+    {
+      "id": "office_jk",
+      "type": "work",
+      "description": "office in Srinagar",
+      "short": "Srinagar office",
+      "sub_regions": [
+        "valley"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in the fields"
+    },
+    {
+      "id": "orchardist",
+      "name": "Apple grower",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "picking apples in an orchard"
+    },
+    {
+      "id": "herder",
+      "name": "Herder",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "herding sheep and goats on a mountain slope"
+    },
+    {
+      "id": "shikara_rower",
+      "name": "Shikara rower",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "rowing a shikara on Dal Lake"
+    },
+    {
+      "id": "embroiderer",
+      "name": "Embroiderer",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "old_female",
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "embroidering a shawl by a window"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "winter": "Very cold in the Valley (December-February, chillai kalan): pherans, kangris, jackets.",
+    "summer": "Mild in the Valley, hot in Jammu (April-June).",
+    "monsoon": "July-September, mostly in Jammu."
+  },
+  "heritage": [
+    {
+      "id": "dogra_court",
+      "name": "Dogra court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only, in the era phase; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "qasaba",
+      "name": "Qasaba headdress",
+      "kind": "other",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Older Kashmiri Muslim women's headdress; height once marked family status. Era phase.",
+      "sources": [
+        "wiki_pheran"
+      ]
+    },
+    {
+      "id": "taranga",
+      "name": "Taranga",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "jk_taranga"
+      ],
+      "reason": "Worn today only by Kashmiri Pandit brides; restricted.",
+      "sources": [
+        "wiki_taranga"
+      ]
+    },
+    {
+      "id": "fur",
+      "name": "Fur caps and shahtoosh",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Fur use is restricted and shahtoosh comes from a protected antelope; not shown.",
+      "sources": [
+        "kashmirlife_karakuli"
+      ]
+    },
+    {
+      "id": "muharram_jk",
+      "name": "Muharram processions",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Mourning ritual; not used as a scene.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Militancy, army, curfew, stone-pelting or border-conflict imagery.",
+    "Political imagery (Article 370, flags, protests).",
+    "Kashmiri Pandit displacement shown through camps or suffering; Pandit characters live ordinary lives.",
+    "'Paradise on earth' cliches only (houseboats, snow); fur caps or shahtoosh.",
+    "Caste or kram surnames; Gujjar-Bakarwal shown only as poor or nomadic."
+  ],
+  "todo": [
+    "Kashmiri Muslim men's and women's headwear today; dejhoor (Pandit married women's ear ornament) with sources.",
+    "Sikh, Pahari and Chenab valley dress with sources.",
+    "Pashmina, Kani and sozni shawls as items with sources.",
+    "Navroz, Urs, Navratri at Vaishno Devi with sources and decisions.",
+    "Native review (ideally Valley, Jammu and Pir Panjal)."
+  ],
+  "sources": [
+    {
+      "id": "census2011_jk",
+      "title": "Jammu and Kashmir religion shares computed from Census 2011 state data minus Leh and Kargil districts (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/1-jammu-and-kashmir.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_pheran",
+      "title": "Pheran (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Pheran",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_taranga",
+      "title": "Taranga (clothing) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Taranga_(clothing)",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "koa_costume",
+      "title": "Kashmiri Pandit costume (Kashmiri Overseas Association)",
+      "url": "https://koausa.org/costume.html",
+      "type": "community",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_jammu_dress",
+      "title": "Jammu dress (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Jammu_dress",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "excelsior_lachko",
+      "title": "Lachko: a distinct symbol of Gujjar identity (Daily Excelsior)",
+      "url": "https://www.dailyexcelsior.com/lachko-a-distinct-symbol-of-gujjar-identity/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "villagesquare_topi",
+      "title": "Gujjar women's embroidered skullcaps lose out to modern fashion (Village Square)",
+      "url": "https://villagesquare.in/gujjar-womens-skull-cap-loses-out-to-modern-fashion/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "kashmirlife_herath",
+      "title": "Herath celebrated with fervour across Kashmir (Kashmir Life)",
+      "url": "https://kashmirlife.net/herath-celebrated-with-fervour-across-kashmir-425430/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "air_kheer_bhawani",
+      "title": "Mela Kheer Bhawani celebrated (All India Radio)",
+      "url": "https://newsonair.gov.in/annual-mela-kheer-bhawani-celebrated-with-religious-fervour-in-kashmir/",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "kashmirlife_karakuli",
+      "title": "Srinagar artisans adapt from classic karakuli to modern caps (Kashmir Life)",
+      "url": "https://kashmirlife.net/video-srinagar-artisans-adapt-from-classic-karakuli-to-modern-caps-337620/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "theprint_gujjar",
+      "title": "J&K tribal woman revives vanishing Gujjar attires (ThePrint)",
+      "url": "https://theprint.in/india/j-k-tribal-woman-revives-vanishing-gujjar-attires/1367454",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "jammuvirasat_dogra",
+      "title": "Dogra traditional dress for men and women (Jammu Virasat)",
+      "url": "https://jammuvirasat.com/?p=6090",
+      "type": "community",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Confirmed: Dogra long kurta with churidar or pleated suthan tight at the ankle, and the dupatta as a must with the suthan (Jammu Virasat, Wikipedia's Jammu dress); Gujjar men's shalwar-kameez with headgear (pagheri) and women's long kameez with a shawl over an embroidered cap (ThePrint).",
+      "Noted for the to-do list: ThePrint names the women's embroidered Gujjar cap (lashka) and the men's waistcoat, not yet in the file."
+    ]
+  }
+}

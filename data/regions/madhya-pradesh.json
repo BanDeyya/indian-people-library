@@ -1,0 +1,1636 @@
+{
+  "schema_version": 2,
+  "slug": "madhya-pradesh",
+  "code": "MP",
+  "name": "Madhya Pradesh",
+  "type": "state",
+  "zone": "central",
+  "capital": "Bhopal",
+  "status": "reviewed",
+  "languages": [
+    "Hindi (official)",
+    "Malvi",
+    "Bundeli",
+    "Bagheli",
+    "Nimadi",
+    "Bhili",
+    "Gondi",
+    "Urdu"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 90.89,
+      "muslim": 6.57,
+      "jain": 0.78,
+      "buddhist": 0.3,
+      "christian": 0.29,
+      "sikh": 0.21,
+      "other": 0.96
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "malwa",
+      "name": "Malwa",
+      "notes": "Indore, Ujjain, Dewas, Ratlam, Mandsaur; black-soil plateau, soybean and wheat."
+    },
+    {
+      "id": "nimar",
+      "name": "Nimar",
+      "notes": "Khargone, Maheshwar, Khandwa, Burhanpur along the Narmada; Maheshwari weaving."
+    },
+    {
+      "id": "central",
+      "name": "Bhopal region",
+      "notes": "Bhopal, Vidisha, Raisen, Sehore; lakes, old city of Bhopal."
+    },
+    {
+      "id": "gwalior_chambal",
+      "name": "Gwalior-Chambal",
+      "notes": "Gwalior, Morena, Bhind, Shivpuri, Guna; forts, ravines."
+    },
+    {
+      "id": "bundelkhand",
+      "name": "Bundelkhand",
+      "notes": "Sagar, Chhatarpur, Tikamgarh, Panna, Damoh; rocky plateau, Khajuraho."
+    },
+    {
+      "id": "baghelkhand",
+      "name": "Baghelkhand",
+      "notes": "Rewa, Satna, Sidhi, Shahdol; Bagheli-speaking."
+    },
+    {
+      "id": "mahakoshal",
+      "name": "Mahakoshal",
+      "notes": "Jabalpur, Mandla, Dindori, Seoni, Chhindwara, Balaghat; Narmada, sal forests, Gond heartland."
+    },
+    {
+      "id": "jhabua",
+      "name": "Western tribal belt",
+      "notes": "Jhabua, Alirajpur, Dhar, Barwani; Bhil and Bhilala villages; Bagh print."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Madhya Pradesh (Malvi, Bundeli, Bagheli, Nimadi)",
+      "religion": "hindu",
+      "notes": "Men: dhoti with kurta or shirt; white or black bandi or mirzai jacket in Malwa and Bundelkhand; safa turban in villages; gamchha on the shoulder. Women: cotton Maheshwari or Bagh-print saree daily, Chanderi or silk Maheshwari for weddings and festivals; rural lehenga-choli with a lugra (orni) over the head, red and black favoured; sindoor and toe rings when married.",
+      "names": {
+        "female": [
+          "Ramkali",
+          "Sunanda",
+          "Shruti",
+          "Kavya",
+          "Rajkumari",
+          "Sushma",
+          "Meera",
+          "Anita",
+          "Saroj",
+          "Pushpa",
+          "Vandana",
+          "Rekha",
+          "Mamta",
+          "Jyoti",
+          "Shobha",
+          "Kiran",
+          "Archana",
+          "Neelam",
+          "Usha",
+          "Sunita",
+          "Geeta",
+          "Ragini",
+          "Sadhana",
+          "Pratibha",
+          "Kusum",
+          "Seema",
+          "Lata",
+          "Manju",
+          "Preeti",
+          "Durga"
+        ],
+        "male": [
+          "Kailash",
+          "Ramsewak",
+          "Arjun",
+          "Vivek",
+          "Rajendra",
+          "Mahesh",
+          "Sunil",
+          "Pradeep",
+          "Santosh",
+          "Brijesh",
+          "Ramprasad",
+          "Dinesh",
+          "Lokesh",
+          "Ashish",
+          "Ramesh",
+          "Ashok",
+          "Satish",
+          "Narendra",
+          "Shivraj",
+          "Raghavendra",
+          "Mukesh",
+          "Vinod",
+          "Devendra",
+          "Kamal"
+        ],
+        "second_female": [
+          "Devi",
+          "Bai"
+        ],
+        "second_male": [
+          "Kumar",
+          "Prasad"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Madhya Pradesh",
+      "religion": "muslim",
+      "prompt": "Muslim",
+      "sub_regions": [
+        "central",
+        "malwa",
+        "nimar",
+        "gwalior_chambal"
+      ],
+      "notes": "Largest in Bhopal, Burhanpur, Indore. Specific dress not yet sourced; characters wear shared kurta-pyjama and salwar-kameez.",
+      "names": {
+        "female": [
+          "Rukhsana",
+          "Nazia",
+          "Shabana",
+          "Farzana",
+          "Ayesha",
+          "Nasreen",
+          "Shaheen",
+          "Sana",
+          "Rubina",
+          "Zainab",
+          "Fatima",
+          "Hina",
+          "Parveen",
+          "Asma",
+          "Shabnam",
+          "Nargis",
+          "Sadia",
+          "Zeenat",
+          "Tabassum",
+          "Kausar",
+          "Afsana",
+          "Gulshan",
+          "Nusrat",
+          "Rehana",
+          "Ishrat",
+          "Shagufta",
+          "Mehnaz",
+          "Saba",
+          "Bushra",
+          "Huma"
+        ],
+        "male": [
+          "Imran",
+          "Arif",
+          "Salim",
+          "Shahid",
+          "Irfan",
+          "Javed",
+          "Rashid",
+          "Aslam",
+          "Faisal",
+          "Naseem",
+          "Sajid",
+          "Tariq",
+          "Wasim",
+          "Zubair",
+          "Rizwan",
+          "Salman",
+          "Zafar",
+          "Anwar",
+          "Nadeem",
+          "Shakeel",
+          "Asif",
+          "Kamran",
+          "Iqbal"
+        ],
+        "second_female": [
+          "Parveen",
+          "Khatoon",
+          "Bano"
+        ],
+        "second_male": [
+          "Ahmad",
+          "Ali",
+          "Hussain",
+          "Akhtar"
+        ]
+      }
+    },
+    {
+      "id": "jain",
+      "name": "Jain",
+      "culture": "Madhya Pradesh",
+      "religion": "jain",
+      "prompt": "Jain",
+      "sub_regions": [
+        "bundelkhand",
+        "malwa",
+        "central"
+      ],
+      "notes": "Trading families, notably in Sagar and Malwa. Monastic dress not depicted.",
+      "names": {
+        "female": [
+          "Pooja",
+          "Shweta",
+          "Monika",
+          "Neha",
+          "Rina",
+          "Sonal",
+          "Priyanka",
+          "Ankita",
+          "Swati",
+          "Jinal",
+          "Shilpa",
+          "Rachna",
+          "Sangeeta",
+          "Nidhi",
+          "Priya",
+          "Anju",
+          "Kavita",
+          "Rekha",
+          "Seema",
+          "Manju",
+          "Ritu",
+          "Sarita",
+          "Payal",
+          "Megha",
+          "Disha",
+          "Kalpana"
+        ],
+        "male": [
+          "Hemant",
+          "Abhinav",
+          "Abhinandan",
+          "Sanjay",
+          "Rakesh",
+          "Manish",
+          "Pankaj",
+          "Nitin",
+          "Rajendra",
+          "Vimal",
+          "Rajesh",
+          "Sunil",
+          "Anil",
+          "Ashok",
+          "Vikas",
+          "Sandeep",
+          "Mahavir",
+          "Ajit",
+          "Abhay",
+          "Sumit"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "bhil",
+      "name": "Bhil and Bhilala",
+      "culture": "Bhil and Bhilala",
+      "prompt": "Bhil Adivasi",
+      "sub_regions": [
+        "jhabua",
+        "nimar",
+        "malwa"
+      ],
+      "notes": "Largest Adivasi group of the west. Women: lehenga-choli with odhni and heavy silver hansli, anklets and armlets. Bhagoria haats before Holi.",
+      "names": {
+        "female": [
+          "Savitaben",
+          "Rami",
+          "Kamli",
+          "Dhapu",
+          "Sukli",
+          "Gita",
+          "Sita",
+          "Hirli",
+          "Mangli",
+          "Kesli",
+          "Radha",
+          "Kamla",
+          "Shanti",
+          "Ganga",
+          "Dhuli",
+          "Kali",
+          "Lakshmi",
+          "Ramila",
+          "Sunita",
+          "Champa",
+          "Bhuri",
+          "Rukmani",
+          "Mira",
+          "Parvati",
+          "Kesar"
+        ],
+        "male": [
+          "Ramesh",
+          "Kalu",
+          "Bheru",
+          "Dhanna",
+          "Mangla",
+          "Thavra",
+          "Kesu",
+          "Raju",
+          "Lalu",
+          "Naru",
+          "Bhima",
+          "Nathu",
+          "Bhura",
+          "Hira",
+          "Nanda",
+          "Jaga",
+          "Rupa",
+          "Shankar",
+          "Thawar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "gond",
+      "name": "Gond",
+      "culture": "Gond",
+      "prompt": "Gond Adivasi",
+      "sub_regions": [
+        "mahakoshal",
+        "baghelkhand"
+      ],
+      "notes": "Men: dhoti and shirt with a long cloth wrapped on the head. Women: sarees; traditionally German-silver bangles and heavy brass kadle anklets. Many women have traditional tattoos (not given to characters).",
+      "names": {
+        "female": [
+          "Sukli",
+          "Somari",
+          "Phulo",
+          "Budhni",
+          "Kamla",
+          "Rajo",
+          "Sumitra",
+          "Dhaneshwari",
+          "Mangli",
+          "Jaymati",
+          "Rajkumari",
+          "Shanti",
+          "Kamli",
+          "Lalita",
+          "Bhagwati",
+          "Dhaniya",
+          "Chandrakali",
+          "Sunita",
+          "Phulwati",
+          "Durga",
+          "Mangali",
+          "Sukwari",
+          "Ramkali",
+          "Shyamwati",
+          "Kamala"
+        ],
+        "male": [
+          "Lakhmu",
+          "Somaru",
+          "Budhru",
+          "Mangal",
+          "Sukhram",
+          "Ramlal",
+          "Dhanu",
+          "Bhagat",
+          "Pandru",
+          "Jagdev",
+          "Budhram",
+          "Ramsingh",
+          "Lakhan",
+          "Sukhlal",
+          "Dhaniram",
+          "Shyamlal",
+          "Mohan",
+          "Jagat",
+          "Pancham",
+          "Hiralal",
+          "Dashrath"
+        ]
+      }
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "culture": "Madhya Pradesh",
+      "religion": "sikh",
+      "sub_regions": [
+        "central",
+        "malwa"
+      ],
+      "notes": "No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      9
+    ],
+    "hair": "Black hair, straight or wavy.",
+    "notes": "Wheatish to deep brown. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus Kumar, Prasad, Devi, Kumari or father's name. Many surnames mark caste (e.g. Sharma, Yadav, Thakur, Patel); never use them."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "mp_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "mp_dhoti_kurta_m",
+      "name": "Dhoti-kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white dhoti with a cotton kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "aza_mp",
+        "indianetzone_mp"
+      ]
+    },
+    {
+      "id": "mp_bandi_m",
+      "name": "Dhoti, kurta and bandi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "white dhoti and kurta with a sleeveless black bandi jacket",
+      "short": "dhoti, kurta and black bandi",
+      "sources": [
+        "indianetzone_mp",
+        "aza_mp"
+      ]
+    },
+    {
+      "id": "mp_safa",
+      "name": "Safa (turban)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain white safa turban",
+      "short": "white safa",
+      "sources": [
+        "aza_mp",
+        "indianetzone_mp"
+      ]
+    },
+    {
+      "id": "mp_gamchha",
+      "name": "Gamchha",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "checked cotton gamchha over the shoulder",
+      "short": "checked gamchha",
+      "sources": [
+        "aza_mp"
+      ]
+    },
+    {
+      "id": "mp_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "mp_mirzai",
+      "name": "Mirzai (winter jacket)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "quilted mirzai jacket",
+      "short": "quilted mirzai jacket",
+      "sources": [
+        "aza_mp"
+      ]
+    },
+    {
+      "id": "mp_maheshwari_cotton_f",
+      "name": "Cotton Maheshwari saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton Maheshwari saree with a reversible striped border",
+      "short": "cotton Maheshwari saree",
+      "sources": [
+        "aza_mp",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "mp_bagh_f",
+      "name": "Bagh-print saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "Bagh block-printed cotton saree in red and black",
+      "short": "red and black Bagh-print saree",
+      "sources": [
+        "aza_mp"
+      ]
+    },
+    {
+      "id": "mp_chanderi_f",
+      "name": "Chanderi silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "lightweight Chanderi silk-cotton saree with gold asharfi motifs",
+      "short": "Chanderi saree with gold motifs",
+      "sources": [
+        "aza_mp",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "mp_maheshwari_silk_f",
+      "name": "Silk Maheshwari saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silk Maheshwari saree with a gold zari border",
+      "short": "silk Maheshwari saree",
+      "sources": [
+        "aza_mp",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "mp_lehenga_lugra_f",
+      "name": "Lehenga-choli with lugra",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "red and black cotton lehenga with a choli and a lugra cloth over the head",
+      "short": "red-black lehenga, choli and lugra",
+      "sources": [
+        "indianetzone_mp",
+        "aza_mp"
+      ]
+    },
+    {
+      "id": "mp_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": []
+    },
+    {
+      "id": "mp_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "mp_bhil_f",
+      "name": "Bhil lehenga-choli",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bhil",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "bright printed lehenga, choli and odhni",
+      "short": "bright lehenga, choli and odhni",
+      "sources": [
+        "aza_mp",
+        "newslaundry_bhagoria"
+      ]
+    },
+    {
+      "id": "mp_gond_m",
+      "name": "Gond men's dress",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gond",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "dhoti and shirt with a long cloth wrapped on the head",
+      "short": "dhoti, shirt and head cloth",
+      "sources": [
+        "trti_gond"
+      ]
+    },
+    {
+      "id": "mp_gond_f",
+      "name": "Gond women's saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gond",
+      "prompt": "cotton saree draped knee to ankle for field work",
+      "short": "cotton saree",
+      "sources": [
+        "trti_gond"
+      ]
+    },
+    {
+      "id": "mp_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton frock with full-length leggings",
+      "short": "girl's frock and leggings",
+      "sources": []
+    },
+    {
+      "id": "mp_kids_g_fest",
+      "name": "Girl's festive lehenga",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length lehenga with a long-sleeved blouse",
+      "short": "girl's long lehenga",
+      "sources": []
+    },
+    {
+      "id": "mp_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "mp_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "mp_bichiya",
+      "name": "Bichiya (toe rings)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "silver toe rings",
+      "short": "silver toe rings",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "mp_hansli",
+      "name": "Silver hansli",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bhil",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "heavy silver hansli choker and anklets",
+      "short": "silver hansli and anklets",
+      "sources": [
+        "aza_mp",
+        "inditales_bhagoria"
+      ]
+    },
+    {
+      "id": "mp_gond_kadle",
+      "name": "Brass kadle anklets",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gond",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "heavy brass kadle anklets and metal bangles",
+      "short": "brass anklets and metal bangles",
+      "sources": [
+        "trti_gond"
+      ]
+    },
+    {
+      "id": "mp_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "mp_maheshwari_cotton_f"
+        ],
+        [
+          "mp_lehenga_lugra_f"
+        ]
+      ],
+      "festive": [
+        [
+          "mp_chanderi_f"
+        ],
+        [
+          "mp_maheshwari_silk_f"
+        ]
+      ],
+      "reason": "Cotton Maheshwari or Bagh print daily, rural lehenga with lugra; Chanderi and silk Maheshwari for weddings and Diwali."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "mp_shirt_trousers_m"
+        ],
+        [
+          "mp_dhoti_kurta_m",
+          "mp_gamchha"
+        ]
+      ],
+      "festive": [
+        [
+          "mp_bandi_m",
+          "mp_safa"
+        ]
+      ],
+      "reason": "Dhoti-kurta; bandi and safa in villages."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "mp_lehenga_lugra_f"
+        ],
+        [
+          "mp_maheshwari_cotton_f"
+        ]
+      ],
+      "festive": [
+        [
+          "mp_chanderi_f"
+        ]
+      ],
+      "reason": "Lehenga with lugra or saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "mp_bandi_m",
+          "mp_safa"
+        ]
+      ],
+      "festive": [
+        [
+          "mp_dhoti_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti, bandi and safa."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "mp_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "mp_kids_g_fest"
+        ]
+      ],
+      "reason": "Long lehenga."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "mp_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "mp_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "bhagoria",
+      "name": "Bhagoria haat",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bhil"
+      ],
+      "when": "February-March (week before Holi)",
+      "sub_regions": [
+        "jhabua",
+        "nimar"
+      ],
+      "scene": "Bhagoria haat before Holi, crowds at a weekly market fair with drums, swings and gulal",
+      "scene_short": "Bhagoria market fair"
+    },
+    {
+      "id": "diwali_mp",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "jain",
+        "gond"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, clay lamps along the doorstep and rangoli",
+      "scene_short": "Diwali lamps and rangoli"
+    },
+    {
+      "id": "holi_mp",
+      "name": "Holi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "gond",
+        "bhil"
+      ],
+      "when": "March",
+      "scene": "Holi morning, families playing with colours in a lane",
+      "scene_short": "Holi colours"
+    },
+    {
+      "id": "navratri_mp",
+      "name": "Navratri",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "September-October",
+      "sub_regions": [
+        "malwa",
+        "central",
+        "nimar"
+      ],
+      "scene": "Navratri evening, families visiting lit pandals and garba circles",
+      "scene_short": "Navratri pandals and garba"
+    },
+    {
+      "id": "eid_mp",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning in old Bhopal, families greeting each other in a lane",
+      "scene_short": "Eid morning in old Bhopal"
+    },
+    {
+      "id": "wedding_guest_mp",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "November-May mostly",
+      "scene": "guests at a wedding in a decorated tent",
+      "scene_short": "wedding tent"
+    }
+  ],
+  "settings": [
+    {
+      "id": "indore_street",
+      "type": "urban",
+      "description": "busy Indore street with food stalls",
+      "short": "Indore street food stalls",
+      "sub_regions": [
+        "malwa"
+      ]
+    },
+    {
+      "id": "bhopal_lake",
+      "type": "urban",
+      "description": "Bhopal lakeside road with the old city behind",
+      "short": "Bhopal lakeside",
+      "sub_regions": [
+        "central"
+      ]
+    },
+    {
+      "id": "gwalior_street",
+      "type": "urban",
+      "description": "Gwalior street with the fort on the hill",
+      "short": "Gwalior street, fort behind",
+      "sub_regions": [
+        "gwalior_chambal"
+      ]
+    },
+    {
+      "id": "maheshwar_ghat",
+      "type": "urban",
+      "description": "Maheshwar riverside town on the Narmada with handloom workshops",
+      "short": "Maheshwar on the Narmada",
+      "sub_regions": [
+        "nimar"
+      ]
+    },
+    {
+      "id": "jabalpur_street",
+      "type": "urban",
+      "description": "Jabalpur market street",
+      "short": "Jabalpur market",
+      "sub_regions": [
+        "mahakoshal"
+      ]
+    },
+    {
+      "id": "sagar_street",
+      "type": "urban",
+      "description": "Sagar town street by the lake",
+      "short": "Sagar lakeside street",
+      "sub_regions": [
+        "bundelkhand"
+      ]
+    },
+    {
+      "id": "rewa_street",
+      "type": "urban",
+      "description": "Rewa town market",
+      "short": "Rewa market",
+      "sub_regions": [
+        "baghelkhand"
+      ]
+    },
+    {
+      "id": "malwa_fields",
+      "type": "rural",
+      "description": "black-soil plateau with soybean and wheat fields",
+      "short": "Malwa soybean fields",
+      "sub_regions": [
+        "malwa",
+        "central",
+        "nimar"
+      ]
+    },
+    {
+      "id": "bundelkhand_village_mp",
+      "type": "rural",
+      "description": "rocky village with stone houses and a pond",
+      "short": "rocky Bundelkhand village",
+      "sub_regions": [
+        "bundelkhand",
+        "gwalior_chambal",
+        "baghelkhand"
+      ]
+    },
+    {
+      "id": "sal_forest_village",
+      "type": "rural",
+      "description": "village of mud houses with painted walls at the edge of a sal forest",
+      "short": "village by sal forest",
+      "sub_regions": [
+        "mahakoshal",
+        "baghelkhand"
+      ]
+    },
+    {
+      "id": "jhabua_hills",
+      "type": "rural",
+      "description": "scattered farmsteads on low rocky hills",
+      "short": "farmsteads on rocky hills",
+      "sub_regions": [
+        "jhabua"
+      ]
+    },
+    {
+      "id": "home_city_mp",
+      "type": "home",
+      "description": "rooftop of a city house with potted plants",
+      "short": "city rooftop",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_mp",
+      "type": "home",
+      "description": "village courtyard with a charpai and a clay stove",
+      "short": "village courtyard",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_mp",
+      "type": "work",
+      "description": "modern office in Indore",
+      "short": "Indore office",
+      "sub_regions": [
+        "malwa"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in the fields"
+    },
+    {
+      "id": "weaver",
+      "name": "Handloom weaver",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving a saree at a handloom"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot (April-June).",
+    "monsoon": "July-September.",
+    "winter": "Cool, cold nights in the north (December-January): shawls and mirzai jackets."
+  },
+  "heritage": [
+    {
+      "id": "princely_mp",
+      "name": "Holkar, Scindia, Bhopal begums' and Bundela court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "safa_colours",
+      "name": "Safa wrapping and colours",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "mp_safa"
+      ],
+      "reason": "Wrapping style and colour can indicate region and caste; only a plain white safa is used.",
+      "sources": [
+        "aza_mp"
+      ]
+    },
+    {
+      "id": "tattoos_mp",
+      "name": "Godna tattoos",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Permanent body art with personal and community meaning; not added to fictional characters.",
+      "sources": [
+        "aza_mp",
+        "trti_gond"
+      ]
+    },
+    {
+      "id": "simhastha",
+      "name": "Naga sadhus and akharas at Simhastha",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Ascetic orders; characters are lay people.",
+      "sources": []
+    },
+    {
+      "id": "chanderi_maheshwari",
+      "name": "Chanderi and Maheshwari sarees",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "mp_chanderi_f",
+        "mp_maheshwari_cotton_f",
+        "mp_maheshwari_silk_f"
+      ],
+      "reason": "GI handlooms worn widely today.",
+      "sources": [
+        "aza_mp"
+      ]
+    }
+  ],
+  "avoid": [
+    "Caste labels, caste surnames or caste-marking turban colours.",
+    "Bhagoria as an 'elopement' or 'match-making' festival (Adivasi writers reject this media framing).",
+    "Chambal 'dacoit' cliches; poverty or malnutrition framing of Adivasi people.",
+    "Bhopal gas tragedy imagery; communal imagery.",
+    "Tattoos on characters; feathered turbans as costume."
+  ],
+  "todo": [
+    "Muslim (Bhopal) dress with sources.",
+    "Baiga, Bharia and Sahariya (PVTGs) held back.",
+    "Nimar Gangaur, Nag Panchami, Simhastha (lay pilgrims), Lokrang with sources.",
+    "Bundeli and Bagheli rural dress specifics.",
+    "Native review (Malwa, Bundelkhand, Adivasi belts)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Madhya Pradesh religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/23-madhya-pradesh.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_mp",
+      "title": "Madhya Pradesh traditional clothing, textiles and style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/madhya-pradesh-traditional-clothing-textiles-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "indianetzone_mp",
+      "title": "Traditional dresses of Madhya Pradesh (Indianetzone)",
+      "url": "https://www.indianetzone.com/costumes_madhya_pradesh",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "trti_gond",
+      "title": "Brief details of Gond (Tribal Research and Training Institute, Govt. of Gujarat)",
+      "url": "https://trti.gujarat.gov.in/gond",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "newslaundry_bhagoria",
+      "title": "How non-Adivasi journalists trivialise and misrepresent Adivasi culture (Newslaundry)",
+      "url": "https://www.newslaundry.com/2021/05/08/how-non-adivasi-journalists-trivialise-and-misrepresent-adivasi-culture",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "inditales_bhagoria",
+      "title": "Bhagoria festival of the Bhil tribes (Inditales)",
+      "url": "https://inditales.com/bhagoria-festival-bhil-tribes",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (3 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Confirmed: Bhagoria haats run over the seven days before Holi (Inditales; ANI and Lokmat reports, e.g. from 24 February in 2026); Bhil women wear heavy solid silver jewellery and men dhotis (Inditales). The hansli by name rests on Aza only.",
+      "Checked: Chanderi, Maheshwari and Bagh prints are Madhya Pradesh GI products. Gond dress (dhoti and shirt with a head cloth; saree draped knee to ankle; brass kadle) rests on TRTI only; open for a Gond reviewer."
+    ]
+  }
+}

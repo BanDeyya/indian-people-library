@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0002",
+  "name": "Lhoukuonuo",
+  "region": "nagaland",
+  "sub_region": "kohima",
+  "community": "angami",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "oval face with soft cheekbones, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "nl_angami_loram_f",
+    "nl_angami_f",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Angami",
+    "English",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

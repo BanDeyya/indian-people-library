@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AF-0020",
+  "name": "Shanti",
+  "region": "mizoram",
+  "sub_region": "chakma_area",
+  "community": "chakma",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "mz_pinon_hadi_f",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Chakma",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

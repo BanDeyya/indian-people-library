@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "LD-AF-0003",
+  "name": "Fathima",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "large dark eyes",
+    "hair": "long black hair under her headscarf",
+    "build": "slim",
+    "signature_mark": "dimple on her chin"
+  },
+  "wardrobe": [
+    "ld_churidar_f",
+    "ld_festive_churidar_f"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

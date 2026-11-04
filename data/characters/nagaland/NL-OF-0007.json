@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0007",
+  "name": "Imtisenla",
+  "region": "nagaland",
+  "sub_region": "mokokchung",
+  "community": "ao",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "nl_ao_azu_f",
+    "nl_plain_top_f",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Ao",
+    "English",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

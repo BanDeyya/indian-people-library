@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-OF-0001",
+  "name": "Saraswathi Govindan",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "thin face with deep wrinkles",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a small knot",
+    "build": "thin",
+    "signature_mark": "small dark mole on her right cheek"
+  },
+  "wardrobe": [
+    "tn_sungudi_f",
+    "tn_chettinad_f",
+    "tn_kanjeevaram_f",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

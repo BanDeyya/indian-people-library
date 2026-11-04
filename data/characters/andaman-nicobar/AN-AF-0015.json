@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0015",
+  "name": "Anita",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "an_salwar_f",
+    "an_silk_saree_f",
+    "an_modern_f"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

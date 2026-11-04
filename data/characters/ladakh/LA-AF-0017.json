@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-AF-0017",
+  "name": "Dolma",
+  "region": "ladakh",
+  "sub_region": "changthang",
+  "community": "changpa",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pashmina_herder",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with wind-reddened cheeks, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "black hair in two plaits",
+    "build": "strong",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_changpa_sulma_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Changskat",
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

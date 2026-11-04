@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0008",
+  "name": "Tilak Ram",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short side-parted brown-black hair",
+    "build": "stocky",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "hp_kurta_jacket_m",
+    "hp_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "Pahari",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

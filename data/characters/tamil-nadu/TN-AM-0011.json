@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0011",
+  "name": "Selvam",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face with deep forehead lines",
+    "eyes": "dark eyes",
+    "hair": "short black hair with grey streaks",
+    "build": "lean",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "thick black moustache"
+  },
+  "wardrobe": [
+    "tn_silk_veshti_m",
+    "tn_lungi_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "CG-OM-0001",
+  "name": "Budhram",
+  "region": "chhattisgarh",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "facial_hair": "white stubble",
+    "build": "wiry",
+    "signature_mark": "mole on his right cheek"
+  },
+  "wardrobe": [
+    "cg_dhoti_kurta_m",
+    "cg_pagdi"
+  ],
+  "language": [
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

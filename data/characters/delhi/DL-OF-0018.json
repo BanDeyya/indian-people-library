@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DL-OF-0018",
+  "name": "Sana",
+  "region": "delhi",
+  "sub_region": "old_delhi",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "dl_suit_head_f",
+    "dl_festive_suit_f",
+    "dl_shawl"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

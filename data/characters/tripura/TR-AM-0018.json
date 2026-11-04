@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-AM-0018",
+  "name": "Sonamani",
+  "region": "tripura",
+  "sub_region": "north",
+  "community": "bru",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "rubber_tapper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_pyjama_panjabi_m"
+  ],
+  "language": [
+    "Kau Bru",
+    "Kokborok"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

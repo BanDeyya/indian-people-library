@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-AF-0002",
+  "name": "Anita Devi",
+  "region": "jharkhand",
+  "sub_region": "santhal_pargana",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "average",
+    "signature_mark": "small birthmark on her right wrist"
+  },
+  "wardrobe": [
+    "jh_cotton_saree_f",
+    "jh_tussar_f",
+    "jh_sindoor"
+  ],
+  "language": [
+    "Hindi",
+    "Angika"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

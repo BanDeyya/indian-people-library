@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "BR-OF-0012",
+  "name": "Gita Devi",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 80,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "br_bhagalpuri_f",
+    "br_cotton_saree_f",
+    "br_sindoor",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Bajjika",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

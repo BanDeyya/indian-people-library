@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0018",
+  "name": "Nasreen",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "medium",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ga_festive_suit_f",
+    "ga_suit_head_f",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

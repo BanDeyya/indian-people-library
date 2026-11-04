@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0012",
+  "name": "Kiran",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 86,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "dd_bandhani_saree_f",
+    "dd_saree_f"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

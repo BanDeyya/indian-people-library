@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-AF-0007",
+  "name": "Angmo",
+  "region": "ladakh",
+  "sub_region": "nubra",
+  "community": "buddhist",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with wind-reddened cheeks, Tibetan-type features",
+    "eyes": "dark brown eyes",
+    "hair": "long straight black hair in a ponytail",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "la_modern_f",
+    "la_salwar_f",
+    "la_sulma_f",
+    "la_tibi"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

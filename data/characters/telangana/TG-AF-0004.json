@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0004",
+  "name": "Lalitha",
+  "region": "telangana",
+  "sub_region": "south",
+  "community": "lambada",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair under her odhni",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ts_lambada_f",
+    "ts_lambada_silver",
+    "ts_pochampally_f"
+  ],
+  "language": [
+    "Lambadi",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

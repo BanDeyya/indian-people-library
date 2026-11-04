@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AM-0003",
+  "name": "Lalthanzuala",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "mz_shirt_trousers_m",
+    "mz_smart_m",
+    "mz_pawndum"
+  ],
+  "language": [
+    "Mizo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

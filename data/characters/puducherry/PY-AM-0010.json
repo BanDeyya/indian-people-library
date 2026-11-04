@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "PY-AM-0010",
+  "name": "Kumaran",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 56,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "large dark eyes",
+    "hair": "short curly black hair",
+    "build": "stocky",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "py_veshti_sattai_m",
+    "py_lungi_m",
+    "py_shirt_trousers_m",
+    "py_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil",
+    "English",
+    "French (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

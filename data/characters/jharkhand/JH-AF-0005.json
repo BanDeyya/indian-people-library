@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "JH-AF-0005",
+  "name": "Sumi Murmu",
+  "region": "jharkhand",
+  "sub_region": "santhal_pargana",
+  "community": "santal",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun with a flower",
+    "build": "slim",
+    "signature_mark": "small mole on her neck"
+  },
+  "wardrobe": [
+    "jh_phutta_f",
+    "jh_silver_f"
+  ],
+  "language": [
+    "Santali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

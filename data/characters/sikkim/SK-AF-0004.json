@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-AF-0004",
+  "name": "Ongmu",
+  "region": "sikkim",
+  "sub_region": "north",
+  "community": "lepcha",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "small dimple on her right cheek"
+  },
+  "wardrobe": [
+    "sk_dumvum_f",
+    "sk_kurta_f",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Lepcha",
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

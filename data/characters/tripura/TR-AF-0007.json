@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0007",
+  "name": "Sanchita",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "tr_silk_saree_f",
+    "tr_laal_paar_f",
+    "tr_tant_f",
+    "tr_shakha_pola",
+    "tr_sindoor",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

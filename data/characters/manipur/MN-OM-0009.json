@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MN-OM-0009",
+  "name": "Herojit",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "athletic",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "mn_dhoti_kurta_m",
+    "mn_shirt_trousers_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Meiteilon"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

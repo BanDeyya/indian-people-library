@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-OF-0005",
+  "name": "Grace",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "nyishi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "ar_skirt_f",
+    "ar_nyishi_fest_f",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Nyishi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

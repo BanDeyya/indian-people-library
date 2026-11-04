@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JK-OF-0011",
+  "name": "Ruqaya Begum",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "orchardist",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "jk_tilla_pheran_f",
+    "jk_salwar_f",
+    "jk_pheran_f"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PY-AM-0004",
+  "name": "Sajeevan",
+  "region": "puducherry",
+  "sub_region": "mahe",
+  "community": "malayali_hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "small scar on his right eyebrow",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "py_mundu_m",
+    "py_kasavu_mundu_m"
+  ],
+  "language": [
+    "Malayalam",
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

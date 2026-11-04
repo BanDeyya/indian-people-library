@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0004",
+  "name": "Kanta Devi",
+  "region": "jammu-kashmir",
+  "sub_region": "jammu",
+  "community": "dogra",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "strong",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "jk_dogra_f",
+    "jk_salwar_f"
+  ],
+  "language": [
+    "Dogri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

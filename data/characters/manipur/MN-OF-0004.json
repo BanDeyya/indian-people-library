@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MN-OF-0004",
+  "name": "Memcha",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small and sturdy",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "mn_phanek_innaphi_f",
+    "mn_phanek_f",
+    "mn_velvet_jacket_f"
+  ],
+  "language": [
+    "Meiteilon"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

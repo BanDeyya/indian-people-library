@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HR-OM-0004",
+  "name": "Mahender Kumar",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "tall and wiry",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_kurta_pyjama_m",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "AS-OF-0002",
+  "name": "Anowara Khatun",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese_muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with many fine wrinkles",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a small bun",
+    "build": "plump",
+    "signature_mark": "dark mole beside her nose"
+  },
+  "wardrobe": [
+    "as_mekhela_modest_f",
+    "as_mekhela_chador_f"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

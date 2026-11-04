@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0011",
+  "name": "Nighat Begum",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 64,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "long dark brown hair",
+    "build": "average",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "jk_modern_f",
+    "jk_salwar_f",
+    "jk_pheran_f",
+    "jk_tilla_pheran_f"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

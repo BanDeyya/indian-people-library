@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-OM-0013",
+  "name": "Manikandan Karthik",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face with deep forehead lines",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "tn_silk_veshti_m",
+    "tn_veshti_sattai_m",
+    "tn_lungi_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

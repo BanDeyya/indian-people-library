@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "LD-AF-0014",
+  "name": "Safiya",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "coir_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black hair under her headscarf",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ld_festive_churidar_f",
+    "ld_kachi_f"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

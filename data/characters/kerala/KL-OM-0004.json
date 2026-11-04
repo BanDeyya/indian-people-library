@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KL-OM-0004",
+  "name": "Suresh Ramesh",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 77,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "lean face with hollow cheeks and deep wrinkles",
+    "eyes": "dark brown eyes",
+    "hair": "thin white hair, balding on top",
+    "build": "thin",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "kl_lungi_m",
+    "kl_kasavu_mundu_m",
+    "kl_mundu_shirt_m",
+    "kl_melmundu_m"
+  ],
+  "language": [
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

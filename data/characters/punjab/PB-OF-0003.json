@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0003",
+  "name": "Harpreet Kaur",
+  "region": "punjab",
+  "sub_region": "doaba",
+  "community": "sikh",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair partly covered by a light chunni",
+    "build": "stocky",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_suit_f",
+    "pb_suit_head_f",
+    "pb_loyi_wrap"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

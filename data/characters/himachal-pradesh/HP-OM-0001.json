@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-OM-0001",
+  "name": "Bhagat Ram",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "facial_hair": "white moustache",
+    "build": "wiry",
+    "signature_mark": "mole on his right cheek"
+  },
+  "wardrobe": [
+    "hp_kurta_jacket_m",
+    "hp_topi",
+    "hp_shawl_m"
+  ],
+  "language": [
+    "Kangri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

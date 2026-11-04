@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AP-AF-0012",
+  "name": "Lavanya Kiran",
+  "region": "andhra-pradesh",
+  "sub_region": "south_coast",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "heavyset",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "ap_kalamkari_f",
+    "ap_venkatagiri_f",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

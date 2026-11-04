@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-OF-0017",
+  "name": "Pushpa",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "bru",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "sturdy",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "tr_rignai_reang_f",
+    "tr_shawl",
+    "tr_tant_f"
+  ],
+  "language": [
+    "Kau Bru",
+    "Kokborok"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

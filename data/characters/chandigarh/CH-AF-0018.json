@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0018",
+  "name": "Poonam",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "ch_suit_f",
+    "ch_saree_f",
+    "ch_sindoor"
+  ],
+  "language": [
+    "Hindi",
+    "Bhojpuri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

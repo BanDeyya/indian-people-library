@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0008",
+  "name": "Savita Devi",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 53,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with rosy cheeks",
+    "eyes": "brown eyes",
+    "hair": "black hair in a plait",
+    "build": "average",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "hp_ghagra_f",
+    "hp_suit_f",
+    "hp_sindoor",
+    "hp_pattu_f"
+  ],
+  "language": [
+    "Mandeali",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

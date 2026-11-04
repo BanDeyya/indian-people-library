@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0020",
+  "name": "Sushila",
+  "region": "uttar-pradesh",
+  "sub_region": "terai",
+  "community": "tharu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "up_salwar_f",
+    "up_tharu_f"
+  ],
+  "language": [
+    "Tharu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

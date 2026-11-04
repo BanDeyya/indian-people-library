@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0018",
+  "name": "Hamida",
+  "region": "rajasthan",
+  "sub_region": "mewat_braj",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face with a strong nose",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "rj_ghagra_f",
+    "rj_silver_payal",
+    "rj_festive_ghagra_f",
+    "rj_bajuband"
+  ],
+  "language": [
+    "Mewati",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

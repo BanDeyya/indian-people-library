@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-AF-0017",
+  "name": "Kavita",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "uk_saree_f",
+    "uk_ghagri_f",
+    "uk_pichhora",
+    "uk_sindoor_k",
+    "uk_guluband"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

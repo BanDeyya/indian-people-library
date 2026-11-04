@@ -1,0 +1,20 @@
+# Shipped defaults. Override any value in a git-ignored `local.toml` at the repo root
+# (same keys). Never commit local.toml.
+
+[generation]
+# Model profile from models/<id>.json. Default is a photoreal SDXL fine-tune.
+profile = "sdxl-photoreal"
+# Backend adapter. "jsonl" only writes job files; other adapters are planned (docs/runner.md).
+backend = "jsonl"
+# Face candidates per character in the "candidates" stage.
+candidates = 6
+
+[representation]
+# When one representative choice must be made between conflicting traditions:
+#   "state_majority"  pick the region's majority tradition (religion_mix in the region file)
+#   "<religion key>"  prefer that tradition when it is present in the region, then fall back to state_majority
+tiebreak = "state_majority"
+
+[backend.http]
+# Settings for a future generic HTTP adapter. Put real values only in local.toml.
+url = ""

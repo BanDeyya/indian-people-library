@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0020",
+  "name": "Prabhu",
+  "region": "jharkhand",
+  "sub_region": "kolhan",
+  "community": "christian",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Kurukh",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UK-AF-0019",
+  "name": "Shabana Bano",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "uk_festive_suit_f",
+    "uk_suit_f",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

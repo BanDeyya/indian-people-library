@@ -1,0 +1,22 @@
+{
+  "id": "sd15",
+  "family": "sd15",
+  "description": "Stable Diffusion 1.5 and fine-tunes. CLIP: 77 tokens. Lower native resolution.",
+  "tokenizer": "clip",
+  "token_budget": 75,
+  "long_prompt": "truncate",
+  "max_chunks": 1,
+  "negatives": true,
+  "variant": "short",
+  "sizes": {
+    "portrait": [
+      512,
+      512
+    ],
+    "full": [
+      512,
+      768
+    ]
+  },
+  "style": "photo, natural light"
+}

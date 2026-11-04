@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-OM-0008",
+  "name": "Ramesh Kumar",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 81,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "tall and wiry",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_kurta_pyjama_m",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

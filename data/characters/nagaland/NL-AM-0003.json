@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0003",
+  "name": "Hokuto Kiho",
+  "region": "nagaland",
+  "sub_region": "zunheboto",
+  "community": "sumi",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "thin moustache",
+    "build": "average",
+    "signature_mark": "mole on his right cheek"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_trousers_m",
+    "nl_sumi_nisuphi_m"
+  ],
+  "language": [
+    "Sumi",
+    "Nagamese",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

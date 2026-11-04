@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OF-0015",
+  "name": "Gauri Prakash",
+  "region": "rajasthan",
+  "sub_region": "mewar",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 88,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair under her odhni",
+    "build": "stocky",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "rj_festive_ghagra_f",
+    "rj_ghagra_f",
+    "rj_silver_payal"
+  ],
+  "language": [
+    "Marwari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

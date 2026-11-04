@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "AS-AF-0012",
+  "name": "Hamida",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "assamese_muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with soft features",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a low bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "as_mekhela_modest_f",
+    "as_kurti_f"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-OM-0003",
+  "name": "Jagannath Biswanath",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "od_dhoti_kurta_m",
+    "od_ikat_kurta_m",
+    "od_gamuchha"
+  ],
+  "language": [
+    "Odia",
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

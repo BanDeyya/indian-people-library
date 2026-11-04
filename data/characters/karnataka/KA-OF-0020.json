@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-OF-0020",
+  "name": "Kamala",
+  "region": "karnataka",
+  "sub_region": "kittur",
+  "community": "lambani",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "ka_lambani_f",
+    "ka_cotton_saree_f",
+    "ka_lambani_ornaments"
+  ],
+  "language": [
+    "Lambani",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

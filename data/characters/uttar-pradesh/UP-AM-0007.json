@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0007",
+  "name": "Vijay",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "long face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "lean and strong",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "up_kurta_pyjama_m",
+    "up_shirt_trousers_m"
+  ],
+  "language": [
+    "Bundeli",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

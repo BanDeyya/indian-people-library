@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0006",
+  "name": "Mehjabeen Bashir",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with deep laugh lines",
+    "eyes": "light brown eyes",
+    "hair": "long dark brown hair",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "jk_salwar_f",
+    "jk_tilla_pheran_f",
+    "jk_pheran_f"
+  ],
+  "language": [
+    "Kashmiri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

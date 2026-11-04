@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "ML-OM-0002",
+  "name": "Ibormi",
+  "region": "meghalaya",
+  "sub_region": "khasi_hills",
+  "community": "khasi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "athletic",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_jymphong_m"
+  ],
+  "language": [
+    "Khasi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

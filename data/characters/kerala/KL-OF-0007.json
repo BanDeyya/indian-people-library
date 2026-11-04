@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "KL-OF-0007",
+  "name": "Usha",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "fish_vendor",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "round face with soft features",
+    "eyes": "brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "plump",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "kl_set_mundu_f",
+    "kl_kasavu_saree_f",
+    "kl_jimikki",
+    "kl_cotton_saree_f",
+    "kl_mookuthi",
+    "kl_temple_flowers"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

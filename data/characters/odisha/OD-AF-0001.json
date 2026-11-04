@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0001",
+  "name": "Sasmita Ranjan",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with large eyes",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "od_sambalpuri_f",
+    "od_bomkai_f",
+    "od_sindoor",
+    "od_sakha_pola",
+    "od_alta"
+  ],
+  "language": [
+    "Odia",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

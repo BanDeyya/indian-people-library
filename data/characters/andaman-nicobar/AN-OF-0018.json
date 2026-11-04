@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-OF-0018",
+  "name": "Ann",
+  "region": "andaman-nicobar",
+  "sub_region": "nicobar",
+  "community": "nicobarese",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "medium",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "an_papoi_f",
+    "an_church_dress_f",
+    "an_cross_nc"
+  ],
+  "language": [
+    "Nicobarese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0001",
+  "name": "Jagannath Bhagaban",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square weathered face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "facial_hair": "moustache",
+    "build": "muscular",
+    "signature_mark": "rope scar on his left palm"
+  },
+  "wardrobe": [
+    "od_dhoti_kurta_m",
+    "od_gamuchha",
+    "od_shirt_trousers_m",
+    "od_ikat_kurta_m"
+  ],
+  "language": [
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

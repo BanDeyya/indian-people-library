@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0015",
+  "name": "Ram Bahadur",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "sk_daura_suruwal_m",
+    "sk_shirt_trousers_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

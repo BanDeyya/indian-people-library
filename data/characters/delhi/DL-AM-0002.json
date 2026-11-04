@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0002",
+  "name": "Harjeet Singh",
+  "region": "delhi",
+  "sub_region": "west",
+  "community": "sikh",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "unshorn hair tied under his turban",
+    "build": "heavy",
+    "signature_mark": "laugh lines around his eyes",
+    "facial_hair": "full greying beard, neatly kept"
+  },
+  "wardrobe": [
+    "dl_shirt_trousers_m",
+    "dl_kurta_pyjama_m",
+    "dl_dastar_m",
+    "dl_kara",
+    "dl_winter_jacket"
+  ],
+  "always_wear": [
+    "dl_dastar_m",
+    "dl_kara"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "AS-AM-0014",
+  "name": "Gautam",
+  "region": "assam",
+  "sub_region": "barak_valley",
+  "community": "bodo",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "rounded face with soft cheekbones and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "as_gamsa_m",
+    "as_shirt_upper_m",
+    "as_aronai",
+    "as_dhoti_kurta_m"
+  ],
+  "language": [
+    "Bodo",
+    "Assamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

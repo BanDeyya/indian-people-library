@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UK-OF-0008",
+  "name": "Lata",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "garhwali",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with rosy cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "uk_ghagri_f",
+    "uk_saree_f",
+    "uk_sindoor_g",
+    "uk_hansuli"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

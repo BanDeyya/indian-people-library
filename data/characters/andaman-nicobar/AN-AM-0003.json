@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-AM-0003",
+  "name": "Anil",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "christian",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "an_shirt_trousers_m",
+    "an_smart_m",
+    "an_cross"
+  ],
+  "language": [
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

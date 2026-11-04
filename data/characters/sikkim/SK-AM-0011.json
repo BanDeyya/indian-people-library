@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0011",
+  "name": "Bhim",
+  "region": "sikkim",
+  "sub_region": "gangtok",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_daura_suruwal_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

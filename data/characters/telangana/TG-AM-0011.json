@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0011",
+  "name": "Vamsi",
+  "region": "telangana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_pancha_kurta_m",
+    "ts_shirt_trousers_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

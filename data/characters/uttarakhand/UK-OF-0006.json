@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UK-OF-0006",
+  "name": "Deepa Devi",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "garhwali",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "uk_ghagri_f",
+    "uk_saree_f",
+    "uk_hansuli",
+    "uk_guluband",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

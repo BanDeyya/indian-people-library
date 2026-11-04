@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0016",
+  "name": "Mohan Kumar",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "dokra_artisan",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "cg_kurta_pyjama_m",
+    "cg_dhoti_kurta_m",
+    "cg_pagdi"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

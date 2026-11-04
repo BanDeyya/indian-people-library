@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "WB-AM-0004",
+  "name": "Sanjay",
+  "region": "west-bengal",
+  "sub_region": "kolkata",
+  "community": "bengali_hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean face with sharp cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair, greying at the sides",
+    "build": "average",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "wb_shirt_trousers_m",
+    "wb_dhoti_panjabi_m",
+    "wb_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

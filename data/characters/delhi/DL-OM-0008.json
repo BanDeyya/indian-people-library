@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0008",
+  "name": "Vikas",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined oval face",
+    "eyes": "dark brown eyes",
+    "hair": "thin white hair",
+    "build": "thin, slightly stooped",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dl_kurta_pyjama_m",
+    "dl_nehru_jacket",
+    "dl_winter_jacket",
+    "dl_shirt_trousers_m"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0002",
+  "name": "Swaroopa",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "strong",
+    "signature_mark": "small scar on her left hand"
+  },
+  "wardrobe": [
+    "ts_gollabama_f",
+    "ts_gadwal_f",
+    "ts_mangalsutra",
+    "ts_jasmine"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

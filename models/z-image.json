@@ -1,0 +1,22 @@
+{
+  "id": "z-image",
+  "family": "z-image",
+  "description": "Z-Image family: LLM text encoder reads long text; turbo variants may ignore negatives. Token count is an estimate.",
+  "tokenizer": "approx",
+  "token_budget": 400,
+  "long_prompt": "native",
+  "max_chunks": 1,
+  "negatives": false,
+  "variant": "long",
+  "sizes": {
+    "portrait": [
+      1024,
+      1024
+    ],
+    "full": [
+      832,
+      1216
+    ]
+  },
+  "style": "realistic documentary photo, natural light"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "AP-OF-0008",
+  "name": "Bhargavi",
+  "region": "andhra-pradesh",
+  "sub_region": "godavari",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ap_mangalagiri_f",
+    "ap_uppada_f",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

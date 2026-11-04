@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0018",
+  "name": "Manikandan",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "short black hair with grey streaks",
+    "build": "lean",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "light beard"
+  },
+  "wardrobe": [
+    "tn_silk_veshti_m",
+    "tn_veshti_sattai_m",
+    "tn_lungi_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

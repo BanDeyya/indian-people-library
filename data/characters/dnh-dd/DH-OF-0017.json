@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0017",
+  "name": "Jaya Rama",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "dd_lugden_f",
+    "dd_kali_ganthi",
+    "dd_saree_f"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

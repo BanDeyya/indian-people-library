@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PB-AF-0014",
+  "name": "Monika",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 49,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark brown eyes",
+    "hair": "shoulder-length black hair, usually tied back",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "pb_suit_f",
+    "pb_karva_chauth_f",
+    "pb_jhumka"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

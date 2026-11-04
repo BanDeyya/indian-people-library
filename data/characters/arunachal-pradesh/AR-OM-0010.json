@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-OM-0010",
+  "name": "Talem",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "adi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "lean",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_smart_m"
+  ],
+  "language": [
+    "Adi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

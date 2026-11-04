@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0015",
+  "name": "Umesh",
+  "region": "delhi",
+  "sub_region": "east",
+  "community": "purvanchali_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "medium",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "dl_shirt_trousers_m",
+    "dl_dhoti_p"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Maithili",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

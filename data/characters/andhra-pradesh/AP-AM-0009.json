@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AP-AM-0009",
+  "name": "Charan Venkata Ramana",
+  "region": "andhra-pradesh",
+  "sub_region": "rayalaseema",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "ap_shirt_trousers_m",
+    "ap_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-OM-0015",
+  "name": "Ravi Teja",
+  "region": "andhra-pradesh",
+  "sub_region": "godavari",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ap_pancha_kurta_m",
+    "ap_pancha_shirt_m"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

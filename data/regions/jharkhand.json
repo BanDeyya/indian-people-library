@@ -1,0 +1,1371 @@
+{
+  "schema_version": 2,
+  "slug": "jharkhand",
+  "code": "JH",
+  "name": "Jharkhand",
+  "type": "state",
+  "zone": "east",
+  "capital": "Ranchi",
+  "status": "reviewed",
+  "languages": [
+    "Hindi (official)",
+    "Santali",
+    "Kurukh",
+    "Mundari",
+    "Ho",
+    "Kharia",
+    "Nagpuri",
+    "Khortha",
+    "Urdu",
+    "Bengali"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 67.83,
+      "muslim": 14.53,
+      "other": 13.34,
+      "christian": 4.3
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "chotanagpur",
+      "name": "South Chotanagpur",
+      "notes": "Ranchi, Khunti, Gumla, Lohardaga, Simdega; plateau of the Oraon, Munda and Kharia; Sarhul processions in Ranchi."
+    },
+    {
+      "id": "kolhan",
+      "name": "Kolhan",
+      "notes": "East and West Singhbhum, Jamshedpur, Seraikela-Kharsawan; Ho homeland; steel city; Chhau."
+    },
+    {
+      "id": "santhal_pargana",
+      "name": "Santhal Pargana",
+      "notes": "Dumka, Pakur, Sahebganj, Godda, Deoghar, Jamtara; Santal heartland; Deoghar pilgrimage town."
+    },
+    {
+      "id": "north",
+      "name": "North Chotanagpur",
+      "notes": "Hazaribagh, Dhanbad, Bokaro, Giridih, Koderma, Chatra; coal towns; Sohrai and Khovar wall painting."
+    },
+    {
+      "id": "palamu",
+      "name": "Palamu",
+      "notes": "Palamu, Garhwa, Latehar; forests and hills."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Sadan (Nagpuri, Khortha, Magahi, Bhojpuri)",
+      "religion": "hindu",
+      "prompt": "Jharkhandi",
+      "notes": "Men: dhoti (bhagwan) with kurta, or shirt-trousers. Women: cotton saree daily; tussar silk for weddings and festivals; sindoor when married. Chhath and Karam.",
+      "names": {
+        "female": [
+          "Phulmani",
+          "Ritika",
+          "Riya",
+          "Anita",
+          "Savitri",
+          "Pushpa",
+          "Rekha",
+          "Sangeeta",
+          "Kiran",
+          "Meena",
+          "Sunita",
+          "Kusum",
+          "Mamta",
+          "Usha",
+          "Shanti",
+          "Reena",
+          "Lalita",
+          "Archana",
+          "Sushma",
+          "Nirmala",
+          "Poonam",
+          "Babita",
+          "Asha",
+          "Kanchan",
+          "Puja",
+          "Jyoti"
+        ],
+        "male": [
+          "Mahendra",
+          "Aman",
+          "Alok",
+          "Santosh",
+          "Ramesh",
+          "Prakash",
+          "Sunil",
+          "Ajay",
+          "Umesh",
+          "Dilip",
+          "Suresh",
+          "Manoj",
+          "Rajesh",
+          "Vinod",
+          "Pradeep",
+          "Mahesh",
+          "Shankar",
+          "Ganesh",
+          "Sanjay"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Kumar",
+          "Prasad"
+        ]
+      }
+    },
+    {
+      "id": "adivasi",
+      "name": "Oraon, Munda, Ho and Kharia",
+      "culture": "Oraon, Munda, Ho and Kharia",
+      "prompt": "Adivasi",
+      "sub_regions": [
+        "chotanagpur",
+        "kolhan",
+        "palamu",
+        "north"
+      ],
+      "notes": "Followers of Sarna, Christianity and Hinduism. At Sarhul and Karam: women in white sarees with red borders, earrings, anklets and flowers in the bun; men in white red-bordered dhotis, white sleeveless vests and white turbans.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Phulmani",
+          "Etwari",
+          "Somari",
+          "Budhni",
+          "Sukro",
+          "Birsi",
+          "Mangri",
+          "Anita",
+          "Jayanti",
+          "Shanti",
+          "Lalita",
+          "Champa",
+          "Rajmuni",
+          "Pushpa",
+          "Sushma",
+          "Bandhni",
+          "Lakhi",
+          "Dhaneshwari",
+          "Sukhmani",
+          "Rupni",
+          "Jitni",
+          "Chandmuni",
+          "Bhikni",
+          "Kuni"
+        ],
+        "male": [
+          "Somra",
+          "Birsa",
+          "Etwa",
+          "Mangra",
+          "Budhwa",
+          "Sukra",
+          "Lalu",
+          "Bandhan",
+          "Junas",
+          "Prabhu",
+          "Budhu",
+          "Jitu",
+          "Kartik",
+          "Dhaniram",
+          "Ramesh",
+          "Bhuneshwar",
+          "Shibu",
+          "Chamra",
+          "Lakhan"
+        ]
+      }
+    },
+    {
+      "id": "santal",
+      "name": "Santal",
+      "culture": "Santal",
+      "prompt": "Santal",
+      "sub_regions": [
+        "santhal_pargana",
+        "kolhan",
+        "north"
+      ],
+      "notes": "Women: phutta sari, coarse white cotton with red or green borders and a multicoloured striped end panel. Men: phutta kachha with a gamcha over the shoulder. Sohrai.",
+      "names": {
+        "female": [
+          "Sumi",
+          "Sunita",
+          "Phulmoni",
+          "Lakhi",
+          "Basanti",
+          "Mungli",
+          "Talamai",
+          "Sona",
+          "Sarojini",
+          "Pano",
+          "Rani",
+          "Sushila",
+          "Phulo",
+          "Champa",
+          "Durga",
+          "Malati",
+          "Mangli",
+          "Shanti",
+          "Sonamoni",
+          "Lakshmi",
+          "Rupi",
+          "Chandmoni",
+          "Dulari",
+          "Parvati",
+          "Somi"
+        ],
+        "male": [
+          "Soren",
+          "Budhan",
+          "Chunda",
+          "Bhim",
+          "Durga",
+          "Lakhan",
+          "Sanatan",
+          "Somai",
+          "Kanhu",
+          "Sidho",
+          "Sido",
+          "Ramesh",
+          "Babulal",
+          "Rabindra",
+          "Chandu",
+          "Sukhram",
+          "Mangal",
+          "Sombari",
+          "Dasrath",
+          "Jitu",
+          "Rasik",
+          "Sunaram"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Jharkhandi",
+      "religion": "muslim",
+      "prompt": "Jharkhandi Muslim",
+      "notes": "Across towns and Santhal Pargana. Specific dress not yet sourced.",
+      "names": {
+        "female": [
+          "Rukhsana",
+          "Nazia",
+          "Shabana",
+          "Farzana",
+          "Ayesha",
+          "Nasreen",
+          "Shaheen",
+          "Sana",
+          "Rubina",
+          "Zainab",
+          "Fatima",
+          "Hina",
+          "Parveen",
+          "Asma",
+          "Shabnam",
+          "Nargis",
+          "Sadia",
+          "Zeenat",
+          "Tabassum",
+          "Kausar",
+          "Afsana",
+          "Gulshan",
+          "Nusrat",
+          "Rehana",
+          "Ishrat",
+          "Shagufta",
+          "Mehnaz",
+          "Saba",
+          "Bushra",
+          "Huma"
+        ],
+        "male": [
+          "Imran",
+          "Arif",
+          "Salim",
+          "Shahid",
+          "Irfan",
+          "Javed",
+          "Rashid",
+          "Aslam",
+          "Faisal",
+          "Naseem",
+          "Sajid",
+          "Tariq",
+          "Wasim",
+          "Zubair",
+          "Rizwan",
+          "Salman",
+          "Zafar",
+          "Anwar",
+          "Nadeem",
+          "Shakeel",
+          "Asif",
+          "Kamran",
+          "Iqbal"
+        ],
+        "second_female": [
+          "Parveen",
+          "Khatoon",
+          "Bano"
+        ],
+        "second_male": [
+          "Ahmad",
+          "Ali",
+          "Hussain",
+          "Akhtar"
+        ]
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Adivasi",
+      "religion": "christian",
+      "prompt": "Adivasi Christian",
+      "sub_regions": [
+        "chotanagpur",
+        "kolhan",
+        "santhal_pargana"
+      ],
+      "notes": "Largest in Ranchi, Gumla, Simdega and Khunti. Shared and Adivasi dress.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Mariam",
+          "Agnes",
+          "Florence",
+          "Prisca",
+          "Anima",
+          "Sushila",
+          "Christina",
+          "Sarita",
+          "Martha",
+          "Celestina",
+          "Pushpa",
+          "Lily",
+          "Rosa"
+        ],
+        "male": [
+          "Prabhu",
+          "Sylvester",
+          "Johan",
+          "Emmanuel",
+          "Paulus",
+          "Anurag",
+          "Ajit",
+          "Peter",
+          "Joseph",
+          "Benedict",
+          "Sunil",
+          "Anil",
+          "Thomas",
+          "Francis"
+        ]
+      }
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      5,
+      9
+    ],
+    "hair": "Black hair; women often in a bun with flowers.",
+    "notes": "Wheatish to deep brown. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus Kumar, Devi, Prasad or father's name; avoid caste surnames."
+    },
+    {
+      "community": "adivasi",
+      "notes": "Oraon, Munda and Ho clan names (e.g. Toppo, Kujur, Munda, Purty) are clan, not caste, names."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "jh_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "jh_dhoti_kurta_m",
+      "name": "Dhoti (bhagwan) and kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white dhoti with a cotton kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "aza_jh"
+      ]
+    },
+    {
+      "id": "jh_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "jh_sarhul_m",
+      "name": "White dhoti, vest and turban (Sarhul)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "adivasi",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "white dhoti with a red border, white sleeveless vest and a white turban",
+      "short": "white red-bordered dhoti, vest and turban",
+      "sources": [
+        "gaon_sarhul",
+        "outlook_sarhul"
+      ]
+    },
+    {
+      "id": "jh_santal_m",
+      "name": "Phutta kachha with gamcha",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "santal",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "cotton phutta kachha wrapped at the waist with a checked gamcha over the shoulder and a shirt",
+      "short": "phutta kachha, gamcha and shirt",
+      "sources": [
+        "selvedge_santal",
+        "tdf_santal"
+      ]
+    },
+    {
+      "id": "jh_cotton_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton saree with a contrast border",
+      "short": "cotton saree",
+      "sources": [
+        "aza_jh"
+      ]
+    },
+    {
+      "id": "jh_tussar_f",
+      "name": "Tussar silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "tussar silk saree with a natural golden hue",
+      "short": "golden tussar silk saree",
+      "sources": [
+        "aza_jh"
+      ]
+    },
+    {
+      "id": "jh_lalpaar_f",
+      "name": "White saree with red border",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "adivasi",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "white saree with a broad red border, flowers in the bun",
+      "short": "white red-bordered saree, flowers in bun",
+      "sources": [
+        "gaon_sarhul",
+        "outlook_sarhul"
+      ]
+    },
+    {
+      "id": "jh_phutta_f",
+      "name": "Phutta sari",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "santal",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "coarse white cotton phutta sari with red borders and a striped multicoloured end panel",
+      "short": "white phutta sari with red border and striped end",
+      "sources": [
+        "selvedge_santal",
+        "zeebiz_santali"
+      ]
+    },
+    {
+      "id": "jh_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": []
+    },
+    {
+      "id": "jh_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "jh_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton frock with full-length leggings",
+      "short": "girl's frock and leggings",
+      "sources": []
+    },
+    {
+      "id": "jh_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk skirt with a long-sleeved blouse",
+      "short": "girl's long silk skirt",
+      "sources": []
+    },
+    {
+      "id": "jh_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "jh_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "jh_silver_f",
+      "name": "Silver earrings and anklets",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silver earrings and anklets",
+      "short": "silver earrings and anklets",
+      "sources": [
+        "gaon_sarhul",
+        "aza_jh"
+      ]
+    },
+    {
+      "id": "jh_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "jh_cotton_saree_f"
+        ],
+        [
+          "jh_phutta_f"
+        ]
+      ],
+      "festive": [
+        [
+          "jh_tussar_f"
+        ],
+        [
+          "jh_lalpaar_f",
+          "jh_silver_f"
+        ]
+      ],
+      "reason": "Cotton saree daily; tussar for weddings; white red-bordered saree at Sarhul and Karam; phutta sari for Santal women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "jh_shirt_trousers_m"
+        ],
+        [
+          "jh_dhoti_kurta_m"
+        ]
+      ],
+      "festive": [
+        [
+          "jh_sarhul_m"
+        ],
+        [
+          "jh_dhoti_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta; white with red borders at Sarhul."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "jh_cotton_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "jh_tussar_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "jh_dhoti_kurta_m"
+        ]
+      ],
+      "festive": [
+        [
+          "jh_dhoti_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "jh_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "jh_kids_g_fest"
+        ]
+      ],
+      "reason": "Long silk skirt."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "jh_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "jh_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [
+    {
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "community": "adivasi",
+      "notes": "Flowers tucked into the bun at Sarhul.",
+      "prompt": "flowers tucked into the bun"
+    }
+  ],
+  "occasions": [
+    {
+      "id": "sarhul",
+      "name": "Sarhul",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "adivasi",
+        "christian"
+      ],
+      "when": "March-April (Chaitra, three days)",
+      "scene": "Sarhul, people in white with red borders dancing to drums under flowering sal trees",
+      "scene_short": "Sarhul dance under sal trees"
+    },
+    {
+      "id": "karam",
+      "name": "Karam",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "adivasi",
+        "hindu"
+      ],
+      "when": "August-September (Bhado)",
+      "scene": "Karam night, villagers dancing in a circle holding hands around karam branches set in a courtyard",
+      "scene_short": "Karam circle dance"
+    },
+    {
+      "id": "sohrai",
+      "name": "Sohrai",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "santal",
+        "adivasi"
+      ],
+      "when": "October-November (Kartik new moon)",
+      "scene": "Sohrai, freshly painted mud walls and bathed cattle in a village courtyard",
+      "scene_short": "Sohrai painted walls and cattle"
+    },
+    {
+      "id": "chhath_jh",
+      "name": "Chhath Puja",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu"
+      ],
+      "when": "October-November",
+      "scene": "Chhath at a river ghat at sunset, women in bright sarees holding baskets of fruit towards the sun",
+      "scene_short": "Chhath at a river ghat"
+    },
+    {
+      "id": "christmas_jh",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "christian"
+      ],
+      "when": "December",
+      "scene": "Christmas evening, star lanterns outside a church in Ranchi",
+      "scene_short": "Christmas star lanterns"
+    },
+    {
+      "id": "eid_jh",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in a town lane",
+      "scene_short": "Eid morning lane"
+    },
+    {
+      "id": "wedding_guest_jh",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a village wedding under a canopy",
+      "scene_short": "village wedding canopy"
+    }
+  ],
+  "settings": [
+    {
+      "id": "ranchi_street",
+      "type": "urban",
+      "description": "busy Ranchi main road with shops",
+      "short": "Ranchi main road",
+      "sub_regions": [
+        "chotanagpur"
+      ]
+    },
+    {
+      "id": "jamshedpur_street",
+      "type": "urban",
+      "description": "tree-lined Jamshedpur street",
+      "short": "Jamshedpur street",
+      "sub_regions": [
+        "kolhan"
+      ]
+    },
+    {
+      "id": "deoghar_street",
+      "type": "urban",
+      "description": "Deoghar town market street",
+      "short": "Deoghar market",
+      "sub_regions": [
+        "santhal_pargana"
+      ]
+    },
+    {
+      "id": "dhanbad_street",
+      "type": "urban",
+      "description": "busy Dhanbad market street",
+      "short": "Dhanbad market",
+      "sub_regions": [
+        "north"
+      ]
+    },
+    {
+      "id": "plateau_village",
+      "type": "rural",
+      "description": "red-earth plateau village with sal trees and terraced paddy",
+      "short": "plateau village with sal trees",
+      "sub_regions": [
+        "chotanagpur",
+        "kolhan",
+        "palamu"
+      ]
+    },
+    {
+      "id": "santal_village",
+      "type": "rural",
+      "description": "village of neat mud houses with smooth painted walls",
+      "short": "village of painted mud houses",
+      "sub_regions": [
+        "santhal_pargana",
+        "kolhan"
+      ]
+    },
+    {
+      "id": "khovar_village",
+      "type": "rural",
+      "description": "village with Sohrai and Khovar paintings on mud walls",
+      "short": "village with painted walls",
+      "sub_regions": [
+        "north"
+      ]
+    },
+    {
+      "id": "forest_palamu",
+      "type": "nature",
+      "description": "dense sal forest on low hills",
+      "short": "sal forest hills",
+      "sub_regions": [
+        "palamu",
+        "chotanagpur"
+      ]
+    },
+    {
+      "id": "waterfall_jh",
+      "type": "nature",
+      "description": "waterfall over dark rocks on the plateau edge",
+      "short": "plateau waterfall",
+      "sub_regions": [
+        "chotanagpur"
+      ]
+    },
+    {
+      "id": "home_city_jh",
+      "type": "home",
+      "description": "rooftop of a city house with potted plants",
+      "short": "city rooftop",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_jh",
+      "type": "home",
+      "description": "mud house verandah with a swept courtyard",
+      "short": "mud house verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_jh",
+      "type": "work",
+      "description": "office in Ranchi",
+      "short": "Ranchi office",
+      "sub_regions": [
+        "chotanagpur"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in paddy fields"
+    },
+    {
+      "id": "steel_worker",
+      "name": "Steel plant engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a hard hat at a steel plant"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    },
+    {
+      "id": "painter",
+      "name": "Sohrai and Khovar painter",
+      "setting": "rural",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "painting patterns on a mud wall"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot (April-June).",
+    "monsoon": "June-September; paddy season.",
+    "winter": "Cool to cold on the plateau."
+  },
+  "heritage": [
+    {
+      "id": "nagvanshi_court",
+      "name": "Nagvanshi and princely court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "pahan_rites",
+      "name": "Pahan (village priest) rites",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Ritual role at Sarhul and Karam; characters are participants and families.",
+      "sources": [
+        "gaon_sarhul"
+      ]
+    },
+    {
+      "id": "chhau",
+      "name": "Chhau masks and costume",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Performance tradition of trained dancers; not given to characters.",
+      "sources": []
+    },
+    {
+      "id": "santal_honour",
+      "name": "Sasang Dahli honour turbans and Sindoor Lugli wedding cloth",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Cloths for village heads and the bride and groom; not given to generic characters.",
+      "sources": [
+        "selvedge_santal"
+      ]
+    },
+    {
+      "id": "godna_jh",
+      "name": "Godna tattoos",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Permanent body art; not added to fictional characters.",
+      "sources": []
+    },
+    {
+      "id": "feather_headgear_jh",
+      "name": "Feathered festival headgear",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Dance headgear; not given to characters.",
+      "sources": [
+        "aza_jh"
+      ]
+    }
+  ],
+  "avoid": [
+    "Mining displacement, coal-theft or poverty framing.",
+    "Maoist conflict or security-force imagery; witch-hunt stories.",
+    "Sarna religion code, conversion or other religious-political debates.",
+    "'Primitive' or 'exotic' framing; feathered headgear or tattoos on characters.",
+    "Caste labels or caste surnames."
+  ],
+  "todo": [
+    "Muslim dress with sources.",
+    "Ho and Kharia specifics; Asur, Birhor, Birjia, Hill Kharia, Korwa, Mal Paharia, Parhaiya, Sauria Paharia, Savar (PVTGs) held back.",
+    "Tusu, Jitiya, Baha (Santal spring festival), Shravani Mela at Deoghar with sources.",
+    "Native review (Chotanagpur, Kolhan, Santhal Pargana)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Jharkhand religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/20-jharkhand.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_jh",
+      "title": "Jharkhand heritage textiles and traditional style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/the-ultimate-guide-to-jharkhand-heritage-textiles-traditional-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "gaon_sarhul",
+      "title": "Tribal communities celebrate Sarhul by worshipping the sal tree (Gaon Connection)",
+      "url": "https://www.gaonconnection.com/read/sarhul-festival-jharkhand-sal-tree-tribal-population-nature-celebrations-festivities-handia-dance-folk-culture-sarna-new-year-50599",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "selvedge_santal",
+      "title": "Threads of tradition: exploring Santal textiles (Selvedge)",
+      "url": "https://selvedge.org/blogs/selvedge/india-week-threads-of-tradition-exploring-santal-textiles",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "zeebiz_santali",
+      "title": "Santali saree (Zee Business)",
+      "url": "https://zeebiz.com/india/news-santhali-saree-attire-sari-design-droupadi-murmu-latest-news-191142",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_jh_culture",
+      "title": "Culture of Jharkhand (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Jharkhand",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "outlook_sarhul",
+      "title": "Jharkhand: Sarhul festival (Outlook Traveller)",
+      "url": "https://www.outlookindia.com/traveller/ot-getaway-guides/jharkhand_sarhul_festival/",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "tdf_santal",
+      "title": "Indigenous material culture: Santal textiles (Tribal Design Forum)",
+      "url": "https://www.tribaldesignforum.com/?p=9326",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Confirmed: Sarhul is three days from the third of Chaitra; women wear padiya, white saris with red borders, with sal-twig headgear, and men white vests and dhotis (Outlook Traveller). The red border and white turban on the men's Sarhul dress rest on Gaon Connection only.",
+      "Confirmed: Santal phuta kachha with thick borders and a checked body for pujas and festivals, and the long checked phuta (jhalah) saree (Tribal Design Forum, Selvedge). The yellow phuta kacha of the groom is wedding-only and not used."
+    ]
+  }
+}

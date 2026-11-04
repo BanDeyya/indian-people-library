@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0017",
+  "name": "Archana",
+  "region": "maharashtra",
+  "sub_region": "vidarbha",
+  "community": "buddhist",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "shoulder-length black hair",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "mh_cotton_saree_f",
+    "mh_salwar_f"
+  ],
+  "language": [
+    "Marathi",
+    "Varhadi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

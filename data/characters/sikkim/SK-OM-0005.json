@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "SK-OM-0005",
+  "name": "Narayan Prasad",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "thin",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_daura_suruwal_m"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

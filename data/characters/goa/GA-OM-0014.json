@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-OM-0014",
+  "name": "Melwyn",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "catholic",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "white hair combed back",
+    "build": "heavy",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_kurta_pyjama_m",
+    "ga_cross",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "CG-OM-0008",
+  "name": "Deepak",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "cg_dhoti_kurta_m",
+    "cg_pagdi",
+    "cg_shirt_trousers_m"
+  ],
+  "language": [
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

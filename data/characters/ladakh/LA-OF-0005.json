@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0005",
+  "name": "Dechan",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "buddhist",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with rosy cheeks, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "grey hair in long plaits",
+    "build": "small",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_sulma_f",
+    "la_slogpa_f",
+    "la_tibi",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

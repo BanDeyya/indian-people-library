@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HR-OM-0001",
+  "name": "Ramphal",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "facial_hair": "white moustache",
+    "build": "tall and wiry",
+    "signature_mark": "mole on his left cheek"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_pagri",
+    "hr_chaddar"
+  ],
+  "language": [
+    "Bagri",
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

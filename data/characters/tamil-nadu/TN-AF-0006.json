@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0006",
+  "name": "Deepa",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with large eyes",
+    "eyes": "brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "tn_kanjeevaram_f",
+    "tn_half_saree_f",
+    "tn_chettinad_f",
+    "tn_jasmine",
+    "tn_thali",
+    "tn_metti",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

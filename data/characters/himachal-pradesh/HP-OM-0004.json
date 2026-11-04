@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-OM-0004",
+  "name": "Pawan Ram",
+  "region": "himachal-pradesh",
+  "sub_region": "shimla",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lean deeply lined face",
+    "eyes": "brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hp_kurta_jacket_m",
+    "hp_topi",
+    "hp_shawl_m",
+    "hp_shirt_trousers_m"
+  ],
+  "language": [
+    "Kangri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

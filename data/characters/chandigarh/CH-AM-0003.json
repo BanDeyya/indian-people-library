@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-AM-0003",
+  "name": "Sanjeev",
+  "region": "chandigarh",
+  "sub_region": "villages",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 44,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad sun-tanned face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "tall and strong",
+    "signature_mark": "mole on his right cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ch_dhoti_kurta_m",
+    "ch_kurta_pajama_m",
+    "ch_shawl"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

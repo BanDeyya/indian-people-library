@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-OM-0017",
+  "name": "Pardeep Kumar",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "tall and wiry",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_pagri",
+    "hr_shirt_trousers_m"
+  ],
+  "language": [
+    "Bagri",
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

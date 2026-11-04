@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "LA-AF-0009",
+  "name": "Spalzes Dolma",
+  "region": "ladakh",
+  "sub_region": "nubra",
+  "community": "buddhist",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round weathered face with deep laugh lines, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair in a ponytail",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "la_sulma_f",
+    "la_salwar_f",
+    "la_tibi",
+    "la_slogpa_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

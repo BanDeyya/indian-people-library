@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OM-0001",
+  "name": "Devabhai Kana",
+  "region": "gujarat",
+  "sub_region": "kutch",
+  "community": "rabari",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pastoralist",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "facial_hair": "long white moustache",
+    "build": "wiry",
+    "signature_mark": "scar across his right eyebrow"
+  },
+  "wardrobe": [
+    "gj_rabari_m",
+    "gj_rabari_earrings"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

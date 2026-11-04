@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-AM-0010",
+  "name": "Subir Pintu",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_dhoti_panjabi_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

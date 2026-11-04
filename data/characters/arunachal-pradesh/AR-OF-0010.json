@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AR-OF-0010",
+  "name": "Yamik",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "adi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ar_skirt_f",
+    "ar_gale_f",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Adi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

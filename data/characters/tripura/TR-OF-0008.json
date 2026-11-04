@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TR-OF-0008",
+  "name": "Shampa Debashis",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "tr_silk_saree_f",
+    "tr_tant_f",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

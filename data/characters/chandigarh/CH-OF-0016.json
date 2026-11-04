@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "CH-OF-0016",
+  "name": "Suman Devi",
+  "region": "chandigarh",
+  "sub_region": "villages",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "medium",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "ch_saree_f",
+    "ch_suit_f",
+    "ch_shawl"
+  ],
+  "language": [
+    "Hindi",
+    "Bhojpuri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

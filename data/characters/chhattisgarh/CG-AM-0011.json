@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0011",
+  "name": "Tikaram Kumar",
+  "region": "chhattisgarh",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean and strong",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "cg_shirt_trousers_m",
+    "cg_kurta_pyjama_m"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

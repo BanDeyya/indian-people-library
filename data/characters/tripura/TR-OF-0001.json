@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TR-OF-0001",
+  "name": "Kalyani",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined round face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "mole on her forehead"
+  },
+  "wardrobe": [
+    "tr_tant_f",
+    "tr_silk_saree_f",
+    "tr_shakha_pola",
+    "tr_sindoor",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

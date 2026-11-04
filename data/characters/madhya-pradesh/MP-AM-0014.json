@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MP-AM-0014",
+  "name": "Narendra",
+  "region": "madhya-pradesh",
+  "sub_region": "baghelkhand",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "mp_kurta_pyjama_m",
+    "mp_shirt_trousers_m",
+    "mp_dhoti_kurta_m",
+    "mp_gamchha",
+    "mp_mirzai"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

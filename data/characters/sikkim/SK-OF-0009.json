@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "SK-OF-0009",
+  "name": "Manju",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "sk_kurta_f",
+    "sk_pharia_f",
+    "sk_winter_jacket",
+    "sk_sindoor"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

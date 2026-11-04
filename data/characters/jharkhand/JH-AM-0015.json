@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0015",
+  "name": "Somra",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "adivasi",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "jh_sarhul_m",
+    "jh_shirt_trousers_m"
+  ],
+  "language": [
+    "Kurukh",
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

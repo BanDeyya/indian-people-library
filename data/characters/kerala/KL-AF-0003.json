@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0003",
+  "name": "Mary Sebastian",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "latin_christian",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fish_vendor",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face with strong cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair tied in a knot",
+    "build": "sturdy",
+    "signature_mark": "small burn mark on the back of her right hand"
+  },
+  "wardrobe": [
+    "kl_fisher_f",
+    "kl_kasavu_saree_f",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

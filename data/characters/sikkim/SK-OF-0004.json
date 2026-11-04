@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-OF-0004",
+  "name": "Sushila",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 87,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "sk_kurta_f",
+    "sk_pharia_f",
+    "sk_tika",
+    "sk_sindoor"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

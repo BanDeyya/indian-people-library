@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0017",
+  "name": "Sameera",
+  "region": "karnataka",
+  "sub_region": "kalyana",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 64,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a low bun",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ka_cotton_saree_f",
+    "ka_mysore_silk_f",
+    "ka_jasmine"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

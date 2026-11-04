@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0008",
+  "name": "Sneha",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "medium",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_modern_f",
+    "ga_silk_saree_f",
+    "ga_raincoat",
+    "ga_sindoor"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

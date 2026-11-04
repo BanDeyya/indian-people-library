@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0014",
+  "name": "Sushma",
+  "region": "jharkhand",
+  "sub_region": "palamu",
+  "community": "adivasi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "strong",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "jh_lalpaar_f",
+    "jh_cotton_saree_f",
+    "jh_silver_f"
+  ],
+  "language": [
+    "Mundari",
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

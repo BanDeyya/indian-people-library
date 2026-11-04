@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LD-AF-0011",
+  "name": "Safiya Koya",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "black hair under the thattam",
+    "build": "medium",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ld_kachi_f",
+    "ld_festive_churidar_f",
+    "ld_churidar_f",
+    "ld_gold_earrings"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

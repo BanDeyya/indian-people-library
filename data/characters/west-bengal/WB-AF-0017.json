@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-AF-0017",
+  "name": "Khadija Bibi",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with soft features",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "long black hair under a light dupatta",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "wb_jamdani_f",
+    "wb_tant_f",
+    "wb_studs",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

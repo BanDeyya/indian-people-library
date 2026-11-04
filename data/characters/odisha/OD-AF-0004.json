@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0004",
+  "name": "Mamata",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "strong",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "od_cotton_saree_f",
+    "od_sambalpuri_f",
+    "od_bomkai_f",
+    "od_sindoor",
+    "od_sakha_pola"
+  ],
+  "language": [
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0004",
+  "name": "Sanjay Hiralal",
+  "region": "maharashtra",
+  "sub_region": "mumbai",
+  "community": "jain",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 55,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with a soft jaw",
+    "eyes": "dark brown eyes",
+    "hair": "short greying hair",
+    "build": "heavyset",
+    "signature_mark": "mole on his forehead"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Marathi",
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

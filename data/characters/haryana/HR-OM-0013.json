@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "HR-OM-0013",
+  "name": "Ajay Kumar",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "tall and wiry",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_pagri",
+    "hr_chaddar",
+    "hr_shirt_trousers_m"
+  ],
+  "language": [
+    "Ahirwati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

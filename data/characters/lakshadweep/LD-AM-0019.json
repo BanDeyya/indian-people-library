@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0019",
+  "name": "Basheer Koya",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "boat_builder",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "wiry",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ld_white_mundu_m",
+    "ld_lungi_shirt_m",
+    "ld_fisher_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

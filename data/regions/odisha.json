@@ -1,0 +1,1340 @@
+{
+  "schema_version": 2,
+  "slug": "odisha",
+  "code": "OD",
+  "name": "Odisha",
+  "type": "state",
+  "zone": "east",
+  "capital": "Bhubaneswar",
+  "status": "reviewed",
+  "languages": [
+    "Odia (official)",
+    "Sambalpuri",
+    "Santali",
+    "Ho",
+    "Kui",
+    "Desia",
+    "Urdu",
+    "Hindi",
+    "Telugu"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 93.63,
+      "christian": 2.77,
+      "muslim": 2.17,
+      "other": 1.43
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "coastal",
+      "name": "Coastal Odisha",
+      "notes": "Puri, Cuttack, Bhubaneswar (Khordha), Balasore, Bhadrak, Kendrapara, Jagatsinghpur; Jagannath culture, paddy and coconut."
+    },
+    {
+      "id": "western",
+      "name": "Western Odisha",
+      "notes": "Sambalpur, Bargarh, Bolangir, Sonepur, Kalahandi, Jharsuguda, Sundargarh; Sambalpuri language and ikat; Nuakhai."
+    },
+    {
+      "id": "southern",
+      "name": "Southern Odisha",
+      "notes": "Ganjam (Berhampur), Gajapati; Berhampuri silk, Bomkai village (Ganjam)."
+    },
+    {
+      "id": "koraput",
+      "name": "Koraput highlands",
+      "notes": "Koraput, Rayagada, Malkangiri, Nabarangpur; Eastern Ghats hills, many Adivasi communities, Kotpad weaving."
+    },
+    {
+      "id": "northern",
+      "name": "Northern Odisha",
+      "notes": "Mayurbhanj, Keonjhar; sal forests, Santal and Ho communities."
+    },
+    {
+      "id": "central",
+      "name": "Central Odisha",
+      "notes": "Kandhamal, Boudh, Angul, Dhenkanal; hills and forests."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Odia",
+      "religion": "hindu",
+      "prompt": "Odia",
+      "notes": "Men: dhoti with kurta, gamuchha over the shoulder for religious occasions; Sambalpuri ikat kurta for festivals; shirt-trousers in towns. Women: cotton Sambalpuri saree daily; Bomkai, Khandua and tussar silk for weddings and festivals; sindoor and sakha-pola when married.",
+      "names": {
+        "female": [
+          "Mamata",
+          "Lipsa",
+          "Kanaklata",
+          "Sasmita",
+          "Priyanka",
+          "Sarojini",
+          "Jyotsna",
+          "Sujata",
+          "Bandana",
+          "Pramila",
+          "Itishree",
+          "Rashmita",
+          "Subhashree",
+          "Gitanjali",
+          "Sabitri",
+          "Manorama",
+          "Kalpana",
+          "Annapurna",
+          "Jayanti",
+          "Puspanjali",
+          "Rojalin",
+          "Sushree",
+          "Smruti",
+          "Laxmipriya",
+          "Mitali",
+          "Sanjukta",
+          "Bijayalaxmi",
+          "Lipika",
+          "Nirupama"
+        ],
+        "male": [
+          "Bikash",
+          "Jagannath",
+          "Dhaneswar",
+          "Pramod",
+          "Subham",
+          "Prasanta",
+          "Sarat",
+          "Manas",
+          "Biswanath",
+          "Debasis",
+          "Ranjan",
+          "Sushant",
+          "Ashok",
+          "Niranjan",
+          "Sudhansu",
+          "Pradeep",
+          "Biswajit",
+          "Satyajit",
+          "Sanjay",
+          "Prakash",
+          "Akshaya",
+          "Gopinath",
+          "Bibhuti"
+        ],
+        "second_male": [
+          "Chandra",
+          "Kumar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "santal",
+      "name": "Santal",
+      "culture": "Santal",
+      "prompt": "Santal",
+      "sub_regions": [
+        "northern"
+      ],
+      "notes": "Largest Adivasi community of Mayurbhanj. Women wear the Santali saree, striped at one end and symmetric, on special occasions.",
+      "names": {
+        "female": [
+          "Sumi",
+          "Sunita",
+          "Phulmoni",
+          "Lakhi",
+          "Basanti",
+          "Mungli",
+          "Talamai",
+          "Sona",
+          "Sarojini",
+          "Pano",
+          "Rani",
+          "Sushila",
+          "Phulo",
+          "Champa",
+          "Durga",
+          "Malati",
+          "Mangli",
+          "Shanti",
+          "Sonamoni",
+          "Lakshmi",
+          "Rupi",
+          "Chandmoni",
+          "Dulari",
+          "Parvati",
+          "Somi"
+        ],
+        "male": [
+          "Soren",
+          "Budhan",
+          "Chunda",
+          "Bhim",
+          "Durga",
+          "Lakhan",
+          "Sanatan",
+          "Somai",
+          "Kanhu",
+          "Sidho",
+          "Sido",
+          "Ramesh",
+          "Babulal",
+          "Rabindra",
+          "Chandu",
+          "Sukhram",
+          "Mangal",
+          "Sombari",
+          "Dasrath",
+          "Jitu",
+          "Rasik",
+          "Sunaram"
+        ]
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Odia",
+      "religion": "christian",
+      "prompt": "Odia Christian",
+      "sub_regions": [
+        "central",
+        "koraput",
+        "western",
+        "coastal"
+      ],
+      "notes": "Largest in Kandhamal, Gajapati, Sundargarh and Rayagada. Specific dress not yet sourced; characters wear shared Odia dress.",
+      "names": {
+        "female": [
+          "Mary",
+          "Sunita",
+          "Anita",
+          "Jyoti",
+          "Esther",
+          "Prabhati",
+          "Rebecca",
+          "Lily",
+          "Sushila",
+          "Grace",
+          "Rita",
+          "Martha",
+          "Sabita",
+          "Mercy"
+        ],
+        "male": [
+          "Prakash",
+          "Joseph",
+          "Samuel",
+          "Daniel",
+          "Bijay",
+          "Anand",
+          "Paul",
+          "Simon",
+          "John",
+          "Peter",
+          "Suresh",
+          "Michael",
+          "David",
+          "Sanjay"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Odia",
+      "religion": "muslim",
+      "prompt": "Odia Muslim",
+      "sub_regions": [
+        "coastal",
+        "western",
+        "southern"
+      ],
+      "notes": "Largest in Cuttack, Bhadrak, Balasore. Specific dress not yet sourced; characters wear shared dress.",
+      "names": {
+        "female": [
+          "Nazma",
+          "Rukhsana",
+          "Shabnam",
+          "Farida",
+          "Rehana",
+          "Zarina",
+          "Shaheen",
+          "Salma",
+          "Ayesha",
+          "Nasreen",
+          "Sabina",
+          "Roshan Ara",
+          "Tabassum",
+          "Asma"
+        ],
+        "male": [
+          "Akhtar",
+          "Imran",
+          "Salim",
+          "Javed",
+          "Anwar",
+          "Sheikh Abdul",
+          "Rashid",
+          "Iqbal",
+          "Firoz",
+          "Altaf",
+          "Mustaq",
+          "Sahid",
+          "Nawaz",
+          "Ashraf"
+        ]
+      }
+    }
+  ],
+  "excluded_communities": [
+    {
+      "name": "Bonda",
+      "reason": "PVTG of the Malkangiri hills long exoticised by 'tribal tours'; the state's 2012 guidelines bar photography and videography in Bonda areas and forbid PVTGs being made to entertain tourists.",
+      "source": "odishabytes_bonda"
+    }
+  ],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      9
+    ],
+    "hair": "Black hair, straight or wavy.",
+    "notes": "Wheatish to deep brown. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus father's name. Most Odia surnames mark caste (e.g. Mohapatra, Mishra, Patnaik, Sahu, Behera, Nayak); never use them."
+    },
+    {
+      "community": "santal",
+      "notes": "Santal clan names (e.g. Hansda, Murmu, Tudu) are clan, not caste, names."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "od_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": [
+        "aza_od"
+      ]
+    },
+    {
+      "id": "od_dhoti_kurta_m",
+      "name": "Dhoti-kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white dhoti with a cotton kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "aza_od"
+      ]
+    },
+    {
+      "id": "od_gamuchha",
+      "name": "Gamuchha",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "checked cotton gamuchha over the shoulder",
+      "short": "checked gamuchha on shoulder",
+      "sources": [
+        "aza_od"
+      ]
+    },
+    {
+      "id": "od_ikat_kurta_m",
+      "name": "Sambalpuri ikat kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Sambalpuri ikat kurta with a white dhoti",
+      "short": "Sambalpuri ikat kurta and dhoti",
+      "sources": [
+        "aza_od",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "od_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "od_sambalpuri_f",
+      "name": "Cotton Sambalpuri saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton Sambalpuri ikat saree with shankha and phula motifs",
+      "short": "cotton Sambalpuri ikat saree",
+      "sources": [
+        "aza_od",
+        "indianculture_sambalpuri",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "od_cotton_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain cotton saree with a contrast border",
+      "short": "cotton saree",
+      "sources": []
+    },
+    {
+      "id": "od_bomkai_f",
+      "name": "Bomkai silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "silk Bomkai saree with intricate thread work on the border and pallu",
+      "short": "silk Bomkai saree",
+      "sources": [
+        "aza_od",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "od_khandua_f",
+      "name": "Khandua silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "wedding_guest",
+        "ceremonial",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "Khandua silk ikat saree",
+      "short": "Khandua silk ikat saree",
+      "sources": [
+        "aza_od"
+      ]
+    },
+    {
+      "id": "od_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": []
+    },
+    {
+      "id": "od_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": [
+        "aza_od"
+      ]
+    },
+    {
+      "id": "od_santali_f",
+      "name": "Santali saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "santal",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Santali saree with stripe work at one end, symmetric on both ends",
+      "short": "striped Santali saree",
+      "sources": [
+        "zeebiz_santali"
+      ]
+    },
+    {
+      "id": "od_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton frock with full-length leggings",
+      "short": "girl's frock and leggings",
+      "sources": []
+    },
+    {
+      "id": "od_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk skirt with a long-sleeved blouse",
+      "short": "girl's long silk skirt",
+      "sources": []
+    },
+    {
+      "id": "od_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "od_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "odishabytes_marriage",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "od_sakha_pola",
+      "name": "Sakha-pola",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "white sakha and red pola bangles",
+      "short": "white and red sakha-pola bangles",
+      "sources": [
+        "odishabytes_marriage"
+      ]
+    },
+    {
+      "id": "od_alta",
+      "name": "Alta",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "red alta on the feet",
+      "short": "red alta on the feet",
+      "sources": [
+        "odishabytes_raja"
+      ]
+    },
+    {
+      "id": "od_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "od_sambalpuri_f"
+        ],
+        [
+          "od_cotton_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "od_bomkai_f"
+        ],
+        [
+          "od_khandua_f"
+        ],
+        [
+          "od_santali_f"
+        ]
+      ],
+      "reason": "Cotton Sambalpuri daily; Bomkai and Khandua silk for weddings and festivals; Santali saree for Santal women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "od_shirt_trousers_m"
+        ],
+        [
+          "od_dhoti_kurta_m",
+          "od_gamuchha"
+        ]
+      ],
+      "festive": [
+        [
+          "od_ikat_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta with gamuchha; Sambalpuri ikat kurta for festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "od_sambalpuri_f"
+        ]
+      ],
+      "festive": [
+        [
+          "od_bomkai_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "od_dhoti_kurta_m",
+          "od_gamuchha"
+        ]
+      ],
+      "festive": [
+        [
+          "od_ikat_kurta_m"
+        ]
+      ],
+      "reason": "Dhoti-kurta."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "od_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "od_kids_g_fest"
+        ]
+      ],
+      "reason": "Long silk skirt for festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "od_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "od_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "nuakhai",
+      "name": "Nuakhai",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "August-September",
+      "sub_regions": [
+        "western"
+      ],
+      "scene": "Nuakhai, a family in Sambalpuri weaves sharing the first rice of the harvest at home",
+      "scene_short": "Nuakhai family meal of new rice"
+    },
+    {
+      "id": "raja_parba",
+      "name": "Raja Parba",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "for": [
+        "adult_female",
+        "child_girl",
+        "old_female"
+      ],
+      "when": "June (three days)",
+      "scene": "Raja Parba, girls in new clothes taking turns on a rope swing hung from a mango tree",
+      "scene_short": "Raja Parba swings under a mango tree"
+    },
+    {
+      "id": "rath_yatra",
+      "name": "Rath Yatra",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu"
+      ],
+      "when": "June-July",
+      "scene": "Rath Yatra in Puri, huge crowds pulling the giant wooden chariots along the Grand Road",
+      "scene_short": "Rath Yatra chariots in Puri"
+    },
+    {
+      "id": "durga_puja_od",
+      "name": "Durga Puja",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "September-October",
+      "scene": "Durga Puja evening, crowds visiting a brightly lit puja pandal",
+      "scene_short": "lit Durga Puja pandal"
+    },
+    {
+      "id": "christmas_od",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "christian"
+      ],
+      "when": "December",
+      "scene": "Christmas evening, star lanterns outside a village church in the hills",
+      "scene_short": "hill village church at Christmas"
+    },
+    {
+      "id": "eid_od",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in an old-city lane",
+      "scene_short": "Eid morning lane"
+    },
+    {
+      "id": "wedding_guest_od",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding under a decorated canopy",
+      "scene_short": "wedding canopy"
+    }
+  ],
+  "settings": [
+    {
+      "id": "bhubaneswar_street",
+      "type": "urban",
+      "description": "wide Bhubaneswar street with trees and modern buildings",
+      "short": "Bhubaneswar street",
+      "sub_regions": [
+        "coastal"
+      ]
+    },
+    {
+      "id": "cuttack_lane",
+      "type": "urban",
+      "description": "old Cuttack lane with small shops",
+      "short": "old Cuttack lane",
+      "sub_regions": [
+        "coastal"
+      ]
+    },
+    {
+      "id": "puri_beach",
+      "type": "urban",
+      "description": "Puri beach with wooden fishing boats on the sand",
+      "short": "Puri beach with boats",
+      "sub_regions": [
+        "coastal"
+      ]
+    },
+    {
+      "id": "sambalpur_market",
+      "type": "urban",
+      "description": "Sambalpur market street with handloom shops",
+      "short": "Sambalpur market",
+      "sub_regions": [
+        "western"
+      ]
+    },
+    {
+      "id": "berhampur_street",
+      "type": "urban",
+      "description": "Berhampur street with silk shops",
+      "short": "Berhampur silk street",
+      "sub_regions": [
+        "southern"
+      ]
+    },
+    {
+      "id": "coastal_paddy",
+      "type": "rural",
+      "description": "green paddy fields with palm trees and a village pond",
+      "short": "paddy fields and palms",
+      "sub_regions": [
+        "coastal",
+        "southern"
+      ]
+    },
+    {
+      "id": "western_village",
+      "type": "rural",
+      "description": "western Odisha village with paddy fields and a weaver's verandah",
+      "short": "western Odisha village",
+      "sub_regions": [
+        "western"
+      ]
+    },
+    {
+      "id": "koraput_hills",
+      "type": "rural",
+      "description": "terraced fields on green hills of the Eastern Ghats",
+      "short": "Eastern Ghats terraces",
+      "sub_regions": [
+        "koraput",
+        "central"
+      ]
+    },
+    {
+      "id": "sal_village",
+      "type": "rural",
+      "description": "village of mud houses with painted walls beside a sal forest",
+      "short": "village by a sal forest",
+      "sub_regions": [
+        "northern",
+        "central"
+      ]
+    },
+    {
+      "id": "home_city_od",
+      "type": "home",
+      "description": "rooftop of a city house with potted plants",
+      "short": "city rooftop",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_od",
+      "type": "home",
+      "description": "village courtyard with a tulsi platform and a clay stove",
+      "short": "village courtyard",
+      "lives_in": "rural",
+      "communities": [
+        "hindu"
+      ]
+    },
+    {
+      "id": "home_village_od2",
+      "type": "home",
+      "description": "village house verandah with a swept courtyard",
+      "short": "village verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_od",
+      "type": "work",
+      "description": "office in Bhubaneswar",
+      "short": "Bhubaneswar office",
+      "sub_regions": [
+        "coastal"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in paddy fields"
+    },
+    {
+      "id": "fisherman",
+      "name": "Fisherman",
+      "setting": "both",
+      "for": [
+        "adult_male"
+      ],
+      "scene": "pulling a fishing boat onto the beach"
+    },
+    {
+      "id": "weaver",
+      "name": "Ikat weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving ikat at a handloom"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot and humid (March-June).",
+    "monsoon": "June-September; cyclones on the coast in some years.",
+    "winter": "Mild (November-February)."
+  },
+  "heritage": [
+    {
+      "id": "gajapati_court",
+      "name": "Gajapati and princely-state court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only, in the era phase; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "jagannath_servitors",
+      "name": "Jagannath temple servitors' dress",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Hereditary temple roles; characters are lay devotees.",
+      "sources": []
+    },
+    {
+      "id": "khandua",
+      "name": "Khandua silk",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "od_khandua_f"
+      ],
+      "reason": "Offered to Lord Jagannath and also worn as wedding silk; used for weddings and festivals only.",
+      "sources": [
+        "aza_od"
+      ]
+    },
+    {
+      "id": "performance_od",
+      "name": "Odissi, Gotipua and Chhau costumes",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Performance costumes of trained artists; not given to characters.",
+      "sources": [
+        "aza_od"
+      ]
+    },
+    {
+      "id": "pvtg_od",
+      "name": "PVTG areas",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Odisha's 2012 guidelines bar photography in PVTG areas such as Bonda; all 13 PVTGs held back.",
+      "sources": [
+        "odishabytes_bonda"
+      ]
+    }
+  ],
+  "avoid": [
+    "Caste labels or caste surnames; caste politics.",
+    "'Tribal tour' or exotic framing of Adivasi people; Bonda, Dongria Kondh or other PVTGs.",
+    "Cyclone, poverty or hunger cliches (e.g. 'KBK' poverty framing).",
+    "Communal violence imagery (e.g. Kandhamal 2008).",
+    "Temple servitor dress or performance costumes on characters."
+  ],
+  "todo": [
+    "Muslim and Christian dress with sources.",
+    "Santal men's dress and festivals (Sohrai, Baha); Ho, Munda, Kondh and Saura dress with sources.",
+    "PVTGs (Bonda excluded; Dongria Kondh, Juang, Kutia Kondh, Lanjia Saura, Didayi, Hill Kharia, Paudi Bhuyan, Birhor, Chuktia Bhunjia, Lodha, Mankirdia, Saura) held back.",
+    "Kotpad and Berhampuri patta details; Boita Bandana, Kartik Purnima.",
+    "Native review (coastal and western Odisha)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Odisha religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/21-odisha.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_od",
+      "title": "Odisha traditional fashion and handlooms guide (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/odisha-traditional-fashion-handlooms-guide/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "indianculture_sambalpuri",
+      "title": "Sambalpuri saree, Sambalpur (Indian Culture portal, Ministry of Culture)",
+      "url": "https://indianculture.gov.in/node/2761439",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "odishabytes_raja",
+      "title": "Raja Parba begins with pitha, swings and paan (Odisha Bytes)",
+      "url": "https://odishabytes.com/raja-parba-begins-with-pitha-swings-paans-as-odisha-celebrates-womanhood/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "week_nuakhai",
+      "title": "Nuakhai brings western Odisha together (The Week)",
+      "url": "https://www.theweek.in/news/india/2026/09/15/nuakhai-festival-brings-western-odisha-together-in-celebration.html",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "incredible_rath",
+      "title": "Rath Yatra (Incredible India, Ministry of Tourism)",
+      "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/odisha/rath-yatra",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "odishabytes_marriage",
+      "title": "Marriage symbols for women (Odisha Bytes)",
+      "url": "https://odishabytes.com/marriage-symbols-for-women-tradition-identity-or-shackles/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "zeebiz_santali",
+      "title": "Santali saree (Zee Business)",
+      "url": "https://zeebiz.com/india/news-santhali-saree-attire-sari-design-droupadi-murmu-latest-news-191142",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "odishabytes_bonda",
+      "title": "Prohibitions in PVTG areas since 2012 (Odisha Bytes)",
+      "url": "https://odishabytes.com/italian-couple-rescued-from-bonda-ghat-prohibitions-in-place-since-2012/amp",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (3 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Checked: Sambalpuri and Bomkai are Odisha GI products; Raja Parba (three days in mid-June), Nuakhai (August-September) and Rath Yatra (June-July) agree with general calendars. Open: the Santali saree rests on one press source (Zee Business)."
+    ]
+  }
+}

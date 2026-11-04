@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0009",
+  "name": "Devendra",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "garhwali",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean and strong",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "uk_dhoti_kurta_m",
+    "uk_shirt_trousers_m",
+    "uk_kurta_sadri_m",
+    "uk_topi",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Garhwali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

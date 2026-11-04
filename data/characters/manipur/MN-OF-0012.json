@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "MN-OF-0012",
+  "name": "Amina",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "mn_phanek_f",
+    "mn_phanek_innaphi_f"
+  ],
+  "language": [
+    "Meiteilon",
+    "Urdu (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

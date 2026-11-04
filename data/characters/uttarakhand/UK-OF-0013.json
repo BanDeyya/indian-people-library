@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "UK-OF-0013",
+  "name": "Rekha Devi",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "hazel-brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "uk_suit_f",
+    "uk_saree_f",
+    "uk_ghagri_f",
+    "uk_pichhora",
+    "uk_sindoor_k",
+    "uk_guluband",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

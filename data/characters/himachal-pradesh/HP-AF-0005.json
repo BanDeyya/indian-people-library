@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0005",
+  "name": "Sunita",
+  "region": "himachal-pradesh",
+  "sub_region": "kullu_mandi",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with rosy cheeks",
+    "eyes": "hazel-brown eyes",
+    "hair": "black hair in a plait",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "hp_ghagra_f",
+    "hp_suit_f",
+    "hp_winter_jacket",
+    "hp_sindoor"
+  ],
+  "language": [
+    "Kangri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

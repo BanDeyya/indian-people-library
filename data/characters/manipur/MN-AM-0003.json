@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MN-AM-0003",
+  "name": "Rafiq",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "medium",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short trimmed beard"
+  },
+  "wardrobe": [
+    "mn_shirt_trousers_m",
+    "mn_kurta_pyjama_m",
+    "mn_topi_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Meiteilon",
+    "Urdu (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

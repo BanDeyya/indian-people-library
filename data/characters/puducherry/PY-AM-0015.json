@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PY-AM-0015",
+  "name": "Ramasamy",
+  "region": "puducherry",
+  "sub_region": "puducherry",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "py_veshti_sattai_m",
+    "py_lungi_m",
+    "py_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

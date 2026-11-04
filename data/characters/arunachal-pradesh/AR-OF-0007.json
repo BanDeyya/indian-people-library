@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AR-OF-0007",
+  "name": "Ampi",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "apatani",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "sturdy",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "ar_skirt_f",
+    "ar_apatani_fest_f",
+    "ar_apatani_old_f",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Apatani",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

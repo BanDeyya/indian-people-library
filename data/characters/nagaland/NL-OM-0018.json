@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0018",
+  "name": "Diezo",
+  "region": "nagaland",
+  "sub_region": "phek",
+  "community": "chakhesang",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face with a strong jaw, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "stocky",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_trousers_m",
+    "nl_plain_shirt_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Chakhesang",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

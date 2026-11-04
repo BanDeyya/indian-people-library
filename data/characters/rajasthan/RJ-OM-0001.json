@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OM-0001",
+  "name": "Mangilal Bheru",
+  "region": "rajasthan",
+  "sub_region": "mewar",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with a hooked nose and deep wrinkles",
+    "eyes": "brown eyes",
+    "hair": "white hair under his safa",
+    "facial_hair": "large white moustache",
+    "build": "thin",
+    "signature_mark": "dark mole on his forehead"
+  },
+  "wardrobe": [
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_angrakha_m",
+    "rj_festive_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Mewari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

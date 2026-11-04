@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0014",
+  "name": "Babita",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "hr_festive_suit_f",
+    "hr_modern_f",
+    "hr_winter_jacket",
+    "hr_sindoor"
+  ],
+  "language": [
+    "Ahirwati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0015",
+  "name": "Ramesh Mahadu",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "warli",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "dd_shirt_trousers_m",
+    "dd_warli_m"
+  ],
+  "language": [
+    "Varli",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

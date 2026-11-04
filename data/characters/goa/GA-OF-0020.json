@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0020",
+  "name": "Rukmini",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "gawda",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "strong lined face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "wiry",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_kapodd_f",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

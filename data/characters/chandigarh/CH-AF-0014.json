@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0014",
+  "name": "Shweta",
+  "region": "chandigarh",
+  "sub_region": "villages",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ch_suit_f",
+    "ch_saree_f",
+    "ch_sindoor",
+    "ch_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

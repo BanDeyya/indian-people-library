@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0011",
+  "name": "Bimla",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "hr_daaman_f",
+    "hr_festive_suit_f",
+    "hr_winter_jacket",
+    "hr_sindoor"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,1838 @@
+{
+  "schema_version": 2,
+  "slug": "delhi",
+  "code": "DL",
+  "name": "Delhi",
+  "type": "union_territory",
+  "zone": "north",
+  "capital": "New Delhi",
+  "status": "reviewed",
+  "languages": [
+    "Hindi (official)",
+    "English",
+    "Urdu (second official)",
+    "Punjabi (second official)",
+    "Bhojpuri",
+    "Maithili",
+    "Bengali",
+    "Haryanvi"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 81.68,
+      "muslim": 12.86,
+      "sikh": 3.4,
+      "jain": 0.99,
+      "christian": 0.87,
+      "buddhist": 0.11,
+      "other": 0.09
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "old_delhi",
+      "name": "Old Delhi (Shahjahanabad)",
+      "notes": "Chandni Chowk, Jama Masjid area, havelis and wholesale markets; old Muslim and Hindu trading families."
+    },
+    {
+      "id": "central",
+      "name": "Central and New Delhi",
+      "notes": "Connaught Place, Karol Bagh, government offices."
+    },
+    {
+      "id": "south",
+      "name": "South Delhi",
+      "notes": "Mehrauli, Hauz Khas, Lajpat Nagar, CR Park (Bengali community); Phool Walon Ki Sair."
+    },
+    {
+      "id": "west",
+      "name": "West Delhi",
+      "notes": "Rajouri Garden, Punjabi Bagh, Tilak Nagar; many Punjabi Hindu and Sikh families who came after 1947."
+    },
+    {
+      "id": "east",
+      "name": "East Delhi (Trans-Yamuna)",
+      "notes": "Laxmi Nagar, Mayur Vihar, Shahdara; large Purvanchali community; Chhath on the Yamuna ghats."
+    },
+    {
+      "id": "outer",
+      "name": "Outer Delhi (urban villages and rural belt)",
+      "notes": "Najafgarh, Narela, Bawana; old villages with Haryanvi-style dress and dairies."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Delhi",
+      "religion": "hindu",
+      "notes": "Mixed city dress: salwar suits, sarees, kurti-jeans; men in shirt-trousers or kurta-pyjama. Outer Delhi villages keep Haryanvi-style dhoti-kurta and pagri among older men; sindoor when married.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Pooja",
+          "Neha",
+          "Priya",
+          "Anjali",
+          "Kavita",
+          "Rekha",
+          "Seema",
+          "Ritu",
+          "Shalini",
+          "Kiran",
+          "Meena",
+          "Sarita",
+          "Asha",
+          "Komal",
+          "Nisha",
+          "Radha",
+          "Usha",
+          "Mamta",
+          "Suman",
+          "Preeti",
+          "Archana",
+          "Vandana",
+          "Jyoti",
+          "Poonam",
+          "Sapna",
+          "Renu",
+          "Deepa",
+          "Aarti",
+          "Shweta"
+        ],
+        "male": [
+          "Rajesh",
+          "Sunil",
+          "Amit",
+          "Rahul",
+          "Manoj",
+          "Sanjay",
+          "Vijay",
+          "Ravi",
+          "Deepak",
+          "Ajay",
+          "Ashok",
+          "Rakesh",
+          "Pankaj",
+          "Rohit",
+          "Vikas",
+          "Anil",
+          "Dinesh",
+          "Suresh",
+          "Mukesh",
+          "Naresh",
+          "Ramesh",
+          "Satish",
+          "Arun",
+          "Alok",
+          "Nitin",
+          "Sachin",
+          "Gaurav",
+          "Vivek",
+          "Manish",
+          "Yogesh"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Kumar",
+          "Prasad"
+        ]
+      }
+    },
+    {
+      "id": "punjabi_hindu",
+      "name": "Hindu",
+      "culture": "Punjabi",
+      "religion": "hindu",
+      "prompt": "Punjabi",
+      "sub_regions": [
+        "west",
+        "south",
+        "central"
+      ],
+      "notes": "Families settled after 1947; Punjabi salwar suits, festive embroidered suits; Karva Chauth.",
+      "names": {
+        "female": [
+          "Neelam",
+          "Simran",
+          "Sonia",
+          "Rajni",
+          "Anu",
+          "Meenu",
+          "Pooja",
+          "Kamlesh",
+          "Santosh",
+          "Ritu",
+          "Mehak",
+          "Shalini",
+          "Nidhi",
+          "Payal",
+          "Rekha",
+          "Nisha",
+          "Monika",
+          "Anju",
+          "Neha",
+          "Seema",
+          "Kavita",
+          "Renu",
+          "Shilpa",
+          "Pinki",
+          "Kanta",
+          "Usha",
+          "Veena",
+          "Suman",
+          "Rashmi",
+          "Jyoti"
+        ],
+        "male": [
+          "Vikas",
+          "Rajeev",
+          "Sanjeev",
+          "Kewal",
+          "Ashwani",
+          "Rakesh",
+          "Vinod",
+          "Deepak",
+          "Sunil",
+          "Rohit",
+          "Karan",
+          "Sahil",
+          "Mohit",
+          "Varun",
+          "Ashok",
+          "Rajiv",
+          "Pawan",
+          "Naresh",
+          "Gaurav",
+          "Anil",
+          "Sameer"
+        ],
+        "second_female": [
+          "Rani"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "purvanchali_hindu",
+      "name": "Hindu",
+      "culture": "Purvanchali (Bhojpuri and Maithili)",
+      "religion": "hindu",
+      "prompt": "Purvanchali",
+      "sub_regions": [
+        "east",
+        "outer",
+        "south"
+      ],
+      "notes": "Families from eastern UP and Bihar; sarees, dhoti-kurta with gamchha at festivals; Chhath Puja on the Yamuna ghats.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Kanchan",
+          "Priyanka",
+          "Rinku",
+          "Sangeeta",
+          "Anita",
+          "Manju",
+          "Puja",
+          "Babita",
+          "Kiran",
+          "Shobha",
+          "Nirmala",
+          "Lalita",
+          "Phoolmati",
+          "Rita",
+          "Usha",
+          "Meera",
+          "Savitri",
+          "Gita",
+          "Reena",
+          "Pinki",
+          "Sushma",
+          "Lakshmi",
+          "Kalawati",
+          "Chanda",
+          "Urmila",
+          "Kusum",
+          "Dhanmati"
+        ],
+        "male": [
+          "Manoj",
+          "Ramesh",
+          "Dinesh",
+          "Santosh",
+          "Rajkumar",
+          "Sunil",
+          "Pappu",
+          "Ranjeet",
+          "Shankar",
+          "Umesh",
+          "Vinod",
+          "Rakesh",
+          "Bablu",
+          "Chandan",
+          "Shailesh",
+          "Dharmendra",
+          "Lalan",
+          "Munna",
+          "Ramji",
+          "Birendra",
+          "Shatrughan",
+          "Raghav",
+          "Brijesh",
+          "Ganesh"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Kumar",
+          "Prasad"
+        ]
+      }
+    },
+    {
+      "id": "bengali_hindu",
+      "name": "Hindu",
+      "culture": "Bengali",
+      "religion": "hindu",
+      "prompt": "Bengali",
+      "sub_regions": [
+        "south"
+      ],
+      "notes": "Centred on CR Park; Durga Puja with red-and-white sarees and dhunuchi dances; Kali Puja on Diwali night; shakha-pola and sindoor when married.",
+      "names": {
+        "female": [
+          "Riya",
+          "Moumita",
+          "Sutapa",
+          "Kamala",
+          "Mitali",
+          "Kalpana",
+          "Sharmila",
+          "Tithi",
+          "Rupa",
+          "Sanchita",
+          "Ananya",
+          "Paromita",
+          "Shampa",
+          "Debjani",
+          "Rina",
+          "Mousumi",
+          "Supriya",
+          "Rumpa",
+          "Sumana",
+          "Puja",
+          "Rituparna",
+          "Madhumita",
+          "Mithu",
+          "Bulbul",
+          "Chandana",
+          "Shipra",
+          "Arpita",
+          "Nandini",
+          "Sharmistha",
+          "Tanushree",
+          "Swapna",
+          "Lipika"
+        ],
+        "male": [
+          "Gopal",
+          "Arindam",
+          "Subrata",
+          "Haripada",
+          "Suman",
+          "Sourav",
+          "Partha",
+          "Debashis",
+          "Anirban",
+          "Biswajit",
+          "Tapas",
+          "Pradip",
+          "Amit",
+          "Ranjan",
+          "Subir",
+          "Sanjay",
+          "Prosenjit",
+          "Tarun",
+          "Biplab",
+          "Kaushik",
+          "Somnath",
+          "Utpal",
+          "Asim",
+          "Abhijit",
+          "Subhash",
+          "Sudip",
+          "Pintu",
+          "Bapi",
+          "Ratan",
+          "Arun",
+          "Dipankar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Delhi",
+      "religion": "muslim",
+      "prompt": "Muslim",
+      "sub_regions": [
+        "old_delhi",
+        "south",
+        "east"
+      ],
+      "notes": "Old Delhi families and newer neighbourhoods; men in kurta-pyjama with a prayer cap for prayers and Eid; women in salwar suits, dupatta over the head by choice.",
+      "names": {
+        "female": [
+          "Rukhsana",
+          "Nazia",
+          "Shabana",
+          "Farzana",
+          "Ayesha",
+          "Nasreen",
+          "Shaheen",
+          "Sana",
+          "Rubina",
+          "Zainab",
+          "Fatima",
+          "Hina",
+          "Parveen",
+          "Asma",
+          "Shabnam",
+          "Nargis",
+          "Sadia",
+          "Zeenat",
+          "Tabassum",
+          "Kausar",
+          "Afsana",
+          "Gulshan",
+          "Nusrat",
+          "Rehana",
+          "Ishrat",
+          "Shagufta",
+          "Mehnaz",
+          "Saba",
+          "Bushra",
+          "Huma"
+        ],
+        "male": [
+          "Imran",
+          "Arif",
+          "Salim",
+          "Shahid",
+          "Irfan",
+          "Javed",
+          "Rashid",
+          "Aslam",
+          "Faisal",
+          "Naseem",
+          "Sajid",
+          "Tariq",
+          "Wasim",
+          "Zubair",
+          "Rizwan",
+          "Salman",
+          "Zafar",
+          "Anwar",
+          "Nadeem",
+          "Shakeel",
+          "Asif",
+          "Kamran",
+          "Iqbal"
+        ],
+        "second_female": [
+          "Parveen",
+          "Khatoon",
+          "Bano"
+        ],
+        "second_male": [
+          "Ahmad",
+          "Ali",
+          "Hussain",
+          "Akhtar"
+        ]
+      }
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "culture": "Punjabi",
+      "religion": "sikh",
+      "prompt": "Sikh",
+      "sub_regions": [
+        "west",
+        "central",
+        "east",
+        "south"
+      ],
+      "notes": "Men who keep unshorn hair wear a dastar and steel kara (see Punjab); women cover the head with a chunni at the gurdwara. Articles of faith shown respectfully, never as costume.",
+      "always_wear": {
+        "adult_male": [
+          "dl_dastar_m",
+          "dl_kara"
+        ],
+        "old_male": [
+          "dl_dastar_m",
+          "dl_kara"
+        ],
+        "adult_female": [
+          "dl_kara"
+        ],
+        "old_female": [
+          "dl_kara"
+        ],
+        "child_boy": [
+          "dl_kara"
+        ],
+        "child_girl": [
+          "dl_kara"
+        ]
+      },
+      "names": {
+        "female": [
+          "Harpreet",
+          "Gurpreet",
+          "Manpreet",
+          "Jasleen",
+          "Simranjeet",
+          "Navneet",
+          "Rajwinder",
+          "Kulwinder",
+          "Gurdev",
+          "Amandeep",
+          "Paramjit",
+          "Jaspreet",
+          "Sukhwinder",
+          "Baljit",
+          "Harjit",
+          "Jasvir",
+          "Ravinder",
+          "Satwant",
+          "Kirandeep",
+          "Prabhjot",
+          "Rupinder",
+          "Navjot",
+          "Harleen",
+          "Sukhpreet",
+          "Gurleen",
+          "Mandeep",
+          "Balwinder",
+          "Jaswinder",
+          "Manjit",
+          "Inderjit"
+        ],
+        "male": [
+          "Harjeet",
+          "Gurpreet",
+          "Jaspal",
+          "Manjit",
+          "Harjot",
+          "Kulwant",
+          "Sukhdev",
+          "Balwinder",
+          "Amrik",
+          "Jagdeep",
+          "Paramjit",
+          "Gurmeet",
+          "Navdeep",
+          "Ranjit",
+          "Harinder",
+          "Jaswant",
+          "Kulvir",
+          "Hardeep",
+          "Jagjit",
+          "Lakhwinder",
+          "Bhupinder",
+          "Satnam",
+          "Gurjeet",
+          "Parminder",
+          "Davinder"
+        ],
+        "second_female": [
+          "Kaur"
+        ],
+        "second_male": [
+          "Singh"
+        ],
+        "second_always": true
+      }
+    },
+    {
+      "id": "jain",
+      "name": "Jain",
+      "culture": "Delhi",
+      "religion": "jain",
+      "prompt": "Jain",
+      "sub_regions": [
+        "old_delhi",
+        "east"
+      ],
+      "notes": "Old trading families (Chandni Chowk, Shahdara). No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      3,
+      7
+    ],
+    "hair": "Black hair.",
+    "notes": "Wide range from many migrant groups. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus a neutral second name (Kumar, Devi, Rani) or none; many surnames mark caste, never use them."
+    },
+    {
+      "community": "muslim",
+      "notes": "Arabic or Persian given names; avoid sect or biradari surnames."
+    },
+    {
+      "community": "sikh",
+      "notes": "Given name plus Singh (men) or Kaur (women)."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "dl_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "dl_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "dl_festive_kurta_m",
+      "name": "Festive kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "embroidered silk kurta with churidar trousers",
+      "short": "silk kurta and churidar",
+      "sources": []
+    },
+    {
+      "id": "dl_nehru_jacket",
+      "name": "Nehru jacket",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "outer",
+      "setting": "urban",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "sleeveless bandhgala Nehru jacket over the kurta",
+      "short": "Nehru jacket",
+      "sources": []
+    },
+    {
+      "id": "dl_dhoti_kurta_m",
+      "name": "Dhoti-kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "white dhoti with a white kurta and leather juttis",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "indianetzone_hr"
+      ]
+    },
+    {
+      "id": "dl_pagri",
+      "name": "Pagri",
+      "for": [
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "white cloth pagri",
+      "short": "white pagri",
+      "sources": [
+        "indianetzone_hr"
+      ]
+    },
+    {
+      "id": "dl_dhoti_p",
+      "name": "Dhoti and kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "purvanchali_hindu",
+      "prompt": "white dhoti with a cotton kurta and a gamchha over the shoulder",
+      "short": "dhoti, kurta and gamchha",
+      "sources": []
+    },
+    {
+      "id": "dl_dhoti_panjabi_m",
+      "name": "Dhoti and panjabi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "prompt": "white dhoti with a cream cotton panjabi",
+      "short": "dhoti and panjabi",
+      "sources": []
+    },
+    {
+      "id": "dl_dastar_m",
+      "name": "Turban (dastar)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit",
+        "mourning"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "neatly tied Sikh turban (dastar) in a solid colour",
+      "short": "neat Sikh turban",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "dl_topi_m",
+      "name": "Prayer cap",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "white crocheted cotton prayer cap",
+      "short": "white prayer cap",
+      "sources": [
+        "wiki_taqiyah"
+      ]
+    },
+    {
+      "id": "dl_suit_f",
+      "name": "Salwar suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "salwar-kameez with a dupatta",
+      "short": "salwar suit with dupatta",
+      "sources": []
+    },
+    {
+      "id": "dl_suit_head_f",
+      "name": "Salwar suit, dupatta over the head",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "prompt": "salwar-kameez with the dupatta draped over the head, face visible",
+      "short": "suit, dupatta over head",
+      "sources": []
+    },
+    {
+      "id": "dl_festive_suit_f",
+      "name": "Festive suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "embroidered silk salwar suit with a dupatta",
+      "short": "embroidered silk suit",
+      "sources": []
+    },
+    {
+      "id": "dl_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "dl_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "printed cotton saree with a matching blouse",
+      "short": "cotton saree",
+      "sources": []
+    },
+    {
+      "id": "dl_silk_saree_f",
+      "name": "Silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silk saree with a zari border",
+      "short": "silk saree",
+      "sources": []
+    },
+    {
+      "id": "dl_laal_paar_f",
+      "name": "Laal-paar saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "prompt": "white saree with a broad red border, worn with a red blouse",
+      "short": "red-bordered white saree",
+      "sources": [
+        "outlook_crpark"
+      ]
+    },
+    {
+      "id": "dl_winter_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "padded jacket",
+      "short": "padded jacket",
+      "sources": []
+    },
+    {
+      "id": "dl_shawl",
+      "name": "Woollen shawl",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "religious_visit"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "woollen shawl around the shoulders",
+      "short": "woollen shawl",
+      "sources": []
+    },
+    {
+      "id": "dl_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long kurta with full-length trousers and a sweater",
+      "short": "girl's kurta, trousers and sweater",
+      "sources": []
+    },
+    {
+      "id": "dl_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk skirt with a long-sleeved blouse",
+      "short": "girl's long silk skirt",
+      "sources": []
+    },
+    {
+      "id": "dl_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    },
+    {
+      "id": "dl_kids_b_fest",
+      "name": "Boy's kurta-pyjama",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton kurta with pyjama",
+      "short": "boy's kurta and pyjama",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "dl_kara",
+      "name": "Steel kara",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female",
+        "child_boy",
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "school",
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit",
+        "mourning"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "plain steel kara bangle on the wrist",
+      "short": "steel kara",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "dl_shakha_pola",
+      "name": "Shakha and pola",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "white conch-shell shakha and red pola bangles on both wrists",
+      "short": "shakha and pola bangles",
+      "sources": [
+        "wiki_shankha",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "dl_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "dl_sindoor_pb",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "punjabi_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "dl_sindoor_pv",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "purvanchali_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "dl_sindoor_bn",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "dl_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "dl_suit_f"
+        ],
+        [
+          "dl_modern_f"
+        ],
+        [
+          "dl_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "dl_festive_suit_f"
+        ],
+        [
+          "dl_silk_saree_f"
+        ]
+      ],
+      "reason": "Salwar suits are the most common city dress; sarees among Purvanchali and Bengali women."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "dl_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "dl_festive_kurta_m",
+          "dl_nehru_jacket"
+        ],
+        [
+          "dl_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Shirt-trousers daily; kurta with a Nehru jacket at festivals and weddings."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "dl_suit_f"
+        ],
+        [
+          "dl_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "dl_festive_suit_f"
+        ],
+        [
+          "dl_silk_saree_f"
+        ]
+      ],
+      "reason": "Suits and sarees."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "dl_kurta_pyjama_m"
+        ]
+      ],
+      "festive": [
+        [
+          "dl_kurta_pyjama_m",
+          "dl_nehru_jacket"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "dl_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "dl_kids_g_fest"
+        ]
+      ],
+      "reason": "Long silk skirt."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "dl_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "dl_kids_b_fest"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "diwali_dl",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "punjabi_hindu",
+        "purvanchali_hindu"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, strings of lights and clay lamps on a Delhi house balcony",
+      "scene_short": "Diwali lights on a balcony"
+    },
+    {
+      "id": "chhath_dl",
+      "name": "Chhath Puja",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "purvanchali_hindu"
+      ],
+      "sub_regions": [
+        "east",
+        "outer",
+        "south"
+      ],
+      "when": "October-November (six days after Diwali)",
+      "scene": "Chhath Puja at dawn on a Yamuna ghat, devotees with bamboo baskets of fruit facing the rising sun",
+      "scene_short": "Chhath at dawn on the Yamuna"
+    },
+    {
+      "id": "durga_puja_dl",
+      "name": "Durga Puja",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bengali_hindu"
+      ],
+      "sub_regions": [
+        "south"
+      ],
+      "when": "September-October",
+      "scene": "Durga Puja evening in CR Park, crowds around a lit pandal and food stalls",
+      "scene_short": "CR Park Durga Puja"
+    },
+    {
+      "id": "phool_walon",
+      "name": "Phool Walon Ki Sair",
+      "type": "festival",
+      "occasion": "festive",
+      "sub_regions": [
+        "south"
+      ],
+      "when": "September-October (usually just after the monsoon; dates set each year)",
+      "scene": "Phool Walon Ki Sair in Mehrauli, a procession carrying large flower fans (pankhas) through the old streets",
+      "scene_short": "flower-fan procession in Mehrauli"
+    },
+    {
+      "id": "eid_dl",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning in an Old Delhi lane, families greeting each other among food stalls",
+      "scene_short": "Eid morning in Old Delhi"
+    },
+    {
+      "id": "gurpurab_dl",
+      "name": "Guru Nanak Gurpurab",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "sikh"
+      ],
+      "when": "October-November (Kartik Purnima)",
+      "scene": "Gurpurab evening, a Delhi gurdwara lit with lights, families arriving",
+      "scene_short": "gurdwara lit for Gurpurab"
+    },
+    {
+      "id": "wedding_guest_dl",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "November-February mostly",
+      "scene": "guests at an evening wedding in a decorated banquet lawn",
+      "scene_short": "wedding lawn"
+    }
+  ],
+  "settings": [
+    {
+      "id": "chandni_chowk",
+      "type": "urban",
+      "description": "crowded Chandni Chowk lane with old shopfronts and tangled wires",
+      "short": "Chandni Chowk lane",
+      "sub_regions": [
+        "old_delhi"
+      ]
+    },
+    {
+      "id": "connaught_place",
+      "type": "urban",
+      "description": "white colonnaded arcades of Connaught Place",
+      "short": "Connaught Place arcades",
+      "sub_regions": [
+        "central"
+      ]
+    },
+    {
+      "id": "south_market",
+      "type": "urban",
+      "description": "South Delhi market street with cafes and shops",
+      "short": "South Delhi market",
+      "sub_regions": [
+        "south"
+      ]
+    },
+    {
+      "id": "crpark_market",
+      "type": "urban",
+      "description": "CR Park market with fish and sweet shops",
+      "short": "CR Park market",
+      "sub_regions": [
+        "south"
+      ],
+      "communities": [
+        "bengali_hindu"
+      ]
+    },
+    {
+      "id": "west_colony",
+      "type": "urban",
+      "description": "busy West Delhi colony market with clothes shops",
+      "short": "West Delhi market",
+      "sub_regions": [
+        "west"
+      ]
+    },
+    {
+      "id": "east_street",
+      "type": "urban",
+      "description": "East Delhi street with an elevated metro line overhead",
+      "short": "East Delhi metro street",
+      "sub_regions": [
+        "east"
+      ]
+    },
+    {
+      "id": "outer_village",
+      "type": "rural",
+      "description": "outer Delhi village lane with fields and buffaloes",
+      "short": "outer Delhi village",
+      "sub_regions": [
+        "outer"
+      ]
+    },
+    {
+      "id": "home_haveli_dl",
+      "type": "home",
+      "description": "courtyard of an old haveli with carved doorways",
+      "short": "old haveli courtyard",
+      "sub_regions": [
+        "old_delhi"
+      ],
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_city_dl",
+      "type": "home",
+      "description": "apartment balcony with potted plants",
+      "short": "apartment balcony",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_dl",
+      "type": "home",
+      "description": "village courtyard with a charpai",
+      "short": "village courtyard",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_dl",
+      "type": "work",
+      "description": "modern office in Delhi",
+      "short": "Delhi office",
+      "sub_regions": [
+        "central",
+        "south",
+        "east",
+        "west"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "adult_male"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "zardozi_artisan",
+      "name": "Zardozi embroiderer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "doing gold-thread zardozi embroidery on a wooden frame"
+    },
+    {
+      "id": "dairy_farmer",
+      "name": "Dairy farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "milking buffaloes in the yard"
+    }
+  ],
+  "seasons": {
+    "summer": "Very hot and dry (April-June).",
+    "monsoon": "July-September.",
+    "winter": "Cold and foggy (December-January)."
+  },
+  "heritage": [
+    {
+      "id": "dl_mughal_court",
+      "name": "Mughal court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical dress for fictional people only; no named emperors.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Caste surnames.",
+    "Images or references to the 1947, 1984 or 2020 violence; communal framing of any neighbourhood.",
+    "Poverty, slum or smog cliches; 'migrant' as a label for Purvanchali people.",
+    "Articles of Sikh faith as costume."
+  ],
+  "todo": [
+    "Old Delhi Muslim festive dress (farshi gharara?) with sources.",
+    "Jain community dress and Mahavir Jayanti.",
+    "Punjabi Hindu and Sikh women's festive details (Karva Chauth, Lohri).",
+    "Native review (Old Delhi, East and Outer Delhi)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Delhi religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/7-delhi.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_phool_walon",
+      "title": "Phool Walon Ki Sair (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Phool_Walon_Ki_Sair",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "outlook_crpark",
+      "title": "Delhi's Mini Kolkata: Inside CR Park's Durga Puja (Outlook Traveller)",
+      "url": "https://www.outlooktraveller.com/experiences/heritage/delhis-mini-kolkata-inside-cr-parks-spectacular-durga-puja-celebrations",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "statesman_chhath",
+      "title": "Purvanchalis gather at Yamuna ghats for Nahay Khay (The Statesman)",
+      "url": "https://www.thestatesman.com/cities/purvanchalis-gather-at-yamuna-ghats-at-dawn-for-nahay-khay-ushering-in-the-chhath-puja-festivities-1503503236.html",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "indianetzone_hr",
+      "title": "Traditional dress of Haryana (Indianetzone)",
+      "url": "https://www.indianetzone.com/damankurtichunder",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_punjabi_clothing",
+      "title": "Punjabi clothing (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Punjabi_clothing",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_taqiyah",
+      "title": "Taqiyah (cap) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Taqiyah_(cap)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_shankha",
+      "title": "Shankha (ornament) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Shankha_(ornament)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "tribune_chhath_dl",
+      "title": "Devotees throng Yamuna ghats in Delhi for Chhath Puja (The Tribune)",
+      "url": "https://www.tribuneindia.com/news/delhi/devotees-throng-yamuna-ghats-in-delhi-for-chhath-puja-563907",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Confirmed: Phool Walon Ki Sair is held in Mehrauli just after the monsoon, usually September, with flower pankhas taken to the Yogmaya temple and Bakhtiyar Kaki's dargah (Wikipedia, mapsofindia); some years have been delayed or cancelled over permissions, so the date text says dates are set each year.",
+      "Confirmed: Chhath crowds of Purvanchali families on the Yamuna ghats (The Statesman and The Tribune); CR Park as the centre of Delhi's Bengali Durga Puja (Outlook Traveller, The Tribune).",
+      "Open (single source): the Delhi Muslim women's dupatta-over-head suit and the Purvanchali dhoti with gamchha are common dress but have no cited source yet."
+    ]
+  }
+}

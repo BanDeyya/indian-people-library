@@ -1,0 +1,2193 @@
+{
+  "schema_version": 2,
+  "slug": "maharashtra",
+  "code": "MH",
+  "name": "Maharashtra",
+  "type": "state",
+  "zone": "west",
+  "capital": "Mumbai",
+  "status": "reviewed",
+  "languages": [
+    "Marathi (official)",
+    "Hindi",
+    "Urdu",
+    "Konkani",
+    "Ahirani",
+    "Varhadi",
+    "Gondi",
+    "Warli",
+    "and others"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 79.83,
+      "muslim": 11.54,
+      "buddhist": 5.81,
+      "jain": 1.25,
+      "christian": 0.96,
+      "sikh": 0.2,
+      "other": 0.41
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "mumbai",
+      "name": "Mumbai and Thane",
+      "notes": "Metropolitan region; Koliwadas, East Indian gaothans, every community of the state and migrants from across India."
+    },
+    {
+      "id": "konkan",
+      "name": "Konkan coast",
+      "notes": "Palghar, Raigad, Ratnagiri, Sindhudurg: coast, paddy and coconut; Warli areas in Palghar."
+    },
+    {
+      "id": "western",
+      "name": "Western Maharashtra (Desh)",
+      "notes": "Pune, Satara, Sangli, Kolhapur, Solapur: sugarcane belt, Sahyadri hills, Pandharpur."
+    },
+    {
+      "id": "north",
+      "name": "North Maharashtra and Khandesh",
+      "notes": "Nashik, Jalgaon, Dhule, Nandurbar, Ahilyanagar: vineyards, onion and banana farms, tribal belt in the north-west."
+    },
+    {
+      "id": "marathwada",
+      "name": "Marathwada",
+      "notes": "Chhatrapati Sambhajinagar, Paithan, Latur, Nanded and nearby: dry farmland; Paithani weaving."
+    },
+    {
+      "id": "vidarbha",
+      "name": "Vidarbha",
+      "notes": "Nagpur, Amravati, Gadchiroli and nearby: cotton and oranges, forests in the east; Deekshabhoomi in Nagpur."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Marathi",
+      "religion": "hindu",
+      "prompt": "Marathi",
+      "notes": "Men: shirt and trousers daily; dhoti, kurta and bandi among older rural men; kurta with a pheta for festivals. Women: cotton saree or salwar-kameez daily; nauvari or Paithani for festivals; mangalsutra and green bangles when married.",
+      "names": {
+        "female": [
+          "Sneha",
+          "Gauri",
+          "Sumanbai",
+          "Lata",
+          "Pradnya",
+          "Sunita",
+          "Manisha",
+          "Ashwini",
+          "Rupali",
+          "Vaishali",
+          "Shubhangi",
+          "Kalpana",
+          "Swati",
+          "Archana",
+          "Ujwala",
+          "Anjali",
+          "Supriya",
+          "Madhuri",
+          "Kavita",
+          "Sangeeta",
+          "Jyoti",
+          "Meena",
+          "Pooja",
+          "Varsha",
+          "Sarika",
+          "Asha",
+          "Rekha",
+          "Sharda",
+          "Mangal",
+          "Priyanka"
+        ],
+        "male": [
+          "Dattatray",
+          "Ganesh",
+          "Rohit",
+          "Raju",
+          "Sachin",
+          "Sandeep",
+          "Mahesh",
+          "Santosh",
+          "Vitthal",
+          "Prakash",
+          "Amol",
+          "Nitin",
+          "Vijay",
+          "Shankar",
+          "Rahul",
+          "Sunil",
+          "Sandip",
+          "Prashant",
+          "Vishal",
+          "Rajendra",
+          "Balasaheb"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "koli",
+      "name": "Koli (fisherfolk)",
+      "culture": "Koli",
+      "religion": "hindu",
+      "prompt": "Koli",
+      "sub_regions": [
+        "mumbai",
+        "konkan"
+      ],
+      "notes": "Original fishing community of Mumbai's Koliwadas. Women: brightly coloured lugra saree with a white khadki scarf, hair in a bun with flowers. Men: red Koli cap, festive surka waist-cloth. Narali Purnima.",
+      "names": {
+        "female": [
+          "Lata",
+          "Kalpana",
+          "Sunanda",
+          "Meena",
+          "Hemlata",
+          "Vanita",
+          "Sangeeta",
+          "Rekha",
+          "Usha",
+          "Shobha",
+          "Sharda",
+          "Manda",
+          "Kamal",
+          "Pushpa",
+          "Sarita",
+          "Shalini",
+          "Asha",
+          "Jaya",
+          "Mangala",
+          "Nanda",
+          "Rupali",
+          "Vaishali",
+          "Tara",
+          "Sujata",
+          "Leela"
+        ],
+        "male": [
+          "Raju",
+          "Tukaram",
+          "Dilip",
+          "Rajesh",
+          "Ramesh",
+          "Kashinath",
+          "Bhalchandra",
+          "Santosh",
+          "Ravindra",
+          "Ganpat",
+          "Dattatray",
+          "Harishchandra",
+          "Mahesh",
+          "Pandurang",
+          "Ganesh",
+          "Prakash",
+          "Vinod",
+          "Moreshwar",
+          "Vijay",
+          "Ashok"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "buddhist",
+      "name": "Buddhist (Ambedkarite)",
+      "culture": "Marathi",
+      "religion": "buddhist",
+      "prompt": "Marathi",
+      "sub_regions": [
+        "vidarbha",
+        "marathwada",
+        "mumbai",
+        "western"
+      ],
+      "notes": "Followers of Dr B. R. Ambedkar's Navayana Buddhism; Dhammachakra Pravartan Din at Deekshabhoomi, Nagpur. Dress follows everyday Maharashtrian dress; no specific dress sourced yet.",
+      "names": {
+        "female": [
+          "Pradnya",
+          "Sujata",
+          "Vaishali",
+          "Sunanda",
+          "Rupali",
+          "Shital",
+          "Jyoti",
+          "Sanghamitra",
+          "Kranti",
+          "Archana",
+          "Sushma",
+          "Prajakta",
+          "Sangita",
+          "Ujwala",
+          "Suvarna",
+          "Mangala",
+          "Asha",
+          "Sunita",
+          "Jayashree",
+          "Kavita",
+          "Rekha",
+          "Meena",
+          "Prachi",
+          "Snehal",
+          "Vandana",
+          "Sharda"
+        ],
+        "male": [
+          "Sudhakar",
+          "Siddharth",
+          "Rahul",
+          "Prashant",
+          "Milind",
+          "Sandeep",
+          "Bhimrao",
+          "Anand",
+          "Rajratna",
+          "Nitin",
+          "Sanjay",
+          "Prakash",
+          "Ashok",
+          "Vilas",
+          "Sunil",
+          "Sachin",
+          "Vijay",
+          "Amol"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Maharashtrian (Dakhni, Konkani)",
+      "religion": "muslim",
+      "prompt": "Marathi Muslim",
+      "sub_regions": [
+        "mumbai",
+        "marathwada",
+        "north",
+        "western",
+        "vidarbha",
+        "konkan"
+      ],
+      "notes": "Dakhni-Urdu speaking Muslims across the state (large communities in Mumbai, Chhatrapati Sambhajinagar, Malegaon), Konkani Muslims on the coast. Specific dress not yet sourced; characters wear shared kurta-pyjama and salwar-kameez.",
+      "names": {
+        "female": [
+          "Rukhsana",
+          "Nazia",
+          "Shabana",
+          "Farzana",
+          "Ayesha",
+          "Nasreen",
+          "Shaheen",
+          "Sana",
+          "Rubina",
+          "Zainab",
+          "Fatima",
+          "Hina",
+          "Parveen",
+          "Asma",
+          "Shabnam",
+          "Nargis",
+          "Sadia",
+          "Zeenat",
+          "Tabassum",
+          "Kausar",
+          "Afsana",
+          "Gulshan",
+          "Nusrat",
+          "Rehana",
+          "Ishrat",
+          "Shagufta",
+          "Mehnaz",
+          "Saba",
+          "Bushra",
+          "Huma"
+        ],
+        "male": [
+          "Imran",
+          "Arif",
+          "Salim",
+          "Shahid",
+          "Irfan",
+          "Javed",
+          "Rashid",
+          "Aslam",
+          "Faisal",
+          "Naseem",
+          "Sajid",
+          "Tariq",
+          "Wasim",
+          "Zubair",
+          "Rizwan",
+          "Salman",
+          "Zafar",
+          "Anwar",
+          "Nadeem",
+          "Shakeel",
+          "Asif",
+          "Kamran",
+          "Iqbal"
+        ],
+        "second_female": [
+          "Parveen",
+          "Khatoon",
+          "Bano"
+        ],
+        "second_male": [
+          "Ahmad",
+          "Ali",
+          "Hussain",
+          "Akhtar"
+        ]
+      }
+    },
+    {
+      "id": "jain",
+      "name": "Jain",
+      "culture": "Maharashtrian",
+      "religion": "jain",
+      "prompt": "Jain",
+      "sub_regions": [
+        "mumbai",
+        "western",
+        "north",
+        "marathwada"
+      ],
+      "notes": "Mostly urban trading families; everyday Maharashtrian and modern dress. Monastic robes not depicted.",
+      "names": {
+        "female": [
+          "Pooja",
+          "Shweta",
+          "Monika",
+          "Neha",
+          "Rina",
+          "Sonal",
+          "Priyanka",
+          "Ankita",
+          "Swati",
+          "Jinal",
+          "Shilpa",
+          "Rachna",
+          "Sangeeta",
+          "Nidhi",
+          "Priya",
+          "Anju",
+          "Kavita",
+          "Rekha",
+          "Seema",
+          "Manju",
+          "Ritu",
+          "Sarita",
+          "Payal",
+          "Megha",
+          "Disha",
+          "Kalpana"
+        ],
+        "male": [
+          "Hemant",
+          "Abhinav",
+          "Abhinandan",
+          "Sanjay",
+          "Rakesh",
+          "Manish",
+          "Pankaj",
+          "Nitin",
+          "Rajendra",
+          "Vimal",
+          "Rajesh",
+          "Sunil",
+          "Anil",
+          "Ashok",
+          "Vikas",
+          "Sandeep",
+          "Mahavir",
+          "Ajit",
+          "Abhay",
+          "Sumit"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "east_indian",
+      "name": "East Indian Catholic",
+      "culture": "East Indian (Mumbai)",
+      "religion": "christian",
+      "prompt": "East Indian Catholic",
+      "sub_regions": [
+        "mumbai",
+        "konkan"
+      ],
+      "notes": "Mumbai's oldest Catholic community (Vasai, Uttan, Manori-Gorai and Mumbai gaothans). Women wear the lugra, a nine-yard saree with its own drape (green lugra at Agera); harvest feast Agera in October.",
+      "names": {
+        "female": [
+          "Agnes",
+          "Sylvia",
+          "Joyce",
+          "Lourdes",
+          "Philomena",
+          "Cynthia",
+          "Nancy",
+          "Rosy",
+          "Marina",
+          "Lydia",
+          "Maria",
+          "Rita",
+          "Teresa",
+          "Clara",
+          "Anita",
+          "Pauline",
+          "Sharon",
+          "Gracy",
+          "Juliet",
+          "Bernadette",
+          "Carol",
+          "Gloria",
+          "Jennifer",
+          "Celine",
+          "Doris",
+          "Lavina"
+        ],
+        "male": [
+          "Ignatius",
+          "Joseph",
+          "Lawrence",
+          "Anthony",
+          "Gabriel",
+          "Peter",
+          "Martin",
+          "Felix",
+          "Jude",
+          "Dominic",
+          "Francis",
+          "Michael",
+          "Victor",
+          "Leslie",
+          "Augustine",
+          "Andrew",
+          "Bosco",
+          "Aloysius",
+          "Pius",
+          "Wilfred"
+        ]
+      }
+    },
+    {
+      "id": "warli",
+      "name": "Warli (Adivasi)",
+      "culture": "Warli",
+      "prompt": "Warli Adivasi",
+      "sub_regions": [
+        "konkan",
+        "north"
+      ],
+      "notes": "Adivasi community of Palghar and Thane districts. Women: four-yard lugda sari with choli; married women wear a black-bead kali ganthi necklace. Men: half-sleeved shirt or sleeveless jacket with shorts. Festivals incl. Holi and Diwali.",
+      "names": {
+        "female": [
+          "Kamli",
+          "Sumi",
+          "Jayu",
+          "Nami",
+          "Sakhu",
+          "Hirki",
+          "Bhimi",
+          "Ganga",
+          "Yamuna",
+          "Laxmi",
+          "Shevanti",
+          "Sunita",
+          "Kamala",
+          "Jijabai",
+          "Mangala",
+          "Rami",
+          "Lakshmi",
+          "Savita",
+          "Chandra",
+          "Parvati",
+          "Sita",
+          "Sarita",
+          "Durga",
+          "Bhagi",
+          "Jaya",
+          "Kusum"
+        ],
+        "male": [
+          "Ramesh",
+          "Sanjay",
+          "Shivram",
+          "Jivya",
+          "Kalu",
+          "Budhya",
+          "Somnath",
+          "Ganpat",
+          "Lahanu",
+          "Raghu",
+          "Balu",
+          "Sadashiv",
+          "Shankar",
+          "Kashinath",
+          "Raju",
+          "Vasant",
+          "Mahadu",
+          "Laxman",
+          "Dattu",
+          "Kisan",
+          "Bhagwan",
+          "Rama"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "parsi",
+      "name": "Parsi",
+      "culture": "Parsi",
+      "religion": "other",
+      "sub_regions": [
+        "mumbai"
+      ],
+      "notes": "Small Zoroastrian community, mostly in Mumbai. No characters yet; sudreh and kusti are sacred garments and are not depicted."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      9
+    ],
+    "hair": "Black hair, straight or wavy; older women in a bun (khopa or ambada).",
+    "notes": "Wheatish to deep brown; deeper tones common among coastal and rural working communities. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Marathi custom: given name plus father's name (e.g. Sneha Prakash). Most Marathi surnames mark caste or clan; never use them."
+    },
+    {
+      "community": "muslim",
+      "notes": "Arabic or Persian-origin given name plus father's name."
+    },
+    {
+      "community": "east_indian",
+      "notes": "Christian given names with Portuguese-origin surnames (not caste names)."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "mh_modern_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain cotton shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": [
+        "holidify_mh"
+      ]
+    },
+    {
+      "id": "mh_kurta_pyjama_m",
+      "name": "Kurta and pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": [
+        "holidify_mh"
+      ]
+    },
+    {
+      "id": "mh_dhoti_bandi_m",
+      "name": "Dhoti, kurta and bandi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white cotton dhoti with a white kurta and a sleeveless bandi jacket",
+      "short": "white dhoti, kurta and bandi",
+      "sources": [
+        "holidify_mh",
+        "newsbharati_mh"
+      ]
+    },
+    {
+      "id": "mh_festive_kurta_m",
+      "name": "Festive silk kurta with dhoti",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "silk kurta with a cream dhoti",
+      "short": "silk kurta with cream dhoti",
+      "sources": [
+        "aza_mh"
+      ]
+    },
+    {
+      "id": "mh_pheta",
+      "name": "Pheta (turban)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton pheta turban tied in the Maharashtrian style",
+      "short": "Maharashtrian pheta turban",
+      "sources": [
+        "newsbharati_mh",
+        "aza_mh"
+      ]
+    },
+    {
+      "id": "mh_gandhi_topi",
+      "name": "White Gandhi topi",
+      "for": [
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "white cotton Gandhi cap",
+      "short": "white Gandhi cap",
+      "sources": [
+        "open_gandhi_topi"
+      ]
+    },
+    {
+      "id": "mh_puneri_pagadi",
+      "name": "Puneri pagadi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "meaning": [
+        "honour"
+      ],
+      "restricted": true,
+      "prompt": "red Puneri pagadi",
+      "short": "red Puneri pagadi",
+      "sources": [
+        "wiki_puneri_pagadi"
+      ]
+    },
+    {
+      "id": "mh_kolhapuri",
+      "name": "Kolhapuri chappals",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "feet",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "leather Kolhapuri chappals",
+      "short": "Kolhapuri chappals",
+      "sources": [
+        "newsbharati_mh",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "mh_koli_cap",
+      "name": "Koli cap",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "koli",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "red Koli fisherman's cap",
+      "short": "red Koli cap",
+      "sources": [
+        "jio_koli"
+      ]
+    },
+    {
+      "id": "mh_koli_surka_m",
+      "name": "Koli festive surka",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "koli",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "loose printed shirt with fish and boat motifs and an embroidered Koli surka waist-cloth",
+      "short": "Koli printed shirt and embroidered surka",
+      "sources": [
+        "jio_koli"
+      ]
+    },
+    {
+      "id": "mh_warli_m",
+      "name": "Warli men's everyday wear",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "warli",
+      "prompt": "half-sleeved cotton shirt and knee-length shorts",
+      "short": "half-sleeved shirt and shorts",
+      "sources": [
+        "trti_warli"
+      ]
+    },
+    {
+      "id": "mh_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": [
+        "holidify_mh"
+      ]
+    },
+    {
+      "id": "mh_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": [
+        "aza_mh"
+      ]
+    },
+    {
+      "id": "mh_cotton_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "six-yard cotton saree",
+      "short": "cotton saree",
+      "sources": [
+        "aza_mh",
+        "jio_koli"
+      ]
+    },
+    {
+      "id": "mh_nauvari_cotton_f",
+      "name": "Cotton nauvari",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "nine-yard cotton nauvari saree draped with the lower part tucked at the back like a dhoti",
+      "short": "cotton nauvari saree",
+      "sources": [
+        "newsbharati_mh"
+      ]
+    },
+    {
+      "id": "mh_nauvari_silk_f",
+      "name": "Silk nauvari",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "nine-yard silk nauvari saree draped with the lower part tucked at the back like a dhoti, with a zari border",
+      "short": "silk nauvari saree",
+      "sources": [
+        "newsbharati_mh",
+        "aza_mh",
+        "fpj_gudi_padwa"
+      ]
+    },
+    {
+      "id": "mh_pheta_f",
+      "name": "Women's festive pheta",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "colourful pheta turban worn with the nauvari",
+      "short": "colourful pheta",
+      "sources": [
+        "fpj_shiv_jayanti_pune"
+      ]
+    },
+    {
+      "id": "mh_paithani_f",
+      "name": "Paithani saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "silk Paithani saree with a peacock-motif zari pallu and oblique square border",
+      "short": "Paithani silk saree",
+      "sources": [
+        "newsbharati_mh",
+        "aza_mh",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "mh_koli_lugra_f",
+      "name": "Koli lugra",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "koli",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "bright cotton Koli lugra saree with pleats tucked in front and the pallu tucked at the back, white khadki scarf over the shoulders",
+      "short": "bright Koli lugra with white khadki",
+      "sources": [
+        "jio_koli"
+      ]
+    },
+    {
+      "id": "mh_koli_lugra_silk_f",
+      "name": "Koli silk lugra",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "koli",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "bright silk Koli lugra saree with pleats in front and the pallu tucked at the back",
+      "short": "bright silk Koli lugra",
+      "sources": [
+        "jio_koli"
+      ]
+    },
+    {
+      "id": "mh_east_indian_lugra_f",
+      "name": "East Indian lugra",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "east_indian",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "green East Indian lugra, a nine-yard checked cotton saree with a lined border and its own drape",
+      "short": "green East Indian lugra",
+      "sources": [
+        "fpj_agera",
+        "eastindian_lugra"
+      ]
+    },
+    {
+      "id": "mh_warli_f",
+      "name": "Warli lugda",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "warli",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "four-yard cotton lugda sari with a choli blouse",
+      "short": "four-yard lugda sari with choli",
+      "sources": [
+        "trti_warli"
+      ]
+    },
+    {
+      "id": "mh_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton kurta with full-length leggings",
+      "short": "girl's kurta and leggings",
+      "sources": []
+    },
+    {
+      "id": "mh_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's silk ankle-length skirt and long-sleeved blouse",
+      "short": "girl's silk long skirt and blouse",
+      "sources": []
+    },
+    {
+      "id": "mh_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "mh_mangalsutra",
+      "name": "Mangalsutra",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "black-bead mangalsutra with a small gold pendant",
+      "short": "black-bead mangalsutra",
+      "sources": [
+        "holidify_mh",
+        "jio_koli"
+      ]
+    },
+    {
+      "id": "mh_green_bangles",
+      "name": "Green glass bangles",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "green glass bangles",
+      "short": "green glass bangles",
+      "sources": [
+        "aza_mh",
+        "holidify_mh"
+      ]
+    },
+    {
+      "id": "mh_koli_gaathla",
+      "name": "Koli gaathla",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "koli",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "black-bead and gold gaathla mangalsutra",
+      "short": "black-bead gaathla",
+      "sources": [
+        "jio_koli"
+      ]
+    },
+    {
+      "id": "mh_warli_ganthi",
+      "name": "Kali ganthi",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "warli",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "black-bead kali ganthi necklace",
+      "short": "black-bead necklace",
+      "sources": [
+        "trti_warli"
+      ]
+    },
+    {
+      "id": "mh_nath",
+      "name": "Nath (nose ring)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "pearl Maharashtrian nath nose ring",
+      "short": "pearl nath",
+      "sources": [
+        "newsbharati_mh",
+        "aza_mh"
+      ]
+    },
+    {
+      "id": "mh_kolhapuri_saaj",
+      "name": "Kolhapuri saaj",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "gold Kolhapuri saaj necklace",
+      "short": "gold Kolhapuri saaj",
+      "sources": [
+        "aza_mh"
+      ]
+    },
+    {
+      "id": "mh_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "mh_salwar_f"
+        ],
+        [
+          "mh_cotton_saree_f"
+        ],
+        [
+          "mh_koli_lugra_f"
+        ]
+      ],
+      "festive": [
+        [
+          "mh_nauvari_silk_f",
+          "mh_nath"
+        ],
+        [
+          "mh_paithani_f"
+        ],
+        [
+          "mh_east_indian_lugra_f"
+        ]
+      ],
+      "reason": "Salwar-kameez or cotton saree daily; silk nauvari with nath and Paithani for festivals and weddings; each community's own lugra where it has one."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "mh_modern_m"
+        ]
+      ],
+      "festive": [
+        [
+          "mh_festive_kurta_m",
+          "mh_pheta"
+        ],
+        [
+          "mh_koli_surka_m",
+          "mh_koli_cap"
+        ]
+      ],
+      "reason": "Shirt and trousers daily; kurta with pheta at Gudi Padwa, Ganeshotsav and weddings."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "mh_nauvari_cotton_f"
+        ],
+        [
+          "mh_cotton_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "mh_nauvari_silk_f"
+        ]
+      ],
+      "reason": "Older rural women still wear the nauvari daily."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "mh_dhoti_bandi_m",
+          "mh_gandhi_topi"
+        ]
+      ],
+      "festive": [
+        [
+          "mh_festive_kurta_m",
+          "mh_pheta"
+        ]
+      ],
+      "reason": "Older rural men keep the dhoti, kurta, bandi and white cap."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "mh_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "mh_kids_g_fest"
+        ]
+      ],
+      "reason": "Simple festive silk skirt and blouse."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "mh_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "mh_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama for festivals."
+    }
+  },
+  "grooming": [
+    {
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "notes": "Hair in a bun (khopa or ambada) decorated with flowers, especially among Koli women and for festivals.",
+      "prompt": "hair in a bun with a string of flowers"
+    }
+  ],
+  "occasions": [
+    {
+      "id": "narali_purnima",
+      "name": "Narali Purnima",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "koli"
+      ],
+      "when": "August (Shravan full moon)",
+      "scene": "Narali Purnima, Koli families offering coconuts to the sea at a Koliwada shore",
+      "scene_short": "Narali Purnima at a Koliwada shore"
+    },
+    {
+      "id": "ganeshotsav",
+      "name": "Ganesh Chaturthi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "koli"
+      ],
+      "when": "August-September",
+      "scene": "Ganesh Chaturthi, a decorated Ganpati pandal with flowers and lights and families visiting",
+      "scene_short": "decorated Ganpati pandal with lights"
+    },
+    {
+      "id": "gudi_padwa",
+      "name": "Gudi Padwa",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "March-April",
+      "scene": "Gudi Padwa morning procession with dhol-tasha groups on a decorated old-city street",
+      "scene_short": "Gudi Padwa street procession with dhol"
+    },
+    {
+      "id": "ganesh_visarjan",
+      "name": "Ganesh visarjan procession",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "koli"
+      ],
+      "when": "last day of Ganeshotsav (September)",
+      "scene": "Ganesh visarjan procession, dhol-tasha pathaks drumming in rows on a crowded street",
+      "scene_short": "visarjan procession with dhol-tasha"
+    },
+    {
+      "id": "shiv_jayanti",
+      "name": "Shiv Jayanti",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "koli"
+      ],
+      "when": "19 February (state date); some groups also mark it by the Hindu calendar (Phalguna)",
+      "scene": "Shiv Jayanti procession, women in nauvari and pheta dancing lezim, dhol drummers and plain saffron flags on a city street",
+      "scene_short": "Shiv Jayanti lezim procession"
+    },
+    {
+      "id": "diwali_mh",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "koli",
+        "jain",
+        "warli"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, clay lamps and a paper akash kandil lantern outside a home",
+      "scene_short": "Diwali lamps and akash kandil lantern"
+    },
+    {
+      "id": "pandharpur_wari",
+      "name": "Pandharpur Wari",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu"
+      ],
+      "when": "Ashadhi Ekadashi (June-July)",
+      "scene": "Pandharpur Wari, pilgrims walking and singing with pennants on a country road in the monsoon, men in white and women in colourful sarees",
+      "scene_short": "Wari pilgrims walking on a country road"
+    },
+    {
+      "id": "dhammachakra",
+      "name": "Dhammachakra Pravartan Din",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "buddhist"
+      ],
+      "when": "October (Ashoka Vijayadashami)",
+      "scene": "Dhammachakra Pravartan Din, large crowds of followers at the white stupa of Deekshabhoomi in Nagpur",
+      "scene_short": "crowds at Deekshabhoomi, Nagpur"
+    },
+    {
+      "id": "eid_mh",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in an old-city lane outside a mosque",
+      "scene_short": "Eid morning in an old-city lane"
+    },
+    {
+      "id": "agera",
+      "name": "Agera (harvest feast)",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "east_indian"
+      ],
+      "when": "first Sunday of October",
+      "scene": "Agera harvest feast, paddy sheaves carried to a village church in Vasai",
+      "scene_short": "Agera paddy sheaves at a Vasai church",
+      "sub_regions": [
+        "mumbai",
+        "konkan"
+      ]
+    },
+    {
+      "id": "christmas_mh",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "east_indian"
+      ],
+      "when": "December",
+      "scene": "Christmas evening in a gaothan lane with star lanterns and a lit church",
+      "scene_short": "gaothan Christmas lights"
+    },
+    {
+      "id": "warli_holi",
+      "name": "Holi in a Warli village",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "warli"
+      ],
+      "when": "March",
+      "scene": "Holi in a Warli village, drums and circle dancing",
+      "scene_short": "Warli village Holi dancing"
+    },
+    {
+      "id": "wedding_guest_mh",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding hall decorated with marigolds",
+      "scene_short": "wedding hall with marigolds"
+    }
+  ],
+  "settings": [
+    {
+      "id": "mumbai_street",
+      "type": "urban",
+      "description": "busy Mumbai street with old buildings and a suburban train bridge",
+      "short": "busy Mumbai street",
+      "sub_regions": [
+        "mumbai"
+      ]
+    },
+    {
+      "id": "koliwada",
+      "type": "urban",
+      "description": "Koliwada fishing village with colourful boats pulled up on the shore",
+      "short": "Koliwada with colourful boats",
+      "sub_regions": [
+        "mumbai",
+        "konkan"
+      ],
+      "communities": [
+        "koli"
+      ]
+    },
+    {
+      "id": "pune_lane",
+      "type": "urban",
+      "description": "old Pune lane with wooden wada houses",
+      "short": "old Pune lane",
+      "sub_regions": [
+        "western"
+      ]
+    },
+    {
+      "id": "nagpur_street",
+      "type": "urban",
+      "description": "Nagpur city street with shops",
+      "short": "Nagpur street",
+      "sub_regions": [
+        "vidarbha"
+      ]
+    },
+    {
+      "id": "old_city",
+      "type": "urban",
+      "description": "old-city market lane with small shops",
+      "short": "old-city market lane",
+      "sub_regions": [
+        "marathwada",
+        "north"
+      ]
+    },
+    {
+      "id": "konkan_village",
+      "type": "rural",
+      "description": "Konkan village with laterite walls, coconut palms and red earth",
+      "short": "Konkan village, coconut palms",
+      "sub_regions": [
+        "konkan"
+      ]
+    },
+    {
+      "id": "warli_village",
+      "type": "rural",
+      "description": "village of mud houses with white Warli paintings on the walls",
+      "short": "mud houses with Warli paintings",
+      "sub_regions": [
+        "konkan",
+        "north"
+      ],
+      "communities": [
+        "warli"
+      ]
+    },
+    {
+      "id": "sugarcane",
+      "type": "rural",
+      "description": "tall green sugarcane fields",
+      "short": "sugarcane fields",
+      "sub_regions": [
+        "western",
+        "marathwada",
+        "north"
+      ]
+    },
+    {
+      "id": "cotton_fields",
+      "type": "rural",
+      "description": "cotton fields under a wide sky",
+      "short": "cotton fields",
+      "sub_regions": [
+        "vidarbha",
+        "marathwada",
+        "north"
+      ]
+    },
+    {
+      "id": "sahyadri_village",
+      "type": "rural",
+      "description": "Sahyadri hill village in the monsoon with green paddy terraces",
+      "short": "Sahyadri hill village in the monsoon",
+      "sub_regions": [
+        "western",
+        "konkan"
+      ]
+    },
+    {
+      "id": "home_flat",
+      "type": "home",
+      "description": "small apartment balcony with potted plants",
+      "short": "apartment balcony",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_rural_mh",
+      "type": "home",
+      "description": "village house verandah with a swept courtyard",
+      "short": "village house verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_mh",
+      "type": "work",
+      "description": "modern office in Pune",
+      "short": "Pune office",
+      "sub_regions": [
+        "western"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in the fields"
+    },
+    {
+      "id": "fish_seller",
+      "name": "Fish seller",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "selling fish at a busy fish market"
+    },
+    {
+      "id": "fisherman",
+      "name": "Fisherman",
+      "setting": "both",
+      "for": [
+        "adult_male"
+      ],
+      "scene": "mending nets beside a fishing boat"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "weaver",
+      "name": "Paithani weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving silk at a handloom"
+    }
+  ],
+  "seasons": {
+    "monsoon": "Heavy rain on the Konkan coast and Sahyadris (June-September); lighter on the Deccan plateau.",
+    "summer": "Hot and dry inland, especially Vidarbha (March-May).",
+    "winter": "Mild and dry (November-February)."
+  },
+  "heritage": [
+    {
+      "id": "maratha_court",
+      "name": "Maratha and Peshwa court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress waits for the era phase; real historical rulers are never depicted.",
+      "sources": []
+    },
+    {
+      "id": "shiv_jayanti_costume",
+      "name": "Shivaji Maharaj costumes, swords and portrait flags at Shiv Jayanti",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "The festival is shown through lezim, dhol and festive dress; nobody is dressed as a real historical figure, no weapons are shown, and flags are plain (no portraits).",
+      "sources": [
+        "fpj_shiv_jayanti_pune",
+        "outlook_shiv_jayanti_nashik"
+      ]
+    },
+    {
+      "id": "dhol_tasha",
+      "name": "Dhol-tasha pathaks",
+      "kind": "other",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [],
+      "reason": "Played in Maratha battles and celebrations, tied to Ganeshotsav since the 19th century; shown as processions. Player uniform waits for a real source.",
+      "sources": [
+        "dh_dhol_tasha"
+      ]
+    },
+    {
+      "id": "puneri_pagadi",
+      "name": "Puneri pagadi",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "mh_puneri_pagadi"
+      ],
+      "reason": "GI-protected symbol of honour worn on special occasions; kept as a restricted honour item and never auto-selected. The everyday festive pheta is used instead.",
+      "sources": [
+        "wiki_puneri_pagadi"
+      ]
+    },
+    {
+      "id": "warkari",
+      "name": "Warkari tulsi mala and forehead marks",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "The tulsi mala and gopichandan marks belong to practising Warkaris; characters may appear at the Wari only as pilgrims in ordinary dress.",
+      "sources": [
+        "wiki_warkari",
+        "pari_wari"
+      ]
+    },
+    {
+      "id": "mardani_khel",
+      "name": "Mardani khel and weapons",
+      "kind": "warrior",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Weapons are excluded from the public library.",
+      "sources": []
+    },
+    {
+      "id": "parsi_sacred",
+      "name": "Parsi sudreh and kusti",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Sacred garments of Zoroastrian faith.",
+      "sources": []
+    },
+    {
+      "id": "gi_textiles",
+      "name": "Paithani saree and Kolhapuri chappals",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "mh_paithani_f",
+        "mh_kolhapuri"
+      ],
+      "reason": "GI-tagged crafts worn widely today.",
+      "sources": [
+        "newsbharati_mh"
+      ]
+    }
+  ],
+  "avoid": [
+    "Caste labels or caste surnames (e.g. Patil, Deshmukh, Kulkarni); caste or reservation politics.",
+    "Real historical figures (e.g. Chhatrapati Shivaji Maharaj, Peshwas) or lookalikes.",
+    "Lavani dance costume or any glamour framing of Maharashtrian women.",
+    "Mumbai slum, poverty or 'Bollywood' cliches; farmer distress or drought framing.",
+    "Communal or political imagery (party flags, riots, language politics).",
+    "Warkari tulsi mala or forehead marks on characters; Jain monastic robes; Parsi sacred garments.",
+    "Nauvari shown only as a costume: it is also everyday dress for many older rural women.",
+    "Anyone dressed as Shivaji Maharaj, swords or sticks, or flags with a real person's portrait (Shiv Jayanti is shown through lezim, dhol and festive dress)."
+  ],
+  "todo": [
+    "Dhol-tasha pathak player outfit, with a news or institutional source that describes it.",
+    "Maharashtrian Muslim dress (Dakhni, Konkani, Bohra) with sources.",
+    "Buddhist community dress and occasions beyond Dhammachakra Pravartan Din (Buddha Purnima, Ambedkar Jayanti).",
+    "Gond and other Vidarbha tribal dress; PVTGs Katkari (Kathodi), Kolam and Madia Gond held back until priority-1/2 sources and extra review.",
+    "Parsi everyday dress (gara saree) if characters are added.",
+    "Pola (bullock festival), Bhondla and Nag Panchami with sources.",
+    "Native review (someone from Maharashtra)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Maharashtra religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/27-maharashtra.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "newsbharati_mh",
+      "title": "The diverse costumes of Maharashtra (News Bharati)",
+      "url": "https://newsbharati.com/Encyc/2021/5/1/Maharashtra-wear.html",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "holidify_mh",
+      "title": "Maharashtra dresses (Holidify)",
+      "url": "https://holidify.com/pages/maharashtra-dresses-144.html",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_mh",
+      "title": "Maharashtra heritage traditional style guide (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/maharashtra-heritage-traditional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "jio_koli",
+      "title": "Traditional attire and jewellery of the Koli community of Mumbai (Jio Institute exhibits)",
+      "url": "https://exhibits.jioinstitute.edu.in/spotlight/traditional-dress-of-the-kolis-of-mumbai/feature/traditional-attire-and-jewellery-of-the-koli-community-of-mumbai",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "trti_warli",
+      "title": "Brief details of Warli (Tribal Research and Training Institute, Govt. of Gujarat)",
+      "url": "https://trti.gujarat.gov.in/warli",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "fpj_agera",
+      "title": "East Indians celebrate Agera harvest festival (Free Press Journal)",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-mother-mary-draped-in-green-lugra-saree-as-east-indians-celebrate-agera-harvest-festival",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "eastindian_lugra",
+      "title": "The lugra dress (East Indian Memory Co.)",
+      "url": "https://eastindianmemoryco.com/2017/12/01/lugra-dress",
+      "type": "community",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "fpj_gudi_padwa",
+      "title": "Girgaon Gudi Padwa shobha yatra (Free Press Journal)",
+      "url": "https://www.freepressjournal.in/lifestyle/girgaon-gudi-padwa-2026-mumbaikars-get-ready-to-participate-in-vibrant-shobha-yatra",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "open_gandhi_topi",
+      "title": "Requiem for the Gandhi topi (Open Magazine)",
+      "url": "https://openthemagazine.com/cover-stories/requiem-for-the-gandhi-topi",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_puneri_pagadi",
+      "title": "Puneri Pagadi (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Puneri_Pagadi",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_warkari",
+      "title": "Warkari (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Warkari",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pari_wari",
+      "title": "Walking the wari (People's Archive of Rural India)",
+      "url": "https://ruralindiaonline.org/articles/walking-the-wari",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "newsonair_deekshabhoomi",
+      "title": "Followers pay homage at Deekshabhoomi on Dhammachakra Pravartan Day (All India Radio)",
+      "url": "https://newsonair.gov.in/millions-of-followers-pay-homage-to-dr-babasaheb-ambedkar-at-deekshabhoomi-on-70th-dhammachakra-pravartan-day/",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "fpj_shiv_jayanti_pune",
+      "title": "Streets of Pune come alive on Chhatrapati Shivaji Maharaj Jayanti (Free Press Journal)",
+      "url": "https://www.freepressjournal.in/pune/photos-streets-of-pune-come-alive-as-citizens-mark-chhatrapati-shivaji-maharaj-jayanti-with-grand-cultural-performances",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "outlook_shiv_jayanti_nashik",
+      "title": "Nashik celebrated Chhatrapati Shivaji Maharaj Jayanti (Outlook Traveller)",
+      "url": "https://www.outlooktraveller.com/experiences/heritage/nashik-celebrated-chhatrapati-shivaji-maharaj-jayanti-2025-in-full-fervour-take-a-look",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "dh_dhol_tasha",
+      "title": "Bengaluru troupe revives Maharashtrian dhol-tasha beats (Deccan Herald)",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-troupe-revives-16th-century-maharashtrian-dhol-tasha-beats-3736552",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_agera",
+      "title": "Agera (festival) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Agera_(festival)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Named handloom textiles (2 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Confirmed: Agera is held on the first Sunday of October by Mumbai's East Indian Catholics, also in Thane, Raigad and Vasai (Wikipedia; Free Press Journal, which also reports Mother Mary draped in a green lugra at Agera).",
+      "Clarified: Shiv Jayanti is officially on 19 February; some organisations celebrate on the Hindu-calendar date (Phalguna Vadya Tritiya), so the date text now says both.",
+      "Checked: Paithani and Kolhapuri chappals are Maharashtra GI products. Open (one publisher): the Koli lugra, surka, red cap and gaathla come from the Jio Institute exhibit pages only (several pages, one source)."
+    ]
+  }
+}

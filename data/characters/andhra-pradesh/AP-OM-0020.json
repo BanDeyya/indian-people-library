@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-OM-0020",
+  "name": "Shaik Hussain",
+  "region": "andhra-pradesh",
+  "sub_region": "rayalaseema",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short white hair",
+    "build": "average",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ap_kurta_pyjama_m",
+    "ap_shirt_trousers_m"
+  ],
+  "language": [
+    "Urdu",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

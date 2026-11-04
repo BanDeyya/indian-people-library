@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "WB-OM-0016",
+  "name": "Abdul Islam",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "stocky",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "white beard, trimmed"
+  },
+  "wardrobe": [
+    "wb_lungi_m",
+    "wb_pyjama_panjabi_m",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

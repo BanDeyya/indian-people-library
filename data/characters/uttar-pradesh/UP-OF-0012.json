@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0012",
+  "name": "Sunita",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "chikan_artisan",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face with a soft jaw",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "up_cotton_saree_f",
+    "up_banarasi_f",
+    "up_lehenga_f"
+  ],
+  "language": [
+    "Hindi",
+    "Awadhi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

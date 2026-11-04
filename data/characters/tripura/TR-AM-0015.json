@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TR-AM-0015",
+  "name": "Mevar",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "tripuri",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "rubber_tapper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "tr_rikutu_gamcha_m",
+    "tr_shirt_trousers_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Kokborok",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

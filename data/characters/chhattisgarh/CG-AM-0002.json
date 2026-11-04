@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0002",
+  "name": "Deepak Kumar",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "average",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "cg_shirt_trousers_m",
+    "cg_kurta_pyjama_m",
+    "cg_dhoti_kurta_m"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

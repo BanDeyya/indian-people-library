@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0009",
+  "name": "Vitthal Sachin",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face with a strong jaw",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "mh_kurta_pyjama_m",
+    "mh_modern_m",
+    "mh_festive_kurta_m"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

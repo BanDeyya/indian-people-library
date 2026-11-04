@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0015",
+  "name": "Payal Vinod",
+  "region": "punjab",
+  "sub_region": "puadh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with a rounded chin",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "average",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "pb_suit_f",
+    "pb_jhumka",
+    "pb_khes_wrap"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

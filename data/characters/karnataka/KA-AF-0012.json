@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0012",
+  "name": "Shruthi",
+  "region": "karnataka",
+  "sub_region": "kalyana",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "ka_mysore_silk_f",
+    "ka_cotton_saree_f",
+    "ka_mangalsutra"
+  ],
+  "language": [
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

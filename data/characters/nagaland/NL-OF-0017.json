@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0017",
+  "name": "Rhonbeni",
+  "region": "nagaland",
+  "sub_region": "wokha",
+  "community": "lotha",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "heart-shaped face, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair pulled back",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "nl_lotha_married_f",
+    "nl_plain_top_f",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Lotha",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

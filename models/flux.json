@@ -1,0 +1,22 @@
+{
+  "id": "flux",
+  "family": "flux",
+  "description": "FLUX.1 family: T5 encoder reads long text; usually run without negative prompts. Token count is an estimate.",
+  "tokenizer": "approx",
+  "token_budget": 250,
+  "long_prompt": "native",
+  "max_chunks": 1,
+  "negatives": false,
+  "variant": "long",
+  "sizes": {
+    "portrait": [
+      1024,
+      1024
+    ],
+    "full": [
+      832,
+      1216
+    ]
+  },
+  "style": "realistic photo, natural light"
+}

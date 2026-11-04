@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0016",
+  "name": "Yamuna",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 57,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair with grey streaks in a bun",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "tn_churidar_f",
+    "tn_half_saree_f",
+    "tn_thali",
+    "tn_metti",
+    "tn_jhumka"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

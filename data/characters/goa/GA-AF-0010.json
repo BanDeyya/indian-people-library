@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0010",
+  "name": "Neha",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 52,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun with flowers",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_silk_saree_f",
+    "ga_raincoat",
+    "ga_glass_bangles"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

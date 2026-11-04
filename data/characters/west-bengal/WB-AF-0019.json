@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "WB-AF-0019",
+  "name": "Parvati",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "santal",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 52,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "strong",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "wb_phutta_sari_f",
+    "wb_tant_f",
+    "wb_gamcha",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Santali",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "BR-AF-0007",
+  "name": "Rekha Devi",
+  "region": "bihar",
+  "sub_region": "mithila",
+  "community": "maithil",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "silk_weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "br_laalpaar_f",
+    "br_cotton_saree_f",
+    "br_sindoor_mt",
+    "br_shakha_pola",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Maithili",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

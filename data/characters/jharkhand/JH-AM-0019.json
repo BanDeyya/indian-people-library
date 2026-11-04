@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0019",
+  "name": "Shakeel",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "jh_kurta_pyjama_m",
+    "jh_shirt_trousers_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

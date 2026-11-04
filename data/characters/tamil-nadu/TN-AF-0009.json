@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0009",
+  "name": "Divya Balaji",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "textile_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "plump",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "tn_kanjeevaram_f",
+    "tn_chettinad_f",
+    "tn_half_saree_f",
+    "tn_jasmine",
+    "tn_thali",
+    "tn_metti",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

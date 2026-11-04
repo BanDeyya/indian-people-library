@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "UK-AF-0002",
+  "name": "Geeta Devi",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a bun",
+    "build": "average",
+    "signature_mark": "small birthmark on her left wrist"
+  },
+  "wardrobe": [
+    "uk_suit_f",
+    "uk_saree_f",
+    "uk_ghagri_f",
+    "uk_pichhora",
+    "uk_sindoor_k",
+    "uk_guluband"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

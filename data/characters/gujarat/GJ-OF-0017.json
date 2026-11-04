@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-OF-0017",
+  "name": "Valiben Kana",
+  "region": "gujarat",
+  "sub_region": "kutch",
+  "community": "rabari",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim and strong",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "gj_rabari_f",
+    "gj_rabari_earrings",
+    "gj_saree_f"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

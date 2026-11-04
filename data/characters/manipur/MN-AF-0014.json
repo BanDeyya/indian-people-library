@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MN-AF-0014",
+  "name": "Mareichon",
+  "region": "manipur",
+  "sub_region": "north_hills",
+  "community": "tangkhul",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair tied back",
+    "build": "medium",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "mn_kashan_f",
+    "mn_winter_jacket",
+    "mn_phanek_f"
+  ],
+  "language": [
+    "Tangkhul",
+    "Meiteilon",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

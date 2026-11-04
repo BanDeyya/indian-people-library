@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "id": "CH-OM-0019",
+  "name": "Jagdeep Singh",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "sikh",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "heavy",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ch_dastar_m",
+    "ch_kara",
+    "ch_shirt_jeans_m",
+    "ch_kurta_pajama_m",
+    "ch_winter_jacket"
+  ],
+  "always_wear": [
+    "ch_dastar_m",
+    "ch_kara"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

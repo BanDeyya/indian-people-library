@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0014",
+  "name": "Sarita",
+  "region": "uttar-pradesh",
+  "sub_region": "braj",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "up_salwar_f",
+    "up_banarasi_f",
+    "up_lehenga_f",
+    "up_glass_bangles",
+    "up_sindoor",
+    "up_bichiya"
+  ],
+  "language": [
+    "Braj Bhasha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

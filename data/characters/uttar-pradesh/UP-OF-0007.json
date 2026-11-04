@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0007",
+  "name": "Kavita Devi",
+  "region": "uttar-pradesh",
+  "sub_region": "braj",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "up_cotton_saree_f",
+    "up_banarasi_f",
+    "up_sindoor",
+    "up_bichiya",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Braj Bhasha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

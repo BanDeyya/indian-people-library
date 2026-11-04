@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "id": "PB-AF-0006",
+  "name": "Harjit Kaur",
+  "region": "punjab",
+  "sub_region": "doaba",
+  "community": "sikh",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a single braid",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_suit_f",
+    "pb_suit_head_f",
+    "pb_phulkari_f",
+    "pb_parandi"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

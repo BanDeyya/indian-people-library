@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0007",
+  "name": "Bendang",
+  "region": "nagaland",
+  "sub_region": "mokokchung",
+  "community": "ao",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "musician",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "narrow face with high cheekbones, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "medium-length black hair",
+    "build": "lean",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "nl_trousers_m",
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Ao",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-AM-0003",
+  "name": "Abdul Karim",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair greying at the temples",
+    "build": "lean",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "tr_lungi_m",
+    "tr_pyjama_panjabi_m",
+    "tr_tupi_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

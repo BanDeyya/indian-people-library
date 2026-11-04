@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-OM-0013",
+  "name": "Girish Kiran",
+  "region": "karnataka",
+  "sub_region": "old_mysore",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "square sun-darkened face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ka_kurta_panche_m",
+    "ka_panche_shirt_m"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

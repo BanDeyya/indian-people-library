@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "MH-OM-0008",
+  "name": "Vishal Vijay",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "mh_dhoti_bandi_m",
+    "mh_festive_kurta_m",
+    "mh_gandhi_topi",
+    "mh_pheta",
+    "mh_kolhapuri"
+  ],
+  "language": [
+    "Marathi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

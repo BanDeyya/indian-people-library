@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MP-AM-0001",
+  "name": "Kailash Narayan",
+  "region": "madhya-pradesh",
+  "sub_region": "malwa",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "thick moustache",
+    "build": "stocky",
+    "signature_mark": "scar on his right forearm"
+  },
+  "wardrobe": [
+    "mp_dhoti_kurta_m",
+    "mp_gamchha",
+    "mp_bandi_m",
+    "mp_safa",
+    "mp_mirzai"
+  ],
+  "language": [
+    "Malvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

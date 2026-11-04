@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0002",
+  "name": "Rosa",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "gawda",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "strong lined face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "wiry",
+    "signature_mark": "small mole near her mouth"
+  },
+  "wardrobe": [
+    "ga_kapodd_f",
+    "ga_saree_f"
+  ],
+  "language": [
+    "Konkani"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

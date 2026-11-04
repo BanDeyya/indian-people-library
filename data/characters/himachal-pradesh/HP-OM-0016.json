@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-OM-0016",
+  "name": "Hans Raj Chand",
+  "region": "himachal-pradesh",
+  "sub_region": "chamba",
+  "community": "gaddi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "long weathered face",
+    "eyes": "dark brown eyes",
+    "hair": "thin white hair",
+    "build": "tall and strong",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "hp_shirt_trousers_m",
+    "hp_chola_m",
+    "hp_shawl_m"
+  ],
+  "language": [
+    "Gaddi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

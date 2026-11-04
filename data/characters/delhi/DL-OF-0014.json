@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DL-OF-0014",
+  "name": "Chanda Devi",
+  "region": "delhi",
+  "sub_region": "east",
+  "community": "purvanchali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "medium",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "dl_suit_f",
+    "dl_silk_saree_f",
+    "dl_sindoor_pv"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

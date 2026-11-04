@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0002",
+  "name": "Sushila",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun with flowers",
+    "build": "medium",
+    "signature_mark": "small scar on her left hand"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_silk_saree_f",
+    "ga_glass_bangles",
+    "ga_galsiri",
+    "ga_sindoor",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

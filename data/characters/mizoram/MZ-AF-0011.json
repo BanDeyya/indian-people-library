@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AF-0011",
+  "name": "Lalmuanpuii",
+  "region": "mizoram",
+  "sub_region": "south",
+  "community": "mizo",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "medium",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "mz_modern_f",
+    "mz_puanchei_f",
+    "mz_ngotekherh_f",
+    "mz_hmaram_f",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Mizo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JK-AM-0002",
+  "name": "Showkat Hussain",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shikara_rower",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "strong",
+    "signature_mark": "small scar above his right eyebrow"
+  },
+  "wardrobe": [
+    "jk_shirt_trousers_m",
+    "jk_pheran_m",
+    "jk_kurta_pyjama_m"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

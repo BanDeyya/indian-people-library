@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "SK-OF-0013",
+  "name": "Mamata",
+  "region": "sikkim",
+  "sub_region": "gangtok",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "sk_pharia_f",
+    "sk_kurta_f",
+    "sk_tika",
+    "sk_sindoor"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

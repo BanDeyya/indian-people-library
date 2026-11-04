@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0002",
+  "name": "Pramod Kumar",
+  "region": "odisha",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "trimmed beard",
+    "build": "average",
+    "signature_mark": "small scar on his chin"
+  },
+  "wardrobe": [
+    "od_shirt_trousers_m",
+    "od_ikat_kurta_m",
+    "od_kurta_pyjama_m"
+  ],
+  "language": [
+    "Sambalpuri",
+    "Odia",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

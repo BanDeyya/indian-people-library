@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PY-AM-0020",
+  "name": "Rafiq",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 49,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "py_shirt_trousers_m",
+    "py_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

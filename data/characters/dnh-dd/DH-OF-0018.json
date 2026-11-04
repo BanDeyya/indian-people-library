@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0018",
+  "name": "Hansa",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "dhodia",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "medium",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "dd_dhodia_saree_f",
+    "dd_saree_f"
+  ],
+  "language": [
+    "Dhodia",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

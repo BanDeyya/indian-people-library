@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0006",
+  "name": "Kevilie",
+  "region": "nagaland",
+  "sub_region": "kohima",
+  "community": "angami",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 58,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with soft cheekbones, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair neatly combed",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_trousers_m",
+    "nl_angami_lohe_m"
+  ],
+  "language": [
+    "Angami",
+    "English",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

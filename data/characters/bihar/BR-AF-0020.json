@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-AF-0020",
+  "name": "Shaheen Bano",
+  "region": "bihar",
+  "sub_region": "seemanchal",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "br_festive_suit_f",
+    "br_salwar_f"
+  ],
+  "language": [
+    "Surjapuri",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

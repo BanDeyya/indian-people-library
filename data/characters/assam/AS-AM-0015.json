@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AS-AM-0015",
+  "name": "Dilip",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "bodo",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 55,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "rounded face with soft cheekbones and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "as_gamsa_m",
+    "as_shirt_upper_m",
+    "as_dhoti_kurta_m"
+  ],
+  "language": [
+    "Bodo",
+    "Assamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

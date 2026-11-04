@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "SK-OM-0015",
+  "name": "Wangchuk",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "bhutia",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 84,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "broad weathered face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "stocky",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "sk_bakhu_m",
+    "sk_shirt_trousers_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Sikkimese (Bhutia)",
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

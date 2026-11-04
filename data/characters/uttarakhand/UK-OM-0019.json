@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UK-OM-0019",
+  "name": "Shahid",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "narrow face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "average",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "uk_kurta_pyjama_m",
+    "uk_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "Urdu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0010",
+  "name": "Kulsoom",
+  "region": "ladakh",
+  "sub_region": "nubra",
+  "community": "kargil_muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "oval face with soft cheekbones",
+    "eyes": "brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "la_phiren_f",
+    "la_salwar_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Purgi",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AS-AM-0005",
+  "name": "Hemanta",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "assamese",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with high cheekbones and slightly narrow eyes",
+    "eyes": "dark eyes",
+    "hair": "short black hair, side-parted",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "as_shirt_m",
+    "as_dhoti_kurta_m",
+    "as_gamosa"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

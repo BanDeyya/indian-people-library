@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "AN-AM-0002",
+  "name": "Ravi",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his right eyebrow"
+  },
+  "wardrobe": [
+    "an_shirt_trousers_m",
+    "an_kurta_pyjama_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

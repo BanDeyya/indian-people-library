@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0013",
+  "name": "Kavita Rajiv",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "punjabi_hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with full cheeks",
+    "eyes": "light brown eyes behind glasses",
+    "hair": "long black hair in a low bun",
+    "build": "medium",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "dl_festive_suit_f",
+    "dl_suit_f",
+    "dl_sindoor_pb",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

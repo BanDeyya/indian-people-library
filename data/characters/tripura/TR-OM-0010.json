@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0010",
+  "name": "Haripada Kaushik",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "deeply lined face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "tr_dhoti_panjabi_m",
+    "tr_shirt_trousers_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

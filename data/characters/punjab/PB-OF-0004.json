@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0004",
+  "name": "Navjot Kaur",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face with thick eyebrows",
+    "eyes": "light brown eyes",
+    "hair": "grey hair partly covered by a light chunni",
+    "build": "stocky",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_suit_head_f",
+    "pb_suit_f"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

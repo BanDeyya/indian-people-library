@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-AF-0018",
+  "name": "Rehana",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with full cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "jh_tussar_f",
+    "jh_salwar_f"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

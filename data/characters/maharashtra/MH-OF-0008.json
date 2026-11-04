@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "MH-OF-0008",
+  "name": "Sunita",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 83,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with a pointed chin",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a low bun",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "mh_nauvari_silk_f",
+    "mh_paithani_f",
+    "mh_cotton_saree_f",
+    "mh_mangalsutra",
+    "mh_green_bangles",
+    "mh_nath",
+    "mh_kolhapuri_saaj"
+  ],
+  "language": [
+    "Marathi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

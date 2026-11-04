@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "HR-OM-0005",
+  "name": "Pradeep",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 86,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "tall and wiry",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_pagri",
+    "hr_chaddar",
+    "hr_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

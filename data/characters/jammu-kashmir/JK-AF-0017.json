@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0017",
+  "name": "Usha",
+  "region": "jammu-kashmir",
+  "sub_region": "jammu",
+  "community": "dogra",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a plait",
+    "build": "strong",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "jk_dogra_f",
+    "jk_salwar_f"
+  ],
+  "language": [
+    "Dogri",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

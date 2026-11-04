@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MN-OM-0014",
+  "name": "Somingam",
+  "region": "manipur",
+  "sub_region": "north_hills",
+  "community": "tangkhul",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "mn_smart_m",
+    "mn_shirt_trousers_m",
+    "mn_haora_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Tangkhul",
+    "English",
+    "Meiteilon"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

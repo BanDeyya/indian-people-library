@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0012",
+  "name": "Nazia",
+  "region": "jammu-kashmir",
+  "sub_region": "valley",
+  "community": "kashmiri_muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "dark hair under a dupatta",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "jk_tilla_pheran_f",
+    "jk_modern_f",
+    "jk_pheran_f"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

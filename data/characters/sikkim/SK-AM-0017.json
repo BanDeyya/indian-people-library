@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0017",
+  "name": "Chewang",
+  "region": "sikkim",
+  "sub_region": "north",
+  "community": "bhutia",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 61,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "broad weathered face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_bakhu_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Sikkimese (Bhutia)",
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

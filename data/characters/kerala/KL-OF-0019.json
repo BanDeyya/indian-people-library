@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-OF-0019",
+  "name": "Shiny",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "syrian_christian",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "white hair pulled back in a small bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "kl_chatta_mundu_f",
+    "kl_cotton_saree_f",
+    "kl_small_studs",
+    "kl_minnu"
+  ],
+  "language": [
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

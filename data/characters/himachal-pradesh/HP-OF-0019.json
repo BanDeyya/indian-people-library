@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "HP-OF-0019",
+  "name": "Kamla",
+  "region": "himachal-pradesh",
+  "sub_region": "kinnaur",
+  "community": "kinnaura",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "hp_dohru_f",
+    "hp_suit_f",
+    "hp_thepang"
+  ],
+  "language": [
+    "Kinnauri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

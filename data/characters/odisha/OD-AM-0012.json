@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0012",
+  "name": "Satyajit",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "od_ikat_kurta_m",
+    "od_dhoti_kurta_m",
+    "od_kurta_pyjama_m"
+  ],
+  "language": [
+    "Odia",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-OF-0011",
+  "name": "Durga Devi",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "uk_suit_f",
+    "uk_ghagri_f",
+    "uk_saree_f",
+    "uk_pichhora",
+    "uk_sindoor_k",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

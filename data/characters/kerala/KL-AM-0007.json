@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0007",
+  "name": "Vishnu Anoop",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face with a pointed chin",
+    "eyes": "brown eyes",
+    "hair": "short neatly combed black hair",
+    "build": "slim",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "kl_kasavu_mundu_m",
+    "kl_shirt_trousers_m",
+    "kl_melmundu_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

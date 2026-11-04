@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CG-AF-0020",
+  "name": "Lalita",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "gond",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "broad face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun with a flower",
+    "build": "strong",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "cg_bastar_saree_f",
+    "cg_sutia",
+    "cg_bichiya",
+    "cg_cotton_saree_f"
+  ],
+  "language": [
+    "Halbi",
+    "Gondi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

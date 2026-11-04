@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0004",
+  "name": "Sunanda",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small and thin",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ga_saree_f",
+    "ga_silk_saree_f",
+    "ga_galsiri",
+    "ga_sindoor",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

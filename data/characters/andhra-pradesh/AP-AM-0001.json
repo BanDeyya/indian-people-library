@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AP-AM-0001",
+  "name": "Venkata Ramana",
+  "region": "andhra-pradesh",
+  "sub_region": "godavari",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 45,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "thick moustache",
+    "build": "stocky",
+    "signature_mark": "scar on his left forearm"
+  },
+  "wardrobe": [
+    "ap_pancha_shirt_m",
+    "ap_shirt_trousers_m",
+    "ap_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

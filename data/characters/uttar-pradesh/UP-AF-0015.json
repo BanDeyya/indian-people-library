@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0015",
+  "name": "Rekha",
+  "region": "uttar-pradesh",
+  "sub_region": "bundelkhand",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "black hair covered by her saree pallu at the back",
+    "build": "strong",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "up_chikan_suit_f",
+    "up_banarasi_f",
+    "up_cotton_saree_f",
+    "up_glass_bangles",
+    "up_sindoor",
+    "up_bichiya"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

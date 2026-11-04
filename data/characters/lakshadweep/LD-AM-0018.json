@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0018",
+  "name": "Abdul Khader Mohammed",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "stocky",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "ld_white_mundu_m",
+    "ld_fisher_m",
+    "ld_lungi_shirt_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

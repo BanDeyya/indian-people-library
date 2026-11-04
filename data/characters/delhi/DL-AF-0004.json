@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0004",
+  "name": "Rukhsana",
+  "region": "delhi",
+  "sub_region": "old_delhi",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "zardozi_artisan",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "small dimple on her left cheek"
+  },
+  "wardrobe": [
+    "dl_suit_head_f",
+    "dl_festive_suit_f",
+    "dl_shawl"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

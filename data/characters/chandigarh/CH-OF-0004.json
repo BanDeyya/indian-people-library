@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-OF-0004",
+  "name": "Renu Vinod",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "soft round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "ch_phulkari_f",
+    "ch_suit_f",
+    "ch_sindoor_pb",
+    "ch_shawl"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MZ-OF-0019",
+  "name": "Ratna",
+  "region": "mizoram",
+  "sub_region": "chakma_area",
+  "community": "chakma",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "medium",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "mz_pinon_hadi_f",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Chakma",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

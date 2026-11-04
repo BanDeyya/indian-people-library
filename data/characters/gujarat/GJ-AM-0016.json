@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0016",
+  "name": "Vela",
+  "region": "gujarat",
+  "sub_region": "saurashtra",
+  "community": "rabari",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair neatly combed",
+    "build": "wiry",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "gj_rabari_m",
+    "gj_shirt_trousers_m"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0017",
+  "name": "Tapas",
+  "region": "delhi",
+  "sub_region": "south",
+  "community": "bengali_hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "large dark eyes",
+    "hair": "thin white hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dl_dhoti_panjabi_m",
+    "dl_kurta_pyjama_m",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

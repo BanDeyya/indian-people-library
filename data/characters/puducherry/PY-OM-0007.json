@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "PY-OM-0007",
+  "name": "Balaji",
+  "region": "puducherry",
+  "sub_region": "puducherry",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "py_veshti_sattai_m",
+    "py_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil",
+    "English",
+    "French (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

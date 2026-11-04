@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0004",
+  "name": "Dolma",
+  "region": "himachal-pradesh",
+  "sub_region": "kinnaur",
+  "community": "kinnaura",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a long plait",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "hp_dohru_f",
+    "hp_thepang",
+    "hp_suit_f"
+  ],
+  "language": [
+    "Kinnauri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

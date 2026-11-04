@@ -1,0 +1,1247 @@
+{
+  "schema_version": 2,
+  "slug": "chandigarh",
+  "code": "CH",
+  "name": "Chandigarh",
+  "type": "union_territory",
+  "zone": "north",
+  "capital": "Chandigarh",
+  "status": "reviewed",
+  "languages": [
+    "English (official)",
+    "Hindi",
+    "Punjabi",
+    "Haryanvi"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 80.78,
+      "sikh": 13.11,
+      "muslim": 4.87,
+      "christian": 0.83,
+      "jain": 0.19,
+      "buddhist": 0.11,
+      "other": 0.12
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "sectors",
+      "name": "City sectors",
+      "notes": "Le Corbusier's planned sectors: Sector 17 plaza, Capitol Complex, Sukhna Lake, Rock Garden."
+    },
+    {
+      "id": "villages",
+      "name": "Manimajra and the villages",
+      "notes": "Manimajra and old villages inside the UT (Burail, Attawa, Kajheri and others)."
+    }
+  ],
+  "communities": [
+    {
+      "id": "punjabi_hindu",
+      "name": "Hindu",
+      "culture": "Punjabi",
+      "religion": "hindu",
+      "prompt": "Punjabi",
+      "notes": "Many families settled after 1947; Punjabi suits, phulkari for festivals; Karva Chauth, Lohri.",
+      "names": {
+        "female": [
+          "Neelam",
+          "Simran",
+          "Sonia",
+          "Rajni",
+          "Anu",
+          "Meenu",
+          "Pooja",
+          "Kamlesh",
+          "Santosh",
+          "Ritu",
+          "Mehak",
+          "Shalini",
+          "Nidhi",
+          "Payal",
+          "Rekha",
+          "Nisha",
+          "Monika",
+          "Anju",
+          "Neha",
+          "Seema",
+          "Kavita",
+          "Renu",
+          "Shilpa",
+          "Pinki",
+          "Kanta",
+          "Usha",
+          "Veena",
+          "Suman",
+          "Rashmi",
+          "Jyoti"
+        ],
+        "male": [
+          "Vikas",
+          "Rajeev",
+          "Sanjeev",
+          "Kewal",
+          "Ashwani",
+          "Rakesh",
+          "Vinod",
+          "Deepak",
+          "Sunil",
+          "Rohit",
+          "Karan",
+          "Sahil",
+          "Mohit",
+          "Varun",
+          "Ashok",
+          "Rajiv",
+          "Pawan",
+          "Naresh",
+          "Gaurav",
+          "Anil",
+          "Sameer"
+        ],
+        "second_female": [
+          "Rani"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Chandigarh (Haryanvi, Himachali, Purvanchali and others)",
+      "religion": "hindu",
+      "notes": "Mixed city: families from Haryana, Himachal, UP, Bihar and beyond; suits, sarees and modern dress; dhoti-kurta among older village men.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Pooja",
+          "Neha",
+          "Priya",
+          "Anjali",
+          "Kavita",
+          "Rekha",
+          "Seema",
+          "Ritu",
+          "Shalini",
+          "Kiran",
+          "Meena",
+          "Sarita",
+          "Asha",
+          "Komal",
+          "Nisha",
+          "Radha",
+          "Usha",
+          "Mamta",
+          "Suman",
+          "Preeti",
+          "Archana",
+          "Vandana",
+          "Jyoti",
+          "Poonam",
+          "Sapna",
+          "Renu",
+          "Deepa",
+          "Aarti",
+          "Shweta"
+        ],
+        "male": [
+          "Rajesh",
+          "Sunil",
+          "Amit",
+          "Rahul",
+          "Manoj",
+          "Sanjay",
+          "Vijay",
+          "Ravi",
+          "Deepak",
+          "Ajay",
+          "Ashok",
+          "Rakesh",
+          "Pankaj",
+          "Rohit",
+          "Vikas",
+          "Anil",
+          "Dinesh",
+          "Suresh",
+          "Mukesh",
+          "Naresh",
+          "Ramesh",
+          "Satish",
+          "Arun",
+          "Alok",
+          "Nitin",
+          "Sachin",
+          "Gaurav",
+          "Vivek",
+          "Manish",
+          "Yogesh"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Kumar",
+          "Prasad"
+        ]
+      }
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "culture": "Punjabi",
+      "religion": "sikh",
+      "prompt": "Sikh",
+      "notes": "Men who keep unshorn hair wear a dastar and steel kara; women cover the head with a chunni at the gurdwara. Articles of faith shown respectfully, never as costume.",
+      "always_wear": {
+        "adult_male": [
+          "ch_dastar_m",
+          "ch_kara"
+        ],
+        "old_male": [
+          "ch_dastar_m",
+          "ch_kara"
+        ],
+        "adult_female": [
+          "ch_kara"
+        ],
+        "old_female": [
+          "ch_kara"
+        ],
+        "child_boy": [
+          "ch_kara"
+        ],
+        "child_girl": [
+          "ch_kara"
+        ]
+      },
+      "names": {
+        "female": [
+          "Harpreet",
+          "Gurpreet",
+          "Manpreet",
+          "Jasleen",
+          "Simranjeet",
+          "Navneet",
+          "Rajwinder",
+          "Kulwinder",
+          "Gurdev",
+          "Amandeep",
+          "Paramjit",
+          "Jaspreet",
+          "Sukhwinder",
+          "Baljit",
+          "Harjit",
+          "Jasvir",
+          "Ravinder",
+          "Satwant",
+          "Kirandeep",
+          "Prabhjot",
+          "Rupinder",
+          "Navjot",
+          "Harleen",
+          "Sukhpreet",
+          "Gurleen",
+          "Mandeep",
+          "Balwinder",
+          "Jaswinder",
+          "Manjit",
+          "Inderjit"
+        ],
+        "male": [
+          "Harjeet",
+          "Gurpreet",
+          "Jaspal",
+          "Manjit",
+          "Harjot",
+          "Kulwant",
+          "Sukhdev",
+          "Balwinder",
+          "Amrik",
+          "Jagdeep",
+          "Paramjit",
+          "Gurmeet",
+          "Navdeep",
+          "Ranjit",
+          "Harinder",
+          "Jaswant",
+          "Kulvir",
+          "Hardeep",
+          "Jagjit",
+          "Lakhwinder",
+          "Bhupinder",
+          "Satnam",
+          "Gurjeet",
+          "Parminder",
+          "Davinder"
+        ],
+        "second_female": [
+          "Kaur"
+        ],
+        "second_male": [
+          "Singh"
+        ],
+        "second_always": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Chandigarh",
+      "religion": "muslim",
+      "sub_regions": [
+        "villages",
+        "sectors"
+      ],
+      "notes": "No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      3,
+      6
+    ],
+    "hair": "Black hair.",
+    "notes": "Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "punjabi_hindu",
+      "notes": "Given names only; surnames mark caste."
+    },
+    {
+      "community": "sikh",
+      "notes": "Given name plus Singh (men) or Kaur (women)."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "ch_shirt_jeans_m",
+      "name": "Shirt and jeans",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "casual shirt and jeans",
+      "short": "shirt and jeans",
+      "sources": []
+    },
+    {
+      "id": "ch_kurta_pajama_m",
+      "name": "Punjabi kurta-pajama",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "knee-length straight-cut white cotton Punjabi kurta with a loose white pajama",
+      "short": "white kurta-pajama",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "ch_saluka_m",
+      "name": "Waistcoat",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "fitted dark waistcoat worn over the kurta",
+      "short": "dark waistcoat",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "ch_dastar_m",
+      "name": "Turban (dastar)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit",
+        "mourning"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "neatly tied Sikh turban (dastar) in a solid colour",
+      "short": "neat Sikh turban",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "ch_suit_f",
+      "name": "Punjabi suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Punjabi suit: long kameez with a salwar and a chunni dupatta over the shoulders",
+      "short": "Punjabi suit",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "ch_suit_head_f",
+      "name": "Suit, chunni over the head",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "prompt": "Punjabi suit with the chunni draped over the head, face visible",
+      "short": "suit, chunni over head",
+      "sources": [
+        "wiki_sikh_women_turbans"
+      ]
+    },
+    {
+      "id": "ch_phulkari_f",
+      "name": "Phulkari suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silk Punjabi suit with a bright phulkari dupatta covered in dense floral embroidery",
+      "short": "suit with phulkari dupatta",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ch_saree_f",
+      "name": "Saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "printed silk-blend saree with a matching blouse",
+      "short": "saree",
+      "sources": []
+    },
+    {
+      "id": "ch_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "printed cotton kurti with jeans and a light scarf",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "ch_dhoti_kurta_m",
+      "name": "Dhoti-kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "white dhoti with a white kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "indianetzone_hr"
+      ]
+    },
+    {
+      "id": "ch_winter_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "padded jacket",
+      "short": "padded jacket",
+      "sources": []
+    },
+    {
+      "id": "ch_shawl",
+      "name": "Woollen shawl",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "light woollen shawl around the shoulders",
+      "short": "woollen shawl",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "ch_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long kurta with full-length trousers and a sweater",
+      "short": "girl's kurta, trousers and sweater",
+      "sources": []
+    },
+    {
+      "id": "ch_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk skirt with a long-sleeved blouse",
+      "short": "girl's long silk skirt",
+      "sources": []
+    },
+    {
+      "id": "ch_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    },
+    {
+      "id": "ch_kids_b_fest",
+      "name": "Boy's kurta-pyjama",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton kurta with pyjama",
+      "short": "boy's kurta and pyjama",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "ch_kara",
+      "name": "Steel kara",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female",
+        "child_boy",
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "school",
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit",
+        "mourning"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "plain steel kara bangle on the wrist",
+      "short": "steel kara",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "ch_sindoor_pb",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "punjabi_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "ch_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "ch_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "ch_suit_f"
+        ],
+        [
+          "ch_modern_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ch_phulkari_f"
+        ]
+      ],
+      "reason": "Punjabi suits are everyday wear; phulkari for festivals."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "ch_shirt_jeans_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ch_kurta_pajama_m",
+          "ch_saluka_m"
+        ]
+      ],
+      "reason": "Kurta-pajama with a waistcoat at festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "ch_suit_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ch_phulkari_f"
+        ]
+      ],
+      "reason": "Punjabi suit."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "ch_kurta_pajama_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ch_kurta_pajama_m",
+          "ch_saluka_m"
+        ]
+      ],
+      "reason": "Kurta-pajama."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "ch_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "ch_kids_g_fest"
+        ]
+      ],
+      "reason": "Long silk skirt."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "ch_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "ch_kids_b_fest"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "rose_festival",
+      "name": "Rose Festival",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "February",
+      "scene": "Rose Festival at the Zakir Hussain Rose Garden, families walking among rose beds and stalls",
+      "scene_short": "Rose Festival gardens"
+    },
+    {
+      "id": "lohri_ch",
+      "name": "Lohri",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "punjabi_hindu",
+        "sikh"
+      ],
+      "when": "January",
+      "scene": "Lohri night, family and neighbours gathered around a bonfire, sharing peanuts and rewri",
+      "scene_short": "Lohri bonfire"
+    },
+    {
+      "id": "vaisakhi_ch",
+      "name": "Vaisakhi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "sikh",
+        "punjabi_hindu"
+      ],
+      "when": "April",
+      "scene": "Vaisakhi in Chandigarh, families in bright festive clothes at a fair",
+      "scene_short": "Vaisakhi fair"
+    },
+    {
+      "id": "karva_chauth_ch",
+      "name": "Karva Chauth",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "punjabi_hindu",
+        "hindu"
+      ],
+      "marital_status": [
+        "married"
+      ],
+      "when": "October-November",
+      "scene": "Karva Chauth evening, married women sitting in a circle with decorated thalis singing together",
+      "scene_short": "Karva Chauth thali circle"
+    },
+    {
+      "id": "diwali_ch",
+      "name": "Diwali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "punjabi_hindu",
+        "hindu"
+      ],
+      "when": "October-November",
+      "scene": "Diwali evening, lights on a sector house balcony",
+      "scene_short": "Diwali lights"
+    },
+    {
+      "id": "gurpurab_ch",
+      "name": "Gurpurab",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "sikh"
+      ],
+      "when": "November",
+      "scene": "Gurpurab evening, a gurdwara lit with lights, families arriving",
+      "scene_short": "gurdwara lit up"
+    },
+    {
+      "id": "wedding_guest_ch",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "November-February mostly",
+      "scene": "guests at a Punjabi wedding in a decorated tent",
+      "scene_short": "wedding tent"
+    }
+  ],
+  "settings": [
+    {
+      "id": "sector17",
+      "type": "urban",
+      "description": "Sector 17 plaza with modernist concrete buildings and fountains",
+      "short": "Sector 17 plaza",
+      "sub_regions": [
+        "sectors"
+      ]
+    },
+    {
+      "id": "sukhna_lake",
+      "type": "nature",
+      "description": "Sukhna Lake promenade with the Shivalik hills behind",
+      "short": "Sukhna Lake",
+      "sub_regions": [
+        "sectors"
+      ]
+    },
+    {
+      "id": "rock_garden",
+      "type": "urban",
+      "description": "Rock Garden walls and sculptures made of broken tiles and stone",
+      "short": "Rock Garden",
+      "sub_regions": [
+        "sectors"
+      ]
+    },
+    {
+      "id": "leafy_sector",
+      "type": "urban",
+      "description": "wide tree-lined sector road with green belts",
+      "short": "tree-lined sector road",
+      "sub_regions": [
+        "sectors"
+      ]
+    },
+    {
+      "id": "manimajra",
+      "type": "urban",
+      "description": "Manimajra market street",
+      "short": "Manimajra market",
+      "sub_regions": [
+        "villages"
+      ]
+    },
+    {
+      "id": "village_ch",
+      "type": "rural",
+      "description": "old village lane with fields beyond",
+      "short": "village lane",
+      "sub_regions": [
+        "villages"
+      ]
+    },
+    {
+      "id": "home_city_ch",
+      "type": "home",
+      "description": "sector house with a small front lawn and a balcony",
+      "short": "sector house lawn",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_ch",
+      "type": "home",
+      "description": "village courtyard with a charpai",
+      "short": "village courtyard",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_ch",
+      "type": "work",
+      "description": "modernist government office with concrete sunshades",
+      "short": "modernist office",
+      "sub_regions": [
+        "sectors"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a hospital corridor with a stethoscope"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "college_student",
+      "name": "College student",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "on a university campus with books"
+    },
+    {
+      "id": "dairy_farmer",
+      "name": "Dairy farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "milking buffaloes in the yard"
+    }
+  ],
+  "seasons": {
+    "summer": "Very hot (April-June).",
+    "monsoon": "July-September.",
+    "winter": "Cold and foggy (December-January)."
+  },
+  "heritage": [],
+  "avoid": [
+    "Punjab-Haryana capital dispute and other politics.",
+    "1984 imagery; communal framing.",
+    "Articles of Sikh faith as costume."
+  ],
+  "todo": [
+    "Muslim and Christian characters with sourced dress.",
+    "Teej and Chandigarh Carnival as scenes.",
+    "Native review."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Chandigarh religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/4-chandigarh.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_punjabi_clothing",
+      "title": "Punjabi clothing (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Punjabi_clothing",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sikh_women_turbans",
+      "title": "Sikh women and turbans (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sikh_women_and_turbans",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "indianetzone_hr",
+      "title": "Traditional dress of Haryana (Indianetzone)",
+      "url": "https://www.indianetzone.com/damankurtichunder",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "utsav_rose",
+      "title": "Rose Festival, Chandigarh (Utsav, Ministry of Tourism)",
+      "url": "https://utsav.gov.in/view-event/rose-festival-1",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "incredible_karva",
+      "title": "Karva Chauth (Incredible India, Ministry of Tourism)",
+      "url": "https://incredibleindia.gov.in/en/festivals-and-events/karva-chauth",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-11-02",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (1 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "1 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Checked: Punjabi suit, kurta-pajama, dastar and kara as in Punjab (Wikipedia's Punjabi clothing and Clothing in India); Rose Festival in February (Utsav, Ministry of Tourism). No anomaly found."
+    ]
+  }
+}

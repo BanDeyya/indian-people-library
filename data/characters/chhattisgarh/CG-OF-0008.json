@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "CG-OF-0008",
+  "name": "Sarita Bai",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "cg_kosa_f",
+    "cg_lugda_f",
+    "cg_painjan"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

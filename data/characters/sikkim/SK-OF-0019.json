@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-OF-0019",
+  "name": "Kinzang",
+  "region": "sikkim",
+  "sub_region": "gangtok",
+  "community": "lepcha",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "sk_kurta_f",
+    "sk_dumvum_f"
+  ],
+  "language": [
+    "Lepcha",
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

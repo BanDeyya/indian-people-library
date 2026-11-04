@@ -1,0 +1,1544 @@
+{
+  "schema_version": 2,
+  "slug": "west-bengal",
+  "code": "WB",
+  "name": "West Bengal",
+  "type": "state",
+  "zone": "east",
+  "capital": "Kolkata",
+  "status": "reviewed",
+  "languages": [
+    "Bengali",
+    "Nepali (hills)",
+    "Santali",
+    "Hindi",
+    "English",
+    "Urdu (some)"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 70.54,
+      "muslim": 27.01,
+      "christian": 0.72,
+      "buddhist": 0.31,
+      "other": 1.42
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "kolkata",
+      "name": "Kolkata and suburbs",
+      "notes": "State capital and its suburbs along the Hooghly."
+    },
+    {
+      "id": "south_bengal",
+      "name": "South Bengal delta",
+      "notes": "Gangetic delta incl. the Sundarbans and Medinipur."
+    },
+    {
+      "id": "rarh",
+      "name": "Rarh (western uplands)",
+      "notes": "Bankura, Birbhum, Purulia, Bardhaman; red soil country; large Santal population."
+    },
+    {
+      "id": "north_bengal_plains",
+      "name": "North Bengal plains",
+      "notes": "Cooch Behar, Jalpaiguri, the Dooars and Malda; Rajbanshi heartland."
+    },
+    {
+      "id": "darjeeling_hills",
+      "name": "Darjeeling and Kalimpong hills",
+      "notes": "Himalayan hills; Nepali-speaking Gorkha majority, Lepcha and Bhutia communities; tea estates."
+    }
+  ],
+  "communities": [
+    {
+      "id": "bengali_hindu",
+      "name": "Hindu",
+      "culture": "Bengali",
+      "religion": "hindu",
+      "notes": "Married women traditionally wear shakha (white conch bangles), pola (red bangles) and sindoor. Dhoti with panjabi for men at festivals.",
+      "names": {
+        "female": [
+          "Riya",
+          "Moumita",
+          "Sutapa",
+          "Kamala",
+          "Mitali",
+          "Kalpana",
+          "Sharmila",
+          "Tithi",
+          "Rupa",
+          "Sanchita",
+          "Ananya",
+          "Paromita",
+          "Shampa",
+          "Debjani",
+          "Rina",
+          "Mousumi",
+          "Supriya",
+          "Rumpa",
+          "Sumana",
+          "Puja",
+          "Rituparna",
+          "Madhumita",
+          "Mithu",
+          "Bulbul",
+          "Chandana",
+          "Shipra",
+          "Arpita",
+          "Nandini",
+          "Sharmistha",
+          "Tanushree",
+          "Swapna",
+          "Lipika"
+        ],
+        "male": [
+          "Gopal",
+          "Arindam",
+          "Subrata",
+          "Haripada",
+          "Suman",
+          "Sourav",
+          "Partha",
+          "Debashis",
+          "Anirban",
+          "Biswajit",
+          "Tapas",
+          "Pradip",
+          "Amit",
+          "Ranjan",
+          "Subir",
+          "Sanjay",
+          "Prosenjit",
+          "Tarun",
+          "Biplab",
+          "Kaushik",
+          "Somnath",
+          "Utpal",
+          "Asim",
+          "Abhijit",
+          "Subhash",
+          "Sudip",
+          "Pintu",
+          "Bapi",
+          "Ratan",
+          "Arun",
+          "Dipankar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "bengali_muslim",
+      "name": "Muslim",
+      "culture": "Bengali",
+      "religion": "muslim",
+      "notes": "About 27% of the state. Lungi with shirt or panjabi daily; pyjama with panjabi and a plain or embroidered cap (tupi) on festive occasions. Women's dress specifics still to source; saree and salwar-kameez are shared across communities.",
+      "names": {
+        "female": [
+          "Nasima",
+          "Rehana",
+          "Shahnaz",
+          "Salma",
+          "Rokeya",
+          "Taslima",
+          "Nurjahan",
+          "Farida",
+          "Ruksana",
+          "Jasmin",
+          "Sabina",
+          "Morjina",
+          "Rubina",
+          "Asma",
+          "Shabnam",
+          "Nargis",
+          "Ayesha",
+          "Hasina",
+          "Rabeya",
+          "Parvin",
+          "Khadija",
+          "Monira",
+          "Jahanara",
+          "Sultana",
+          "Rehena",
+          "Fatema",
+          "Mumtaz"
+        ],
+        "male": [
+          "Rafiqul",
+          "Abdul Karim",
+          "Sohel",
+          "Jahangir",
+          "Mizanur",
+          "Habib",
+          "Aminul",
+          "Sirajul",
+          "Anwar",
+          "Kamal",
+          "Nazrul",
+          "Sahidul",
+          "Abdul",
+          "Saiful",
+          "Anisur",
+          "Habibur",
+          "Mohidul",
+          "Rejaul",
+          "Ashraful",
+          "Faruk",
+          "Monirul"
+        ],
+        "second_female": [
+          "Khatun",
+          "Bibi"
+        ],
+        "second_male": [
+          "Islam",
+          "Ali",
+          "Haque"
+        ]
+      }
+    },
+    {
+      "id": "santal",
+      "name": "Santal",
+      "culture": "Santal",
+      "prompt": "Santal",
+      "notes": "Largest tribe of the state, mainly in the western districts. Women: white phutta sari with red or green borders; men: phutta kachha with a gamcha stole. Textiles mark birth, weddings and funerals.",
+      "names": {
+        "female": [
+          "Sumi",
+          "Sunita",
+          "Phulmoni",
+          "Lakhi",
+          "Basanti",
+          "Mungli",
+          "Talamai",
+          "Sona",
+          "Sarojini",
+          "Pano",
+          "Rani",
+          "Sushila",
+          "Phulo",
+          "Champa",
+          "Durga",
+          "Malati",
+          "Mangli",
+          "Shanti",
+          "Sonamoni",
+          "Lakshmi",
+          "Rupi",
+          "Chandmoni",
+          "Dulari",
+          "Parvati",
+          "Somi"
+        ],
+        "male": [
+          "Soren",
+          "Budhan",
+          "Chunda",
+          "Bhim",
+          "Durga",
+          "Lakhan",
+          "Sanatan",
+          "Somai",
+          "Kanhu",
+          "Sidho",
+          "Sido",
+          "Ramesh",
+          "Babulal",
+          "Rabindra",
+          "Chandu",
+          "Sukhram",
+          "Mangal",
+          "Sombari",
+          "Dasrath",
+          "Jitu",
+          "Rasik",
+          "Sunaram"
+        ]
+      }
+    },
+    {
+      "id": "gorkha",
+      "name": "Gorkha (Nepali-speaking)",
+      "culture": "Gorkha (Nepali-speaking)",
+      "notes": "Majority of the Darjeeling and Kalimpong hills. Men's daura-suruwal is popular. Women's dress still to source.",
+      "names": {
+        "female": [
+          "Maya",
+          "Dawa",
+          "Sunita",
+          "Anjali",
+          "Bimala",
+          "Rekha",
+          "Mamata",
+          "Sushma",
+          "Pasang",
+          "Kalpana",
+          "Sangita",
+          "Laxmi",
+          "Durga",
+          "Sarita"
+        ],
+        "male": [
+          "Pemba",
+          "Suraj",
+          "Binod",
+          "Prakash",
+          "Dawa",
+          "Ganesh",
+          "Raju",
+          "Bikash",
+          "Santosh",
+          "Deepak",
+          "Rajesh",
+          "Kumar",
+          "Bishal",
+          "Pasang"
+        ]
+      }
+    },
+    {
+      "id": "lepcha",
+      "name": "Lepcha",
+      "culture": "Lepcha",
+      "prompt": "Lepcha",
+      "notes": "Indigenous people of the Darjeeling hills. Women's dumdyam is worn for ceremonies and festivals."
+    },
+    {
+      "id": "rajbanshi",
+      "name": "Rajbanshi",
+      "culture": "Rajbanshi",
+      "notes": "North Bengal plains (Dooars, Cooch Behar); Hindu and Muslim; Kamtapuri language. Dress still to source."
+    }
+  ],
+  "excluded_communities": [
+    {
+      "name": "Toto",
+      "reason": "Particularly Vulnerable Tribal Group of about 1,600 people concentrated in Totopara village; reusable characters would effectively depict a tiny, identifiable community.",
+      "source": "iasgyan_toto"
+    }
+  ],
+  "look_range": {
+    "skin_tone_mst": [
+      3,
+      8
+    ],
+    "hair": "Black, often long for women, worn in a bun or plait.",
+    "notes": "Wheatish to brown in the plains; hill communities (Gorkha, Lepcha) often have East Asian features. Starting range, tune after test renders.",
+    "by_community": [
+      {
+        "community": "lepcha",
+        "notes": "East Asian features common."
+      },
+      {
+        "community": "gorkha",
+        "notes": "Wide range; many have East Asian features."
+      }
+    ]
+  },
+  "naming": [
+    {
+      "community": "bengali_hindu",
+      "notes": "Given name plus father's name or a nickname-style second name. Bengali surnames often mark caste; never use them."
+    },
+    {
+      "community": "bengali_muslim",
+      "notes": "Arabic or Persian-origin given names, often with a Bengali daily name; father's name as second name."
+    },
+    {
+      "community": "santal",
+      "notes": "Santal clan names (e.g. Hansda, Murmu, Soren) are clan, not caste, names."
+    },
+    {
+      "community": "gorkha",
+      "notes": "Nepali given names; Gorkha surnames (e.g. Tamang, Rai, Gurung, Chhetri) name an ethnic group or a caste and are never used."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "wb_tant_f",
+      "name": "Handloom tant saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "light cotton handloom tant saree with a contrast border, draped Bengali style",
+      "short": "cotton tant saree with contrast border",
+      "sources": [
+        "banglapedia_dress",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "wb_laal_paar_f",
+      "name": "White saree with red border",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_hindu",
+      "representative": true,
+      "prompt": "white saree with a broad red border, worn with a red blouse",
+      "short": "white saree with broad red border",
+      "sources": [
+        "outlook_crpark"
+      ]
+    },
+    {
+      "id": "wb_baluchari_f",
+      "name": "Baluchari silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "tussar silk Baluchari saree with woven epic scenes on the pallu",
+      "short": "Baluchari silk saree with woven pallu scenes",
+      "sources": [
+        "gov_odop_baluchari",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "wb_jamdani_f",
+      "name": "Jamdani saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "fine Jamdani saree with woven floral motifs",
+      "short": "fine Jamdani saree with woven motifs",
+      "sources": [
+        "banglapedia_dress"
+      ]
+    },
+    {
+      "id": "wb_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton salwar-kameez with a dupatta, everyday city wear",
+      "short": "cotton salwar-kameez and dupatta",
+      "sources": [
+        "banglapedia_dress"
+      ]
+    },
+    {
+      "id": "wb_phutta_sari_f",
+      "name": "Phutta sari",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "santal",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "coarse white cotton phutta sari with red or green borders and a broad striped end panel",
+      "short": "white phutta sari with red borders and striped panel",
+      "sources": [
+        "selvedge_santal",
+        "tdf_santal"
+      ]
+    },
+    {
+      "id": "wb_dumdyam_f",
+      "name": "Dumdyam",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "lepcha",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "ankle-length solid-colour dumdyam folded over one shoulder and belted at the waist, over a contrasting long-sleeved blouse",
+      "short": "solid dumdyam belted at the waist",
+      "sources": [
+        "wiki_dumdyam",
+        "wiki_lepcha"
+      ]
+    },
+    {
+      "id": "wb_lungi_m",
+      "name": "Lungi with shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "checked cotton lungi with a half-sleeve shirt",
+      "short": "checked lungi and shirt",
+      "sources": [
+        "banglapedia_dress"
+      ]
+    },
+    {
+      "id": "wb_dhoti_panjabi_m",
+      "name": "Dhoti and panjabi",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white dhoti with a cream cotton panjabi",
+      "short": "white dhoti and cream panjabi",
+      "sources": [
+        "banglapedia_dress",
+        "wiki_bengali_dress"
+      ]
+    },
+    {
+      "id": "wb_pyjama_panjabi_m",
+      "name": "Pyjama and panjabi",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white cotton panjabi with a matching pyjama",
+      "short": "white panjabi and pyjama",
+      "sources": [
+        "banglapedia_dress"
+      ]
+    },
+    {
+      "id": "wb_tupi",
+      "name": "Tupi (cap)",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "bengali_muslim",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "embroidered white cotton tupi cap",
+      "short": "embroidered white cap",
+      "sources": [
+        "banglapedia_dress",
+        "wiki_taqiyah"
+      ]
+    },
+    {
+      "id": "wb_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "open-collar shirt and trousers, office wear",
+      "short": "shirt and trousers",
+      "sources": [
+        "banglapedia_dress"
+      ]
+    },
+    {
+      "id": "wb_phutta_kachha_m",
+      "name": "Phutta kachha",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "lower",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "santal",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "handwoven phutta kachha cloth wrapped around the lower body",
+      "short": "handwoven kachha wrap",
+      "sources": [
+        "selvedge_santal",
+        "tdf_santal"
+      ]
+    },
+    {
+      "id": "wb_vest_m",
+      "name": "Plain cotton vest-shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "upper",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain white cotton shirt",
+      "short": "plain white shirt",
+      "sources": []
+    },
+    {
+      "id": "wb_daura_suruwal_m",
+      "name": "Daura-suruwal",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "gorkha",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "closed-neck pleated daura shirt with tie strings and fitted suruwal trousers, waistcoat on top",
+      "short": "daura-suruwal with waistcoat",
+      "sources": [
+        "wiki_daura_suruwal"
+      ]
+    },
+    {
+      "id": "wb_hill_jacket",
+      "name": "Warm jacket (hills)",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "padded warm jacket for the cold hills",
+      "short": "padded warm jacket",
+      "sources": []
+    },
+    {
+      "id": "wb_shawl",
+      "name": "Winter shawl",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "woollen shawl around the shoulders on a winter morning",
+      "short": "woollen shawl",
+      "sources": []
+    },
+    {
+      "id": "wb_frock_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's simple cotton salwar suit, ordinary everyday clothes",
+      "short": "girl's cotton salwar suit",
+      "sources": []
+    },
+    {
+      "id": "wb_festive_g",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long silk frock with a matching full-sleeve top",
+      "short": "girl's long silk frock",
+      "sources": []
+    },
+    {
+      "id": "wb_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton shirt and full-length trousers, ordinary everyday clothes",
+      "short": "cotton shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "wb_shakha_pola",
+      "name": "Shakha and pola",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "community": "bengali_hindu",
+      "meaning": [
+        "marital",
+        "religious"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "white conch-shell shakha and red pola bangles on both wrists",
+      "short": "white shakha and red pola bangles",
+      "sources": [
+        "wiki_shankha",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "wb_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "community": "bengali_hindu",
+      "meaning": [
+        "marital",
+        "religious"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the hair parting",
+      "sources": [
+        "wiki_shankha",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "wb_gamcha",
+      "name": "Gamcha stole",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "work"
+      ],
+      "prompt": "red and white checked gamcha over the shoulder",
+      "short": "checked gamcha on shoulder",
+      "sources": [
+        "selvedge_santal"
+      ]
+    },
+    {
+      "id": "wb_studs",
+      "name": "Small gold studs",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "wb_tant_f"
+        ],
+        [
+          "wb_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "wb_laal_paar_f"
+        ],
+        [
+          "wb_baluchari_f"
+        ],
+        [
+          "wb_phutta_sari_f",
+          "wb_gamcha"
+        ]
+      ],
+      "reason": "Handloom tant for daily wear; the white red-bordered saree is the classic Bengali festive look; Baluchari silk for weddings; Santal women's phutta sari."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "wb_lungi_m"
+        ],
+        [
+          "wb_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "wb_dhoti_panjabi_m"
+        ],
+        [
+          "wb_pyjama_panjabi_m",
+          "wb_tupi"
+        ],
+        [
+          "wb_daura_suruwal_m"
+        ]
+      ],
+      "reason": "Lungi with shirt is daily wear across communities; dhoti or pyjama with panjabi for festivals; daura-suruwal in the hills."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "wb_tant_f"
+        ]
+      ],
+      "festive": [
+        [
+          "wb_laal_paar_f"
+        ]
+      ],
+      "reason": "Same as adult women."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "wb_lungi_m"
+        ]
+      ],
+      "festive": [
+        [
+          "wb_dhoti_panjabi_m"
+        ],
+        [
+          "wb_pyjama_panjabi_m",
+          "wb_tupi"
+        ]
+      ],
+      "reason": "Same as adult men."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "wb_frock_g",
+          "wb_studs"
+        ]
+      ],
+      "festive": [
+        [
+          "wb_festive_g",
+          "wb_studs"
+        ]
+      ],
+      "reason": "Simple clothes for school, a silk frock for festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "wb_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "wb_pyjama_panjabi_m"
+        ]
+      ],
+      "reason": "Panjabi and pyjama for festivals."
+    }
+  },
+  "grooming": [
+    {
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "community": "bengali_hindu",
+      "notes": "Married women wear sindoor in the hair parting; on widowhood the shakha are removed. Widows are not shown only in white (see avoid)."
+    }
+  ],
+  "occasions": [
+    {
+      "id": "durga_puja",
+      "name": "Durga Puja",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bengali_hindu"
+      ],
+      "when": "September-October",
+      "scene": "Durga Puja evening, crowds admiring a lit-up pandal with the goddess's clay image, dhak drummers",
+      "scene_short": "crowd at a lit Durga Puja pandal"
+    },
+    {
+      "id": "poila_baishakh",
+      "name": "Poila Baishakh (Bengali New Year)",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "April",
+      "scene": "Poila Baishakh morning, people in new clothes outside a decorated shop",
+      "scene_short": "Bengali New Year, new clothes outside a shop",
+      "sub_regions": [
+        "kolkata",
+        "south_bengal",
+        "rarh",
+        "north_bengal_plains"
+      ]
+    },
+    {
+      "id": "eid_wb",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "bengali_muslim"
+      ],
+      "when": "varies (Islamic calendar)",
+      "scene": "Eid morning, families in new clothes greeting neighbours in a Bengal town lane",
+      "scene_short": "Eid greetings in a town lane"
+    },
+    {
+      "id": "wedding_guest_wb",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "winter season mostly",
+      "scene": "guests at a wedding under a flower-decorated canopy",
+      "scene_short": "guests at a flower-decorated wedding"
+    }
+  ],
+  "settings": [
+    {
+      "id": "kolkata_tram",
+      "type": "urban",
+      "description": "old Kolkata street with a tram, yellow taxis and colonial-era buildings",
+      "short": "Kolkata street with tram and yellow taxis",
+      "sub_regions": [
+        "kolkata"
+      ]
+    },
+    {
+      "id": "college_street",
+      "type": "urban",
+      "description": "Kolkata book market lane lined with book stalls",
+      "short": "Kolkata book market lane",
+      "sub_regions": [
+        "kolkata"
+      ]
+    },
+    {
+      "id": "office_kol",
+      "type": "work",
+      "description": "modern office in Kolkata",
+      "short": "modern Kolkata office",
+      "sub_regions": [
+        "kolkata"
+      ]
+    },
+    {
+      "id": "pond_village",
+      "type": "rural",
+      "description": "Bengal village with a pond, banana and coconut trees and a tin-roofed house",
+      "short": "Bengal village pond with banana trees"
+    },
+    {
+      "id": "paddy_wb",
+      "type": "rural",
+      "description": "bright green paddy fields of the Bengal plains",
+      "short": "green Bengal paddy fields"
+    },
+    {
+      "id": "sundarbans",
+      "type": "nature",
+      "description": "Sundarbans creek with mangroves and a wooden boat",
+      "short": "Sundarbans mangrove creek",
+      "sub_regions": [
+        "south_bengal"
+      ]
+    },
+    {
+      "id": "red_soil_village",
+      "type": "rural",
+      "description": "red-soil village with mud houses painted with white patterns",
+      "short": "red-soil village with painted mud houses",
+      "sub_regions": [
+        "rarh"
+      ]
+    },
+    {
+      "id": "darjeeling_tea",
+      "type": "nature",
+      "description": "steep Darjeeling tea slopes with mountains in the mist",
+      "short": "misty Darjeeling tea slopes",
+      "sub_regions": [
+        "darjeeling_hills"
+      ]
+    },
+    {
+      "id": "hill_town",
+      "type": "urban",
+      "description": "hill town street in Darjeeling with prayer flags and small shops",
+      "short": "Darjeeling hill town street",
+      "sub_regions": [
+        "darjeeling_hills"
+      ]
+    },
+    {
+      "id": "cooch_behar_town",
+      "type": "urban",
+      "description": "quiet town street in Cooch Behar",
+      "short": "Cooch Behar town street",
+      "sub_regions": [
+        "north_bengal_plains"
+      ]
+    },
+    {
+      "id": "home_wb",
+      "type": "home",
+      "description": "verandah of a Bengal home with a red cement floor",
+      "short": "Bengal home verandah",
+      "sub_regions": [
+        "kolkata",
+        "south_bengal",
+        "rarh",
+        "north_bengal_plains"
+      ]
+    },
+    {
+      "id": "terracotta_temple",
+      "type": "religious",
+      "description": "outside a terracotta temple in Bishnupur",
+      "short": "Bishnupur terracotta temple",
+      "sub_regions": [
+        "rarh"
+      ]
+    },
+    {
+      "id": "mosque_wb",
+      "type": "religious",
+      "description": "outside a town mosque in Bengal",
+      "short": "town mosque"
+    },
+    {
+      "id": "hill_home",
+      "type": "home",
+      "description": "wooden hill home with potted flowers on the balcony, mountains behind",
+      "short": "wooden hill home balcony",
+      "sub_regions": [
+        "darjeeling_hills"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "paddy_farmer",
+      "name": "Paddy farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "working in green paddy fields"
+    },
+    {
+      "id": "weaver",
+      "name": "Handloom weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "at a handloom weaving a saree"
+    },
+    {
+      "id": "fisherman",
+      "name": "Fisherman",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "with nets on a small boat in a delta creek"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "tour_guide",
+      "name": "Tour guide",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "guiding visitors on a hill town street"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a modern office"
+    }
+  ],
+  "seasons": {
+    "monsoon": "June-September: heavy rain, umbrellas, flooded lanes.",
+    "winter": "December-January: mild in the plains (shawls), cold in the hills (warm jackets).",
+    "summer": "March-May: hot and humid in the plains."
+  },
+  "heritage": [
+    {
+      "id": "baluchari",
+      "name": "Baluchari silk saree",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "wb_baluchari_f"
+      ],
+      "reason": "GI-tagged handloom of Bankura that people buy and wear today; shown as worn, never as a copied design claimed as genuine.",
+      "sources": [
+        "gov_odop_baluchari"
+      ]
+    },
+    {
+      "id": "baul",
+      "name": "Baul mystic minstrels",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "A living syncretic mystic tradition; many Bauls renounce family life and their dress is part of that spiritual path. Not used as costume.",
+      "sources": [
+        "wiki_baul"
+      ]
+    },
+    {
+      "id": "cooch_behar_court",
+      "name": "Historical Cooch Behar court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Needs museum sources and the era system; fictional people only.",
+      "sources": []
+    },
+    {
+      "id": "gorkha_khukuri",
+      "name": "Khukuri (Gorkha blade)",
+      "kind": "warrior",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "A weapon; weapons are excluded from the public library.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Gorkhaland statehood politics, protest or agitation imagery; show the hills' everyday life only.",
+    "Any 'infiltrator', citizenship or Bangladesh framing of Bengali Muslims.",
+    "Widows shown only in white saris; show them in ordinary daily dress.",
+    "Kolkata poverty cliches (hand-pulled rickshaws and slums) as the default image.",
+    "Bengal shown only as Kolkata: most people live in villages and small towns.",
+    "Caste-marking Bengali surnames.",
+    "Toto depiction (excluded)."
+  ],
+  "todo": [
+    "Bengali Muslim women's dress specifics, with sources.",
+    "Gorkha women's dress and dhaka topi, with sources.",
+    "Rajbanshi dress (patani) and Santal festivals (Sohrai, Baha), with sources.",
+    "Birhor and Lodha (PVTGs): priority-1/2 sources and extra review before any character.",
+    "Source for the white red-bordered saree and Poila Baishakh.",
+    "Native review (someone from West Bengal)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "West Bengal religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/19-west-bengal.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "banglapedia_dress",
+      "title": "Dress (Banglapedia, Asiatic Society of Bangladesh)",
+      "url": "https://en.banglapedia.org/index.php/Dress",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_bengali_dress",
+      "title": "Bengali traditional dress (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Bengali_traditional_dress",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_shankha",
+      "title": "Shankha (ornament) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Shankha_(ornament)",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "selvedge_santal",
+      "title": "Threads of tradition: exploring Santal textiles (Selvedge)",
+      "url": "https://selvedge.org/blogs/selvedge/india-week-threads-of-tradition-exploring-santal-textiles",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_dumdyam",
+      "title": "Dumdyam (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dumdyam",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_daura_suruwal",
+      "title": "Daura-Suruwal (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Daura-Suruwal",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "gov_odop_baluchari",
+      "title": "Baluchari saree (One District One Product, india.gov.in)",
+      "url": "https://www.india.gov.in/explore-india/odop/details/baluchari-saree",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "unesco_durga",
+      "title": "Durga Puja in Kolkata (UNESCO Intangible Cultural Heritage)",
+      "url": "https://ich.unesco.org/en/RL/00703",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wb_st_list",
+      "title": "Scheduled Tribes of West Bengal (Backward Classes Welfare and Tribal Development Dept, Govt of West Bengal)",
+      "url": "https://adibasikalyan.gov.in/scheduled-tribes-of-west-bengal",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "iasgyan_toto",
+      "title": "Totos (IAS Gyan)",
+      "url": "https://www.iasgyan.in/daily-current-affairs/totos",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_baul",
+      "title": "Baul (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Baul",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_rajbanshi",
+      "title": "Rajbanshi people (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Rajbanshi_people",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "iasgyan_gorkhaland",
+      "title": "Gorkhaland statehood demand (IAS Gyan)",
+      "url": "https://www.iasgyan.in/daily-editorials/gorkhaland-statehood-demand-balancing-regional-aspirations-and-national-unity",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_taqiyah",
+      "title": "Taqiyah (cap) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Taqiyah_(cap)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_lepcha",
+      "title": "Lepcha people (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Lepcha_people",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "tdf_santal",
+      "title": "Indigenous material culture: Santal textiles (Tribal Design Forum)",
+      "url": "https://www.tribaldesignforum.com/?p=9326",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "outlook_crpark",
+      "title": "Delhi's Mini Kolkata: inside CR Park's Durga Puja (Outlook Traveller)",
+      "url": "https://www.outlooktraveller.com/experiences/heritage/delhis-mini-kolkata-inside-cr-parks-spectacular-durga-puja-celebrations",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (1 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Confirmed: Lepcha women's ankle-length solid-colour dumvun (dumdyam) folded over one shoulder and pinned, with a contrasting long-sleeved blouse; men's multicoloured hand-woven cloth (thakraw) pinned at one shoulder over a white shirt and trousers (Wikipedia's Lepcha people page). Conflict: Wikipedia calls the tago a waistband, Pratidin Time a blouse; the prompts name neither.",
+      "Confirmed: Santal phuta saree and phuta kachha with checked bodies and thick borders (Tribal Design Forum, Selvedge); Shantipur and Dhaniakhali tant and Baluchari are West Bengal GI products; red-and-white sarees at Durga Puja (Outlook Traveller); shakha-pola for married Bengali women (Wikipedia's Shankha and Mangala sutra pages)."
+    ]
+  }
+}

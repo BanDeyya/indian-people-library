@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0018",
+  "name": "Annapurna",
+  "region": "puducherry",
+  "sub_region": "yanam",
+  "community": "telugu_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "medium",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "py_venkatagiri_f",
+    "py_cotton_saree_f",
+    "py_mangalsutra_te"
+  ],
+  "language": [
+    "Telugu",
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

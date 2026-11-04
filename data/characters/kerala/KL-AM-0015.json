@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-AM-0015",
+  "name": "Moidu Attakoya",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "narrow face with a sharp nose",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short trimmed beard"
+  },
+  "wardrobe": [
+    "kl_mundu_shirt_m",
+    "kl_kurta_mundu_m",
+    "kl_thalangara_thoppi"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

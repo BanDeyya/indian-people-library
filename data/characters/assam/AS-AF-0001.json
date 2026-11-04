@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AS-AF-0001",
+  "name": "Rupali Basumatary",
+  "region": "assam",
+  "community": "bodo",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "rounded face with soft cheekbones and a low nose bridge, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "straight black hair to the shoulders",
+    "build": "slim",
+    "signature_mark": "tiny mole near the outer corner of her left eye"
+  },
+  "wardrobe": [
+    "as_dokhona_f",
+    "as_kurti_f",
+    "as_aronai",
+    "as_small_studs"
+  ],
+  "language": [
+    "Bodo",
+    "Assamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

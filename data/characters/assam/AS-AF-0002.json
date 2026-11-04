@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-AF-0002",
+  "name": "Nasreen Islam",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "assamese_muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with soft features",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small mole on her chin"
+  },
+  "wardrobe": [
+    "as_mekhela_modest_f",
+    "as_kurti_f",
+    "as_keru"
+  ],
+  "language": [
+    "Assamese",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

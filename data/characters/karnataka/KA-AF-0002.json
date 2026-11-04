@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0002",
+  "name": "Kavitha Manjunath",
+  "region": "karnataka",
+  "sub_region": "malnad",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "small birthmark on her right wrist"
+  },
+  "wardrobe": [
+    "ka_cotton_saree_f",
+    "ka_mysore_silk_f",
+    "ka_mangalsutra",
+    "ka_jasmine"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

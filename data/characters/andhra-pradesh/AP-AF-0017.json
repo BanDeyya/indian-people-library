@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AP-AF-0017",
+  "name": "Pavani",
+  "region": "andhra-pradesh",
+  "sub_region": "krishna_guntur",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 54,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "average",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "ap_uppada_f",
+    "ap_mangalagiri_f",
+    "ap_salwar_f",
+    "ap_jasmine",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

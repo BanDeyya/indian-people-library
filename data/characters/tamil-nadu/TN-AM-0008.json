@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0008",
+  "name": "Prakash",
+  "region": "tamil-nadu",
+  "sub_region": "tondai_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face with deep forehead lines",
+    "eyes": "dark eyes",
+    "hair": "short black hair with grey streaks",
+    "build": "stocky",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "thick black moustache"
+  },
+  "wardrobe": [
+    "tn_veshti_sattai_m",
+    "tn_shirt_trousers_m",
+    "tn_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

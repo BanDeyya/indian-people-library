@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0010",
+  "name": "Ratan Lal",
+  "region": "rajasthan",
+  "sub_region": "dhundhar",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 57,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "herder",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face with a hooked nose and deep wrinkles",
+    "eyes": "dark eyes",
+    "hair": "short neat black hair",
+    "build": "athletic",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "rj_bandhgala_m",
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Mewari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

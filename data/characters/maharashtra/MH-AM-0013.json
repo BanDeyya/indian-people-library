@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0013",
+  "name": "Prakash Sandip",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 59,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face with deep lines",
+    "eyes": "dark brown eyes",
+    "hair": "short side-parted black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "mh_festive_kurta_m",
+    "mh_modern_m",
+    "mh_kurta_pyjama_m",
+    "mh_pheta"
+  ],
+  "language": [
+    "Marathi",
+    "Ahirani",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

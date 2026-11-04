@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "TN-OF-0012",
+  "name": "Anitha",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a small knot",
+    "build": "thin",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "tn_chettinad_f",
+    "tn_kanjeevaram_f"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

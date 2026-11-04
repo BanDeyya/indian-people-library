@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0016",
+  "name": "Edna",
+  "region": "goa",
+  "sub_region": "south",
+  "community": "catholic",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "shoulder-length wavy black hair",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ga_vestido_f",
+    "ga_dress_f"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

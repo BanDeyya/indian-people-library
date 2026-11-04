@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TR-OF-0014",
+  "name": "Mamata",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "tripuri",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "tr_rignai_f",
+    "tr_shawl",
+    "tr_tant_f"
+  ],
+  "language": [
+    "Kokborok",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

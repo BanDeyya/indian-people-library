@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0002",
+  "name": "Sushma Devi",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "jh_tussar_f",
+    "jh_cotton_saree_f"
+  ],
+  "language": [
+    "Hindi",
+    "Nagpuri",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

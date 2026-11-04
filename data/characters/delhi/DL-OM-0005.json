@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0005",
+  "name": "Pankaj",
+  "region": "delhi",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin, slightly stooped",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dl_kurta_pyjama_m",
+    "dl_nehru_jacket",
+    "dl_winter_jacket",
+    "dl_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

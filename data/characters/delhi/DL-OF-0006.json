@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "DL-OF-0006",
+  "name": "Priya Devi",
+  "region": "delhi",
+  "sub_region": "old_delhi",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 88,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "dl_suit_f",
+    "dl_festive_suit_f"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

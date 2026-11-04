@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-AF-0013",
+  "name": "Laila",
+  "region": "ladakh",
+  "sub_region": "nubra",
+  "community": "kargil_muslim",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 54,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "oval face with soft cheekbones",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_phiren_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Purgi",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

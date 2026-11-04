@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "BR-OM-0001",
+  "name": "Ramdeo Prasad",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "lean weathered face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "facial_hair": "white stubble",
+    "build": "wiry",
+    "signature_mark": "mole under his right eye"
+  },
+  "wardrobe": [
+    "br_dhoti_kurta_m",
+    "br_gamchha"
+  ],
+  "language": [
+    "Magahi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

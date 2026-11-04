@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AR-OM-0001",
+  "name": "Tsering",
+  "region": "arunachal-pradesh",
+  "sub_region": "west",
+  "community": "monpa",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "deeply lined face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "thin",
+    "signature_mark": "small scar on his forehead"
+  },
+  "wardrobe": [
+    "ar_shirt_trousers_m",
+    "ar_chuba_m",
+    "ar_yak_cap",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Monpa"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

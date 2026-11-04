@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0018",
+  "name": "Haricharan",
+  "region": "tripura",
+  "sub_region": "hills",
+  "community": "bru",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "tr_lungi_m",
+    "tr_pyjama_panjabi_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Kau Bru",
+    "Kokborok"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

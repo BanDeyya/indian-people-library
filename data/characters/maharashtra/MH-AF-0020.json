@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0020",
+  "name": "Bhimi",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "warli",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 49,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "narrow face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "mh_warli_f",
+    "mh_warli_ganthi",
+    "mh_salwar_f"
+  ],
+  "language": [
+    "Warli",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

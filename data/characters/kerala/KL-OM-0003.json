@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-OM-0003",
+  "name": "Sajeevan Arjun",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with a pointed chin",
+    "eyes": "large dark brown eyes",
+    "hair": "thin white hair, balding on top",
+    "build": "thin",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "kl_kasavu_mundu_m",
+    "kl_melmundu_m",
+    "kl_lungi_m"
+  ],
+  "language": [
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

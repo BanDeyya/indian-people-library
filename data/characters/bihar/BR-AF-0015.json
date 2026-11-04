@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "BR-AF-0015",
+  "name": "Lalita",
+  "region": "bihar",
+  "sub_region": "anga",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long straight black hair",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "br_bhagalpuri_f",
+    "br_salwar_f",
+    "br_cotton_saree_f",
+    "br_sindoor",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Angika",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

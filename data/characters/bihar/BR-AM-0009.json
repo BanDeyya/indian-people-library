@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0009",
+  "name": "Kamlesh",
+  "region": "bihar",
+  "sub_region": "mithila",
+  "community": "maithil",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with a broad forehead",
+    "eyes": "dark eyes",
+    "hair": "short black hair, receding",
+    "build": "average",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "br_kurta_pyjama_m",
+    "br_mithila_kurta_m",
+    "br_shirt_trousers_m",
+    "br_paag"
+  ],
+  "language": [
+    "Maithili",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

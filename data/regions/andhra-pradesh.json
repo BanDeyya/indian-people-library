@@ -1,0 +1,1142 @@
+{
+  "schema_version": 2,
+  "slug": "andhra-pradesh",
+  "code": "AP",
+  "name": "Andhra Pradesh",
+  "type": "state",
+  "zone": "south",
+  "capital": "Amaravati",
+  "status": "reviewed",
+  "languages": [
+    "Telugu (official)",
+    "Urdu",
+    "Tamil",
+    "Kannada",
+    "Odia",
+    "tribal languages (Savara, Koya, Kuvi)"
+  ],
+  "religion_mix": {
+    "source": "wiki_ap_religion",
+    "shares": {
+      "hindu": 90.89,
+      "muslim": 7.3,
+      "christian": 1.38,
+      "other": 0.43
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ],
+    "note": "Religion shares are for the residual state after 2014 (from district data); Pew's 2011 table is for undivided Andhra Pradesh (Hindu 88%, Muslim 10%), which is consistent once Hyderabad and the Telangana districts are taken out."
+  },
+  "sub_regions": [
+    {
+      "id": "uttarandhra",
+      "name": "Uttarandhra (north coast)",
+      "notes": "Srikakulam, Vizianagaram, Visakhapatnam; port city, beaches."
+    },
+    {
+      "id": "godavari",
+      "name": "Godavari districts",
+      "notes": "East and West Godavari, Konaseema; delta with canals and coconut palms; Uppada weaving."
+    },
+    {
+      "id": "krishna_guntur",
+      "name": "Krishna and Guntur",
+      "notes": "Vijayawada, Guntur, Amaravati, Mangalagiri; Mangalagiri weaving; large Telugu Christian community."
+    },
+    {
+      "id": "south_coast",
+      "name": "South coast",
+      "notes": "Nellore, Prakasam; Venkatagiri weaving."
+    },
+    {
+      "id": "rayalaseema",
+      "name": "Rayalaseema",
+      "notes": "Kurnool, Kadapa, Anantapur, Chittoor, Tirupati; dry red earth and granite hills; Dharmavaram silk; larger Urdu-speaking Muslim communities."
+    },
+    {
+      "id": "agency",
+      "name": "Agency areas (Eastern Ghats)",
+      "notes": "Araku and hill areas of the north; Adivasi communities."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Telugu",
+      "religion": "hindu",
+      "prompt": "Telugu",
+      "notes": "Men: pancha with shirt or kurta; angavastram for formal and religious occasions. Women: cotton Mangalagiri saree daily; Uppada, Venkatagiri and other silk sarees for weddings; langa voni for young unmarried women at festivals; mangalsutra when married.",
+      "names": {
+        "female": [
+          "Padmavathi",
+          "Sravani",
+          "Subbamma",
+          "Lakshmi Prasanna",
+          "Harika",
+          "Sahithi",
+          "Swaroopa",
+          "Bhavani",
+          "Rajamma",
+          "Sathvika",
+          "Sirisha",
+          "Anusha",
+          "Madhavi",
+          "Ramadevi",
+          "Swathi",
+          "Keerthana",
+          "Sujatha",
+          "Kalyani",
+          "Durga",
+          "Sarada",
+          "Sunitha",
+          "Vani",
+          "Aruna",
+          "Jyothi",
+          "Hemalatha",
+          "Manjula",
+          "Pavani",
+          "Divya",
+          "Lavanya",
+          "Bhargavi",
+          "Sailaja",
+          "Annapurna"
+        ],
+        "male": [
+          "Sai Kiran",
+          "Narasimhulu",
+          "Charan",
+          "Srinivasulu",
+          "Venkata Ramana",
+          "Naveen",
+          "Mallaiah",
+          "Yadagiri",
+          "Ravi Teja",
+          "Suresh",
+          "Prasad",
+          "Mahesh",
+          "Ramesh",
+          "Vamsi",
+          "Chaitanya",
+          "Nagaraju",
+          "Venkatesh",
+          "Srinivas",
+          "Naresh",
+          "Ravi",
+          "Satyanarayana",
+          "Krishna",
+          "Anil",
+          "Kiran",
+          "Raju",
+          "Chandra",
+          "Gopi"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Andhra",
+      "religion": "muslim",
+      "prompt": "Telugu Muslim",
+      "sub_regions": [
+        "rayalaseema",
+        "krishna_guntur",
+        "uttarandhra",
+        "godavari",
+        "south_coast"
+      ],
+      "notes": "Largest in Kurnool and Kadapa. Specific dress not yet sourced; characters wear shared kurta-pyjama and salwar-kameez.",
+      "names": {
+        "female": [
+          "Ayesha",
+          "Shaheen",
+          "Rizwana",
+          "Nasreen",
+          "Shabana",
+          "Afreen",
+          "Farzana",
+          "Mumtaz",
+          "Haseena",
+          "Salma",
+          "Rubeena",
+          "Shameem",
+          "Nazma",
+          "Ruksana",
+          "Jareena",
+          "Mehtab"
+        ],
+        "male": [
+          "Mohammed Ghouse",
+          "Shaik Basha",
+          "Karimulla",
+          "Imran",
+          "Rahim",
+          "Jaffar",
+          "Nazeer",
+          "Saleem",
+          "Mastan",
+          "Khaja",
+          "Shaik Hussain",
+          "Ismail",
+          "Rafi",
+          "Ameer",
+          "Yakub",
+          "Moin"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Telugu",
+      "religion": "christian",
+      "prompt": "Telugu Christian",
+      "sub_regions": [
+        "krishna_guntur",
+        "godavari",
+        "south_coast"
+      ],
+      "notes": "Mainly in the coastal districts. Specific dress not yet sourced; characters wear shared Telugu dress.",
+      "names": {
+        "female": [
+          "Grace Rani",
+          "Mary",
+          "Sujatha",
+          "Prameela",
+          "Ruth",
+          "Esther",
+          "Kumari",
+          "Vijaya",
+          "Sarah",
+          "Jyothi",
+          "Mercy",
+          "Hepsiba",
+          "Rachel",
+          "Suneetha",
+          "Vijaya Kumari",
+          "Rebecca",
+          "Sharon",
+          "Glory",
+          "Deborah",
+          "Priscilla",
+          "Rani",
+          "Sunitha",
+          "Karuna",
+          "Kamala",
+          "Prema",
+          "Shanthi"
+        ],
+        "male": [
+          "John",
+          "David",
+          "Prakash",
+          "Samuel",
+          "Prabhudas",
+          "Joseph",
+          "Ravi",
+          "Daniel",
+          "Raju",
+          "Paul",
+          "Stephen",
+          "Kiran",
+          "Moses",
+          "Prasad",
+          "Babu Rao",
+          "Jacob",
+          "Emmanuel",
+          "Yesu Babu"
+        ]
+      }
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      5,
+      9
+    ],
+    "hair": "Black hair, women often in a long plait.",
+    "notes": "Wheatish to deep brown. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Telugu family names come first and often mark caste (e.g. Reddy, Naidu, Chowdary, Raju, Rao, Sharma); use given name plus father's given name."
+    },
+    {
+      "community": "muslim",
+      "notes": "Arabic or Persian-origin given name plus father's name."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "ap_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "ap_pancha_shirt_m",
+      "name": "Pancha with shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "white pancha (dhoti) with a cotton shirt",
+      "short": "white pancha and shirt",
+      "sources": [
+        "aza_ap"
+      ]
+    },
+    {
+      "id": "ap_pancha_kurta_m",
+      "name": "Pancha, kurta and angavastram",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "representative": true,
+      "prompt": "white pancha with a silk kurta and a gold-bordered angavastram over the shoulder",
+      "short": "pancha, silk kurta and angavastram",
+      "sources": [
+        "aza_ap"
+      ]
+    },
+    {
+      "id": "ap_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "ap_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton salwar-kameez with a dupatta",
+      "short": "salwar-kameez with dupatta",
+      "sources": []
+    },
+    {
+      "id": "ap_modern_f",
+      "name": "Kurti and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton kurti with jeans",
+      "short": "kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "ap_langa_voni_f",
+      "name": "Langa voni (half-saree)",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "requires": {
+        "marital_status": "single"
+      },
+      "prompt": "silk langa voni: long skirt, blouse and a draped voni",
+      "short": "silk langa voni",
+      "sources": [
+        "aza_ap",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "ap_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's cotton frock with full-length leggings",
+      "short": "girl's frock and leggings",
+      "sources": []
+    },
+    {
+      "id": "ap_kids_g_fest",
+      "name": "Girl's pattu langa",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk pattu langa with a long-sleeved blouse",
+      "short": "girl's silk pattu langa",
+      "sources": [
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "ap_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "ap_mangalagiri_f",
+      "name": "Mangalagiri cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "fine cotton Mangalagiri saree with a zari border",
+      "short": "Mangalagiri cotton saree",
+      "sources": [
+        "aza_ap",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ap_uppada_f",
+      "name": "Uppada silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Uppada jamdani silk saree",
+      "short": "Uppada silk saree",
+      "sources": [
+        "aza_ap",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ap_venkatagiri_f",
+      "name": "Venkatagiri saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "fine Venkatagiri jamdani saree with a gold border",
+      "short": "Venkatagiri saree",
+      "sources": [
+        "aza_ap",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "ap_kalamkari_f",
+      "name": "Kalamkari saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "hand-painted Kalamkari cotton saree",
+      "short": "Kalamkari saree",
+      "sources": [
+        "aza_ap"
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "id": "ap_mangalsutra",
+      "name": "Mangalsutra (pustelu)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "gold mangalsutra with two small round gold discs and black beads",
+      "short": "mangalsutra with two gold discs",
+      "sources": [
+        "wiki_mangalsutra",
+        "tanishq_telugu",
+        "bluestone_mangalsutra"
+      ]
+    },
+    {
+      "id": "ap_jasmine",
+      "name": "Jasmine in the hair",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "string of jasmine in the plait",
+      "short": "jasmine in the plait",
+      "sources": []
+    },
+    {
+      "id": "ap_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "ap_mangalagiri_f"
+        ],
+        [
+          "ap_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ap_uppada_f",
+          "ap_jasmine"
+        ],
+        [
+          "ap_venkatagiri_f"
+        ]
+      ],
+      "reason": "Cotton Mangalagiri daily; Uppada and Venkatagiri for weddings and festivals."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "ap_shirt_trousers_m"
+        ],
+        [
+          "ap_pancha_shirt_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ap_pancha_kurta_m"
+        ]
+      ],
+      "reason": "Pancha with shirt; kurta and angavastram for festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "ap_mangalagiri_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ap_uppada_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "ap_pancha_shirt_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ap_pancha_kurta_m"
+        ]
+      ],
+      "reason": "Pancha."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "ap_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "ap_kids_g_fest",
+          "ap_jasmine"
+        ]
+      ],
+      "reason": "Pattu langa."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "ap_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "ap_kurta_pyjama_m"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "sankranti_ap",
+      "name": "Sankranti",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "January (three days)",
+      "scene": "Sankranti morning, colourful muggulu rangoli in front of village houses and a decorated Gangireddu bull",
+      "scene_short": "Sankranti muggulu and decorated bull"
+    },
+    {
+      "id": "ugadi_ap",
+      "name": "Ugadi",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "March-April",
+      "scene": "Ugadi morning, mango-leaf garland over the door",
+      "scene_short": "Ugadi mango-leaf garland"
+    },
+    {
+      "id": "christmas_ap",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "christian"
+      ],
+      "when": "December",
+      "scene": "Christmas evening, star lanterns outside a church in a coastal town",
+      "scene_short": "Christmas star lanterns"
+    },
+    {
+      "id": "eid_ap",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning, families greeting each other in a busy town street",
+      "scene_short": "Eid morning street"
+    },
+    {
+      "id": "wedding_guest_ap",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding pandal decorated with banana stems and mango leaves",
+      "scene_short": "wedding pandal"
+    }
+  ],
+  "settings": [
+    {
+      "id": "vizag_beach",
+      "type": "urban",
+      "description": "Visakhapatnam beach road with hills behind",
+      "short": "Vizag beach road",
+      "sub_regions": [
+        "uttarandhra"
+      ]
+    },
+    {
+      "id": "vijayawada_street",
+      "type": "urban",
+      "description": "busy Vijayawada street near the Krishna river",
+      "short": "Vijayawada street",
+      "sub_regions": [
+        "krishna_guntur"
+      ]
+    },
+    {
+      "id": "tirupati_street",
+      "type": "urban",
+      "description": "Tirupati town street with the hills behind",
+      "short": "Tirupati street",
+      "sub_regions": [
+        "rayalaseema"
+      ]
+    },
+    {
+      "id": "kurnool_market",
+      "type": "urban",
+      "description": "Kurnool market street",
+      "short": "Kurnool market",
+      "sub_regions": [
+        "rayalaseema"
+      ]
+    },
+    {
+      "id": "nellore_street",
+      "type": "urban",
+      "description": "Nellore town street",
+      "short": "Nellore street",
+      "sub_regions": [
+        "south_coast"
+      ]
+    },
+    {
+      "id": "godavari_village",
+      "type": "rural",
+      "description": "Godavari delta village with coconut palms, canals and paddy",
+      "short": "Godavari delta village",
+      "sub_regions": [
+        "godavari"
+      ]
+    },
+    {
+      "id": "coastal_paddy_ap",
+      "type": "rural",
+      "description": "green paddy fields with palmyra palms",
+      "short": "paddy and palmyra palms",
+      "sub_regions": [
+        "krishna_guntur",
+        "south_coast",
+        "uttarandhra"
+      ]
+    },
+    {
+      "id": "rayalaseema_village",
+      "type": "rural",
+      "description": "dry red-earth village among granite boulders",
+      "short": "red earth and granite boulders",
+      "sub_regions": [
+        "rayalaseema"
+      ]
+    },
+    {
+      "id": "araku_hills",
+      "type": "rural",
+      "description": "coffee gardens on misty Eastern Ghats hills",
+      "short": "Araku coffee hills",
+      "sub_regions": [
+        "agency"
+      ]
+    },
+    {
+      "id": "home_city_ap",
+      "type": "home",
+      "description": "apartment balcony with potted plants",
+      "short": "apartment balcony",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_ap",
+      "type": "home",
+      "description": "village house verandah with muggulu at the threshold",
+      "short": "village verandah with muggulu",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_ap",
+      "type": "work",
+      "description": "tech office in Visakhapatnam",
+      "short": "Vizag tech office",
+      "sub_regions": [
+        "uttarandhra"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in paddy fields"
+    },
+    {
+      "id": "weaver",
+      "name": "Handloom weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving a saree at a pit loom"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    }
+  ],
+  "seasons": {
+    "summer": "Very hot (April-June), especially Rayalaseema.",
+    "monsoon": "June-September; cyclones on the coast in some years.",
+    "winter": "Mild."
+  },
+  "heritage": [
+    {
+      "id": "vijayanagara_court",
+      "name": "Vijayanagara, Kakatiya and princely court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress for fictional people only; no named rulers.",
+      "sources": []
+    },
+    {
+      "id": "temple_staff_ap",
+      "name": "Temple priests' and Haridasu dress",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Religious roles; characters are lay people.",
+      "sources": [
+        "dc_sankranti"
+      ]
+    },
+    {
+      "id": "kuchipudi",
+      "name": "Kuchipudi costume",
+      "kind": "other",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Performance costume; not given to characters.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "Caste labels or caste surnames; caste or capital-city politics.",
+    "Cockfights or animal-fight scenes at Sankranti.",
+    "Cyclone, farmer-distress or poverty framing.",
+    "Film-star or political-rally imagery.",
+    "Temple priest or Haridasu dress on characters."
+  ],
+  "todo": [
+    "Muslim and Christian dress with sources.",
+    "Dharmavaram silk and Rayalaseema specifics.",
+    "Agency Adivasi communities; PVTGs (Bodo Gadaba, Bondo Poroja, Chenchu, Dongria Khond, Gutob Gadaba, Khond Poroja, Kolam, Kondareddis, Konda Savaras, Kutia Khond, Parengi Poroja, Thoti) held back until priority-1/2 sources and extra review.",
+    "Vinayaka Chavithi, Tirupati Brahmotsavam with sources.",
+    "Native review (coastal and Rayalaseema)."
+  ],
+  "sources": [
+    {
+      "id": "wiki_ap_religion",
+      "title": "Religion in Andhra Pradesh (Wikipedia; Census 2011 figures for the present state)",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Andhra_Pradesh",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_ap",
+      "title": "Andhra Pradesh heritage textiles and traditional style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/the-ultimate-guide-to-andhra-pradesh-heritage-textiles-traditional-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "dc_sankranti",
+      "title": "Sankranti celebrations a legacy rooted in AP's traditions (Deccan Chronicle)",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/sankranti-celebrations-a-legacy-rooted-in-aps-traditions-1853617",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Thaali",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pvtg_list",
+      "title": "State-wise list of PVTGs (Ministry of Tribal Affairs)",
+      "url": "https://tribal.nic.in/downloads/PM-JANMAN/StateWiseListPVTGs.pdf",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "tanishq_telugu",
+      "title": "Telugu bridal rituals: jewellery guide (Tanishq)",
+      "url": "https://blog.tanishq.co.in/telugu-bridal-rituals-jewellery-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "bluestone_mangalsutra",
+      "title": "Traditional South Indian mangalsutra designs: a regional style guide (BlueStone)",
+      "url": "https://blog.bluestone.com/traditional-south-indian-mangalsutra-designs-meanings-a-regional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Open: the Christian share is 1.38% in Wikipedia's table but 1.30% in its infobox; 1.38% kept (table, sums to 100%). Census self-reporting is known to undercount Christians in Andhra Pradesh; left as published.",
+      "Telugu mangalsutra corrected from 'gold mangalsutra on a black-bead chain' to two small gold discs (pustelu) with black beads, as Wikipedia, Tanishq and BlueStone describe; the yellow-thread version is also used.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (3 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "2 garment(s) also confirmed by Wikipedia's Clothing in India page."
+    ]
+  }
+}

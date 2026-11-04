@@ -1,0 +1,1556 @@
+{
+  "schema_version": 2,
+  "slug": "puducherry",
+  "code": "PY",
+  "name": "Puducherry",
+  "type": "union_territory",
+  "zone": "south",
+  "capital": "Puducherry",
+  "status": "reviewed",
+  "languages": [
+    "Tamil (official)",
+    "French (official)",
+    "English (official)",
+    "Malayalam (official, Mahe)",
+    "Telugu (official, Yanam)"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 87.3,
+      "christian": 6.29,
+      "muslim": 6.05,
+      "jain": 0.11,
+      "buddhist": 0.04,
+      "sikh": 0.02,
+      "other": 0.18
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "puducherry",
+      "name": "Puducherry",
+      "notes": "Puducherry town (French quarter and Tamil quarter), Villianur, Bahour; fishing villages on the coast."
+    },
+    {
+      "id": "karaikal",
+      "name": "Karaikal",
+      "notes": "Enclave on the Kaveri delta coast in Tamil Nadu; Tamil Hindu, Muslim and Christian families; Mangani festival."
+    },
+    {
+      "id": "mahe",
+      "name": "Mahe",
+      "notes": "Small enclave on the Malabar coast inside Kerala; Malayalam-speaking."
+    },
+    {
+      "id": "yanam",
+      "name": "Yanam",
+      "notes": "Small enclave on the Godavari delta inside Andhra Pradesh; Telugu-speaking."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Tamil",
+      "religion": "hindu",
+      "prompt": "Tamil",
+      "sub_regions": [
+        "puducherry",
+        "karaikal"
+      ],
+      "notes": "Tamil dress as in Tamil Nadu: veshti and shirt, checked cotton and silk sarees, thali and metti when married, jasmine in the hair.",
+      "names": {
+        "female": [
+          "Kavitha",
+          "Saraswathi",
+          "Divya",
+          "Lakshmi",
+          "Meenakshi",
+          "Selvi",
+          "Kamakshi",
+          "Nila",
+          "Kavya",
+          "Revathi",
+          "Priya",
+          "Malathi",
+          "Vasuki",
+          "Thenmozhi",
+          "Sangeetha",
+          "Anitha",
+          "Gomathi",
+          "Jayanthi",
+          "Valli",
+          "Bhuvana",
+          "Sumathi",
+          "Kalaivani",
+          "Muthulakshmi",
+          "Shanthi",
+          "Indira",
+          "Deepa",
+          "Pavithra",
+          "Sudha",
+          "Yamuna",
+          "Ponni",
+          "Malar",
+          "Kalpana"
+        ],
+        "male": [
+          "Karthik",
+          "Arun",
+          "Ramasamy",
+          "Senthil",
+          "Murugan",
+          "Rajendran",
+          "Saravanan",
+          "Vignesh",
+          "Prakash",
+          "Selvam",
+          "Balaji",
+          "Dinesh",
+          "Ganesan",
+          "Anand",
+          "Kumaravel",
+          "Vel",
+          "Velu",
+          "Muthu",
+          "Kumaran",
+          "Manikandan",
+          "Sivakumar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "malayali_hindu",
+      "name": "Hindu",
+      "culture": "Malayali",
+      "religion": "hindu",
+      "prompt": "Malayali",
+      "sub_regions": [
+        "mahe"
+      ],
+      "notes": "Kerala dress: mundu and shirt, kasavu mundu and saree for Onam and festivals.",
+      "names": {
+        "female": [
+          "Lakshmi",
+          "Devika",
+          "Anjali",
+          "Sreeja",
+          "Bindu",
+          "Remya",
+          "Sindhu",
+          "Aswathy",
+          "Divya",
+          "Meera",
+          "Kavya",
+          "Sreelakshmi",
+          "Ambili",
+          "Geetha",
+          "Sobha",
+          "Radhika",
+          "Deepa",
+          "Sreedevi",
+          "Saritha",
+          "Suma",
+          "Bindhu",
+          "Rajalakshmi",
+          "Jayasree",
+          "Sumi",
+          "Athira",
+          "Parvathy",
+          "Reshma",
+          "Smitha",
+          "Usha",
+          "Vineetha"
+        ],
+        "male": [
+          "Vishnu",
+          "Arjun",
+          "Gopalan",
+          "Sajeevan",
+          "Rajesh",
+          "Anoop",
+          "Suresh",
+          "Manoj",
+          "Unnikrishnan",
+          "Hari",
+          "Sreejith",
+          "Ajith",
+          "Biju",
+          "Pradeep",
+          "Sudheer",
+          "Anil",
+          "Vinod",
+          "Ramesh",
+          "Gopakumar",
+          "Sajeev",
+          "Harikrishnan"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "telugu_hindu",
+      "name": "Hindu",
+      "culture": "Telugu",
+      "religion": "hindu",
+      "prompt": "Telugu",
+      "sub_regions": [
+        "yanam"
+      ],
+      "notes": "Telugu dress: pancha and shirt, Venkatagiri sarees, mangalsutra when married.",
+      "names": {
+        "female": [
+          "Padmavathi",
+          "Sravani",
+          "Subbamma",
+          "Lakshmi Prasanna",
+          "Harika",
+          "Sahithi",
+          "Swaroopa",
+          "Bhavani",
+          "Rajamma",
+          "Sathvika",
+          "Sirisha",
+          "Anusha",
+          "Madhavi",
+          "Ramadevi",
+          "Swathi",
+          "Keerthana",
+          "Sujatha",
+          "Kalyani",
+          "Durga",
+          "Sarada",
+          "Sunitha",
+          "Vani",
+          "Aruna",
+          "Jyothi",
+          "Hemalatha",
+          "Manjula",
+          "Pavani",
+          "Divya",
+          "Lavanya",
+          "Bhargavi",
+          "Sailaja",
+          "Annapurna"
+        ],
+        "male": [
+          "Sai Kiran",
+          "Narasimhulu",
+          "Charan",
+          "Srinivasulu",
+          "Venkata Ramana",
+          "Naveen",
+          "Mallaiah",
+          "Yadagiri",
+          "Ravi Teja",
+          "Suresh",
+          "Prasad",
+          "Mahesh",
+          "Ramesh",
+          "Vamsi",
+          "Chaitanya",
+          "Nagaraju",
+          "Venkatesh",
+          "Srinivas",
+          "Naresh",
+          "Ravi",
+          "Satyanarayana",
+          "Krishna",
+          "Anil",
+          "Kiran",
+          "Raju",
+          "Chandra",
+          "Gopi"
+        ]
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Tamil",
+      "religion": "christian",
+      "prompt": "Tamil",
+      "sub_regions": [
+        "puducherry",
+        "karaikal"
+      ],
+      "notes": "Mostly Catholic Tamil families; same Tamil dress; churches such as Our Lady of Angels hold Mass in Tamil, English and French. Some Franco-Pondicherrian families hold French citizenship.",
+      "names": {
+        "female": [
+          "Mary",
+          "Jenifer",
+          "Sahaya Rani",
+          "Anitha",
+          "Arockia Mary",
+          "Jeba",
+          "Christina",
+          "Shanthi",
+          "Esther",
+          "Rosy",
+          "Lourdu Mary",
+          "Grace",
+          "Jasmine",
+          "Sophia",
+          "Pushpa Mary",
+          "Stella",
+          "Agnes",
+          "Rani",
+          "Jacintha",
+          "Mercy",
+          "Sharmila",
+          "Vasanthi",
+          "Leema",
+          "Josephine",
+          "Selvi",
+          "Victoria",
+          "Anbu Selvi",
+          "Ruby"
+        ],
+        "male": [
+          "Antony",
+          "Joseph",
+          "Arul",
+          "Jeyakumar",
+          "Selvaraj",
+          "Paul",
+          "Xavier",
+          "Arockia Raj",
+          "Stephen",
+          "John",
+          "Prabhu",
+          "Siluvai",
+          "Peter",
+          "Michael",
+          "Arokiaraj",
+          "Sahayaraj",
+          "Daniel",
+          "Jesudas",
+          "Ignatius"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Tamil",
+      "religion": "muslim",
+      "prompt": "Tamil",
+      "sub_regions": [
+        "karaikal",
+        "puducherry"
+      ],
+      "notes": "Tamil Muslim families, notably in Karaikal; white thuppatti over a saree; men in lungi or veshti and shirt.",
+      "names": {
+        "female": [
+          "Ayesha",
+          "Fathima",
+          "Rahmath",
+          "Safiya",
+          "Jasmine",
+          "Mumtaz",
+          "Sabeena",
+          "Nasreen",
+          "Haseena",
+          "Farzana",
+          "Ameena",
+          "Shahida",
+          "Rasheeda",
+          "Nilofer",
+          "Banu",
+          "Rahima",
+          "Jameela",
+          "Thasleem",
+          "Asma",
+          "Salma",
+          "Fareeda",
+          "Kathija",
+          "Nazeema",
+          "Raziya",
+          "Shameem",
+          "Mehar",
+          "Nisha",
+          "Sulthana"
+        ],
+        "male": [
+          "Mohamed Ali",
+          "Abdul Kader",
+          "Jamal",
+          "Rahman",
+          "Basheer",
+          "Ismail",
+          "Sadiq",
+          "Yusuf",
+          "Anwar",
+          "Hakeem",
+          "Shahul",
+          "Syed",
+          "Ibrahim",
+          "Hameed",
+          "Rafiq",
+          "Jaffar",
+          "Kasim",
+          "Nazeer"
+        ],
+        "second_father": true
+      }
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      5,
+      8
+    ],
+    "hair": "Black hair.",
+    "notes": "Medium to deep brown. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Tamil given names; caste surnames never used."
+    },
+    {
+      "community": "christian",
+      "notes": "Tamil Christian or French given names (Antony, Mary, Jean)."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "py_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain cotton shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "py_veshti_sattai_m",
+      "name": "Veshti and shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain white cotton veshti wrapped at the waist with a simple half-sleeve shirt",
+      "short": "white veshti and shirt",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "py_silk_veshti_m",
+      "name": "Silk veshti",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cream silk veshti with a gold border, white shirt and a matching angavastram over the shoulder",
+      "short": "silk veshti and angavastram",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "py_mundu_m",
+      "name": "Kerala mundu",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "plain white cotton Kerala mundu with a thin coloured border, worn with a light cotton shirt",
+      "short": "white mundu and shirt",
+      "sources": [
+        "wiki_mundu"
+      ]
+    },
+    {
+      "id": "py_kasavu_mundu_m",
+      "name": "Kasavu mundu",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "starched off-white Kerala mundu with a gold kasavu border, worn with a crisp white half-sleeve shirt",
+      "short": "kasavu mundu and shirt",
+      "sources": [
+        "wiki_mundu",
+        "wiki_kasavu"
+      ]
+    },
+    {
+      "id": "py_pancha_m",
+      "name": "Pancha and shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "white pancha (dhoti) with a cotton shirt and an angavastram over the shoulder",
+      "short": "pancha and shirt",
+      "sources": [
+        "aza_ap"
+      ]
+    },
+    {
+      "id": "py_lungi_m",
+      "name": "Lungi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "checked cotton lungi with a half-sleeve shirt",
+      "short": "lungi and shirt",
+      "sources": []
+    },
+    {
+      "id": "py_fisher_m",
+      "name": "Fisherman's work clothes",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "folded checked lungi and a towel tied around the head",
+      "short": "folded lungi and head towel",
+      "sources": []
+    },
+    {
+      "id": "py_cotton_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton saree with bold checks and a contrast border, worn with a cotton blouse",
+      "short": "checked cotton saree",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "py_silk_saree_f",
+      "name": "Silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "rich silk saree with a wide contrast gold zari border, worn with a matching blouse",
+      "short": "silk saree with zari border",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "py_kasavu_saree_f",
+      "name": "Kasavu saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "off-white Kerala kasavu saree with a broad gold border and a matching blouse",
+      "short": "kasavu saree",
+      "sources": [
+        "wiki_kasavu",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "py_venkatagiri_f",
+      "name": "Venkatagiri saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "fine Venkatagiri saree with a gold border",
+      "short": "Venkatagiri saree",
+      "sources": [
+        "aza_ap",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "py_churidar_f",
+      "name": "Churidar",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton churidar kurta with a matching dupatta",
+      "short": "churidar kurta",
+      "sources": []
+    },
+    {
+      "id": "py_thuppatti_f",
+      "name": "Saree with thuppatti",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "prompt": "cotton saree with a white thuppatti draped over the head and body, face uncovered",
+      "short": "saree with white thuppatti",
+      "sources": [
+        "wiki_tamil_muslim"
+      ]
+    },
+    {
+      "id": "py_dress_f",
+      "name": "Dress",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "knee-length cotton dress with short sleeves",
+      "short": "cotton dress",
+      "sources": []
+    },
+    {
+      "id": "py_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's simple cotton salwar suit",
+      "short": "girl's salwar suit",
+      "sources": []
+    },
+    {
+      "id": "py_pavadai_g",
+      "name": "Pattu pavadai",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's bright silk pavadai, an ankle-length skirt with a matching blouse",
+      "short": "girl's silk pavadai",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "py_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton shirt and full-length trousers",
+      "short": "boy's shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "py_kids_b_church",
+      "name": "Boy's church clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's white shirt with dark trousers",
+      "short": "boy's white shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "py_thali",
+      "name": "Thali",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "gold thali pendant on a yellow thread around the neck",
+      "short": "gold thali on yellow thread",
+      "sources": [
+        "weddingsutra_tamil",
+        "bluestone_mangalsutra"
+      ]
+    },
+    {
+      "id": "py_metti",
+      "name": "Metti",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "silver metti toe rings",
+      "short": "silver toe rings",
+      "sources": [
+        "weddingsutra_tamil",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "py_mangalsutra_te",
+      "name": "Mangalsutra",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "telugu_hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "gold mangalsutra with two small round gold discs and black beads",
+      "short": "mangalsutra with two gold discs",
+      "sources": [
+        "wiki_mangalsutra",
+        "tanishq_telugu",
+        "bluestone_mangalsutra"
+      ]
+    },
+    {
+      "id": "py_jasmine",
+      "name": "Jasmine",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "string of white jasmine flowers in the plait",
+      "short": "jasmine in the plait",
+      "sources": []
+    },
+    {
+      "id": "py_cross",
+      "name": "Small gold cross",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "christian",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "small gold cross on a thin chain",
+      "short": "small gold cross",
+      "sources": []
+    },
+    {
+      "id": "py_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "py_cotton_saree_f"
+        ],
+        [
+          "py_churidar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "py_silk_saree_f"
+        ],
+        [
+          "py_kasavu_saree_f"
+        ]
+      ],
+      "reason": "Tamil sarees; kasavu in Mahe."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "py_shirt_trousers_m"
+        ],
+        [
+          "py_veshti_sattai_m"
+        ]
+      ],
+      "festive": [
+        [
+          "py_silk_veshti_m"
+        ],
+        [
+          "py_kasavu_mundu_m"
+        ]
+      ],
+      "reason": "Veshti or mundu by enclave."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "py_cotton_saree_f"
+        ]
+      ],
+      "festive": [
+        [
+          "py_silk_saree_f"
+        ]
+      ],
+      "reason": "Saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "py_veshti_sattai_m"
+        ]
+      ],
+      "festive": [
+        [
+          "py_silk_veshti_m"
+        ]
+      ],
+      "reason": "Veshti."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "py_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "py_pavadai_g"
+        ]
+      ],
+      "reason": "Silk pavadai."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "py_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "py_kids_b_church"
+        ]
+      ],
+      "reason": "Shirt and trousers."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "pongal_py",
+      "name": "Pongal",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "christian"
+      ],
+      "when": "January",
+      "scene": "Pongal morning outside a house, rice boiling over in a clay pot, sugarcane and a kolam on the ground",
+      "scene_short": "Pongal pot and kolam"
+    },
+    {
+      "id": "masi_magam",
+      "name": "Masi Magam",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "sub_regions": [
+        "puducherry"
+      ],
+      "when": "February-March",
+      "scene": "Masi Magam at Vaithikuppam beach, decorated temple floats brought to the sea and crowds on the shore",
+      "scene_short": "Masi Magam at the beach"
+    },
+    {
+      "id": "mangani",
+      "name": "Mangani festival",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "sub_regions": [
+        "karaikal"
+      ],
+      "when": "June-July",
+      "scene": "Mangani festival in Karaikal, a chariot decorated with mangoes and crowds offering mangoes",
+      "scene_short": "Karaikal mango festival"
+    },
+    {
+      "id": "onam_py",
+      "name": "Onam",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "malayali_hindu"
+      ],
+      "sub_regions": [
+        "mahe"
+      ],
+      "when": "August-September",
+      "scene": "Onam at home in Mahe, a flower carpet (pookalam) at the doorway and a feast on banana leaves",
+      "scene_short": "Onam pookalam and feast"
+    },
+    {
+      "id": "sankranti_py",
+      "name": "Sankranti",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "telugu_hindu"
+      ],
+      "sub_regions": [
+        "yanam"
+      ],
+      "when": "January",
+      "scene": "Sankranti morning in Yanam, colourful rangoli in front of houses",
+      "scene_short": "Sankranti rangoli"
+    },
+    {
+      "id": "christmas_py",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "christian"
+      ],
+      "when": "25 December",
+      "scene": "Christmas evening outside a church in Puducherry, star lanterns on the houses",
+      "scene_short": "Christmas star lanterns"
+    },
+    {
+      "id": "eid_py",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning in Karaikal, family in new clothes greeting relatives outside home",
+      "scene_short": "Eid morning in Karaikal"
+    },
+    {
+      "id": "bastille_py",
+      "name": "Bastille Day",
+      "type": "festival",
+      "occasion": "festive",
+      "sub_regions": [
+        "puducherry"
+      ],
+      "when": "14 July",
+      "scene": "Bastille Day evening on the Puducherry seafront promenade, a parade and lights",
+      "scene_short": "seafront parade"
+    },
+    {
+      "id": "wedding_guest_py",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding hall decorated with banana trees and flowers",
+      "scene_short": "wedding hall"
+    }
+  ],
+  "settings": [
+    {
+      "id": "white_town",
+      "type": "urban",
+      "description": "street in Puducherry's French quarter with yellow colonial houses and bougainvillea",
+      "short": "French quarter street",
+      "sub_regions": [
+        "puducherry"
+      ]
+    },
+    {
+      "id": "tamil_quarter",
+      "type": "urban",
+      "description": "street in Puducherry's Tamil quarter with pillared verandahs (thinnai)",
+      "short": "Tamil quarter street",
+      "sub_regions": [
+        "puducherry"
+      ]
+    },
+    {
+      "id": "promenade",
+      "type": "urban",
+      "description": "seafront promenade with the Bay of Bengal behind",
+      "short": "seafront promenade",
+      "sub_regions": [
+        "puducherry"
+      ]
+    },
+    {
+      "id": "karaikal_town",
+      "type": "urban",
+      "description": "Karaikal town street",
+      "short": "Karaikal street",
+      "sub_regions": [
+        "karaikal"
+      ]
+    },
+    {
+      "id": "mahe_river",
+      "type": "urban",
+      "description": "Mahe riverside with coconut palms",
+      "short": "Mahe riverside",
+      "sub_regions": [
+        "mahe"
+      ]
+    },
+    {
+      "id": "yanam_river",
+      "type": "urban",
+      "description": "Godavari riverbank promenade in Yanam",
+      "short": "Yanam riverbank",
+      "sub_regions": [
+        "yanam"
+      ]
+    },
+    {
+      "id": "paddy_py",
+      "type": "rural",
+      "description": "green paddy fields with coconut palms",
+      "short": "paddy fields and palms",
+      "sub_regions": [
+        "puducherry",
+        "karaikal"
+      ]
+    },
+    {
+      "id": "fishing_village_py",
+      "type": "rural",
+      "description": "fishing village beach with catamarans and nets",
+      "short": "fishing beach",
+      "sub_regions": [
+        "puducherry",
+        "karaikal"
+      ]
+    },
+    {
+      "id": "home_city_py",
+      "type": "home",
+      "description": "house with a pillared front verandah and a kolam at the door",
+      "short": "house verandah with kolam",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_py",
+      "type": "home",
+      "description": "village house with a tiled roof and a coconut tree",
+      "short": "village house",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_py",
+      "type": "work",
+      "description": "office in Puducherry",
+      "short": "Puducherry office",
+      "sub_regions": [
+        "puducherry"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "adult_male"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in paddy fields"
+    },
+    {
+      "id": "fisher",
+      "name": "Fisher",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "scene": "mending fishing nets beside a catamaran"
+    },
+    {
+      "id": "software_engineer",
+      "name": "Software engineer",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a tech office"
+    },
+    {
+      "id": "hotel_worker",
+      "name": "Hotel worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at the front desk of a heritage hotel"
+    }
+  ],
+  "seasons": {
+    "summer": "Hot and humid (April-June).",
+    "monsoon": "North-east monsoon rain (October-December); Mahe gets the south-west monsoon (June-September).",
+    "winter": "Warm (January-February)."
+  },
+  "heritage": [
+    {
+      "id": "py_french_colonial",
+      "name": "French colonial-era dress",
+      "kind": "other",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical dress for fictional people only.",
+      "sources": []
+    },
+    {
+      "id": "py_firewalk",
+      "name": "Firewalk and ritual vows",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Draupadi Amman firewalk and similar vows are not shown.",
+      "sources": [
+        "sahapedia_py"
+      ]
+    }
+  ],
+  "avoid": [
+    "Tourist cliches only (cafes, 'little France'); 'French versus Tamil' framing.",
+    "Caste surnames.",
+    "Firewalk or ritual vows."
+  ],
+  "todo": [
+    "Franco-Pondicherrian families as a culture with sources.",
+    "Villianur and Our Lady of Angels feasts as scenes.",
+    "Native review (Puducherry, Karaikal, Mahe, Yanam)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Puducherry religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/34-puducherry.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "sahapedia_py",
+      "title": "Of mangoes, monstrances and firewalks: festivals of Puducherry (Sahapedia)",
+      "url": "https://www.sahapedia.org/mangoes-monstrances-and-firewalks-festivals-puducherry",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_tn",
+      "title": "Tamil Nadu traditional clothing (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/tamil-nadu-traditional-clothing-textiles-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_tamil_muslim",
+      "title": "Tamil Muslim (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Tamil_Muslim",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "weddingsutra_tamil",
+      "title": "A traditional jewellery guide for the Tamil bride (WeddingSutra)",
+      "url": "https://weddingsutra.com/bride/bridal-fashion/a-traditional-jewellery-guide-for-the-tamil-bride/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_mundu",
+      "title": "Mundu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mundu",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_kasavu",
+      "title": "Kasavu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kasavu",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_ap",
+      "title": "Andhra Pradesh heritage textiles (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/the-ultimate-guide-to-andhra-pradesh-heritage-textiles-traditional-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangalsutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangalsutra",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "bluestone_mangalsutra",
+      "title": "Traditional South Indian mangalsutra designs: a regional style guide (BlueStone)",
+      "url": "https://blog.bluestone.com/traditional-south-indian-mangalsutra-designs-meanings-a-regional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "tanishq_telugu",
+      "title": "Telugu bridal rituals: jewellery guide (Tanishq)",
+      "url": "https://blog.tanishq.co.in/telugu-bridal-rituals-jewellery-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-11-02",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Telugu mangalsutra corrected from 'gold mangalsutra on a black-bead chain' to two small gold discs (pustelu) with black beads, as Wikipedia, Tanishq and BlueStone describe; the yellow-thread version is also used.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (1 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "1 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Confirmed: Masi Magam sea bathing at Vaithikuppam, the Karaikal Mangani festival and Bastille Day (Sahapedia); Tamil, Kerala and Telugu items share their home states' second sources (Kasavu and Balaramapuram, Venkatagiri GI, thali on a yellow thread). The Telugu mangalsutra prompt was corrected as in Andhra Pradesh."
+    ]
+  }
+}

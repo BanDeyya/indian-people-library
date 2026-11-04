@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AP-OM-0019",
+  "name": "Rafi Shaik Hussain",
+  "region": "andhra-pradesh",
+  "sub_region": "godavari",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short white hair",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "ap_kurta_pyjama_m",
+    "ap_shirt_trousers_m"
+  ],
+  "language": [
+    "Urdu",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

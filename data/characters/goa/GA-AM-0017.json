@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "GA-AM-0017",
+  "name": "Peter",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "catholic",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair greying at the temples",
+    "build": "medium",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_suit_m",
+    "ga_cross",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-AM-0004",
+  "name": "John",
+  "region": "andaman-nicobar",
+  "sub_region": "nicobar",
+  "community": "nicobarese",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "coconut_grower",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad weathered face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole near his right eye"
+  },
+  "wardrobe": [
+    "an_nicobar_m",
+    "an_smart_m",
+    "an_cross_nc"
+  ],
+  "language": [
+    "Nicobarese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

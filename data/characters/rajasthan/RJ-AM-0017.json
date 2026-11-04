@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0017",
+  "name": "Kishore Mohan",
+  "region": "rajasthan",
+  "sub_region": "hadoti",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face with a hooked nose and deep wrinkles",
+    "eyes": "dark eyes",
+    "hair": "short black hair under his safa",
+    "build": "athletic",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "thick curled moustache"
+  },
+  "wardrobe": [
+    "rj_bandhgala_m",
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Marwari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

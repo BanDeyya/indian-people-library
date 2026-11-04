@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-OM-0010",
+  "name": "Sanjay",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "athletic",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "an_shirt_trousers_m",
+    "an_kurta_pyjama_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

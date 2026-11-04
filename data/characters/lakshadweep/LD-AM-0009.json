@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0009",
+  "name": "Kasim Koya",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "boat_builder",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "ld_fisher_m",
+    "ld_white_mundu_m",
+    "ld_lungi_shirt_m"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

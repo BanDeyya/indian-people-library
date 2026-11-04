@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0008",
+  "name": "Chirag",
+  "region": "dnh-dd",
+  "sub_region": "diu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dd_kurta_m",
+    "dd_shirt_trousers_m",
+    "dd_kediyu_m"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

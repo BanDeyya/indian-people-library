@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "LA-AF-0005",
+  "name": "Stanzin",
+  "region": "ladakh",
+  "sub_region": "nubra",
+  "community": "buddhist",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 50,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with rosy cheeks, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair in a ponytail",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "la_modern_f",
+    "la_salwar_f",
+    "la_sulma_f",
+    "la_tibi",
+    "la_down_jacket",
+    "la_slogpa_f"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

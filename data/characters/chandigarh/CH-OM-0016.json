@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "CH-OM-0016",
+  "name": "Sanjay Prasad",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "athletic",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ch_shirt_jeans_m",
+    "ch_kurta_pajama_m",
+    "ch_shawl"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

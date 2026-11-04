@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "CG-OF-0007",
+  "name": "Shanti Kumari",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 82,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "cg_lugda_f",
+    "cg_kosa_f",
+    "cg_painjan"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UK-AF-0005",
+  "name": "Manju Devi",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "garhwali",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "uk_modern_f",
+    "uk_ghagri_f",
+    "uk_guluband",
+    "uk_sindoor_g"
+  ],
+  "language": [
+    "Garhwali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

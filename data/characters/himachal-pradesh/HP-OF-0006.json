@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "HP-OF-0006",
+  "name": "Rekha Devi",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "hp_ghagra_f",
+    "hp_suit_f",
+    "hp_pattu_f"
+  ],
+  "language": [
+    "Pahari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

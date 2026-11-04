@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "SK-OF-0002",
+  "name": "Parbati",
+  "region": "sikkim",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "sk_pharia_f",
+    "sk_kurta_f",
+    "sk_tika",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0020",
+  "name": "Monirul",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "tr_lungi_m",
+    "tr_pyjama_panjabi_m"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

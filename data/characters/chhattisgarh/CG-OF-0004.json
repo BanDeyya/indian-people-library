@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "CG-OF-0004",
+  "name": "Durga",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "cg_kosa_f",
+    "cg_cotton_saree_f",
+    "cg_sindoor",
+    "cg_bichiya"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

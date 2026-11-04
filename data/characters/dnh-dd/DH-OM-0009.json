@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0009",
+  "name": "Mehul Ketan",
+  "region": "dnh-dd",
+  "sub_region": "diu",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dd_kurta_m",
+    "dd_dhoti_kurta_m"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

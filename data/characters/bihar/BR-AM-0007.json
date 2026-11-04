@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0007",
+  "name": "Ajit Kumar",
+  "region": "bihar",
+  "sub_region": "mithila",
+  "community": "maithil",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with a broad forehead",
+    "eyes": "dark eyes",
+    "hair": "short black hair, receding",
+    "build": "average",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "br_mithila_kurta_m",
+    "br_kurta_pyjama_m",
+    "br_paag"
+  ],
+  "language": [
+    "Maithili",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0019",
+  "name": "Monika Rani",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "pb_suit_f",
+    "pb_karva_chauth_f",
+    "pb_jhumka"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

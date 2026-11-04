@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "SK-OM-0012",
+  "name": "Prakash Bahadur",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "thin",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "sk_daura_suruwal_m",
+    "sk_shirt_trousers_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Nepali",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

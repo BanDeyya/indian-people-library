@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0016",
+  "name": "Meghiben Kana",
+  "region": "gujarat",
+  "sub_region": "saurashtra",
+  "community": "rabari",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair covered by her odhni",
+    "build": "slim and strong",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "gj_rabari_f",
+    "gj_saree_f"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

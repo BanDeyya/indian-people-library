@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DL-OF-0001",
+  "name": "Kamlesh",
+  "region": "delhi",
+  "sub_region": "west",
+  "community": "punjabi_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "soft round face",
+    "eyes": "light brown eyes behind glasses",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small mole on her chin"
+  },
+  "wardrobe": [
+    "dl_suit_f",
+    "dl_festive_suit_f",
+    "dl_shawl",
+    "dl_sindoor_pb"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

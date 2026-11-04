@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0015",
+  "name": "Budhu",
+  "region": "jharkhand",
+  "sub_region": "kolhan",
+  "community": "adivasi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_dhoti_kurta_m",
+    "jh_sarhul_m"
+  ],
+  "language": [
+    "Mundari",
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0014",
+  "name": "Ratan",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "tripuri",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "wiry",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_rikutu_gamcha_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Kokborok",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

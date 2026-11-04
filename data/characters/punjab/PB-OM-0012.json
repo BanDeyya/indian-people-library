@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "PB-OM-0012",
+  "name": "Kulvir Singh",
+  "region": "punjab",
+  "sub_region": "doaba",
+  "community": "sikh",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with a strong jaw and a straight nose",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "short grey hair",
+    "build": "slim",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "pb_dastar_m",
+    "pb_kada",
+    "pb_kurta_pajama_m",
+    "pb_khes_wrap"
+  ],
+  "always_wear": [
+    "pb_dastar_m",
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

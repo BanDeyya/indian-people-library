@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0018",
+  "name": "Shanta",
+  "region": "himachal-pradesh",
+  "sub_region": "kinnaur",
+  "community": "kinnaura",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "black hair in a long plait",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "hp_dohru_f",
+    "hp_suit_f",
+    "hp_thepang",
+    "hp_pattu_f"
+  ],
+  "language": [
+    "Kinnauri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

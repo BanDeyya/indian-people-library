@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0017",
+  "name": "Shabana",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with full cheeks",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "up_gharara_f",
+    "up_salwar_f",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "Awadhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

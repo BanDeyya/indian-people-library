@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-OF-0018",
+  "name": "Sukmoni",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "tea_garden",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 86,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "tea_plucker",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "heart-shaped face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "as_red_white_saree_f",
+    "as_mekhela_chador_f"
+  ],
+  "language": [
+    "Sadri",
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

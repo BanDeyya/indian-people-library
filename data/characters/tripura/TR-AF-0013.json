@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0013",
+  "name": "Mitali Subhash",
+  "region": "tripura",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 59,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "tr_tant_f",
+    "tr_laal_paar_f",
+    "tr_shakha_pola",
+    "tr_sindoor"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

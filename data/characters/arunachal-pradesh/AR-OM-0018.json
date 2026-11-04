@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AR-OM-0018",
+  "name": "Dinesh Bahadur",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "medium",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ar_smart_m",
+    "ar_shirt_trousers_m",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Nepali",
+    "Assamese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

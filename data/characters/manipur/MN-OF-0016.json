@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-OF-0016",
+  "name": "Pamreisang",
+  "region": "manipur",
+  "sub_region": "north_hills",
+  "community": "tangkhul",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 87,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "medium",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "mn_kashan_f",
+    "mn_winter_jacket",
+    "mn_phanek_f"
+  ],
+  "language": [
+    "Tangkhul",
+    "Meiteilon",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

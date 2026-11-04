@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "OD-AM-0007",
+  "name": "Biswanath Sarat",
+  "region": "odisha",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short curly black hair",
+    "build": "lean",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "od_dhoti_kurta_m",
+    "od_ikat_kurta_m",
+    "od_kurta_pyjama_m",
+    "od_gamuchha"
+  ],
+  "language": [
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

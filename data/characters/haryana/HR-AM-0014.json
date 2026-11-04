@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0014",
+  "name": "Naveen Kumar",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short styled black hair",
+    "build": "broad and strong",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_kurta_pyjama_m",
+    "hr_shirt_trousers_m",
+    "hr_pagri",
+    "hr_chaddar",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Bagri",
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

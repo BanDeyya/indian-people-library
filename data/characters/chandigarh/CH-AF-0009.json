@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "CH-AF-0009",
+  "name": "Ritu",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "punjabi_hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "soft round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ch_phulkari_f",
+    "ch_suit_f",
+    "ch_winter_jacket",
+    "ch_sindoor_pb",
+    "ch_shawl"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

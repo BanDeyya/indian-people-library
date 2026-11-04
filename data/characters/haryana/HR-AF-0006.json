@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0006",
+  "name": "Shakuntala",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "strong",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "hr_festive_suit_f",
+    "hr_daaman_f",
+    "hr_winter_jacket",
+    "hr_sindoor"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

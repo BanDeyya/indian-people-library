@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0018",
+  "name": "Prakash Jayesh",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "dhodia",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "dd_dhoti_kurta_m",
+    "dd_kurta_m"
+  ],
+  "language": [
+    "Dhodia",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

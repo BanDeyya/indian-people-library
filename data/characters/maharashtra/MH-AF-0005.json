@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0005",
+  "name": "Kamli Shivram",
+  "region": "maharashtra",
+  "sub_region": "konkan",
+  "community": "warli",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "narrow face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "mh_warli_f",
+    "mh_warli_ganthi"
+  ],
+  "language": [
+    "Warli",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

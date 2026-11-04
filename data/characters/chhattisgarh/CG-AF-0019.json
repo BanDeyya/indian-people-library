@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "CG-AF-0019",
+  "name": "Kamla",
+  "region": "chhattisgarh",
+  "sub_region": "bastar",
+  "community": "gond",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "broad face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun with a flower",
+    "build": "strong",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "cg_bastar_saree_f",
+    "cg_sutia",
+    "cg_painjan",
+    "cg_bichiya",
+    "cg_cotton_saree_f"
+  ],
+  "language": [
+    "Halbi",
+    "Gondi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

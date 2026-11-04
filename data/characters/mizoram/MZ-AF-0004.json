@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "MZ-AF-0004",
+  "name": "Sumita",
+  "region": "mizoram",
+  "sub_region": "chakma_area",
+  "community": "chakma",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "long black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small dimple on her right cheek"
+  },
+  "wardrobe": [
+    "mz_pinon_hadi_f",
+    "mz_winter_jacket"
+  ],
+  "language": [
+    "Chakma",
+    "Mizo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

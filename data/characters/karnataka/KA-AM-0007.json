@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0007",
+  "name": "Kiran",
+  "region": "karnataka",
+  "sub_region": "kalyana",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "stocky",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "ka_kurta_panche_m",
+    "ka_panche_shirt_m",
+    "ka_shirt_trousers_m"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

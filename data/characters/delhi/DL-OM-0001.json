@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0001",
+  "name": "Prakash Chand",
+  "region": "delhi",
+  "sub_region": "old_delhi",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lined oval face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin, slightly stooped",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dl_kurta_pyjama_m",
+    "dl_nehru_jacket",
+    "dl_shawl"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

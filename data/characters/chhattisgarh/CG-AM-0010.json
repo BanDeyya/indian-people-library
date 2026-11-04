@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CG-AM-0010",
+  "name": "Santosh",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "cg_dhoti_kurta_m",
+    "cg_shirt_trousers_m",
+    "cg_kurta_pyjama_m"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

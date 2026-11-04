@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0002",
+  "name": "Abdul Rasheed",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "athletic",
+    "signature_mark": "mole near his left eye",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "ld_shirt_trousers_m",
+    "ld_white_mundu_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0017",
+  "name": "Ramesh Mallaiah",
+  "region": "telangana",
+  "sub_region": "warangal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ts_pancha_shirt_m",
+    "ts_pancha_kurta_m",
+    "ts_kurta_pyjama_m"
+  ],
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0011",
+  "name": "Brijesh Prasad",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "stocky",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "br_kurta_pyjama_m",
+    "br_shirt_trousers_m"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

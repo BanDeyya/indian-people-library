@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JK-AM-0014",
+  "name": "Moti",
+  "region": "jammu-kashmir",
+  "sub_region": "jammu",
+  "community": "kashmiri_pandit",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with soft features",
+    "eyes": "light brown eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "jk_pandit_pheran_m",
+    "jk_shirt_trousers_m"
+  ],
+  "language": [
+    "Kashmiri",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AS-OM-0007",
+  "name": "Pulak",
+  "region": "assam",
+  "sub_region": "upper_assam",
+  "community": "assamese",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with high cheekbones and slightly narrow eyes",
+    "eyes": "brown eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "as_dhoti_kurta_m",
+    "as_white_wrap_m"
+  ],
+  "language": [
+    "Assamese",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

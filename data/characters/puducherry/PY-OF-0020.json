@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0020",
+  "name": "Ameena",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "medium",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "py_churidar_f",
+    "py_thuppatti_f"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

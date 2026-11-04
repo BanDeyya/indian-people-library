@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0011",
+  "name": "Shivakumar",
+  "region": "karnataka",
+  "sub_region": "kittur",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ka_shirt_trousers_m",
+    "ka_kurta_panche_m"
+  ],
+  "language": [
+    "Tulu",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

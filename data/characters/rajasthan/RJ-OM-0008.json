@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OM-0008",
+  "name": "Ratan",
+  "region": "rajasthan",
+  "sub_region": "marwar",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face with a cleft chin",
+    "eyes": "brown eyes",
+    "hair": "white hair under his safa",
+    "build": "thin",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "large white moustache"
+  },
+  "wardrobe": [
+    "rj_angrakha_m",
+    "rj_dhoti_kurta_m",
+    "rj_festive_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hadoti",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

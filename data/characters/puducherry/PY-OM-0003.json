@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PY-OM-0003",
+  "name": "Prakash Vel",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "weathered broad face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "py_silk_veshti_m",
+    "py_veshti_sattai_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

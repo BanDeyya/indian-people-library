@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-AM-0009",
+  "name": "Subir Asim",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 61,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean face with sharp cheekbones",
+    "eyes": "brown eyes behind black-rimmed glasses",
+    "hair": "short black hair, greying at the sides",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "wb_dhoti_panjabi_m",
+    "wb_shirt_trousers_m",
+    "wb_shawl"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

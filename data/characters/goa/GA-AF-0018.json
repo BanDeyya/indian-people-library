@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0018",
+  "name": "Fatima",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "catholic",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "shoulder-length wavy black hair",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "ga_dress_f",
+    "ga_vestido_f"
+  ],
+  "language": [
+    "Konkani",
+    "English",
+    "Portuguese (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

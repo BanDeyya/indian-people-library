@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JK-AF-0018",
+  "name": "Rabia Begum",
+  "region": "jammu-kashmir",
+  "sub_region": "jammu",
+  "community": "gujjar_bakarwal",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "herder",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "black hair under her cap",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "jk_gujjar_f",
+    "jk_lachko",
+    "jk_winter_jacket",
+    "jk_salwar_f"
+  ],
+  "language": [
+    "Gojri",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

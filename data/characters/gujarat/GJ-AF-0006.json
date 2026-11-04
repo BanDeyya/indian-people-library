@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0006",
+  "name": "Hemlata",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a long plait",
+    "build": "average",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "gj_saree_f",
+    "gj_modern_f",
+    "gj_chaniya_f",
+    "gj_sindoor"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

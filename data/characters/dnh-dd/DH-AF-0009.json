@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DH-AF-0009",
+  "name": "Mittal",
+  "region": "dnh-dd",
+  "sub_region": "diu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 51,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "fish_seller",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "dd_chaniya_f",
+    "dd_saree_f",
+    "dd_sindoor"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

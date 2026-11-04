@@ -1,0 +1,1292 @@
+{
+  "schema_version": 2,
+  "slug": "punjab",
+  "code": "PB",
+  "name": "Punjab",
+  "type": "state",
+  "zone": "north",
+  "capital": "Chandigarh",
+  "status": "reviewed",
+  "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "sikh": 57.69,
+      "hindu": 38.49,
+      "muslim": 1.93,
+      "christian": 1.26,
+      "other": 0.64
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "communities": [
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "culture": "Punjabi",
+      "religion": "sikh",
+      "notes": "Men who keep unshorn hair wear a turban (dastar) and steel kada; boys wear a patka. Most Sikh women in India cover the head with a chunni; women's turbans are uncommon and mostly a diaspora trend. Articles of faith: show respectfully and accurately, never as costume.",
+      "always_wear": {
+        "adult_male": [
+          "pb_dastar_m",
+          "pb_kada"
+        ],
+        "old_male": [
+          "pb_dastar_m",
+          "pb_kada"
+        ],
+        "child_boy": [
+          "pb_patka_b",
+          "pb_kada"
+        ],
+        "adult_female": [
+          "pb_kada"
+        ],
+        "old_female": [
+          "pb_kada"
+        ],
+        "child_girl": [
+          "pb_kada"
+        ]
+      },
+      "names": {
+        "female": [
+          "Harpreet",
+          "Gurpreet",
+          "Manpreet",
+          "Jasleen",
+          "Simranjeet",
+          "Navneet",
+          "Rajwinder",
+          "Kulwinder",
+          "Gurdev",
+          "Amandeep",
+          "Paramjit",
+          "Jaspreet",
+          "Sukhwinder",
+          "Baljit",
+          "Harjit",
+          "Jasvir",
+          "Ravinder",
+          "Satwant",
+          "Kirandeep",
+          "Prabhjot",
+          "Rupinder",
+          "Navjot",
+          "Harleen",
+          "Sukhpreet",
+          "Gurleen",
+          "Mandeep",
+          "Balwinder",
+          "Jaswinder",
+          "Manjit",
+          "Inderjit"
+        ],
+        "male": [
+          "Harjeet",
+          "Gurpreet",
+          "Jaspal",
+          "Manjit",
+          "Harjot",
+          "Kulwant",
+          "Sukhdev",
+          "Balwinder",
+          "Amrik",
+          "Jagdeep",
+          "Paramjit",
+          "Gurmeet",
+          "Navdeep",
+          "Ranjit",
+          "Harinder",
+          "Jaswant",
+          "Kulvir",
+          "Hardeep",
+          "Jagjit",
+          "Lakhwinder",
+          "Bhupinder",
+          "Satnam",
+          "Gurjeet",
+          "Parminder",
+          "Davinder"
+        ],
+        "second_female": [
+          "Kaur"
+        ],
+        "second_male": [
+          "Singh"
+        ],
+        "second_always": true
+      }
+    },
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Punjabi",
+      "religion": "hindu",
+      "notes": "Same Punjabi suit and kurta pajama; married women observe Karva Chauth with mehendi and festive dress.",
+      "names": {
+        "female": [
+          "Neelam",
+          "Simran",
+          "Sonia",
+          "Rajni",
+          "Anu",
+          "Meenu",
+          "Pooja",
+          "Kamlesh",
+          "Santosh",
+          "Ritu",
+          "Mehak",
+          "Shalini",
+          "Nidhi",
+          "Payal",
+          "Rekha",
+          "Nisha",
+          "Monika",
+          "Anju",
+          "Neha",
+          "Seema",
+          "Kavita",
+          "Renu",
+          "Shilpa",
+          "Pinki",
+          "Kanta",
+          "Usha",
+          "Veena",
+          "Suman",
+          "Rashmi",
+          "Jyoti"
+        ],
+        "male": [
+          "Vikas",
+          "Rajeev",
+          "Sanjeev",
+          "Kewal",
+          "Ashwani",
+          "Rakesh",
+          "Vinod",
+          "Deepak",
+          "Sunil",
+          "Rohit",
+          "Karan",
+          "Sahil",
+          "Mohit",
+          "Varun",
+          "Ashok",
+          "Rajiv",
+          "Pawan",
+          "Naresh",
+          "Gaurav",
+          "Anil",
+          "Sameer"
+        ],
+        "second_female": [
+          "Rani"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Punjabi",
+      "religion": "christian",
+      "notes": "About 1.3% (2011), highest in Gurdaspur (7.7%) and Amritsar; Church of North India, Catholic (Jalandhar diocese) and many independent churches. Dress is the same Punjabi dress; many keep Punjabi names.",
+      "names": {
+        "female": [
+          "Rani",
+          "Manju",
+          "Sunita",
+          "Shalini",
+          "Mary",
+          "Neha",
+          "Asha",
+          "Simran",
+          "Reena",
+          "Sonia",
+          "Kiran",
+          "Pinki",
+          "Seema",
+          "Monika"
+        ],
+        "male": [
+          "Samuel",
+          "Daniel",
+          "Sunny",
+          "Raju",
+          "Emmanuel",
+          "Peter",
+          "Joseph",
+          "Amit",
+          "Sonu",
+          "Vicky",
+          "John",
+          "Robin",
+          "Tarsem",
+          "Rajesh"
+        ],
+        "second_male": [
+          "Masih"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Punjabi",
+      "religion": "muslim",
+      "notes": "Mainly in Malerkotla, known for inter-faith harmony. Dress details still to research."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      2,
+      7
+    ],
+    "hair": "Black to dark brown; older people often grey or white.",
+    "facial_hair": "Sikh men who keep unshorn hair have a full beard; many Hindu and Sikh men are clean-shaven or have short beards.",
+    "notes": "Fair to warm brown (MST 2-7); spread characters across the whole range. Starting range, tune after test renders. Punjab has no notified Scheduled Tribes (Census 2001 and 2011)."
+  },
+  "wardrobe": [
+    {
+      "id": "pb_kurta_pajama_m",
+      "name": "Kurta pajama",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "knee-length straight-cut white cotton Punjabi kurta with a loose white pajama",
+      "short": "white Punjabi kurta pajama",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "holidify_punjab"
+      ]
+    },
+    {
+      "id": "pb_dastar_m",
+      "name": "Turban (dastar)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit",
+        "mourning"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "neatly tied Sikh turban (dastar) in a solid colour",
+      "short": "neat Sikh turban",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "holidify_punjab"
+      ]
+    },
+    {
+      "id": "pb_patka_b",
+      "name": "Patka",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "small cloth patka covering the hair bun, Sikh boy",
+      "short": "cloth patka",
+      "sources": []
+    },
+    {
+      "id": "pb_kurta_tehmat_m",
+      "name": "Kurta with tehmat",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "bright coloured kurta with a matching tehmat waist wrap, bhangra festival attire",
+      "short": "bright kurta with tehmat",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "holidify_punjab"
+      ]
+    },
+    {
+      "id": "pb_saluka_m",
+      "name": "Waistcoat over kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "fitted dark waistcoat worn over the kurta",
+      "short": "dark waistcoat",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "pb_khes_wrap",
+      "name": "Khes winter wrap",
+      "for": [
+        "old_male",
+        "old_female",
+        "adult_male"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "thick handwoven cotton khes wrapped around the shoulders, winter morning",
+      "short": "cotton khes wrap",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "pb_suit_f",
+      "name": "Punjabi suit (Patiala salwar)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "Punjabi suit: long kameez with a pleated Patiala salwar and a chunni dupatta over the head or shoulders",
+      "short": "Punjabi suit with Patiala salwar and dupatta",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "holidify_punjab",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "pb_phulkari_f",
+      "name": "Phulkari dupatta",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "bright phulkari dupatta covered in dense floral embroidery",
+      "short": "bright phulkari dupatta",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "holidify_punjab",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "pb_ghagra_f",
+      "name": "Ghagra for giddha",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "long full Punjabi ghagra skirt with a long kurti and phulkari dupatta, giddha dance attire",
+      "short": "Punjabi ghagra and kurti",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "holidify_punjab",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "pb_kurti_jeans_f",
+      "name": "Kurti with jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "printed cotton kurti with jeans and a light scarf, everyday city wear",
+      "short": "printed kurti and jeans",
+      "sources": []
+    },
+    {
+      "id": "pb_shirt_jeans_m",
+      "name": "Shirt and jeans",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "casual shirt and jeans, everyday city wear",
+      "short": "casual shirt and jeans",
+      "sources": []
+    },
+    {
+      "id": "pb_suit_g",
+      "name": "Girl's simple suit",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's simple cotton salwar suit with a small dupatta, ordinary everyday clothes",
+      "short": "girl's cotton salwar suit",
+      "sources": [
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "pb_jutti",
+      "name": "Punjabi jutti",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male",
+        "old_female",
+        "child_boy",
+        "child_girl"
+      ],
+      "slot": "feet",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "flat embroidered Punjabi jutti shoes",
+      "short": "embroidered jutti",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "holidify_punjab"
+      ]
+    },
+    {
+      "id": "pb_loyi_wrap",
+      "name": "Loyi light wrap",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "light woollen loyi shawl around the shoulders",
+      "short": "light loyi shawl",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "pb_suit_head_f",
+      "name": "Punjabi suit, chunni over the head",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "Punjabi suit with the chunni draped over the head, gurdwara visit",
+      "short": "Punjabi suit, chunni over head",
+      "sources": [
+        "wiki_sikh_women_turbans"
+      ]
+    },
+    {
+      "id": "pb_karva_chauth_f",
+      "name": "Karva Chauth festive suit",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital",
+        "religious"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "festive red Punjabi suit with gold embroidery and a matching dupatta",
+      "short": "festive red Punjabi suit",
+      "sources": [
+        "incredible_karva"
+      ]
+    },
+    {
+      "id": "pb_suit_head_g",
+      "name": "Girl's suit, chunni over the head",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "sikh",
+      "prompt": "girl's cotton salwar suit with a small chunni over the head",
+      "short": "girl's suit, chunni over head",
+      "sources": [
+        "wiki_sikh_women_turbans"
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "id": "pb_parandi",
+      "name": "Parandi",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest"
+      ],
+      "prompt": "long braid finished with a colourful tasselled parandi",
+      "short": "braid with tasselled parandi",
+      "sources": [
+        "wiki_punjabi_clothing",
+        "holidify_punjab"
+      ]
+    },
+    {
+      "id": "pb_kada",
+      "name": "Steel kada",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy",
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "school",
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit",
+        "mourning"
+      ],
+      "community": "sikh",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "plain steel kada bangle on the wrist",
+      "short": "steel kada",
+      "sources": []
+    },
+    {
+      "id": "pb_jhumka",
+      "name": "Gold jhumka",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "prompt": "medium gold jhumka earrings",
+      "short": "gold jhumka earrings",
+      "sources": []
+    },
+    {
+      "id": "pb_chura",
+      "name": "Bridal chura",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "meaning": [
+        "bridal",
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "restricted": true,
+      "prompt": "red and ivory bridal chura bangles",
+      "short": "red and ivory chura bangles",
+      "sources": [
+        "weddingwire_chura"
+      ]
+    }
+  ],
+  "best_representation": {
+    "adult_male": {
+      "daily": [
+        [
+          "pb_kurta_pajama_m"
+        ]
+      ],
+      "festive": [
+        [
+          "pb_kurta_pajama_m",
+          "pb_saluka_m"
+        ],
+        [
+          "pb_kurta_tehmat_m"
+        ]
+      ],
+      "reason": "Kurta pajama across communities; waistcoat or tehmat for festivals. Sikh characters always add dastar and kada."
+    },
+    "adult_female": {
+      "daily": [
+        [
+          "pb_suit_f"
+        ]
+      ],
+      "festive": [
+        [
+          "pb_suit_f",
+          "pb_phulkari_f",
+          "pb_jhumka"
+        ]
+      ],
+      "reason": "The Punjabi suit is everyday wear; phulkari is Punjab's signature festive textile."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "pb_kurta_pajama_m"
+        ]
+      ],
+      "festive": [
+        [
+          "pb_kurta_pajama_m",
+          "pb_saluka_m"
+        ]
+      ],
+      "reason": "Same as adult men."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "pb_suit_f"
+        ]
+      ],
+      "festive": [
+        [
+          "pb_suit_f",
+          "pb_phulkari_f"
+        ]
+      ],
+      "reason": "Same as adult women."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "pb_suit_g"
+        ]
+      ],
+      "reason": "Simple suit for everyday and festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "pb_kurta_pajama_m"
+        ]
+      ],
+      "reason": "Kurta pajama; Sikh boys add patka and kada."
+    }
+  },
+  "occasions": [
+    {
+      "id": "lohri",
+      "name": "Lohri",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "January",
+      "scene": "Lohri night, family and neighbours gathered around a bonfire, sharing peanuts and rewri",
+      "scene_short": "Lohri bonfire night with family"
+    },
+    {
+      "id": "vaisakhi",
+      "name": "Vaisakhi",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "April",
+      "scene": "Vaisakhi harvest festival, golden wheat fields, people in bright festive clothes",
+      "scene_short": "Vaisakhi harvest, golden wheat fields"
+    },
+    {
+      "id": "gurpurab",
+      "name": "Gurpurab",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "sikh"
+      ],
+      "when": "varies (often November)",
+      "scene": "gurdwara lit with lights at night, families arriving in clean festive clothes",
+      "scene_short": "gurdwara lit up at night"
+    },
+    {
+      "id": "teeyan",
+      "name": "Teeyan",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "July-August (monsoon)",
+      "scene": "women in phulkari dupattas singing together in a village courtyard during the monsoon",
+      "scene_short": "Teeyan monsoon festival in a village courtyard"
+    },
+    {
+      "id": "karva_chauth",
+      "name": "Karva Chauth",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "October-November",
+      "scene": "Karva Chauth evening, married women sitting in a circle with decorated thalis singing together",
+      "scene_short": "Karva Chauth thali circle",
+      "marital_status": [
+        "married"
+      ]
+    },
+    {
+      "id": "eid_punjab",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (Islamic calendar)",
+      "scene": "Eid morning in Malerkotla, neighbours of all faiths greeting each other outside a mosque",
+      "scene_short": "Eid greetings outside a mosque"
+    },
+    {
+      "id": "christmas_punjab",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "christian"
+      ],
+      "when": "December",
+      "scene": "Christmas evening outside a decorated church in a Punjab town",
+      "scene_short": "decorated church in a Punjab town"
+    },
+    {
+      "id": "hola_mohalla",
+      "name": "Hola Mohalla",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "sikh"
+      ],
+      "when": "March",
+      "scene": "Hola Mohalla fair at Anandpur Sahib, families visiting stalls and community kitchen tents",
+      "scene_short": "Hola Mohalla fair stalls and langar tents"
+    },
+    {
+      "id": "wedding_guest_pb",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a Punjabi wedding in a decorated tent",
+      "scene_short": "guests at a Punjabi wedding tent"
+    }
+  ],
+  "settings": [
+    {
+      "id": "mustard_fields",
+      "type": "rural",
+      "description": "yellow mustard fields in bloom in rural Punjab, winter sunlight",
+      "short": "yellow mustard fields"
+    },
+    {
+      "id": "wheat_fields",
+      "type": "rural",
+      "description": "golden wheat fields with a tube well and a brick farmhouse",
+      "short": "golden wheat fields"
+    },
+    {
+      "id": "village_courtyard",
+      "type": "home",
+      "description": "village courtyard with a woven charpai cot and a brick wall",
+      "short": "village courtyard with charpai"
+    },
+    {
+      "id": "gurdwara",
+      "type": "religious",
+      "description": "outside a white gurdwara with domes and a saffron flag",
+      "short": "white gurdwara with saffron flag"
+    },
+    {
+      "id": "city_market",
+      "type": "urban",
+      "description": "busy Punjab city market street with shops and signboards",
+      "short": "busy Punjab city market"
+    },
+    {
+      "id": "dhaba",
+      "type": "work",
+      "description": "roadside dhaba with steel tumblers and charpais",
+      "short": "roadside dhaba"
+    },
+    {
+      "id": "church_punjab",
+      "type": "religious",
+      "description": "outside a church in a Punjab town",
+      "short": "church in a Punjab town"
+    },
+    {
+      "id": "malerkotla_bazaar",
+      "type": "urban",
+      "description": "busy old-town bazaar in Malerkotla",
+      "short": "Malerkotla bazaar",
+      "sub_regions": [
+        "malwa"
+      ]
+    },
+    {
+      "id": "doaba_village",
+      "type": "rural",
+      "description": "Doaba village street with large modern houses and fields behind",
+      "short": "Doaba village with modern houses",
+      "sub_regions": [
+        "doaba"
+      ]
+    },
+    {
+      "id": "temple_punjab",
+      "type": "religious",
+      "description": "outside a Hindu temple in a Punjab town",
+      "short": "Hindu temple in a Punjab town"
+    }
+  ],
+  "avoid": [
+    "Punjabi does not mean Sikh: many Punjabis are Hindu, Christian or Muslim.",
+    "Turban on every man, or turbans used as a costume prop.",
+    "Bhangra pose or loud wedding scene as the default image.",
+    "Only fair skin.",
+    "Truck-art and tractor cliches in every scene.",
+    "Turbans on Sikh women as the default (uncommon in India).",
+    "Nihang warrior-order robes and weapons on ordinary characters.",
+    "Caste or clan surnames (e.g. Jat clan names) on characters.",
+    "Showing Doaba only through foreign-money mansions."
+  ],
+  "todo": [
+    "Hindu married women's daily marital symbols in Punjab, with a source.",
+    "Muslim (Malerkotla) dress with a source.",
+    "Christian wedding and church-going dress details.",
+    "Summer clothing and climate source.",
+    "Native review (someone from Punjab)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Punjab religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/3-punjab.html",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "wiki_punjabi_clothing",
+      "title": "Punjabi clothing (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Punjabi_clothing",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "holidify_punjab",
+      "title": "Traditional Dresses of Punjab (Holidify)",
+      "url": "https://www.holidify.com/pages/punjabi-dresses-208.html",
+      "type": "commercial",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "punjabdata_regions",
+      "title": "Majha, Malwa, Doaba (Punjab Data)",
+      "url": "https://punjabdata.com/Majha-Malwa-Doaba.aspx",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "wiki_sikh_women_turbans",
+      "title": "Sikh women and turbans (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sikh_women_and_turbans",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "wiki_christianity_punjab",
+      "title": "Christianity in Punjab, India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Christianity_in_Punjab,_India",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "incredible_karva",
+      "title": "Karva Chauth (Incredible India, Ministry of Tourism)",
+      "url": "https://incredibleindia.gov.in/en/festivals-and-events/karva-chauth",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "weddingwire_chura",
+      "title": "Bridal churas 101 (WeddingWire India)",
+      "url": "https://weddingwire.in/wedding-tips/bridal-churas-101-everything-you-need-to-know--c424",
+      "type": "commercial",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "tribune_malerkotla_eid",
+      "title": "Malerkotla Muslims celebrate Eid (The Tribune)",
+      "url": "https://www.tribuneindia.com/news/punjab/malerkotla-muslims-celebrate-eid-jains-hold-shobha-yatra-411233",
+      "type": "indian_press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "ncst_census2011",
+      "title": "Scheduled Tribes in India as revealed in Census 2011 (National Commission for Scheduled Tribes)",
+      "url": "https://ncst.nic.in/uploads-dev/important_reports/ScheduledTribesinIndiaasRevealedinCensus2011.pdf",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "outlook_hola",
+      "title": "Hola Mohalla showcases the martial arts of Nihang Sikhs (Outlook Traveller)",
+      "url": "https://outlooktraveller.com/experiences/heritage/hola-mohalla-showcases-the-martial-arts-skills-of-nihang-sikhs",
+      "type": "indian_press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "sub_regions": [
+    {
+      "id": "majha",
+      "name": "Majha",
+      "notes": "Between the Ravi and Beas: Amritsar, Gurdaspur, Pathankot, Tarn Taran. Majhi dialect."
+    },
+    {
+      "id": "malwa",
+      "name": "Malwa",
+      "notes": "South of the Sutlej, about 60-70% of the state: Ludhiana, Patiala, Bathinda, Sangrur, Malerkotla and others. Malwai dialect."
+    },
+    {
+      "id": "doaba",
+      "name": "Doaba",
+      "notes": "Between the Sutlej and Beas: Jalandhar, Kapurthala, Hoshiarpur, Nawanshahr. Doabi dialect; many families have members settled abroad."
+    },
+    {
+      "id": "puadh",
+      "name": "Puadh",
+      "notes": "Near the Ghaggar around Chandigarh: parts of Patiala, Mohali and Ropar. Puadhi dialect."
+    }
+  ],
+  "naming": [
+    {
+      "community": "sikh",
+      "notes": "Given names are often shared by men and women; men add Singh and women Kaur. Do not add caste or clan surnames (library rule)."
+    },
+    {
+      "community": "hindu",
+      "notes": "Given name plus father's name, e.g. 'Ram Lal'. No caste surnames."
+    },
+    {
+      "community": "christian",
+      "notes": "Biblical names in Punjabi forms; many keep Punjabi given names. Father's name as second name."
+    },
+    {
+      "community": "muslim",
+      "notes": "Arabic given names; father's name as second name."
+    }
+  ],
+  "grooming": [
+    {
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "community": "hindu",
+      "notes": "Mehendi on the hands for Karva Chauth.",
+      "prompt": "mehendi on the hands"
+    },
+    {
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "community": "sikh",
+      "notes": "Unshorn hair under a turban and a full beard for men who keep kesh; many Sikh and Hindu men are clean-shaven or have short beards."
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "in golden wheat fields"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male"
+      ],
+      "scene": "behind the counter of a small shop in a city market"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a modern office"
+    }
+  ],
+  "seasons": {
+    "winter": "Cold winters: khes and loyi wraps over the usual clothes."
+  },
+  "heritage": [
+    {
+      "id": "nihang",
+      "name": "Nihang Sikhs",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "A living Sikh warrior order whose blue dress and weapons are part of their faith. It cannot be shown respectfully without the weapons, and weapons are excluded from this public library, so Nihangs are not depicted (only as distant crowds is also avoided).",
+      "sources": [
+        "outlook_hola"
+      ]
+    },
+    {
+      "id": "patiala_salwar",
+      "name": "Patiala salwar",
+      "kind": "royal_court",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "pb_suit_f"
+      ],
+      "reason": "Named after the former Patiala state and worn everywhere today.",
+      "sources": [
+        "wiki_punjabi_clothing"
+      ]
+    },
+    {
+      "id": "sikh_court",
+      "name": "Historical Sikh court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Needs museum sources and the era system.",
+      "sources": []
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Named handloom textiles (2 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "2 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Checked: Punjabi suit with Patiala salwar and chunni, kurta-pajama, dastar and kara, phulkari (Punjab GI product) confirmed by Wikipedia's Punjabi clothing and Clothing in India pages and Holidify. Festival months (Lohri January, Vaisakhi April, Hola Mohalla March, Teeyan monsoon, Karva Chauth October-November) agree with general calendars. No anomaly found."
+    ]
+  }
+}

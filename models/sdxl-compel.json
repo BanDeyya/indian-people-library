@@ -1,0 +1,22 @@
+{
+  "id": "sdxl-compel",
+  "family": "sdxl",
+  "description": "SDXL with a long-prompt method (e.g. compel) that splits prompts into 75-token chunks.",
+  "tokenizer": "clip",
+  "token_budget": 75,
+  "long_prompt": "chunk",
+  "max_chunks": 3,
+  "negatives": true,
+  "variant": "long",
+  "sizes": {
+    "portrait": [
+      1024,
+      1024
+    ],
+    "full": [
+      832,
+      1216
+    ]
+  },
+  "style": "realistic photo, natural light, real skin texture"
+}

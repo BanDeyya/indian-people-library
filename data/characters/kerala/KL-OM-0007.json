@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "KL-OM-0007",
+  "name": "Pradeep Ajith",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "tired kind eyes",
+    "hair": "thin white hair, balding on top",
+    "build": "thin",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "kl_mundu_shirt_m",
+    "kl_lungi_m",
+    "kl_melmundu_m",
+    "kl_kasavu_mundu_m"
+  ],
+  "language": [
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

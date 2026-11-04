@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0006",
+  "name": "Rituparna Pradip",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "bengali_hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "medium",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "an_laal_paar_f",
+    "an_tant_f",
+    "an_shakha_pola",
+    "an_sindoor"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

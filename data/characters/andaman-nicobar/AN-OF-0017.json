@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-OF-0017",
+  "name": "Susan",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "nicobarese",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with high cheekbones",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "grey hair in a bun",
+    "build": "medium",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "an_papoi_f",
+    "an_church_dress_f"
+  ],
+  "language": [
+    "Nicobarese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

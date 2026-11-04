@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-OM-0009",
+  "name": "Senthil Manikandan",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "tamil_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "an_lungi_m",
+    "an_veshti_m"
+  ],
+  "language": [
+    "Tamil",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

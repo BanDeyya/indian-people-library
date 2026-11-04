@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "NL-AF-0015",
+  "name": "Chubeni",
+  "region": "nagaland",
+  "sub_region": "wokha",
+  "community": "lotha",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 64,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with deep laugh lines, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a ponytail",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "nl_modern_f",
+    "nl_lotha_married_f",
+    "nl_plain_top_f"
+  ],
+  "language": [
+    "Lotha",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

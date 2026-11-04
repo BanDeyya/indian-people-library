@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0005",
+  "name": "Kumaravel Sivakumar",
+  "region": "tamil-nadu",
+  "sub_region": "pandya_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 62,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face with a strong jaw",
+    "eyes": "brown eyes",
+    "hair": "short black hair with grey streaks",
+    "build": "stocky",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "light beard"
+  },
+  "wardrobe": [
+    "tn_veshti_sattai_m",
+    "tn_silk_veshti_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

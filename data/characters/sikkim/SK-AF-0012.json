@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-AF-0012",
+  "name": "Bishnu",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "long straight black hair",
+    "build": "medium",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "sk_pharia_f",
+    "sk_kurta_f",
+    "sk_winter_jacket",
+    "sk_sindoor"
+  ],
+  "language": [
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0005",
+  "name": "Naresh Chand",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "hp_kurta_jacket_m",
+    "hp_shirt_trousers_m",
+    "hp_topi",
+    "hp_winter_jacket"
+  ],
+  "language": [
+    "Mandeali",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0002",
+  "name": "Raju Tukaram",
+  "region": "maharashtra",
+  "sub_region": "mumbai",
+  "community": "koli",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "facial_hair": "short beard",
+    "build": "muscular",
+    "signature_mark": "rope scar across his left palm"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_koli_cap",
+    "mh_koli_surka_m"
+  ],
+  "language": [
+    "Koli",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

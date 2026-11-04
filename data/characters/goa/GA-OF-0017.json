@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0017",
+  "name": "Cynthia",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "catholic",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes behind rectangular glasses",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "ga_dress_f",
+    "ga_vestido_f",
+    "ga_cross",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

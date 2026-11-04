@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0006",
+  "name": "Jay Dinesh",
+  "region": "gujarat",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square sun-darkened face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "gj_kediyu_garba_m",
+    "gj_kurta_m"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

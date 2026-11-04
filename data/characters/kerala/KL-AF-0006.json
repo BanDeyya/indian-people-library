@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0006",
+  "name": "Rajalakshmi",
+  "region": "kerala",
+  "sub_region": "travancore",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 21,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with high cheekbones and a straight nose",
+    "eyes": "brown eyes",
+    "hair": "long thick wavy black hair in a loose plait",
+    "build": "plump",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "kl_set_mundu_f",
+    "kl_kasavu_saree_f",
+    "kl_churidar_f",
+    "kl_jimikki",
+    "kl_mookuthi"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DL-OM-0011",
+  "name": "Varun Rakesh",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "punjabi_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with full cheeks",
+    "eyes": "light brown eyes",
+    "hair": "short grey hair",
+    "build": "average",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "dl_kurta_pyjama_m",
+    "dl_shirt_trousers_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

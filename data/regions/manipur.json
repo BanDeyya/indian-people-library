@@ -1,0 +1,1373 @@
+{
+  "schema_version": 2,
+  "slug": "manipur",
+  "code": "MN",
+  "name": "Manipur",
+  "type": "state",
+  "zone": "northeast",
+  "capital": "Imphal",
+  "status": "reviewed",
+  "languages": [
+    "Meiteilon (Manipuri, official)",
+    "English",
+    "Tangkhul",
+    "Thadou",
+    "Paite",
+    "Rongmei",
+    "Hmar",
+    "Kabui"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 41.39,
+      "christian": 41.29,
+      "muslim": 8.4,
+      "other": 8.57,
+      "buddhist": 0.25,
+      "jain": 0.06,
+      "sikh": 0.05
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "valley",
+      "name": "Imphal Valley",
+      "notes": "Imphal, Thoubal, Bishnupur, Kakching; Meitei and Meitei Pangal communities; Ima Keithel women's market."
+    },
+    {
+      "id": "north_hills",
+      "name": "Ukhrul and the northern hills",
+      "notes": "Ukhrul, Senapati, Tamenglong, Kamjong; Naga communities including Tangkhul, Rongmei and Mao."
+    },
+    {
+      "id": "south_hills",
+      "name": "Churachandpur and the southern hills",
+      "notes": "Churachandpur, Pherzawl, Chandel, Tengnoupal; Kuki-Zo communities including Thadou, Paite and Hmar, and some Naga communities."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Meitei",
+      "religion": "hindu",
+      "prompt": "Meitei",
+      "sub_regions": [
+        "valley"
+      ],
+      "notes": "Meitei Vaishnav families. Women: striped cotton phanek with a blouse daily; silk mayek naibi phanek with innaphi for weddings and festivals; velvet jacket in winter. Men: shirt-trousers daily; white dhoti and kurta, sleeveless dark jacket for ceremonies.",
+      "names": {
+        "female": [
+          "Thoibi",
+          "Sanatombi",
+          "Bembem",
+          "Ibemhal",
+          "Memcha",
+          "Tombi",
+          "Shanti",
+          "Linthoi",
+          "Bijaya",
+          "Leima",
+          "Sanahanbi",
+          "Pushparani",
+          "Ibemcha",
+          "Memthoi",
+          "Romi",
+          "Premila",
+          "Sobita",
+          "Binita",
+          "Rebika",
+          "Anita",
+          "Jamuna",
+          "Sunita",
+          "Rasheshori",
+          "Sandhyarani",
+          "Bidyarani"
+        ],
+        "male": [
+          "Ibomcha",
+          "Chaoba",
+          "Tomba",
+          "Ibohal",
+          "Tomchou",
+          "Rajen",
+          "Ibungo",
+          "Nabachandra",
+          "Manihar",
+          "Ranjit",
+          "Sanajaoba",
+          "Ningthou",
+          "Premjit",
+          "Bijen",
+          "Herojit",
+          "Ratan"
+        ]
+      }
+    },
+    {
+      "id": "sanamahi",
+      "name": "Sanamahi",
+      "culture": "Meitei",
+      "religion": "other",
+      "prompt": "Meitei",
+      "sub_regions": [
+        "valley"
+      ],
+      "notes": "Followers of the indigenous Meitei faith (Sanamahism); same Meitei dress. Lai Haraoba.",
+      "names": {
+        "female": [
+          "Thoibi",
+          "Sanatombi",
+          "Bembem",
+          "Ibemhal",
+          "Memcha",
+          "Tombi",
+          "Shanti",
+          "Linthoi",
+          "Bijaya",
+          "Leima",
+          "Sanahanbi",
+          "Pushparani",
+          "Ibemcha",
+          "Memthoi",
+          "Romi",
+          "Premila",
+          "Sobita",
+          "Binita",
+          "Rebika",
+          "Anita",
+          "Jamuna",
+          "Sunita",
+          "Rasheshori",
+          "Sandhyarani",
+          "Bidyarani"
+        ],
+        "male": [
+          "Ibomcha",
+          "Chaoba",
+          "Tomba",
+          "Ibohal",
+          "Tomchou",
+          "Rajen",
+          "Ibungo",
+          "Nabachandra",
+          "Manihar",
+          "Ranjit",
+          "Sanajaoba",
+          "Ningthou",
+          "Premjit",
+          "Bijen",
+          "Herojit",
+          "Ratan"
+        ]
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Meitei Pangal",
+      "religion": "muslim",
+      "prompt": "Manipuri Muslim",
+      "sub_regions": [
+        "valley"
+      ],
+      "notes": "Meitei Pangal community of the valley (Thoubal, Imphal); speak Meiteilon. Dress specifics still to source.",
+      "names": {
+        "female": [
+          "Rafiqa",
+          "Sajida",
+          "Rabia",
+          "Amina",
+          "Hasina",
+          "Nafisa",
+          "Rubina",
+          "Zubeda",
+          "Sakina",
+          "Fatima",
+          "Ayesha",
+          "Jamila",
+          "Halima",
+          "Mumtaz",
+          "Shahida",
+          "Rashida"
+        ],
+        "male": [
+          "Rafiq",
+          "Abdul",
+          "Mohammed",
+          "Nasir",
+          "Aslam",
+          "Faruk",
+          "Iqbal",
+          "Rahim",
+          "Hamid",
+          "Mohammad",
+          "Yusuf",
+          "Ismail",
+          "Karim",
+          "Salam",
+          "Hussain",
+          "Ibrahim",
+          "Basir",
+          "Sharif",
+          "Jalal",
+          "Amin",
+          "Ali"
+        ]
+      }
+    },
+    {
+      "id": "tangkhul",
+      "name": "Tangkhul",
+      "culture": "Tangkhul Naga",
+      "religion": "christian",
+      "prompt": "Tangkhul Naga",
+      "sub_regions": [
+        "north_hills"
+      ],
+      "notes": "Naga community of Ukhrul and Kamjong, mostly Christian. Women's kashan wrap skirt and Changkhom shawl; men's Haora shawl. Luira Phanit (Lui-Ngai-Ni).",
+      "names": {
+        "female": [
+          "Somila",
+          "Ningreichon",
+          "Ramthing",
+          "Shimreingam",
+          "Yaruingam",
+          "Thotreichon",
+          "Pamreisang",
+          "Achon",
+          "Ngalaileng",
+          "Rinchui",
+          "Ningshi",
+          "Mareichon",
+          "Sareichon",
+          "Leishiwon",
+          "Chonchuirin",
+          "Worshang"
+        ],
+        "male": [
+          "Ningshen",
+          "Ngachon",
+          "Thotso",
+          "Ramyo",
+          "Yarteo",
+          "Pamleiyo",
+          "Wungram",
+          "Hanphung",
+          "Shimray",
+          "Shimreiwung",
+          "Mayang",
+          "Ngalangzar",
+          "Wungnaoshang",
+          "Hormi",
+          "Kaishang",
+          "Seiyong",
+          "Somingam",
+          "Pamshang",
+          "Ningam",
+          "Ngaranmi"
+        ]
+      }
+    },
+    {
+      "id": "kuki_zo",
+      "name": "Kuki-Zo",
+      "culture": "Kuki-Zo",
+      "religion": "christian",
+      "prompt": "Kuki",
+      "sub_regions": [
+        "south_hills"
+      ],
+      "notes": "Kuki-Chin-Zo communities (Thadou, Paite, Hmar, Vaiphei and others), mostly Christian. Women's ponve wrap skirt; handwoven shawls. Chavang Kut on 1 November.",
+      "names": {
+        "female": [
+          "Lhingneng",
+          "Hoineilhing",
+          "Nemkhohat",
+          "Kimneilhing",
+          "Hatneikim",
+          "Chingneng",
+          "Lhingkim",
+          "Vahneng",
+          "Boinu",
+          "Nengboi",
+          "Neilhing",
+          "Hoinu",
+          "Kimnei",
+          "Lhingboi",
+          "Chinneilhing"
+        ],
+        "male": [
+          "Seiminlen",
+          "Thangminlen",
+          "Paolal",
+          "Haokholal",
+          "Lalboi",
+          "Thangkhosei",
+          "Seikhohao",
+          "Mangboi",
+          "Jamkhogin",
+          "Letkhosei",
+          "Seilen",
+          "Paolen",
+          "Thangboi",
+          "Jamkhosei",
+          "Lunminthang",
+          "Seigoulen",
+          "Khaigoulen",
+          "Lhunkhosei",
+          "Thangminlun",
+          "Paominlen",
+          "Jangminthang"
+        ]
+      }
+    },
+    {
+      "id": "naga_other",
+      "name": "Naga (other tribes)",
+      "culture": "Naga",
+      "religion": "christian",
+      "sub_regions": [
+        "north_hills",
+        "south_hills"
+      ],
+      "notes": "Rongmei (Kabui), Mao, Maram, Anal and others; Rongmei pheisoi and Anal lungvin wrap skirts; Gaan-Ngai. No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      2,
+      6
+    ],
+    "hair": "Straight black hair.",
+    "notes": "East Asian features common across communities. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Meitei given names (Thoibi, Sanatombi, Ibomcha, Tomba); surnames (yumnak) mark clans, use given names only."
+    },
+    {
+      "community": "tangkhul",
+      "notes": "Tangkhul or Christian given names; clan surnames left out."
+    },
+    {
+      "community": "kuki_zo",
+      "notes": "Kuki given names (Lhingneng, Thangminlen); clan surnames such as Haokip or Kipgen left out."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "mn_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "mn_dhoti_kurta_m",
+      "name": "White dhoti and kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "white dhoti with a white kurta",
+      "short": "white dhoti and kurta",
+      "sources": [
+        "aza_manipur"
+      ]
+    },
+    {
+      "id": "mn_dark_jacket_m",
+      "name": "Sleeveless jacket",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "sleeveless black jacket over the kurta",
+      "short": "black sleeveless jacket",
+      "sources": [
+        "aza_manipur"
+      ]
+    },
+    {
+      "id": "mn_haora_m",
+      "name": "Haora shawl",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "tangkhul",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "handwoven Tangkhul Haora shawl over the shoulders",
+      "short": "Tangkhul Haora shawl",
+      "sources": [
+        "ukhrul_culture"
+      ]
+    },
+    {
+      "id": "mn_kuki_shawl_m",
+      "name": "Woven shawl",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kuki_zo",
+      "prompt": "handwoven striped shawl over the shoulders",
+      "short": "handwoven striped shawl",
+      "sources": []
+    },
+    {
+      "id": "mn_kurta_pyjama_m",
+      "name": "Kurta-pyjama",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "prompt": "cotton kurta with pyjama trousers",
+      "short": "kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "mn_smart_m",
+      "name": "Pressed shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "pressed long-sleeved shirt with dark trousers",
+      "short": "pressed shirt and dark trousers",
+      "sources": []
+    },
+    {
+      "id": "mn_topi_m",
+      "name": "Prayer cap",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "white crocheted cotton prayer cap",
+      "short": "white prayer cap",
+      "sources": [
+        "wiki_taqiyah"
+      ]
+    },
+    {
+      "id": "mn_phanek_f",
+      "name": "Phanek",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "ankle-length striped cotton phanek wrap skirt with a fitted long-sleeved blouse",
+      "short": "striped phanek and blouse",
+      "sources": [
+        "wiki_phanek",
+        "aza_manipur"
+      ]
+    },
+    {
+      "id": "mn_phanek_innaphi_f",
+      "name": "Silk phanek with innaphi",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silk mayek naibi phanek with an embroidered border, a fitted blouse and a fine innaphi shawl draped over the shoulders",
+      "short": "silk phanek with innaphi",
+      "sources": [
+        "wiki_phanek",
+        "aza_manipur"
+      ]
+    },
+    {
+      "id": "mn_velvet_jacket_f",
+      "name": "Velvet jacket",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "fitted long-sleeved velvet jacket in black, blue or green",
+      "short": "velvet jacket",
+      "sources": [
+        "wiki_meitei_clothing"
+      ]
+    },
+    {
+      "id": "mn_kashan_f",
+      "name": "Kashan",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "religious_visit",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "tangkhul",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "handwoven striped Tangkhul kashan wrap skirt with a long-sleeved blouse and a woven shawl",
+      "short": "Tangkhul kashan and shawl",
+      "sources": [
+        "wiki_phanek",
+        "ukhrul_culture"
+      ]
+    },
+    {
+      "id": "mn_ponve_f",
+      "name": "Ponve",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "religious_visit",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kuki_zo",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "handwoven ponve wrap skirt with a long-sleeved blouse and a woven shawl",
+      "short": "ponve wrap skirt and shawl",
+      "sources": [
+        "wiki_phanek"
+      ]
+    },
+    {
+      "id": "mn_modern_f",
+      "name": "Top and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton top with jeans",
+      "short": "top and jeans",
+      "sources": []
+    },
+    {
+      "id": "mn_winter_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "padded jacket",
+      "short": "padded jacket",
+      "sources": []
+    },
+    {
+      "id": "mn_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long kurta with full-length trousers and a sweater",
+      "short": "girl's kurta, trousers and sweater",
+      "sources": []
+    },
+    {
+      "id": "mn_kids_g_fest",
+      "name": "Girl's festive dress",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's ankle-length silk skirt with a long-sleeved blouse",
+      "short": "girl's long silk skirt",
+      "sources": []
+    },
+    {
+      "id": "mn_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    },
+    {
+      "id": "mn_kids_b_fest",
+      "name": "Boy's kurta-pyjama",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton kurta with pyjama",
+      "short": "boy's kurta and pyjama",
+      "sources": []
+    },
+    {
+      "id": "mn_kids_b_church",
+      "name": "Boy's church clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's white shirt with dark trousers",
+      "short": "boy's white shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "mn_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "mn_phanek_f"
+        ],
+        [
+          "mn_kashan_f"
+        ],
+        [
+          "mn_ponve_f"
+        ]
+      ],
+      "festive": [
+        [
+          "mn_phanek_innaphi_f"
+        ],
+        [
+          "mn_kashan_f"
+        ],
+        [
+          "mn_ponve_f"
+        ]
+      ],
+      "reason": "Each community's own wrap skirt: phanek (Meitei), kashan (Tangkhul), ponve (Kuki)."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "mn_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "mn_dhoti_kurta_m",
+          "mn_dark_jacket_m"
+        ],
+        [
+          "mn_shirt_trousers_m",
+          "mn_haora_m"
+        ]
+      ],
+      "reason": "Shirt-trousers daily; white dhoti-kurta (Meitei) or a community shawl at festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "mn_phanek_f"
+        ]
+      ],
+      "festive": [
+        [
+          "mn_phanek_innaphi_f"
+        ]
+      ],
+      "reason": "Phanek."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "mn_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "mn_dhoti_kurta_m"
+        ]
+      ],
+      "reason": "White dhoti-kurta."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "mn_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "mn_kids_g_fest"
+        ]
+      ],
+      "reason": "Long skirt."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "mn_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "mn_kids_b_fest"
+        ]
+      ],
+      "reason": "Kurta-pyjama."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "yaoshang",
+      "name": "Yaoshang",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "sanamahi"
+      ],
+      "when": "February-March (full moon of Lamta)",
+      "scene": "Yaoshang night, young people dancing Thabal Chongba in a circle holding hands under the moonlight",
+      "scene_short": "Thabal Chongba circle dance"
+    },
+    {
+      "id": "ningol_chakouba",
+      "name": "Ningol Chakouba",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "sanamahi",
+        "muslim"
+      ],
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "marital_status": [
+        "married",
+        "widowed"
+      ],
+      "when": "October-November",
+      "scene": "Ningol Chakouba, married daughters arriving at their parents' home for a family feast",
+      "scene_short": "family feast at the parental home"
+    },
+    {
+      "id": "cheiraoba",
+      "name": "Cheiraoba",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu",
+        "sanamahi"
+      ],
+      "when": "April (Meitei New Year)",
+      "scene": "Cheiraoba, a freshly cleaned and decorated Meitei house with festive dishes set out",
+      "scene_short": "Meitei New Year at home"
+    },
+    {
+      "id": "kang",
+      "name": "Kang (Rath Yatra)",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "June-July",
+      "scene": "Kang in Imphal, devotees pulling a decorated wooden chariot through the street",
+      "scene_short": "Kang chariot procession"
+    },
+    {
+      "id": "lui_ngai_ni",
+      "name": "Lui-Ngai-Ni",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "tangkhul",
+        "naga_other"
+      ],
+      "when": "15 February",
+      "scene": "Lui-Ngai-Ni gathering, Naga villagers singing and dancing on a hill village ground",
+      "scene_short": "Naga seed-sowing festival"
+    },
+    {
+      "id": "kut",
+      "name": "Chavang Kut",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "kuki_zo"
+      ],
+      "when": "1 November",
+      "scene": "Chavang Kut harvest festival, villagers gathered for folk dances and songs on a village ground",
+      "scene_short": "Kut harvest festival"
+    },
+    {
+      "id": "christmas_mn",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "tangkhul",
+        "kuki_zo",
+        "naga_other"
+      ],
+      "when": "24-25 December",
+      "scene": "Christmas morning, families walking to a hill-village church",
+      "scene_short": "Christmas in a hill village"
+    },
+    {
+      "id": "eid_mn",
+      "name": "Ramjan Id",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning in a valley village, families greeting each other",
+      "scene_short": "Eid morning"
+    },
+    {
+      "id": "wedding_guest_mn",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "November-February mostly",
+      "scene": "guests at a wedding in a decorated courtyard",
+      "scene_short": "wedding courtyard"
+    }
+  ],
+  "settings": [
+    {
+      "id": "ima_keithel",
+      "type": "urban",
+      "description": "Ima Keithel women's market in Imphal, rows of stalls run by women",
+      "short": "Ima Keithel market",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "imphal_street",
+      "type": "urban",
+      "description": "Imphal town street with shops",
+      "short": "Imphal street",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "ukhrul_town",
+      "type": "urban",
+      "description": "Ukhrul hill town with houses on green slopes",
+      "short": "Ukhrul hill town",
+      "sub_regions": [
+        "north_hills"
+      ]
+    },
+    {
+      "id": "churachandpur_town",
+      "type": "urban",
+      "description": "Churachandpur town street with hills behind",
+      "short": "Churachandpur street",
+      "sub_regions": [
+        "south_hills"
+      ]
+    },
+    {
+      "id": "valley_paddy",
+      "type": "rural",
+      "description": "wide green paddy fields of the Imphal valley ringed by blue hills",
+      "short": "valley paddy fields",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "loktak",
+      "type": "nature",
+      "description": "shore of Loktak Lake with floating phumdi islands",
+      "short": "Loktak Lake",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "hill_village_mn",
+      "type": "rural",
+      "description": "hill village with terraced fields and pine trees",
+      "short": "terraced hill village",
+      "sub_regions": [
+        "north_hills",
+        "south_hills"
+      ]
+    },
+    {
+      "id": "home_valley_mn",
+      "type": "home",
+      "description": "courtyard of a Meitei house with a tin roof and a banana plant",
+      "short": "Meitei house courtyard",
+      "sub_regions": [
+        "valley"
+      ]
+    },
+    {
+      "id": "home_hill_mn",
+      "type": "home",
+      "description": "wooden hill house with a verandah overlooking the slopes",
+      "short": "hill house verandah",
+      "sub_regions": [
+        "north_hills",
+        "south_hills"
+      ]
+    },
+    {
+      "id": "office_mn",
+      "type": "work",
+      "description": "office in Imphal",
+      "short": "Imphal office",
+      "sub_regions": [
+        "valley"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "adult_male"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "market_vendor",
+      "name": "Market vendor",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "selling vegetables and dried fish at her market stall"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in rice fields"
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "setting": "both",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "weaving on a backstrap loom"
+    }
+  ],
+  "seasons": {
+    "summer": "Warm and humid (April-May).",
+    "monsoon": "June-September.",
+    "winter": "Cool to cold (November-February)."
+  },
+  "heritage": [
+    {
+      "id": "mn_court",
+      "name": "Manipur royal court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Rank-restricted court cloths (e.g. khamen chatpa) and silk-ended kokyet turbans; fictional people only, no named rulers.",
+      "sources": [
+        "wiki_meitei_clothing"
+      ]
+    },
+    {
+      "id": "ras_leela",
+      "name": "Ras Leela costume (potloi)",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Sacred dance costume, not everyday dress.",
+      "sources": [
+        "aza_manipur"
+      ]
+    },
+    {
+      "id": "lai_haraoba",
+      "name": "Lai Haraoba ritual roles",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Maibi (priestess) and deity roles and their costumes are not shown; the festival may appear later as a crowd scene.",
+      "sources": [
+        "wiki_meitei_clothing"
+      ]
+    },
+    {
+      "id": "mn_warrior",
+      "name": "Warrior and headhunting-era regalia",
+      "kind": "warrior",
+      "status": "historical",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Spears, feathered and horned headgear are not shown.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "The 2023 conflict and any community-versus-community imagery; buffer zones, armed groups, relief camps.",
+    "Calling any community 'outsider' or 'migrant'; ranking communities.",
+    "'Exotic' or 'Chinese-looking' framing.",
+    "Phanek or innaphi on men; Ras Leela costume as fashion."
+  ],
+  "todo": [
+    "Meitei Pangal dress with sources.",
+    "Kuki-Zo men's shawl names and women's ponve patterns with sources.",
+    "Rongmei, Mao, Anal and other Naga dress; Gaan-Ngai.",
+    "Lai Haraoba as a crowd scene.",
+    "Native review from Meitei, Naga and Kuki-Zo reviewers."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Manipur religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/14-manipur.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_phanek",
+      "title": "Phanek (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Phanek",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_meitei_clothing",
+      "title": "Meitei clothing (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Meitei_clothing",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_manipur",
+      "title": "Manipur traditional clothing, textiles and style (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/manipur-traditional-clothing-textiles-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "ukhrul_culture",
+      "title": "Culture and heritage, Ukhrul district (Government of Manipur)",
+      "url": "https://ukhrul.nic.in/?p=2811",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "manipur_tourism_fest",
+      "title": "Festivals of Manipur (Manipur Tourism)",
+      "url": "https://manipurtourism.gov.in/festivals-of-manipur/",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "mygov_kut",
+      "title": "Festivals of Manipur: Chavang Kut (MyGov blog)",
+      "url": "https://blog.mygov.in/festivals-of-manipur-chavang-kut/",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_taqiyah",
+      "title": "Taqiyah (cap) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Taqiyah_(cap)",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion: 'other' raised from 8.19% to 8.57% so it includes the 0.38% 'not stated', as in every other region; Pew's table (other or none about 10% incl. rounding) agrees.",
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Confirmed by Manipur Tourism: Yaoshang (February-March), Ningol Chakouba (November, married daughters visit their parents), Kut (1 November), Lui-Ngai-Ni (15 February), Cheiraoba (April), Kang (July) and Ramjan Id. Tangkhul kashan and Kuki ponve named in Wikipedia's Phanek page; mayek naibi phanek and innaphi confirmed by Wikipedia and Aza; Wangkhei and Moirang phee are Manipur GI products.",
+      "Open (unsourced): the Kuki-Zo men's striped shawl and the Meitei Pangal kurta-pyjama have no cited source yet; both are plain enough to keep, but a Kuki-Zo and a Pangal reviewer should name the right garments."
+    ]
+  }
+}

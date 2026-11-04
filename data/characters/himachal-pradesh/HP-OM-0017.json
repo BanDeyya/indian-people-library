@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-OM-0017",
+  "name": "Gian Chand",
+  "region": "himachal-pradesh",
+  "sub_region": "chamba",
+  "community": "gaddi",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "long weathered face",
+    "eyes": "light brown eyes",
+    "hair": "short grey hair",
+    "build": "tall and strong",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "hp_chola_m",
+    "hp_shirt_trousers_m",
+    "hp_shawl_m"
+  ],
+  "language": [
+    "Gaddi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

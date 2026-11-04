@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HP-AM-0016",
+  "name": "Tilku",
+  "region": "himachal-pradesh",
+  "sub_region": "chamba",
+  "community": "gaddi",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "shepherd",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long weathered face",
+    "eyes": "light brown eyes",
+    "hair": "short black hair",
+    "build": "tall and strong",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "full beard"
+  },
+  "wardrobe": [
+    "hp_chola_m",
+    "hp_shirt_trousers_m"
+  ],
+  "language": [
+    "Gaddi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

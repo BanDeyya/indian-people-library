@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "SK-AF-0020",
+  "name": "Rinzing",
+  "region": "sikkim",
+  "sub_region": "north",
+  "community": "lepcha",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "sk_dumvum_f",
+    "sk_kurta_f",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Lepcha",
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

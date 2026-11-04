@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0003",
+  "name": "Imran Rafiq",
+  "region": "maharashtra",
+  "sub_region": "marathwada",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "trimmed beard",
+    "build": "average",
+    "signature_mark": "small scar on his eyebrow"
+  },
+  "wardrobe": [
+    "mh_modern_m",
+    "mh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Marathi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

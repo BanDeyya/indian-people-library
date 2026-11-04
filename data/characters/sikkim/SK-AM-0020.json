@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0020",
+  "name": "Gyatso",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "lepcha",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_thokro_dum_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Lepcha",
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0012",
+  "name": "Rohit Kumar",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "long face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short side-parted black hair",
+    "build": "average",
+    "signature_mark": "small mole on his left cheek",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "up_kurta_pyjama_m",
+    "up_shirt_trousers_m"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-OF-0020",
+  "name": "Indira",
+  "region": "himachal-pradesh",
+  "sub_region": "kinnaur",
+  "community": "kinnaura",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "hp_suit_f",
+    "hp_dohru_f",
+    "hp_thepang",
+    "hp_pattu_f"
+  ],
+  "language": [
+    "Kinnauri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

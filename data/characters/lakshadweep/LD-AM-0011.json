@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LD-AM-0011",
+  "name": "Ismail",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short curly black hair",
+    "build": "athletic",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ld_white_mundu_m",
+    "ld_lungi_shirt_m",
+    "ld_cap_m"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "LA-OM-0013",
+  "name": "Sajjad",
+  "region": "ladakh",
+  "sub_region": "kargil",
+  "community": "kargil_muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "full white beard"
+  },
+  "wardrobe": [
+    "la_choga_m",
+    "la_modern_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Purgi",
+    "Balti",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

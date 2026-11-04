@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "TN-AF-0008",
+  "name": "Selvi",
+  "region": "tamil-nadu",
+  "sub_region": "kongu_nadu",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with high cheekbones",
+    "eyes": "dark brown eyes",
+    "hair": "long oiled black hair in a single plait",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "tn_half_saree_f",
+    "tn_chettinad_f",
+    "tn_thali",
+    "tn_metti",
+    "tn_jhumka",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

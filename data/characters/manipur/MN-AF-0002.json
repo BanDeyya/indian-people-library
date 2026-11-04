@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MN-AF-0002",
+  "name": "Somila",
+  "region": "manipur",
+  "sub_region": "north_hills",
+  "community": "tangkhul",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 42,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair tied back",
+    "build": "medium",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "mn_kashan_f",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Tangkhul",
+    "Meiteilon",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

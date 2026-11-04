@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "DL-AF-0017",
+  "name": "Nandini",
+  "region": "delhi",
+  "sub_region": "south",
+  "community": "bengali_hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "large dark eyes",
+    "hair": "long black hair in a loose plait",
+    "build": "medium",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "dl_silk_saree_f",
+    "dl_laal_paar_f",
+    "dl_saree_f",
+    "dl_shakha_pola",
+    "dl_sindoor_bn",
+    "dl_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

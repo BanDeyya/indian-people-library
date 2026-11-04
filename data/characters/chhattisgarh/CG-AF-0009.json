@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CG-AF-0009",
+  "name": "Savitri",
+  "region": "chhattisgarh",
+  "sub_region": "plains",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 49,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "cg_lugda_f",
+    "cg_cotton_saree_f",
+    "cg_kosa_f",
+    "cg_sindoor",
+    "cg_bichiya"
+  ],
+  "language": [
+    "Chhattisgarhi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

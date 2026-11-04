@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-AM-0001",
+  "name": "Senthil Murugan",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "broad face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short black hair with grey streaks",
+    "facial_hair": "thick black moustache",
+    "build": "stocky",
+    "signature_mark": "scar across the back of his right hand"
+  },
+  "wardrobe": [
+    "tn_veshti_sattai_m",
+    "tn_silk_veshti_m",
+    "tn_lungi_m"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

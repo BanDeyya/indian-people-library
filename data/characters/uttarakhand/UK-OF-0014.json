@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-OF-0014",
+  "name": "Basanti Devi",
+  "region": "uttarakhand",
+  "sub_region": "kumaon",
+  "community": "kumaoni",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 84,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "uk_saree_f",
+    "uk_ghagri_f",
+    "uk_suit_f",
+    "uk_guluband",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Kumaoni",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

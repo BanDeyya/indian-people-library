@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-OF-0002",
+  "name": "Lata",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with rosy cheeks",
+    "eyes": "light brown eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "hp_ghagra_f",
+    "hp_suit_f",
+    "hp_pattu_f",
+    "hp_sindoor"
+  ],
+  "language": [
+    "Pahari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

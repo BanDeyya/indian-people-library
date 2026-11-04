@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "AP-OF-0001",
+  "name": "Subbamma",
+  "region": "andhra-pradesh",
+  "sub_region": "rayalaseema",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small dark mole on her cheek"
+  },
+  "wardrobe": [
+    "ap_mangalagiri_f",
+    "ap_uppada_f",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

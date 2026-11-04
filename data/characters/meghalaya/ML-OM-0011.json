@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "ML-OM-0011",
+  "name": "Bandari",
+  "region": "meghalaya",
+  "sub_region": "jaintia_hills",
+  "community": "pnar",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "lean",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Pnar",
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

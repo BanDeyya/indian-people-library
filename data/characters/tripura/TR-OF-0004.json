@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "TR-OF-0004",
+  "name": "Bulbul Tapas",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "tr_tant_f",
+    "tr_silk_saree_f",
+    "tr_laal_paar_f",
+    "tr_shakha_pola",
+    "tr_sindoor",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "English",
+    "Kokborok (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

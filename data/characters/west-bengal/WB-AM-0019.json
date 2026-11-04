@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "WB-AM-0019",
+  "name": "Dasrath",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "santal",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "short black hair neatly combed",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "wb_phutta_kachha_m",
+    "wb_vest_m",
+    "wb_hill_jacket",
+    "wb_lungi_m"
+  ],
+  "language": [
+    "Santali",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

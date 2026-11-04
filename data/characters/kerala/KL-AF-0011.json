@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0011",
+  "name": "Sumi",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with high cheekbones and a straight nose",
+    "eyes": "large dark brown eyes",
+    "hair": "long black hair with grey streaks in a plait",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "kl_churidar_f",
+    "kl_kasavu_saree_f",
+    "kl_thali",
+    "kl_mookuthi",
+    "kl_temple_flowers"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

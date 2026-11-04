@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0018",
+  "name": "Kamran",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "narrow face",
+    "eyes": "dark eyes",
+    "hair": "short greying hair",
+    "build": "average",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "up_kurta_pyjama_m",
+    "up_sherwani_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

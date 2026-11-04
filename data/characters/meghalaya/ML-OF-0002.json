@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "ML-OF-0002",
+  "name": "Margaret",
+  "region": "meghalaya",
+  "sub_region": "garo_hills",
+  "community": "garo",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "broad lined face",
+    "eyes": "dark eyes",
+    "hair": "short grey hair",
+    "build": "plump",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ml_long_dress_f",
+    "ml_dakmanda_f",
+    "ml_dakmanda_fest_f"
+  ],
+  "language": [
+    "Garo",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0017",
+  "name": "Nasreen",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with full cheeks",
+    "eyes": "brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "up_gharara_f",
+    "up_salwar_f",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

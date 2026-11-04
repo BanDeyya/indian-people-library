@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PB-OM-0018",
+  "name": "Sunil Sameer",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 81,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face with deep frown lines",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "thick white moustache, no beard"
+  },
+  "wardrobe": [
+    "pb_kurta_pajama_m",
+    "pb_khes_wrap",
+    "pb_saluka_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

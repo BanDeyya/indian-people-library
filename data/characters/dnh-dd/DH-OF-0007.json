@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0007",
+  "name": "Hansaben",
+  "region": "dnh-dd",
+  "sub_region": "diu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "fish_seller",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "dd_bandhani_saree_f",
+    "dd_saree_f",
+    "dd_sindoor"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

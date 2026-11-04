@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AR-AM-0012",
+  "name": "Tamo",
+  "region": "arunachal-pradesh",
+  "sub_region": "central",
+  "community": "apatani",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 51,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ar_smart_m",
+    "ar_shirt_trousers_m",
+    "ar_jikhe_m",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Apatani",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

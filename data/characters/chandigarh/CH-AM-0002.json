@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "id": "CH-AM-0002",
+  "name": "Jaspal Singh",
+  "region": "chandigarh",
+  "sub_region": "sectors",
+  "community": "sikh",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "unshorn hair tied under his turban",
+    "build": "heavy",
+    "signature_mark": "laugh lines around his eyes",
+    "facial_hair": "full greying beard, neatly kept"
+  },
+  "wardrobe": [
+    "ch_shirt_jeans_m",
+    "ch_kurta_pajama_m",
+    "ch_dastar_m",
+    "ch_kara",
+    "ch_winter_jacket"
+  ],
+  "always_wear": [
+    "ch_dastar_m",
+    "ch_kara"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

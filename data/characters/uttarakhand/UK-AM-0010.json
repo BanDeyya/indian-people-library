@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0010",
+  "name": "Kunwar Lal",
+  "region": "uttarakhand",
+  "sub_region": "garhwal",
+  "community": "garhwali",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean and strong",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "uk_dhoti_kurta_m",
+    "uk_kurta_sadri_m",
+    "uk_topi"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

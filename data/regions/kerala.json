@@ -1,0 +1,1592 @@
+{
+  "schema_version": 2,
+  "slug": "kerala",
+  "code": "KL",
+  "name": "Kerala",
+  "type": "state",
+  "zone": "south",
+  "capital": "Thiruvananthapuram",
+  "status": "reviewed",
+  "languages": [
+    "Malayalam",
+    "English",
+    "Tamil (border areas)",
+    "Hindi (some)"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 54.73,
+      "muslim": 26.56,
+      "christian": 18.38,
+      "other": 0.33
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Malayali",
+      "religion": "hindu",
+      "notes": "Kasavu mundu and set-mundu at festivals and temple visits; temples give flowers and sandal paste after worship.",
+      "names": {
+        "female": [
+          "Lakshmi",
+          "Devika",
+          "Anjali",
+          "Sreeja",
+          "Bindu",
+          "Remya",
+          "Sindhu",
+          "Aswathy",
+          "Divya",
+          "Meera",
+          "Kavya",
+          "Sreelakshmi",
+          "Ambili",
+          "Geetha",
+          "Sobha",
+          "Radhika",
+          "Deepa",
+          "Sreedevi",
+          "Saritha",
+          "Suma",
+          "Bindhu",
+          "Rajalakshmi",
+          "Jayasree",
+          "Sumi",
+          "Athira",
+          "Parvathy",
+          "Reshma",
+          "Smitha",
+          "Usha",
+          "Vineetha"
+        ],
+        "male": [
+          "Vishnu",
+          "Arjun",
+          "Gopalan",
+          "Sajeevan",
+          "Rajesh",
+          "Anoop",
+          "Suresh",
+          "Manoj",
+          "Unnikrishnan",
+          "Hari",
+          "Sreejith",
+          "Ajith",
+          "Biju",
+          "Pradeep",
+          "Sudheer",
+          "Anil",
+          "Vinod",
+          "Ramesh",
+          "Gopakumar",
+          "Sajeev",
+          "Harikrishnan"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Malayali (incl. Mappila)",
+      "religion": "muslim",
+      "notes": "Men: mundu (kara worn on the left by custom) with a shirt or long-sleeved kurta; embroidered Thalangara caps at festivals. Women traditionally: mundu with an embroidered kuppayam and a thattam head scarf; today churidar or saree with a headscarf, hijab or abaya. Largest in Malabar.",
+      "names": {
+        "female": [
+          "Fathima",
+          "Sainaba",
+          "Rahmath",
+          "Shahana",
+          "Haseena",
+          "Sajna",
+          "Ayisha",
+          "Shamla",
+          "Nafeesa",
+          "Safna",
+          "Jumaila",
+          "Kunhibi",
+          "Rasiya",
+          "Sakeena",
+          "Nabeesa",
+          "Ramla",
+          "Sumayya",
+          "Shabna",
+          "Fousiya",
+          "Shereena",
+          "Jaseena",
+          "Muhsina",
+          "Najla",
+          "Thahira",
+          "Aysha",
+          "Raihana",
+          "Mubeena"
+        ],
+        "male": [
+          "Abdul Rahman",
+          "Shameer",
+          "Hamza",
+          "Koya",
+          "Muhammed",
+          "Ashraf",
+          "Basheer",
+          "Shihab",
+          "Nizar",
+          "Faisal",
+          "Attakoya",
+          "Rasheed",
+          "Kunhali",
+          "Mohammed",
+          "Musthafa",
+          "Noushad",
+          "Sameer",
+          "Jaleel",
+          "Haris",
+          "Abdul Kader",
+          "Moidu"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "syrian_christian",
+      "name": "Syrian Christian (Nasrani)",
+      "culture": "Malayali",
+      "religion": "christian",
+      "notes": "Older women's white chatta and mundu; married women wear the minnu pendant for life.",
+      "names": {
+        "female": [
+          "Saramma",
+          "Mariamma",
+          "Annamma",
+          "Aleyamma",
+          "Elizabeth",
+          "Susan",
+          "Rachel",
+          "Mini",
+          "Jincy",
+          "Ancy",
+          "Neethu",
+          "Tessy",
+          "Mary",
+          "Sosamma",
+          "Kunjamma",
+          "Thresiamma",
+          "Lissy",
+          "Bindu",
+          "Jessy",
+          "Sheeba",
+          "Ann Mary",
+          "Rincy",
+          "Shiny",
+          "Molly",
+          "Leena",
+          "Jismy",
+          "Beena",
+          "Teena"
+        ],
+        "male": [
+          "Thomas",
+          "Kurian",
+          "Mathew",
+          "Varghese",
+          "Joseph",
+          "George",
+          "Jacob",
+          "Philip",
+          "Abraham",
+          "Chacko",
+          "Jose",
+          "Thampi",
+          "Biju",
+          "Tomy",
+          "Jijo",
+          "Sabu",
+          "Joby"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "latin_christian",
+      "name": "Latin Christian",
+      "culture": "Malayali",
+      "religion": "christian",
+      "notes": "Many coastal fishing families in southern and central Kerala are Latin Catholic. Wedding and dress details still to research.",
+      "names": {
+        "female": [
+          "Mary",
+          "Sheeba",
+          "Jessy",
+          "Reena",
+          "Lissy",
+          "Sophia",
+          "Celine",
+          "Ann",
+          "Stella",
+          "Rosamma",
+          "Lucy",
+          "Mercy",
+          "Shiny",
+          "Agnes",
+          "Molly",
+          "Baby",
+          "Clara",
+          "Jancy",
+          "Rosy",
+          "Sheela",
+          "Bindu",
+          "Lissa",
+          "Mini",
+          "Tresa",
+          "Gracy",
+          "Juliet"
+        ],
+        "male": [
+          "Sebastian",
+          "Antony",
+          "Joseph",
+          "Francis",
+          "Peter",
+          "Xavier",
+          "Clement",
+          "Albert",
+          "Jerome",
+          "Raphael",
+          "Paul",
+          "Stephen",
+          "Joy",
+          "Raju",
+          "Lawrence",
+          "Benny",
+          "Augustine",
+          "Thomas",
+          "Vincent",
+          "Simon",
+          "Michael"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "kurichiya",
+      "name": "Kurichiya (Wayanad)",
+      "culture": "Kurichiya",
+      "notes": "Landowning farming community of Wayanad; matrilineal joint families; by custom apply sandal paste (kuri) on forehead and chest. Traditional dress not yet sourced."
+    },
+    {
+      "id": "kuruma",
+      "name": "Kuruma (Wayanad)",
+      "culture": "Kuruma",
+      "notes": "Farming community of Wayanad; paddy cultivation central. Traditional dress not yet sourced."
+    }
+  ],
+  "excluded_communities": [
+    {
+      "name": "Cholanaikkan",
+      "reason": "Particularly Vulnerable Tribal Group of a few hundred people in the Nilambur forests with very limited outside contact until the 1960s; reusable characters would effectively depict a tiny, identifiable community.",
+      "source": "wiki_tribals_kerala"
+    }
+  ],
+  "look_range": {
+    "skin_tone_mst": [
+      3,
+      9
+    ],
+    "hair": "Mostly black, often thick and wavy or curly; long oiled hair in a single plait is common for older women.",
+    "notes": "Wide range from wheatish to deep brown. Spread characters across the whole range. Starting range, tune after test renders.",
+    "by_community": []
+  },
+  "wardrobe": [
+    {
+      "id": "kl_kasavu_mundu_m",
+      "name": "Kasavu mundu with shirt",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "starched off-white Kerala mundu with a gold kasavu border, worn with a crisp white half-sleeve cotton shirt",
+      "short": "off-white gold-bordered kasavu mundu and white shirt",
+      "sources": [
+        "wiki_mundu",
+        "wiki_kasavu"
+      ]
+    },
+    {
+      "id": "kl_mundu_shirt_m",
+      "name": "Plain mundu with shirt",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain white cotton Kerala mundu with a thin coloured border, worn with a light cotton shirt",
+      "short": "white Kerala mundu and cotton shirt",
+      "sources": [
+        "wiki_mundu"
+      ]
+    },
+    {
+      "id": "kl_lungi_m",
+      "name": "Kaili (lungi) at home",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "colourful checked cotton kaili lungi with a plain cotton t-shirt, relaxed house wear",
+      "short": "checked lungi and t-shirt",
+      "sources": [
+        "wiki_mundu"
+      ]
+    },
+    {
+      "id": "kl_melmundu_m",
+      "name": "Mundu with melmundu (temple visit)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "religious_visit",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "white Kerala mundu with a gold border and a matching white melmundu cloth draped over one shoulder, temple visit attire",
+      "short": "white mundu with melmundu over one shoulder",
+      "sources": [
+        "wiki_mundu"
+      ]
+    },
+    {
+      "id": "kl_set_mundu_f",
+      "name": "Set-mundu (mundum neriyathum)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "off-white Kerala set-mundu (mundum neriyathum) with a gold kasavu border, the upper cloth draped over the left shoulder, with a matching gold blouse",
+      "short": "off-white gold-bordered Kerala set-mundu with gold blouse",
+      "sources": [
+        "wiki_mundu",
+        "wiki_kasavu",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "kl_kasavu_saree_f",
+      "name": "Kasavu saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "off-white Kerala kasavu saree with a broad gold border, draped modestly, with a matching elbow-sleeve blouse",
+      "short": "off-white Kerala kasavu saree with gold border",
+      "sources": [
+        "wiki_kasavu",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "kl_chatta_mundu_f",
+      "name": "Chatta and mundu",
+      "for": [
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "religious_visit",
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "syrian_christian",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "traditional white chatta blouse and white mundu with a fan of pleats at the back, Syrian Christian Kerala attire",
+      "short": "white chatta and mundu with pleated fan",
+      "sources": [
+        "wiki_mundu",
+        "wiki_chattayum_mundum"
+      ]
+    },
+    {
+      "id": "kl_cotton_saree_f",
+      "name": "Cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "simple light cotton saree with a thin border",
+      "short": "simple cotton saree",
+      "sources": [
+        "wiki_chattayum_mundum"
+      ]
+    },
+    {
+      "id": "kl_churidar_f",
+      "name": "Churidar with dupatta",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cotton churidar kurta in a soft colour with a matching dupatta over the shoulders, everyday office wear",
+      "short": "cotton churidar with dupatta",
+      "sources": []
+    },
+    {
+      "id": "kl_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "tucked-in formal cotton shirt and trousers, everyday office wear",
+      "short": "formal shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "kl_pattu_pavada_g",
+      "name": "Pattu pavada (girls' silk skirt)",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "girl's traditional silk pattu pavada, ankle-length skirt with a gold border and a matching short-sleeve blouse",
+      "short": "girl's silk pattu pavada with gold border",
+      "sources": []
+    },
+    {
+      "id": "kl_kids_everyday_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton t-shirt and full-length cotton trousers, ordinary everyday clothes",
+      "short": "cotton t-shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "kl_kurta_mundu_m",
+      "name": "Mundu with long-sleeved kurta",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "white Kerala mundu worn with a long-sleeved cotton kurta",
+      "short": "white mundu and long kurta",
+      "sources": [
+        "kt_dress_faq"
+      ]
+    },
+    {
+      "id": "kl_thalangara_thoppi",
+      "name": "Thalangara cap",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "handmade embroidered Thalangara cotton cap",
+      "short": "embroidered Thalangara cap",
+      "sources": [
+        "kt_thalangara",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "kl_kuppayam_f",
+      "name": "Mundu, kuppayam and thattam",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "community",
+        "religious"
+      ],
+      "representative": true,
+      "prompt": "traditional Mappila attire: white mundu, long-sleeved embroidered kuppayam blouse and a thattam scarf covering the head",
+      "short": "white mundu, embroidered kuppayam, thattam head scarf",
+      "sources": [
+        "kt_dress_habits",
+        "kt_dress_faq"
+      ]
+    },
+    {
+      "id": "kl_churidar_hijab_f",
+      "name": "Churidar with headscarf",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "religious"
+      ],
+      "representative": true,
+      "prompt": "cotton churidar with a matching dupatta and a neatly pinned headscarf covering the hair",
+      "short": "churidar with headscarf",
+      "sources": [
+        "kt_dress_habits"
+      ]
+    },
+    {
+      "id": "kl_abaya_f",
+      "name": "Abaya with headscarf",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "religious"
+      ],
+      "prompt": "plain black abaya with a matching headscarf covering the hair",
+      "short": "black abaya and headscarf",
+      "sources": [
+        "kt_dress_habits"
+      ]
+    },
+    {
+      "id": "kl_fisher_lungi_m",
+      "name": "Fisherman's lungi",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "work",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "colourful cotton lungi with a towel over the shoulder, fisherman at work",
+      "short": "colourful lungi, towel on shoulder",
+      "sources": [
+        "iwp_fisherfolk"
+      ]
+    },
+    {
+      "id": "kl_fisher_f",
+      "name": "Fisherwoman's work dress",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "work",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "blouse with a colourful cloth tied at the waist and a white cloth over the shoulders, hair tied in a knot",
+      "short": "blouse, colourful waist cloth, white shoulder cloth",
+      "sources": [
+        "iwp_fisherfolk"
+      ]
+    },
+    {
+      "id": "kl_girl_churidar_g",
+      "name": "Girl's churidar",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's simple cotton churidar with a small dupatta",
+      "short": "girl's cotton churidar",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "kl_kasu_mala",
+      "name": "Kasu mala (coin necklace)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "prompt": "traditional Kerala kasu mala necklace of small gold coins",
+      "short": "gold coin necklace",
+      "sources": [
+        "kalyan_kerala"
+      ]
+    },
+    {
+      "id": "kl_palakka_mala",
+      "name": "Palakka mala",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest"
+      ],
+      "prompt": "Kerala palakka mala necklace of leaf-shaped gold pieces with green stones",
+      "short": "green-stone leaf necklace",
+      "sources": [
+        "kalyan_kerala"
+      ]
+    },
+    {
+      "id": "kl_jimikki",
+      "name": "Jimikki (bell earrings)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "prompt": "small bell-shaped gold jimikki earrings",
+      "short": "gold jimikki earrings",
+      "sources": [
+        "kalyan_kerala"
+      ]
+    },
+    {
+      "id": "kl_mookuthi",
+      "name": "Mookuthi (nose stud)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "prompt": "tiny single-stone nose stud",
+      "short": "tiny nose stud",
+      "sources": [
+        "kalyan_kerala"
+      ]
+    },
+    {
+      "id": "kl_thali",
+      "name": "Thali (marriage pendant)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital",
+        "religious"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "small leaf-shaped gold thali pendant on a thread around the neck",
+      "short": "small gold thali pendant",
+      "sources": [
+        "kalyan_kerala",
+        "wiki_mangalsutra",
+        "bluestone_mangalsutra"
+      ]
+    },
+    {
+      "id": "kl_small_studs",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    },
+    {
+      "id": "kl_minnu",
+      "name": "Minnu (marriage pendant)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest",
+        "religious_visit",
+        "work"
+      ],
+      "community": "syrian_christian",
+      "meaning": [
+        "marital",
+        "religious"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "small leaf-shaped gold minnu pendant with a tiny cross on a thin gold chain",
+      "short": "small gold minnu pendant",
+      "sources": [
+        "kwt_syrian_wedding",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "kl_temple_flowers",
+      "name": "Flowers in the hair",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "religious_visit",
+        "festive",
+        "wedding_guest"
+      ],
+      "prompt": "string of white jasmine flowers in the hair",
+      "short": "jasmine flowers in hair",
+      "sources": [
+        "kaumudi_temple_flowers"
+      ]
+    }
+  ],
+  "best_representation": {
+    "adult_male": {
+      "daily": [
+        [
+          "kl_mundu_shirt_m"
+        ],
+        [
+          "kl_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "kl_kasavu_mundu_m"
+        ],
+        [
+          "kl_kurta_mundu_m",
+          "kl_thalangara_thoppi"
+        ]
+      ],
+      "reason": "The mundu is everyday and ceremonial wear across communities; kasavu marks festivals; Muslim men add a kurta and an embroidered cap at festivals."
+    },
+    "adult_female": {
+      "daily": [
+        [
+          "kl_churidar_f",
+          "kl_jimikki"
+        ],
+        [
+          "kl_churidar_hijab_f"
+        ]
+      ],
+      "festive": [
+        [
+          "kl_set_mundu_f",
+          "kl_kasu_mala",
+          "kl_jimikki"
+        ],
+        [
+          "kl_kuppayam_f"
+        ]
+      ],
+      "reason": "Churidar is today's everyday wear (with a headscarf for many Muslim women); the kasavu set-mundu and the Mappila kuppayam with thattam are the signature festive dresses."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "kl_mundu_shirt_m"
+        ]
+      ],
+      "festive": [
+        [
+          "kl_kasavu_mundu_m"
+        ]
+      ],
+      "reason": "Same as adult men; older men wear the mundu daily more often."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "kl_kasavu_saree_f",
+          "kl_jimikki"
+        ],
+        [
+          "kl_chatta_mundu_f"
+        ],
+        [
+          "kl_churidar_hijab_f"
+        ]
+      ],
+      "festive": [
+        [
+          "kl_set_mundu_f",
+          "kl_kasu_mala"
+        ],
+        [
+          "kl_kuppayam_f"
+        ]
+      ],
+      "reason": "Kasavu saree, chatta-mundu and kuppayam are the classic looks of older Hindu, Syrian Christian and Muslim women."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "kl_girl_churidar_g",
+          "kl_small_studs"
+        ]
+      ],
+      "festive": [
+        [
+          "kl_pattu_pavada_g",
+          "kl_small_studs"
+        ]
+      ],
+      "reason": "Churidar for school and everyday; pattu pavada for festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "kl_kids_everyday_b"
+        ]
+      ],
+      "festive": [
+        [
+          "kl_kasavu_mundu_m"
+        ]
+      ],
+      "reason": "Boys wear a small kasavu mundu at festivals."
+    }
+  },
+  "occasions": [
+    {
+      "id": "onam",
+      "name": "Onam",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "August-September",
+      "scene": "Onam morning at home, a round pookalam flower carpet on the courtyard floor, family in kasavu clothes",
+      "scene_short": "Onam pookalam flower carpet in a courtyard"
+    },
+    {
+      "id": "onam_sadya",
+      "name": "Onam sadya",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "August-September",
+      "scene": "family sitting in a row eating an Onam sadya meal served on banana leaves",
+      "scene_short": "Onam sadya meal on banana leaves"
+    },
+    {
+      "id": "vishu",
+      "name": "Vishu",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "April",
+      "scene": "Vishu morning, a vishukkani arrangement with a brass lamp, fruit and yellow konna flowers",
+      "scene_short": "Vishu kani with brass lamp and yellow flowers"
+    },
+    {
+      "id": "christmas_kerala",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "syrian_christian",
+        "latin_christian"
+      ],
+      "when": "December",
+      "scene": "Kerala Christmas evening, a paper star lantern hanging outside a tiled-roof house",
+      "scene_short": "paper star lantern outside a tiled-roof house"
+    },
+    {
+      "id": "eid_kerala",
+      "name": "Eid al-Fitr",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (Islamic calendar)",
+      "scene": "Eid morning, family in new clothes greeting relatives outside a Kerala home",
+      "scene_short": "Eid morning family greeting outside home"
+    },
+    {
+      "id": "temple_visit",
+      "name": "Temple visit",
+      "type": "daily",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu"
+      ],
+      "when": "any day",
+      "scene": "early morning outside a Kerala temple with lit brass lamps",
+      "scene_short": "Kerala temple at dawn with brass lamps"
+    },
+    {
+      "id": "puthari",
+      "name": "Puthari (new rice harvest)",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "kurichiya",
+        "kuruma"
+      ],
+      "when": "after paddy harvest",
+      "scene": "harvest festival in green Wayanad paddy fields, families gathered",
+      "scene_short": "Wayanad paddy harvest festival"
+    },
+    {
+      "id": "wedding_guest_kl",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a Kerala wedding hall decorated with flowers",
+      "scene_short": "guests at a Kerala wedding hall"
+    }
+  ],
+  "settings": [
+    {
+      "id": "backwaters",
+      "type": "nature",
+      "description": "Kerala backwaters with coconut palms and a wooden canoe on calm green water",
+      "short": "Kerala backwaters with coconut palms"
+    },
+    {
+      "id": "nalukettu",
+      "type": "home",
+      "description": "courtyard of a traditional Kerala tiled-roof house with wooden pillars",
+      "short": "courtyard of a tiled-roof Kerala house"
+    },
+    {
+      "id": "tea_hills",
+      "type": "nature",
+      "description": "misty green tea hills of the Western Ghats",
+      "short": "misty tea hills"
+    },
+    {
+      "id": "paddy_fields",
+      "type": "rural",
+      "description": "green paddy fields with coconut palms at the edge",
+      "short": "green paddy fields and palms"
+    },
+    {
+      "id": "kochi_street",
+      "type": "urban",
+      "description": "quiet old street in Fort Kochi with colourful old buildings",
+      "short": "old Fort Kochi street",
+      "sub_regions": [
+        "kochi"
+      ]
+    },
+    {
+      "id": "temple_lamps",
+      "type": "religious",
+      "description": "outside a Kerala temple at dusk with rows of lit brass oil lamps",
+      "short": "Kerala temple with lit brass lamps"
+    },
+    {
+      "id": "town_street",
+      "type": "urban",
+      "description": "ordinary busy Kerala town street with shops and buses",
+      "short": "busy Kerala town street"
+    },
+    {
+      "id": "fishing_beach",
+      "type": "work",
+      "description": "Kerala beach in the morning with wooden fishing boats and nets on the sand",
+      "short": "Kerala beach with fishing boats"
+    },
+    {
+      "id": "wayanad_fields",
+      "type": "rural",
+      "description": "green paddy fields in the Wayanad hills",
+      "short": "Wayanad paddy fields",
+      "sub_regions": [
+        "malabar"
+      ]
+    },
+    {
+      "id": "mosque_town",
+      "type": "religious",
+      "description": "outside a white mosque in a Kerala town",
+      "short": "white mosque in a Kerala town"
+    },
+    {
+      "id": "church_town",
+      "type": "religious",
+      "description": "outside a white church in a Kerala town",
+      "short": "white church in a Kerala town"
+    },
+    {
+      "id": "office",
+      "type": "work",
+      "description": "modern office in a Kerala city",
+      "short": "modern Kerala office"
+    }
+  ],
+  "avoid": [
+    "Everyone in kasavu all the time: most daily life is churidar, shirts and trousers, lungi at home.",
+    "Elephants and houseboats in every image.",
+    "Thick moustache on every man as a shortcut for a Kerala man.",
+    "Mixing up Kerala and Tamil Nadu dress (Kanjeevaram silk is Tamil, not Kerala).",
+    "Skin tone pushed to one end of the range.",
+    "Showing Muslim women only in abaya: show the full range (kuppayam, churidar with headscarf, saree).",
+    "Treating Malabar as only Muslim or Travancore as only Hindu.",
+    "Caste labels, including for fishing communities; use occupation, never caste.",
+    "Kurichiya chieftain's ceremonial items on ordinary characters.",
+    "Theyyam or Kathakali costume on characters; these are ritual and performance forms, not dress."
+  ],
+  "todo": [
+    "Traditional dress of Kurichiya, Kuruma and other tribal communities (not found in sources checked; do not invent).",
+    "Latin Christian wedding and dress details.",
+    "Muslim boys' festive dress with a source.",
+    "Sources for churidar, pattu pavada and girls' everyday wear.",
+    "Check the skin tone range against test renders.",
+    "Native review (someone from Kerala)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Kerala religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/32-kerala.html",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "wiki_mundu",
+      "title": "Mundu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mundu",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "wiki_kasavu",
+      "title": "Kasavu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kasavu",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kalyan_kerala",
+      "title": "Kerala jewellery designs (Kalyan Jewellers blog)",
+      "url": "https://www.kalyanjewellers.net/blog/kerala-jewellery-designs.php",
+      "type": "commercial",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kt_dress_faq",
+      "title": "What is the traditional dress of Kerala (Kerala Tourism)",
+      "url": "https://www.keralatourism.org/faq/what-is-the-traditional-dress-of-kerala",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kt_dress_habits",
+      "title": "Islam in Kerala: dress habits (Kerala Tourism)",
+      "url": "https://www.keralatourism.org/islam-in-kerala/culture/dress-habits",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kt_ornaments",
+      "title": "Islam in Kerala: ornaments (Kerala Tourism)",
+      "url": "https://www.keralatourism.org/islam-in-kerala/culture/ornaments",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kt_thalangara",
+      "title": "Thalankara thoppi (Kerala Tourism)",
+      "url": "https://www.keralatourism.org/kerala-article/2019/thalankara-thoppi/971",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kt_regions",
+      "title": "What are Kochi, Malabar and Travancore (Kerala Tourism)",
+      "url": "https://keralatourism.org/faq/what-are-kochi-malabar-and-travancore",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kt_kurichiya",
+      "title": "Kurichiyas (Kerala Tourism, Wayanad)",
+      "url": "https://www.keralatourism.org/wayanad/kurichiyas-tribal-sect.php",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kt_climate",
+      "title": "Does it always rain in Kerala (Kerala Tourism)",
+      "url": "https://www.keralatourism.org/faq/does-it-always-rain-in-kerala",
+      "type": "gov",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "sahapedia_wayanad",
+      "title": "The Kurichiya and Kuruma tribal communities of Wayanad (Sahapedia)",
+      "url": "https://www.sahapedia.org/the-kurichiya-and-kuruma-tribal-communities-of-wayanad",
+      "type": "academic",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "wiki_tribals_kerala",
+      "title": "Tribals in Kerala (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Tribals_in_Kerala",
+      "type": "reference",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kwt_syrian_wedding",
+      "title": "Rituals and ceremonies followed by Kerala Syrian Christians (Kerala Wedding Trends)",
+      "url": "https://keralaweddingtrends.com/rituals-ceremonies-followed-kerala-syrian-christians",
+      "type": "community",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kaumudi_temple_flowers",
+      "title": "Temple sandal and flower belief (Kerala Kaumudi)",
+      "url": "https://keralakaumudi.com/spiritual/rituals/temple-sandal-flower-belief-1779369",
+      "type": "indian_press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "iwp_fisherfolk",
+      "title": "Traditional fisherfolk of Kerala (India Water Portal)",
+      "url": "https://www.indiawaterportal.org/articles/traditional-fisherfolk-kerala-article-about-their-socio-economic-organisation-and-special",
+      "type": "community",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "federal_names",
+      "title": "Kerala names, surnames and identity (The Federal)",
+      "url": "https://thefederal.com/category/the-eighth-column/kerala-names-surname-religion-caste-identity-hindu-muslim-christian-politics-communist-cpim-245204",
+      "type": "indian_press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "kfl_theyyam",
+      "title": "Kerala Theyyam (Kerala Folklore)",
+      "url": "https://keralafolklore.com/kerala-theyyam.html",
+      "type": "community",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "bluestone_mangalsutra",
+      "title": "Traditional South Indian mangalsutra designs: a regional style guide (BlueStone)",
+      "url": "https://blog.bluestone.com/traditional-south-indian-mangalsutra-designs-meanings-a-regional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_chattayum_mundum",
+      "title": "Chattayum mundum (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Chattayum_mundum",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-29",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "sub_regions": [
+    {
+      "id": "malabar",
+      "name": "Malabar (north)",
+      "notes": "Northern coast; long Arab, Portuguese and Dutch trade links; ritual arts such as Theyyam."
+    },
+    {
+      "id": "kochi",
+      "name": "Kochi (central)",
+      "notes": "Central region; maritime trade hub with many communities; today Kerala's commercial centre."
+    },
+    {
+      "id": "travancore",
+      "name": "Travancore (south)",
+      "notes": "Former princely state in the south, around Thiruvananthapuram."
+    }
+  ],
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Given name plus father's name or a house-name initial, e.g. 'Anjali Ramesh' or 'R. Anjali'. Do not use caste surnames (library rule)."
+    },
+    {
+      "community": "muslim",
+      "notes": "Standard Arabic given names; father's name as second name is common."
+    },
+    {
+      "community": "syrian_christian",
+      "notes": "Biblical names in local forms (e.g. Varghese); father's name as second name, e.g. 'Thomas Kurian'."
+    },
+    {
+      "community": "latin_christian",
+      "notes": "Biblical and Portuguese-influenced names; father's name as second name."
+    }
+  ],
+  "grooming": [
+    {
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "community": "hindu",
+      "notes": "After a temple visit, women usually wear the flowers given by the temple in their hair; men place them behind the ear.",
+      "prompt": "temple flowers in the hair"
+    },
+    {
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "community": "kurichiya",
+      "notes": "By custom, sandal paste (kuri) on the forehead and chest."
+    },
+    {
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "notes": "Long hair, often oiled and in a single plait, especially among older women; check against test renders."
+    }
+  ],
+  "occupations": [
+    {
+      "id": "fisherman",
+      "name": "Fisherman",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "outfit": [
+        "kl_fisher_lungi_m"
+      ],
+      "scene": "mending nets on a Kerala beach"
+    },
+    {
+      "id": "fish_vendor",
+      "name": "Fish vendor",
+      "setting": "both",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "outfit": [
+        "kl_fisher_f"
+      ],
+      "scene": "carrying fish to the market in an aluminium vessel"
+    },
+    {
+      "id": "paddy_farmer",
+      "name": "Paddy farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male",
+        "old_female"
+      ],
+      "scene": "working in green paddy fields"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a modern office"
+    }
+  ],
+  "seasons": {
+    "monsoon": "Southwest monsoon (Edavappathy) from June, northeast monsoon (Thulavarsham) from mid-October: umbrellas, wet streets, lush green.",
+    "summer": "Between the monsoons the plains and coast stay warm and humid; hill stations stay cool all year. No real winter on the plains."
+  },
+  "heritage": [
+    {
+      "id": "theyyam",
+      "name": "Theyyam",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "A living form of worship in North Malabar: the performer is believed to become the deity, the costume is part of the deity's form, and the right to perform is hereditary within specific communities. Not costume, not decoration.",
+      "sources": [
+        "kfl_theyyam",
+        "kt_regions"
+      ]
+    },
+    {
+      "id": "travancore_court",
+      "name": "Historical Travancore and Kochi court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Needs museum sources and the era system; fictional people only.",
+      "sources": [
+        "kt_regions"
+      ]
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "3 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Corrected: Syrian Christian chatta and mundu limited to older women and to church, festive and ceremonial use (no longer daily wear), and the prompt now names the pleated fan (njori) at the back, as Wikipedia's Chattayum mundum page describes (use declined from the 1970s).",
+      "Checked: Balaramapuram and Kuthampully weaves are Kerala GI products; mundum neriyathum and the white gold-bordered saree confirmed by Wikipedia's Clothing in India; ela thali and the minnu with a cross confirmed by Wikipedia's Mangala sutra page."
+    ]
+  }
+}

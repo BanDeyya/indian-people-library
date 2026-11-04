@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-AF-0008",
+  "name": "Komal Devi",
+  "region": "haryana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 58,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "hr_suit_f",
+    "hr_daaman_f",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Bagri",
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

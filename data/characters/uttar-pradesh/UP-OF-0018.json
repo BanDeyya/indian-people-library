@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-OF-0018",
+  "name": "Asma",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with full cheeks",
+    "eyes": "brown eyes",
+    "hair": "greying hair in a low bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "up_salwar_f",
+    "up_gharara_f"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "Awadhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "PB-OM-0003",
+  "name": "Balwinder Singh",
+  "region": "punjab",
+  "sub_region": "doaba",
+  "community": "sikh",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 84,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "short grey hair",
+    "build": "athletic",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "pb_dastar_m",
+    "pb_kada",
+    "pb_kurta_pajama_m"
+  ],
+  "always_wear": [
+    "pb_dastar_m",
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

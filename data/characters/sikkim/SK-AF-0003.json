@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "SK-AF-0003",
+  "name": "Dechen",
+  "region": "sikkim",
+  "sub_region": "gangtok",
+  "community": "bhutia",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a low bun",
+    "build": "medium",
+    "signature_mark": "mole above her lip"
+  },
+  "wardrobe": [
+    "sk_kurta_f",
+    "sk_bakhu_f",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Sikkimese (Bhutia)",
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

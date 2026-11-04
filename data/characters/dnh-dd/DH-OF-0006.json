@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0006",
+  "name": "Kinjal",
+  "region": "dnh-dd",
+  "sub_region": "diu",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 83,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "fish_seller",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "dd_saree_f",
+    "dd_bandhani_saree_f"
+  ],
+  "language": [
+    "Gujarati",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-OM-0019",
+  "name": "Wasim Hussain",
+  "region": "bihar",
+  "sub_region": "seemanchal",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "thin white hair",
+    "build": "slim",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "br_shirt_trousers_m",
+    "br_kurta_pyjama_m"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "Magahi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "NL-OF-0004",
+  "name": "Chubala",
+  "region": "nagaland",
+  "sub_region": "mokokchung",
+  "community": "ao",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with full cheeks, East Asian features",
+    "eyes": "dark monolid eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "nl_ao_azu_f",
+    "nl_plain_top_f"
+  ],
+  "language": [
+    "Ao",
+    "English",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

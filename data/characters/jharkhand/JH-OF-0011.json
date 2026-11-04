@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0011",
+  "name": "Reena Devi",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 77,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "jh_tussar_f",
+    "jh_cotton_saree_f",
+    "jh_silver_f"
+  ],
+  "language": [
+    "Hindi",
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0019",
+  "name": "Nadeem Ahmad",
+  "region": "bihar",
+  "sub_region": "seemanchal",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "trimmed beard"
+  },
+  "wardrobe": [
+    "br_shirt_trousers_m",
+    "br_kurta_pyjama_m"
+  ],
+  "language": [
+    "Surjapuri",
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

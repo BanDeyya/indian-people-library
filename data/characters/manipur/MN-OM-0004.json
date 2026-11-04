@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-OM-0004",
+  "name": "Ratan",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 80,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "athletic",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "mn_shirt_trousers_m",
+    "mn_dhoti_kurta_m",
+    "mn_dark_jacket_m"
+  ],
+  "language": [
+    "Meiteilon"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

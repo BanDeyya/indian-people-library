@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0008",
+  "name": "Nirmala Devi",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "jh_cotton_saree_f",
+    "jh_tussar_f",
+    "jh_sindoor"
+  ],
+  "language": [
+    "Magahi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

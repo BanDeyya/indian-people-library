@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-AF-0012",
+  "name": "Phulmani",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 24,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "steel_worker",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "jh_modern_f",
+    "jh_cotton_saree_f",
+    "jh_tussar_f"
+  ],
+  "language": [
+    "Hindi",
+    "Angika"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

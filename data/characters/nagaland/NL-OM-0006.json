@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-OM-0006",
+  "name": "Sentimoa",
+  "region": "nagaland",
+  "sub_region": "mokokchung",
+  "community": "ao",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 87,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "narrow face with high cheekbones, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_trousers_m",
+    "nl_plain_shirt_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Ao",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

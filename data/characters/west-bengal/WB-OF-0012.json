@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0012",
+  "name": "Bulbul Abhijit",
+  "region": "west-bengal",
+  "sub_region": "kolkata",
+  "community": "bengali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a small bun",
+    "build": "thin",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "wb_tant_f",
+    "wb_baluchari_f",
+    "wb_laal_paar_f",
+    "wb_shawl",
+    "wb_shakha_pola",
+    "wb_sindoor"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

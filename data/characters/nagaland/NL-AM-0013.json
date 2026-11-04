@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0013",
+  "name": "Kitovi",
+  "region": "nagaland",
+  "sub_region": "zunheboto",
+  "community": "sumi",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_trousers_m",
+    "nl_plain_shirt_m",
+    "nl_sumi_nisuphi_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Sumi",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "DH-AF-0011",
+  "name": "Rupal",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "dd_saree_f",
+    "dd_salwar_f",
+    "dd_bandhani_saree_f",
+    "dd_sindoor"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

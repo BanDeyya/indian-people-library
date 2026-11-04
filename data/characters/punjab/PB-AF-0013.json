@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "PB-AF-0013",
+  "name": "Mandeep Kaur",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 63,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "long black hair in a single braid",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_kurti_jeans_f",
+    "pb_suit_head_f",
+    "pb_suit_f",
+    "pb_phulkari_f",
+    "pb_jhumka"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0004",
+  "name": "Tanushree Bapi",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with large expressive eyes",
+    "eyes": "large dark eyes",
+    "hair": "grey hair in a small bun",
+    "build": "thin",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "wb_baluchari_f",
+    "wb_tant_f",
+    "wb_laal_paar_f",
+    "wb_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

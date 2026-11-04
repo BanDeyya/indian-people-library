@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AN-OF-0015",
+  "name": "Martha",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "christian",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "greying hair in a low bun",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "an_tant_f",
+    "an_silk_saree_f",
+    "an_cross"
+  ],
+  "language": [
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

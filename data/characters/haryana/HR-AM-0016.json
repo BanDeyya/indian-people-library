@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0016",
+  "name": "Sandeep Kumar",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short styled black hair",
+    "build": "athletic",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_dhoti_kurta_m",
+    "hr_pagri",
+    "hr_chaddar",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

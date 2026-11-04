@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HR-OF-0010",
+  "name": "Usha",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair under her chunder",
+    "build": "sturdy",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "hr_daaman_f",
+    "hr_sindoor",
+    "hr_winter_jacket",
+    "hr_suit_f"
+  ],
+  "language": [
+    "Ahirwati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

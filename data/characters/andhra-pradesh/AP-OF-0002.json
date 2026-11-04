@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-OF-0002",
+  "name": "Sujatha Nagaraju",
+  "region": "andhra-pradesh",
+  "sub_region": "rayalaseema",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "ap_uppada_f",
+    "ap_mangalagiri_f",
+    "ap_mangalsutra"
+  ],
+  "language": [
+    "Telugu",
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

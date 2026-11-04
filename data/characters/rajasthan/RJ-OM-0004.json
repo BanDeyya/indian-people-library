@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OM-0004",
+  "name": "Harish Pratap",
+  "region": "rajasthan",
+  "sub_region": "dhundhar",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "white hair under his safa",
+    "build": "thin",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "large white moustache"
+  },
+  "wardrobe": [
+    "rj_angrakha_m",
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_festive_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Marwari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

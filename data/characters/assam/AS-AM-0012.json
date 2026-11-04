@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AS-AM-0012",
+  "name": "Hafiz",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese_muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with a prominent nose",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "trimmed black beard"
+  },
+  "wardrobe": [
+    "as_kurta_lungi_m",
+    "as_shirt_m"
+  ],
+  "language": [
+    "Assamese",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

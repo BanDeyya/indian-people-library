@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "GA-OM-0002",
+  "name": "Anthony",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "catholic",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "white hair combed back",
+    "build": "heavy",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ga_shirt_trousers_m",
+    "ga_suit_m",
+    "ga_cross"
+  ],
+  "language": [
+    "Konkani",
+    "Portuguese (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

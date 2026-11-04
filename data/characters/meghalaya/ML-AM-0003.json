@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "ML-AM-0003",
+  "name": "Wanphrang",
+  "region": "meghalaya",
+  "sub_region": "jaintia_hills",
+  "community": "pnar",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small scar on his left hand"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m",
+    "ml_kyrshah_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Pnar",
+    "Khasi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

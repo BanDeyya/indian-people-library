@@ -1,0 +1,1309 @@
+{
+  "schema_version": 2,
+  "slug": "meghalaya",
+  "code": "ML",
+  "name": "Meghalaya",
+  "type": "state",
+  "zone": "northeast",
+  "capital": "Shillong",
+  "status": "reviewed",
+  "languages": [
+    "English (official)",
+    "Khasi (associate official)",
+    "Garo (associate official)",
+    "Pnar",
+    "Bengali",
+    "Nepali",
+    "Hindi"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "christian": 74.59,
+      "hindu": 11.53,
+      "other": 9.03,
+      "muslim": 4.4,
+      "buddhist": 0.33,
+      "sikh": 0.1,
+      "jain": 0.02
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "khasi_hills",
+      "name": "Khasi Hills and Ri-Bhoi",
+      "notes": "Shillong, Sohra, Mawsynram, Nongpoh; Khasi communities; Iewduh market."
+    },
+    {
+      "id": "jaintia_hills",
+      "name": "Jaintia Hills",
+      "notes": "Jowai and the West and East Jaintia Hills; Pnar (Jaintia) communities; Behdienkhlam."
+    },
+    {
+      "id": "garo_hills",
+      "name": "Garo Hills",
+      "notes": "Tura, Williamnagar, Baghmara; Garo (A·chik) communities; Wangala."
+    }
+  ],
+  "communities": [
+    {
+      "id": "khasi",
+      "name": "Khasi",
+      "culture": "Khasi",
+      "religion": "christian",
+      "prompt": "Khasi",
+      "sub_regions": [
+        "khasi_hills"
+      ],
+      "notes": "Matrilineal community, mostly Christian, with followers of the indigenous Niam Khasi (Seng Khasi). Women wear the jainsem with a tapmohkhlieh shawl daily; silk jainsem for festivals; jainkup for elder women in the cold. Men wear modern dress daily and the jymphong with dhoti and turban for festivals.",
+      "names": {
+        "female": [
+          "Wanda",
+          "Iba",
+          "Philomena",
+          "Daiaphi",
+          "Ibadahun",
+          "Badaker",
+          "Banri",
+          "Ibapynshngain",
+          "Rida",
+          "Kynsai",
+          "Iaishah",
+          "Banteilang",
+          "Wanshai",
+          "Ibakordor",
+          "Pynshai",
+          "Ibalin",
+          "Daphisha",
+          "Ibanylla",
+          "Mebashisha",
+          "Bashan"
+        ],
+        "male": [
+          "Banteilang",
+          "Kyrmen",
+          "Wanphrang",
+          "Shanborlang",
+          "Ibanshan",
+          "Batskhem",
+          "Kitbor",
+          "Banshan",
+          "Pynshai",
+          "Donbok",
+          "Wanbor",
+          "Kitboklang",
+          "Shanbor",
+          "Ibormi",
+          "Donboklang",
+          "Teibor",
+          "Wanpyn",
+          "Kynsai",
+          "Lambok",
+          "Iarap",
+          "Kyrshan",
+          "Baia"
+        ]
+      }
+    },
+    {
+      "id": "pnar",
+      "name": "Pnar",
+      "culture": "Pnar (Jaintia)",
+      "prompt": "Jaintia",
+      "sub_regions": [
+        "jaintia_hills"
+      ],
+      "notes": "Christian and Niamtre (indigenous faith) families. Festival dress: velvet blouse and ankle-length thoh khyrwang for women; men cover the head with a checked kyrshah in the harvest season.",
+      "names": {
+        "female": [
+          "Ibalari",
+          "Rimika",
+          "Badalin",
+          "Wanda",
+          "Ibaris",
+          "Mebanshai",
+          "Iohbha",
+          "Sweety",
+          "Dameris",
+          "Ibaphrang",
+          "Riangkyrmen",
+          "Ibaroilang",
+          "Juristina",
+          "Phira",
+          "Bari",
+          "Kyntiew"
+        ],
+        "male": [
+          "Wanphrang",
+          "Kyntiew",
+          "Ibajop",
+          "Shemphang",
+          "Batskhem",
+          "Lamphrang",
+          "Teibor",
+          "Kyrmen",
+          "Mebanpyn",
+          "Hambok",
+          "Kitboklang",
+          "Bandari",
+          "Tenkin",
+          "Iohlang",
+          "Wanpynbha",
+          "Ronbor",
+          "Kyrshan",
+          "Banjop",
+          "Dondor",
+          "Raplang",
+          "Bikin"
+        ]
+      }
+    },
+    {
+      "id": "garo",
+      "name": "Garo",
+      "culture": "Garo (A·chik)",
+      "religion": "christian",
+      "prompt": "Garo",
+      "sub_regions": [
+        "garo_hills"
+      ],
+      "notes": "Matrilineal community, mostly Christian, with Songsarek (indigenous faith) villages. Women's handwoven dakmanda wrap daily and at festivals; long cotton dresses in towns; Rigitok and Ripok bead necklaces for special occasions.",
+      "names": {
+        "female": [
+          "Silchi",
+          "Margaret",
+          "Chengsi",
+          "Jengchi",
+          "Silme",
+          "Bilsi",
+          "Rimchi",
+          "Nengsi",
+          "Sengchi",
+          "Galchi",
+          "Rikme",
+          "Silbi",
+          "Chengme",
+          "Agatha",
+          "Anitha",
+          "Jebi"
+        ],
+        "male": [
+          "Rakkam",
+          "Sengrak",
+          "Chengrak",
+          "Jengsil",
+          "Balsrang",
+          "Sengat",
+          "Tengsrang",
+          "Rengsil",
+          "Brening",
+          "Salseng",
+          "Chengran",
+          "Nikman",
+          "Rikman",
+          "Tengsak",
+          "Ganchang",
+          "Sengbath",
+          "Jengra",
+          "Nokseng",
+          "Pakseng",
+          "Wallang",
+          "Chensrang",
+          "Rakseng",
+          "Sengnal"
+        ]
+      }
+    },
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Bengali, Nepali and Assamese",
+      "religion": "hindu",
+      "sub_regions": [
+        "khasi_hills",
+        "garo_hills"
+      ],
+      "notes": "Long-settled families in Shillong and the Garo Hills plains; also Hajong, Koch and Rabha communities. Sarees and salwar suits; sindoor when married.",
+      "names": {
+        "female": [
+          "Riya",
+          "Moumita",
+          "Sutapa",
+          "Kamala",
+          "Mitali",
+          "Kalpana",
+          "Sharmila",
+          "Tithi",
+          "Rupa",
+          "Sanchita",
+          "Ananya",
+          "Paromita",
+          "Shampa",
+          "Debjani",
+          "Rina",
+          "Mousumi",
+          "Supriya",
+          "Rumpa",
+          "Sumana",
+          "Puja",
+          "Rituparna",
+          "Madhumita",
+          "Mithu",
+          "Bulbul",
+          "Chandana",
+          "Shipra",
+          "Arpita",
+          "Nandini",
+          "Sharmistha",
+          "Tanushree",
+          "Swapna",
+          "Lipika"
+        ],
+        "male": [
+          "Gopal",
+          "Arindam",
+          "Subrata",
+          "Haripada",
+          "Suman",
+          "Sourav",
+          "Partha",
+          "Debashis",
+          "Anirban",
+          "Biswajit",
+          "Tapas",
+          "Pradip",
+          "Amit",
+          "Ranjan",
+          "Subir",
+          "Sanjay",
+          "Prosenjit",
+          "Tarun",
+          "Biplab",
+          "Kaushik",
+          "Somnath",
+          "Utpal",
+          "Asim",
+          "Abhijit",
+          "Subhash",
+          "Sudip",
+          "Pintu",
+          "Bapi",
+          "Ratan",
+          "Arun",
+          "Dipankar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Garo Hills plains",
+      "religion": "muslim",
+      "sub_regions": [
+        "garo_hills"
+      ],
+      "notes": "Mainly in the plains belt of West and South West Garo Hills. No characters yet."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      3,
+      7
+    ],
+    "hair": "Straight black hair.",
+    "notes": "East Asian features common among Khasi, Pnar and Garo people. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "khasi",
+      "notes": "Khasi or Christian given names (Daiaphi, Banteilang, Kyrmen, Wanda); clan surnames (passed through the mother) left out."
+    },
+    {
+      "community": "garo",
+      "notes": "Garo or Christian given names; clan (machong) names such as Marak or Sangma left out."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "ml_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt and trousers",
+      "short": "shirt and trousers",
+      "sources": [
+        "caleidoscope_ml"
+      ]
+    },
+    {
+      "id": "ml_smart_m",
+      "name": "Pressed shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit",
+        "wedding_guest"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "pressed long-sleeved shirt with dark trousers and a sweater vest",
+      "short": "pressed shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "ml_jymphong_m",
+      "name": "Jymphong with dhoti and turban",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "khasi",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "long sleeveless collarless jymphong coat fastened with thongs in front, over a white shirt, with an unstitched dhoti and a silk turban",
+      "short": "sleeveless jymphong, dhoti and turban",
+      "sources": [
+        "caleidoscope_ml",
+        "ekh_people"
+      ]
+    },
+    {
+      "id": "ml_kyrshah_m",
+      "name": "Kyrshah head cloth",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "head",
+      "setting": "rural",
+      "occasion": [
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "pnar",
+      "prompt": "checked kyrshah cloth tied over the head",
+      "short": "checked kyrshah head cloth",
+      "sources": [
+        "caleidoscope_ml",
+        "pt_meghalaya"
+      ]
+    },
+    {
+      "id": "ml_jainsem_f",
+      "name": "Jainsem with tapmohkhlieh",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "khasi",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "Khasi jainsem, an unstitched cloth wrap pinned at both shoulders and falling to the ankles over a long-sleeved blouse, with a tapmohkhlieh shawl",
+      "short": "jainsem and tapmohkhlieh",
+      "sources": [
+        "caleidoscope_ml",
+        "f2f_ml",
+        "ekh_people",
+        "pt_meghalaya"
+      ]
+    },
+    {
+      "id": "ml_silk_jainsem_f",
+      "name": "Silk jainsem",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "khasi",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "golden muga silk jainsem pinned at both shoulders over a velvet blouse, with gold and coral bead jewellery",
+      "short": "golden silk jainsem",
+      "sources": [
+        "f2f_ml",
+        "caleidoscope_ml",
+        "wiki_gi_list",
+        "ekh_people"
+      ]
+    },
+    {
+      "id": "ml_jainkup_f",
+      "name": "Jainkup",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "winter"
+      ],
+      "community": "khasi",
+      "prompt": "woollen jainkup wrap over a full-sleeve blouse",
+      "short": "woollen jainkup",
+      "sources": [
+        "caleidoscope_ml",
+        "f2f_ml"
+      ]
+    },
+    {
+      "id": "ml_thoh_khyrwang_f",
+      "name": "Thoh khyrwang",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "pnar",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "ankle-length thoh khyrwang sarong with a velvet blouse and gold ornaments",
+      "short": "thoh khyrwang and velvet blouse",
+      "sources": [
+        "caleidoscope_ml"
+      ]
+    },
+    {
+      "id": "ml_dakmanda_f",
+      "name": "Dakmanda",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "garo",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "handwoven ankle-length Garo dakmanda wrap with bold stripes and a patterned border, worn with a blouse",
+      "short": "Garo dakmanda",
+      "sources": [
+        "f2f_ml",
+        "caleidoscope_ml",
+        "pt_meghalaya"
+      ]
+    },
+    {
+      "id": "ml_dakmanda_fest_f",
+      "name": "Festive dakmanda",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "garo",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "bright patterned Garo dakmanda layered double, worn with a blouse, beaded necklaces and silver anklets",
+      "short": "festive dakmanda",
+      "sources": [
+        "f2f_ml"
+      ]
+    },
+    {
+      "id": "ml_long_dress_f",
+      "name": "Long cotton dress",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "long-sleeved ankle-length cotton dress",
+      "short": "long cotton dress",
+      "sources": [
+        "caleidoscope_ml"
+      ]
+    },
+    {
+      "id": "ml_saree_f",
+      "name": "Saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "cotton saree with a matching blouse",
+      "short": "cotton saree",
+      "sources": []
+    },
+    {
+      "id": "ml_silk_saree_f",
+      "name": "Silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "prompt": "silk saree with a woven border",
+      "short": "silk saree",
+      "sources": []
+    },
+    {
+      "id": "ml_modern_f",
+      "name": "Top and jeans",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton top with jeans and a cardigan",
+      "short": "top, jeans and cardigan",
+      "sources": []
+    },
+    {
+      "id": "ml_winter_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "padded jacket",
+      "short": "padded jacket",
+      "sources": []
+    },
+    {
+      "id": "ml_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long-sleeved dress with leggings and a sweater",
+      "short": "girl's dress and sweater",
+      "sources": []
+    },
+    {
+      "id": "ml_kids_g_jainsem",
+      "name": "Girl's jainsem",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "khasi",
+      "prompt": "girl's small silk jainsem over a long-sleeved blouse",
+      "short": "girl's silk jainsem",
+      "sources": [
+        "f2f_ml"
+      ]
+    },
+    {
+      "id": "ml_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    },
+    {
+      "id": "ml_kids_b_church",
+      "name": "Boy's church clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's white shirt with dark trousers and a sweater",
+      "short": "boy's white shirt and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "ml_sindoor",
+      "name": "Sindoor",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "red sindoor in the hair parting",
+      "short": "red sindoor in the parting",
+      "sources": [
+        "wiki_sindoor",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "ml_studs_kids",
+      "name": "Small gold studs",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "school",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "ml_jainsem_f"
+        ],
+        [
+          "ml_dakmanda_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ml_silk_jainsem_f"
+        ],
+        [
+          "ml_dakmanda_fest_f"
+        ]
+      ],
+      "reason": "Women still wear community dress daily: jainsem (Khasi), dakmanda (Garo)."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "ml_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ml_jymphong_m"
+        ]
+      ],
+      "reason": "Men keep traditional dress for festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "ml_jainsem_f",
+          "ml_jainkup_f"
+        ],
+        [
+          "ml_dakmanda_f"
+        ]
+      ],
+      "festive": [
+        [
+          "ml_silk_jainsem_f"
+        ]
+      ],
+      "reason": "Jainkup for elder Khasi women."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "ml_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "ml_jymphong_m"
+        ]
+      ],
+      "reason": "Modern dress daily."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "ml_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "ml_kids_g_jainsem"
+        ]
+      ],
+      "reason": "Small silk jainsem for Khasi girls."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "ml_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "ml_kids_b_church"
+        ]
+      ],
+      "reason": "Church clothes."
+    }
+  },
+  "grooming": [],
+  "occasions": [
+    {
+      "id": "shad_suk_mynsiem",
+      "name": "Shad Suk Mynsiem",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "khasi"
+      ],
+      "when": "April",
+      "scene": "Shad Suk Mynsiem at Weiking ground in Shillong, rows of dancers in silk and musicians with drums and pipes, crowds watching",
+      "scene_short": "Shad Suk Mynsiem dance in Shillong"
+    },
+    {
+      "id": "wangala",
+      "name": "Wangala (100 Drums)",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "garo"
+      ],
+      "when": "first week of November",
+      "scene": "Wangala harvest festival in the Garo Hills, rows of dancers with long oval drums on an open field",
+      "scene_short": "Wangala drums on a field"
+    },
+    {
+      "id": "christmas_ml",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "khasi",
+        "garo",
+        "pnar"
+      ],
+      "when": "24-25 December",
+      "scene": "Christmas evening in Shillong, streets lit with fairy lights and paper stars",
+      "scene_short": "Shillong Christmas lights"
+    },
+    {
+      "id": "durga_puja_ml",
+      "name": "Durga Puja",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "September-October",
+      "scene": "Durga Puja evening in Shillong, families visiting a lit pandal",
+      "scene_short": "Durga Puja in Shillong"
+    },
+    {
+      "id": "wedding_guest_ml",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a wedding reception in a decorated hall",
+      "scene_short": "wedding reception"
+    }
+  ],
+  "settings": [
+    {
+      "id": "shillong_street",
+      "type": "urban",
+      "description": "Shillong street on a hillside with pine trees and colourful shopfronts",
+      "short": "Shillong hillside street",
+      "sub_regions": [
+        "khasi_hills"
+      ]
+    },
+    {
+      "id": "iewduh",
+      "type": "urban",
+      "description": "busy lanes of Iewduh market in Shillong",
+      "short": "Iewduh market",
+      "sub_regions": [
+        "khasi_hills"
+      ]
+    },
+    {
+      "id": "jowai_town",
+      "type": "urban",
+      "description": "Jowai town street among rolling green hills",
+      "short": "Jowai street",
+      "sub_regions": [
+        "jaintia_hills"
+      ]
+    },
+    {
+      "id": "tura_town",
+      "type": "urban",
+      "description": "Tura town street with forested hills behind",
+      "short": "Tura street",
+      "sub_regions": [
+        "garo_hills"
+      ]
+    },
+    {
+      "id": "khasi_village",
+      "type": "rural",
+      "description": "Khasi hill village with pine trees and mist over the valley",
+      "short": "misty Khasi village",
+      "sub_regions": [
+        "khasi_hills"
+      ]
+    },
+    {
+      "id": "jaintia_fields",
+      "type": "rural",
+      "description": "rolling green Jaintia hills with paddy fields",
+      "short": "Jaintia paddy fields",
+      "sub_regions": [
+        "jaintia_hills"
+      ]
+    },
+    {
+      "id": "garo_village",
+      "type": "rural",
+      "description": "Garo hill village with bamboo houses and areca palms",
+      "short": "Garo bamboo village",
+      "sub_regions": [
+        "garo_hills"
+      ]
+    },
+    {
+      "id": "root_bridge",
+      "type": "nature",
+      "description": "living root bridge over a clear stream in the forest",
+      "short": "living root bridge",
+      "sub_regions": [
+        "khasi_hills",
+        "jaintia_hills"
+      ]
+    },
+    {
+      "id": "home_city_ml",
+      "type": "home",
+      "description": "wooden house with a tin roof and flower pots on the porch",
+      "short": "wooden house porch",
+      "lives_in": "urban"
+    },
+    {
+      "id": "home_village_ml",
+      "type": "home",
+      "description": "village house with a bamboo verandah",
+      "short": "bamboo verandah",
+      "lives_in": "rural"
+    },
+    {
+      "id": "office_ml",
+      "type": "work",
+      "description": "office in Shillong",
+      "short": "Shillong office",
+      "sub_regions": [
+        "khasi_hills"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "setting": "urban",
+      "for": [
+        "adult_female",
+        "adult_male"
+      ],
+      "scene": "in a hospital ward"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "behind the counter of a small shop"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in terraced fields"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    },
+    {
+      "id": "college_student",
+      "name": "College student",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "on a college campus with books"
+    }
+  ],
+  "seasons": {
+    "summer": "Mild (March-May).",
+    "monsoon": "Very heavy rain (June-September), among the wettest places on earth.",
+    "winter": "Cold in the hills (December-February)."
+  },
+  "heritage": [
+    {
+      "id": "ml_syiem",
+      "name": "Syiem (chiefs') court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Fictional people only; no named chiefs.",
+      "sources": []
+    },
+    {
+      "id": "ml_dance_regalia",
+      "name": "Dance crowns and regalia",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Gold and silver crowns of Khasi dancers and brides, men's dance swords and whisks, and Garo feathered headpieces are tied to dances and rites; not shown on characters.",
+      "sources": [
+        "caleidoscope_ml",
+        "ml_tourism_wangala"
+      ]
+    },
+    {
+      "id": "ml_rites",
+      "name": "Nongkrem and Behdienkhlam rites",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Sacred rites of the indigenous faiths; may appear later only as crowd scenes after review.",
+      "sources": []
+    }
+  ],
+  "avoid": [
+    "'Abode of clouds' tourist cliches only; 'exotic' framing.",
+    "Matrilineal 'role reversal' jokes.",
+    "Inter-community tension, inner-line or outsider politics; mining accidents.",
+    "Feathered headgear or crowns as costume."
+  ],
+  "todo": [
+    "Behdienkhlam and Nongkrem as reviewed crowd scenes with sources.",
+    "Garo men's festive dress with sources.",
+    "Hajong, Koch and Rabha dress; Muslim dress.",
+    "Native review (Khasi, Pnar and Garo)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Meghalaya religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/17-meghalaya.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "caleidoscope_ml",
+      "title": "Traditional dresses of Meghalaya (Caleidoscope)",
+      "url": "https://www.caleidoscope.in/art-culture/traditional-dresses-of-meghalaya",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "f2f_ml",
+      "title": "Jainsem and Dakmanda: traditional dresses of Meghalaya (Fibre2Fashion)",
+      "url": "https://www.fibre2fashion.com/industry-article/10563/submitArticleLink",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "ml_tourism_wangala",
+      "title": "Wangala dance (Meghalaya Tourism)",
+      "url": "https://www.meghalayatourism.in/explore/about-meghalaya/dance-music/wangala-dance/",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "at_shad_suk",
+      "title": "Khasi festival Shad Suk Mynsiem lights up Shillong (Assam Tribune)",
+      "url": "https://assamtribune.com/north-east/khasi-festival-shad-suk-mynsiem-lights-up-shillong-with-dance-devotion-1610623",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_sindoor",
+      "title": "Sindoor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindoor",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "ekh_people",
+      "title": "The people (East Khasi Hills district, Government of Meghalaya)",
+      "url": "https://eastkhasihills.gov.in/?p=2811",
+      "type": "gov",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "pt_meghalaya",
+      "title": "Traditional dresses of Meghalaya (Pratidin Time)",
+      "url": "https://www.pratidintime.com/north-east/meghalaya/traditional-dresses-of-meghalaya",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (1 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "Corrected: the jymphong prompt now follows the East Khasi Hills district description (long, sleeveless, collarless, fastened with thongs in front); the 'deep blue' colour came from a wedding description and was dropped for festival wear.",
+      "Confirmed: jainsem to the ankles over a blouse with the tapmohkhlieh; the formal muga silk dhara knotted or pinned at the shoulders; men's jymphong and dhoti for ceremonies; Shad Suk Mynsiem in April over three days (East Khasi Hills district). Kyrshah confirmed as a checked head cloth worn in the harvest season (Pratidin Time), which adds that women also wear it at festivals.",
+      "Conflict: Pratidin Time describes the Garo dakmanda as a small cloth wrapped at the waist with a lungi and blouse, while Fibre2Fashion and Caleidoscope describe a lungi-style wrap; the prompt keeps the wrap with a blouse. Pnar thoh khyrwang with a velvet blouse rests on Caleidoscope only."
+    ]
+  }
+}

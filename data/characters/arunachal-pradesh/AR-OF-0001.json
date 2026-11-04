@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "AR-OF-0001",
+  "name": "Oyin",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "adi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole on her forehead"
+  },
+  "wardrobe": [
+    "ar_skirt_f",
+    "ar_gale_f",
+    "ar_winter_jacket"
+  ],
+  "language": [
+    "Adi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TR-OF-0013",
+  "name": "Laxmi",
+  "region": "tripura",
+  "sub_region": "hills",
+  "community": "tripuri",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "tr_rignai_f",
+    "tr_shawl",
+    "tr_tant_f"
+  ],
+  "language": [
+    "Kokborok",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

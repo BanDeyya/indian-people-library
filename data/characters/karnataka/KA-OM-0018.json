@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-OM-0018",
+  "name": "Kariappa Achaiah",
+  "region": "karnataka",
+  "sub_region": "kodagu",
+  "community": "kodava",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "strong square face with a straight nose",
+    "eyes": "light brown eyes",
+    "hair": "short white hair",
+    "build": "tall and broad",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "ka_kupya_m",
+    "ka_shirt_trousers_m"
+  ],
+  "language": [
+    "Kodava",
+    "Kannada",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

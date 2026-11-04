@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JK-OF-0008",
+  "name": "Raziya",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "kashmiri_muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 87,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with rosy cheeks",
+    "eyes": "light brown eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "jk_pheran_f",
+    "jk_salwar_f",
+    "jk_tilla_pheran_f"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

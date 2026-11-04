@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PY-AF-0016",
+  "name": "Jayasree",
+  "region": "puducherry",
+  "sub_region": "mahe",
+  "community": "malayali_hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "py_cotton_saree_f",
+    "py_silk_saree_f"
+  ],
+  "language": [
+    "Malayalam",
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

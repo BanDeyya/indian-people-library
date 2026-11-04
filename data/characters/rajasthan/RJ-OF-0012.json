@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OF-0012",
+  "name": "Kamla Bhanwar",
+  "region": "rajasthan",
+  "sub_region": "shekhawati",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 73,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with dimples",
+    "eyes": "brown eyes",
+    "hair": "grey hair under her odhni",
+    "build": "stocky",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "rj_ghagra_f",
+    "rj_festive_ghagra_f"
+  ],
+  "language": [
+    "Mewari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

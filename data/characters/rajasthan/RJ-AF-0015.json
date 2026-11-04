@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0015",
+  "name": "Kamla",
+  "region": "rajasthan",
+  "sub_region": "mewar",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with dimples",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair with grey streaks under her odhni",
+    "build": "average",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "rj_lehariya_saree_f",
+    "rj_poshak_f",
+    "rj_ghagra_f",
+    "rj_bajuband",
+    "rj_silver_payal",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

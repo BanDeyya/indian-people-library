@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0007",
+  "name": "Bijayalaxmi Biswanath",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 60,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "broad face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "od_bomkai_f",
+    "od_khandua_f",
+    "od_sambalpuri_f",
+    "od_sindoor",
+    "od_sakha_pola"
+  ],
+  "language": [
+    "Sambalpuri",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "SK-AM-0002",
+  "name": "Karma",
+  "region": "sikkim",
+  "sub_region": "north",
+  "community": "bhutia",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad weathered face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole on his left cheek"
+  },
+  "wardrobe": [
+    "sk_shirt_trousers_m",
+    "sk_bakhu_m",
+    "sk_winter_jacket"
+  ],
+  "language": [
+    "Sikkimese (Bhutia)",
+    "Nepali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

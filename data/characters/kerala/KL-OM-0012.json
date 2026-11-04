@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KL-OM-0012",
+  "name": "Harikrishnan",
+  "region": "kerala",
+  "sub_region": "kochi",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "paddy_farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "lean face with hollow cheeks and deep wrinkles",
+    "eyes": "dark brown eyes",
+    "hair": "thin white hair, balding on top",
+    "build": "thin",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "kl_melmundu_m",
+    "kl_kasavu_mundu_m",
+    "kl_lungi_m"
+  ],
+  "language": [
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

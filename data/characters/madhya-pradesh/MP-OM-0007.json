@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MP-OM-0007",
+  "name": "Vivek",
+  "region": "madhya-pradesh",
+  "sub_region": "mahakoshal",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square sun-darkened face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "mp_dhoti_kurta_m",
+    "mp_mirzai",
+    "mp_shirt_trousers_m"
+  ],
+  "language": [
+    "Malvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

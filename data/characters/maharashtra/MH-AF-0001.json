@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0001",
+  "name": "Sneha Prakash",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face with a pointed chin",
+    "eyes": "dark brown eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "mh_modern_f",
+    "mh_salwar_f",
+    "mh_nauvari_silk_f",
+    "mh_nath",
+    "mh_kolhapuri"
+  ],
+  "language": [
+    "Marathi",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

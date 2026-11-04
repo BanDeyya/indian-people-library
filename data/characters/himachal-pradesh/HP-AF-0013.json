@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0013",
+  "name": "Tripta Devi",
+  "region": "himachal-pradesh",
+  "sub_region": "kullu_mandi",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with rosy cheeks",
+    "eyes": "dark eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "dimple on her right cheek"
+  },
+  "wardrobe": [
+    "hp_suit_f",
+    "hp_ghagra_f",
+    "hp_chandrahaar",
+    "hp_sindoor",
+    "hp_pattu_f"
+  ],
+  "language": [
+    "Kangri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

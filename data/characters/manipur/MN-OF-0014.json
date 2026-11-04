@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "MN-OF-0014",
+  "name": "Rinchui",
+  "region": "manipur",
+  "sub_region": "north_hills",
+  "community": "tangkhul",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "medium",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "mn_kashan_f",
+    "mn_winter_jacket",
+    "mn_phanek_f"
+  ],
+  "language": [
+    "Tangkhul"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

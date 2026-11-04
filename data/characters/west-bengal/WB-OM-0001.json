@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "WB-OM-0001",
+  "name": "Gopal Nitai",
+  "region": "west-bengal",
+  "sub_region": "south_bengal",
+  "community": "bengali_hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "fisherman",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "lean face with sharp cheekbones",
+    "eyes": "brown eyes",
+    "hair": "thin white hair",
+    "facial_hair": "short white stubble",
+    "build": "wiry",
+    "signature_mark": "old scar on his left forearm"
+  },
+  "wardrobe": [
+    "wb_lungi_m",
+    "wb_dhoti_panjabi_m",
+    "wb_gamcha"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

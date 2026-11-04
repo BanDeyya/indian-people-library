@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0018",
+  "name": "Nawaz Faraz",
+  "region": "telangana",
+  "sub_region": "south",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 25,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "short greying hair",
+    "build": "heavyset",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "trimmed grey beard"
+  },
+  "wardrobe": [
+    "ts_kurta_pyjama_m",
+    "ts_shirt_trousers_m"
+  ],
+  "language": [
+    "Dakhni Urdu",
+    "Telugu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

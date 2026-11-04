@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0008",
+  "name": "Bulbul",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "bengali_hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "brown eyes behind black-rimmed glasses",
+    "hair": "grey hair in a small bun",
+    "build": "thin",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "wb_tant_f",
+    "wb_baluchari_f",
+    "wb_laal_paar_f",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

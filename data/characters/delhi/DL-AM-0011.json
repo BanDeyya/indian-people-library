@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0011",
+  "name": "Vivek",
+  "region": "delhi",
+  "sub_region": "old_delhi",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "tall and strong",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dl_festive_kurta_m",
+    "dl_kurta_pyjama_m",
+    "dl_shirt_trousers_m",
+    "dl_winter_jacket",
+    "dl_shawl"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

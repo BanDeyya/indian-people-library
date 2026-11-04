@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0003",
+  "name": "Rajesh Prasad",
+  "region": "jharkhand",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "slim",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "jh_dhoti_kurta_m",
+    "jh_shirt_trousers_m"
+  ],
+  "language": [
+    "Khortha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

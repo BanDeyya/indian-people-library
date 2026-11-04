@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "LA-AM-0007",
+  "name": "Tundup",
+  "region": "ladakh",
+  "sub_region": "changthang",
+  "community": "buddhist",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 23,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pashmina_herder",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad face with high cheekbones, Tibetan-type features",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "la_modern_m",
+    "la_goncha_m",
+    "la_tibi",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

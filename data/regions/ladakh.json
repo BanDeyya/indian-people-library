@@ -1,0 +1,1469 @@
+{
+  "schema_version": 2,
+  "slug": "ladakh",
+  "code": "LA",
+  "name": "Ladakh",
+  "type": "union_territory",
+  "zone": "north",
+  "capital": "Leh",
+  "status": "reviewed",
+  "languages": [
+    "Ladakhi (Bhoti)",
+    "Purgi",
+    "Balti",
+    "Changskat",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "religion_mix": {
+    "source": "census2011_ladakh",
+    "shares": {
+      "muslim": 46.41,
+      "buddhist": 39.65,
+      "hindu": 12.11,
+      "sikh": 0.83,
+      "christian": 0.46,
+      "other": 0.54
+    },
+    "checked_against": [
+      "wiki_ladakh"
+    ],
+    "note": "Religion shares for Leh and Kargil computed from district data; not a row in Pew's 2011 table (part of Jammu and Kashmir then)."
+  },
+  "sub_regions": [
+    {
+      "id": "leh",
+      "name": "Leh and the Indus valley",
+      "notes": "Leh town, Sham and the central Indus valley; mostly Buddhist, with a Muslim community in Leh."
+    },
+    {
+      "id": "nubra",
+      "name": "Nubra",
+      "notes": "Valley north of Leh; Buddhist and Muslim villages."
+    },
+    {
+      "id": "changthang",
+      "name": "Changthang",
+      "notes": "High plateau in the east; Changpa pastoral nomads and pashmina goats."
+    },
+    {
+      "id": "kargil",
+      "name": "Kargil and Suru valley",
+      "notes": "Purig region; mostly Shia Muslim (Purigpa, Balti)."
+    },
+    {
+      "id": "zanskar",
+      "name": "Zanskar",
+      "notes": "Remote valley in Kargil district; mostly Buddhist."
+    }
+  ],
+  "communities": [
+    {
+      "id": "buddhist",
+      "name": "Buddhist",
+      "culture": "Ladakhi",
+      "religion": "buddhist",
+      "prompt": "Ladakhi",
+      "sub_regions": [
+        "leh",
+        "nubra",
+        "zanskar",
+        "changthang"
+      ],
+      "notes": "Men: goncha (gos) robe with a wide waist belt and tibi hat for festivals; shirt and trousers daily. Women: sulma robe with greslen blouse for festivals; salwar-kameez daily. Perag headdress is a family heirloom (restricted).",
+      "names": {
+        "female": [
+          "Diskit",
+          "Padma",
+          "Stanzin",
+          "Dolma",
+          "Tsewang",
+          "Chorol",
+          "Angmo",
+          "Rigzin",
+          "Yangchen",
+          "Kunzes",
+          "Deachen",
+          "Lhamo",
+          "Dechen",
+          "Sonam",
+          "Dolkar",
+          "Tsering",
+          "Skarma",
+          "Yangdol",
+          "Spalzes",
+          "Thinles",
+          "Norzom",
+          "Rinchen",
+          "Chosdon",
+          "Dechan",
+          "Ishey",
+          "Kunzang",
+          "Phunchok"
+        ],
+        "male": [
+          "Tsering",
+          "Norboo",
+          "Stanzin",
+          "Tashi",
+          "Sonam",
+          "Rigzin",
+          "Jigmet",
+          "Phuntsog",
+          "Tundup",
+          "Wangchuk",
+          "Gyatso",
+          "Namgyal",
+          "Dorjay",
+          "Lobzang",
+          "Rinchen",
+          "Thinles",
+          "Konchok",
+          "Paljor",
+          "Skalzang",
+          "Tsetan",
+          "Jamyang",
+          "Chosphel"
+        ],
+        "second_female": [
+          "Angmo",
+          "Dolma",
+          "Lhamo"
+        ],
+        "second_male": [
+          "Norboo",
+          "Namgyal",
+          "Dorjay"
+        ]
+      }
+    },
+    {
+      "id": "kargil_muslim",
+      "name": "Muslim",
+      "culture": "Kargil (Purigpa and Balti)",
+      "religion": "muslim",
+      "prompt": "Ladakhi Muslim",
+      "sub_regions": [
+        "kargil",
+        "nubra"
+      ],
+      "notes": "Mostly Shia. Men: long open-front choga over a knee-length kameez. Women: knee-length phiren with trousers (has largely replaced the sulma in Kargil); salwar-kameez with dupatta.",
+      "names": {
+        "female": [
+          "Kaneez",
+          "Fatima",
+          "Zahra",
+          "Sakina",
+          "Masooma",
+          "Zainab",
+          "Rubina",
+          "Shirin",
+          "Kulsum",
+          "Batool",
+          "Nargis",
+          "Sughra",
+          "Kulsoom",
+          "Hajira",
+          "Razia",
+          "Shabana",
+          "Nasreen",
+          "Ruqaya",
+          "Asiya",
+          "Fiza",
+          "Khadija",
+          "Laila",
+          "Amina",
+          "Rehana",
+          "Sajida",
+          "Saira",
+          "Tahira",
+          "Noor"
+        ],
+        "male": [
+          "Sajjad",
+          "Ali",
+          "Ghulam",
+          "Baqir",
+          "Raza",
+          "Mohsin",
+          "Abbas",
+          "Haider",
+          "Kazim",
+          "Akbar",
+          "Mehdi",
+          "Hussain",
+          "Mohammad Ali",
+          "Qasim",
+          "Jaffar",
+          "Hassan",
+          "Mustafa",
+          "Asgar"
+        ],
+        "second_female": [
+          "Bano",
+          "Fatima"
+        ],
+        "second_male": [
+          "Ali",
+          "Hussain"
+        ]
+      }
+    },
+    {
+      "id": "leh_muslim",
+      "name": "Muslim",
+      "culture": "Leh",
+      "religion": "muslim",
+      "prompt": "Ladakhi Muslim",
+      "sub_regions": [
+        "leh"
+      ],
+      "notes": "Muslim families of Leh town; same dress as Kargil Muslims.",
+      "names": {
+        "female": [
+          "Kaneez",
+          "Fatima",
+          "Zahra",
+          "Sakina",
+          "Masooma",
+          "Zainab",
+          "Rubina",
+          "Shirin",
+          "Kulsum",
+          "Batool",
+          "Nargis",
+          "Sughra",
+          "Kulsoom",
+          "Hajira",
+          "Razia",
+          "Shabana",
+          "Nasreen",
+          "Ruqaya",
+          "Asiya",
+          "Fiza",
+          "Khadija",
+          "Laila",
+          "Amina",
+          "Rehana",
+          "Sajida",
+          "Saira",
+          "Tahira",
+          "Noor"
+        ],
+        "male": [
+          "Sajjad",
+          "Ali",
+          "Ghulam",
+          "Baqir",
+          "Raza",
+          "Mohsin",
+          "Abbas",
+          "Haider",
+          "Kazim",
+          "Akbar",
+          "Mehdi",
+          "Hussain",
+          "Mohammad Ali",
+          "Qasim",
+          "Jaffar",
+          "Hassan",
+          "Mustafa",
+          "Asgar"
+        ],
+        "second_female": [
+          "Bano",
+          "Fatima"
+        ],
+        "second_male": [
+          "Ali",
+          "Hussain"
+        ]
+      }
+    },
+    {
+      "id": "changpa",
+      "name": "Changpa (pastoral nomads)",
+      "culture": "Changpa",
+      "religion": "buddhist",
+      "prompt": "Changpa",
+      "sub_regions": [
+        "changthang"
+      ],
+      "notes": "Pashmina goat herders of the Changthang plateau. Winter robe (shanlag) of sheepskins with the fur turned in; women's felt yosgar capes.",
+      "names": {
+        "female": [
+          "Yangchen",
+          "Lhamo",
+          "Dolma",
+          "Kunzes",
+          "Tsering",
+          "Diskit",
+          "Padma",
+          "Chorol",
+          "Sonam",
+          "Angmo",
+          "Dolkar",
+          "Skarma",
+          "Yangdol",
+          "Thinles"
+        ],
+        "male": [
+          "Sonam",
+          "Phuntsog",
+          "Tundup",
+          "Tashi",
+          "Gyaltsen",
+          "Norboo",
+          "Stanzin",
+          "Dorjay",
+          "Tsewang",
+          "Rinchen",
+          "Namgyal",
+          "Paljor",
+          "Konchok",
+          "Jigmet"
+        ]
+      }
+    },
+    {
+      "id": "other_hindu",
+      "name": "Hindu",
+      "culture": "Residents from other states",
+      "religion": "hindu",
+      "sub_regions": [
+        "leh",
+        "kargil"
+      ],
+      "notes": "Mostly working in Leh and Kargil towns; regional dress of their home states, modern dress.",
+      "names": {
+        "female": [
+          "Sunita",
+          "Pooja",
+          "Neha",
+          "Priya",
+          "Anjali",
+          "Kavita",
+          "Rekha",
+          "Seema",
+          "Ritu",
+          "Shalini",
+          "Kiran",
+          "Meena",
+          "Sarita",
+          "Asha",
+          "Komal",
+          "Nisha",
+          "Radha",
+          "Usha",
+          "Mamta",
+          "Suman",
+          "Preeti",
+          "Archana",
+          "Vandana",
+          "Jyoti",
+          "Poonam",
+          "Sapna",
+          "Renu",
+          "Deepa",
+          "Aarti",
+          "Shweta"
+        ],
+        "male": [
+          "Rajesh",
+          "Sunil",
+          "Amit",
+          "Rahul",
+          "Manoj",
+          "Sanjay",
+          "Vijay",
+          "Ravi",
+          "Deepak",
+          "Ajay",
+          "Ashok",
+          "Rakesh",
+          "Pankaj",
+          "Rohit",
+          "Vikas",
+          "Anil",
+          "Dinesh",
+          "Suresh",
+          "Mukesh",
+          "Naresh",
+          "Ramesh",
+          "Satish",
+          "Arun",
+          "Alok",
+          "Nitin",
+          "Sachin",
+          "Gaurav",
+          "Vivek",
+          "Manish",
+          "Yogesh"
+        ],
+        "second_female": [
+          "Devi",
+          "Kumari"
+        ],
+        "second_male": [
+          "Kumar",
+          "Prasad"
+        ]
+      }
+    }
+  ],
+  "excluded_communities": [
+    {
+      "name": "Brokpa (Dah Hanu)",
+      "reason": "Long exoticised as 'the last Aryans' and through invented 'pregnancy tourism' stories; community members object to being photographed, costumed and turned into 'entertainment for outsiders'. No characters until the community's own sources and a native review.",
+      "source": "revealer_brokpa"
+    }
+  ],
+  "look_range": {
+    "skin_tone_mst": [
+      2,
+      6
+    ],
+    "hair": "Straight black hair; older Buddhist women often in plaits.",
+    "notes": "Light to light-brown, often with sun- and wind-reddened cheeks; Tibetan-type features common in Leh and Changthang, mixed Tibetan and Balti features in Kargil. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "buddhist",
+      "notes": "Tibetan-origin given names (e.g. Tsering, Stanzin, Dolma, Angmo); two given names, no caste surnames."
+    },
+    {
+      "community": "kargil_muslim",
+      "notes": "Arabic or Persian-origin names, often with Shia names (e.g. Hussain, Batool); father's name as second name."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "la_modern_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain shirt with a sweater and trousers",
+      "short": "shirt, sweater and trousers",
+      "sources": [
+        "sahapedia_contemporary"
+      ]
+    },
+    {
+      "id": "la_goncha_m",
+      "name": "Goncha (gos)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "buddhist",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "full-length woollen goncha robe overlapping on the right, buttoned at the left shoulder, with a wide waist belt",
+      "short": "woollen goncha robe with wide belt",
+      "sources": [
+        "sahapedia_dress",
+        "llt_dress"
+      ]
+    },
+    {
+      "id": "la_tibi",
+      "name": "Tibi hat",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "buddhist",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "embroidered tibi hat lined with lambskin",
+      "short": "embroidered tibi hat",
+      "sources": [
+        "sahapedia_dress",
+        "llt_dress"
+      ]
+    },
+    {
+      "id": "la_choga_m",
+      "name": "Choga over kameez",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kargil_muslim",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "long-sleeved open-front woollen choga worn over a knee-length kameez and trousers",
+      "short": "woollen choga over kameez",
+      "sources": [
+        "sahapedia_dress"
+      ]
+    },
+    {
+      "id": "la_choga_leh_m",
+      "name": "Choga over kameez (Leh)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit",
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "leh_muslim",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "long-sleeved open-front woollen choga worn over a knee-length kameez and trousers",
+      "short": "woollen choga over kameez",
+      "sources": [
+        "sahapedia_dress"
+      ]
+    },
+    {
+      "id": "la_shanlag_m",
+      "name": "Shanlag (sheepskin robe)",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "winter"
+      ],
+      "community": "changpa",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "heavy robe of stitched sheepskins with the fur turned inward",
+      "short": "sheepskin robe",
+      "sources": [
+        "sahapedia_dress",
+        "llt_dress"
+      ]
+    },
+    {
+      "id": "la_salwar_f",
+      "name": "Salwar-kameez",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "salwar-kameez with a dupatta and a warm cardigan",
+      "short": "salwar-kameez, dupatta and cardigan",
+      "sources": [
+        "sahapedia_contemporary",
+        "pari_kargil"
+      ]
+    },
+    {
+      "id": "la_modern_f",
+      "name": "Jeans and sweater",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "jeans and a knitted sweater",
+      "short": "jeans and sweater",
+      "sources": [
+        "sahapedia_contemporary"
+      ]
+    },
+    {
+      "id": "la_sulma_f",
+      "name": "Sulma with greslen",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "buddhist",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "full-length gathered sulma robe with a greslen blouse whose collar rolls over the neck, narrow waist belt",
+      "short": "sulma robe with greslen blouse",
+      "sources": [
+        "sahapedia_dress",
+        "llt_dress"
+      ]
+    },
+    {
+      "id": "la_slogpa_f",
+      "name": "Slogpa (goatskin cape)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "drape",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "buddhist",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "slogpa (lokpa) cape of goatskin or sheepskin worn on the back",
+      "short": "goatskin cape on the back",
+      "sources": [
+        "sahapedia_dress",
+        "llt_dress"
+      ]
+    },
+    {
+      "id": "la_changpa_sulma_f",
+      "name": "Changpa robe with yosgar cape",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "daily",
+        "work",
+        "festive"
+      ],
+      "season": [
+        "winter"
+      ],
+      "community": "changpa",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "long woollen robe with a felt yosgar cape lined with lambskin",
+      "short": "woollen robe and felt cape",
+      "sources": [
+        "sahapedia_dress",
+        "llt_dress"
+      ]
+    },
+    {
+      "id": "la_phiren_f",
+      "name": "Phiren",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "kargil_muslim",
+      "meaning": [
+        "community"
+      ],
+      "representative": true,
+      "prompt": "loose long-sleeved knee-length phiren over loose trousers, with a dupatta",
+      "short": "knee-length phiren and dupatta",
+      "sources": [
+        "sahapedia_dress"
+      ]
+    },
+    {
+      "id": "la_phiren_leh_f",
+      "name": "Phiren (Leh)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "ceremonial",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "leh_muslim",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "loose long-sleeved knee-length phiren over loose trousers, with a dupatta",
+      "short": "knee-length phiren and dupatta",
+      "sources": [
+        "sahapedia_dress"
+      ]
+    },
+    {
+      "id": "la_down_jacket",
+      "name": "Warm jacket",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "outer",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "winter"
+      ],
+      "prompt": "thick padded down jacket",
+      "short": "padded down jacket",
+      "sources": []
+    },
+    {
+      "id": "la_kids_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's long-sleeved kurta with full-length trousers and a sweater",
+      "short": "girl's kurta, trousers and sweater",
+      "sources": []
+    },
+    {
+      "id": "la_sulma_girl",
+      "name": "Girl's sulma",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "buddhist",
+      "meaning": [
+        "community"
+      ],
+      "prompt": "girl's ankle-length sulma robe with a long-sleeved blouse",
+      "short": "girl's sulma robe",
+      "sources": [
+        "sahapedia_dress"
+      ]
+    },
+    {
+      "id": "la_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's shirt, sweater and full-length trousers",
+      "short": "boy's shirt, sweater and trousers",
+      "sources": []
+    }
+  ],
+  "accessories": [
+    {
+      "id": "la_perag",
+      "name": "Perag (turquoise headdress)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "head",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "buddhist",
+      "meaning": [
+        "honour"
+      ],
+      "restricted": true,
+      "prompt": "turquoise-studded perag headdress",
+      "short": "turquoise perag headdress",
+      "sources": [
+        "bowers_perag",
+        "sahapedia_dress"
+      ]
+    }
+  ],
+  "best_representation": {
+    "adult_female": {
+      "daily": [
+        [
+          "la_salwar_f"
+        ],
+        [
+          "la_phiren_f"
+        ]
+      ],
+      "festive": [
+        [
+          "la_sulma_f",
+          "la_tibi"
+        ],
+        [
+          "la_phiren_f"
+        ]
+      ],
+      "reason": "Salwar-kameez daily; Buddhist women's sulma with tibi and Muslim women's phiren for festivals."
+    },
+    "adult_male": {
+      "daily": [
+        [
+          "la_modern_m"
+        ]
+      ],
+      "festive": [
+        [
+          "la_goncha_m",
+          "la_tibi"
+        ],
+        [
+          "la_choga_m"
+        ]
+      ],
+      "reason": "Shirt and trousers daily; goncha for Buddhist festivals, choga for Muslim festivals."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "la_salwar_f"
+        ]
+      ],
+      "festive": [
+        [
+          "la_sulma_f"
+        ]
+      ],
+      "reason": "Older women wear the sulma more often."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "la_modern_m"
+        ]
+      ],
+      "festive": [
+        [
+          "la_goncha_m"
+        ],
+        [
+          "la_choga_m"
+        ]
+      ],
+      "reason": "As adult men."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "la_kids_g"
+        ]
+      ],
+      "festive": [
+        [
+          "la_sulma_girl"
+        ]
+      ],
+      "reason": "Small sulma for Losar."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "la_kids_b"
+        ]
+      ],
+      "reason": "Modern clothes."
+    }
+  },
+  "grooming": [
+    {
+      "for": [
+        "old_female"
+      ],
+      "community": "buddhist",
+      "notes": "Many older Buddhist women wear their hair in long plaits.",
+      "prompt": "hair in long plaits"
+    }
+  ],
+  "occasions": [
+    {
+      "id": "losar",
+      "name": "Losar",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "buddhist",
+        "changpa"
+      ],
+      "when": "December (around the winter solstice)",
+      "scene": "Losar evening, butter lamps and lights on the flat roof of a whitewashed Ladakhi house, snowy mountains behind",
+      "scene_short": "Losar lamps on a flat Ladakhi roof"
+    },
+    {
+      "id": "hemis",
+      "name": "Hemis Tsechu",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "buddhist",
+        "changpa"
+      ],
+      "when": "June-July",
+      "sub_regions": [
+        "leh"
+      ],
+      "scene": "Hemis Tsechu, families watching from the crowded courtyard of Hemis monastery",
+      "scene_short": "crowd in Hemis monastery courtyard"
+    },
+    {
+      "id": "dosmoche",
+      "name": "Dosmoche",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "buddhist"
+      ],
+      "when": "February",
+      "sub_regions": [
+        "leh",
+        "nubra"
+      ],
+      "scene": "Dosmoche festival crowds in Leh old town in winter",
+      "scene_short": "Dosmoche crowds in winter Leh"
+    },
+    {
+      "id": "ladakh_festival",
+      "name": "Ladakh Festival",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "September",
+      "sub_regions": [
+        "leh"
+      ],
+      "scene": "Ladakh Festival in Leh, archery and cultural processions on a sunny street",
+      "scene_short": "Ladakh Festival in Leh"
+    },
+    {
+      "id": "eid_la",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "kargil_muslim",
+        "leh_muslim"
+      ],
+      "when": "varies (lunar calendar)",
+      "scene": "Eid morning in Kargil, families greeting each other in a lane below bare brown mountains",
+      "scene_short": "Eid morning in Kargil"
+    },
+    {
+      "id": "mamani",
+      "name": "Mamani food festival",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "kargil_muslim"
+      ],
+      "when": "winter",
+      "sub_regions": [
+        "kargil"
+      ],
+      "scene": "Mamani food festival in Chiktan, families sharing traditional dishes",
+      "scene_short": "Mamani food festival, Chiktan"
+    },
+    {
+      "id": "wedding_guest_la",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "mostly winter",
+      "scene": "wedding guests gathered in a village courtyard, poplar trees and mountains behind",
+      "scene_short": "wedding guests in a village courtyard"
+    }
+  ],
+  "settings": [
+    {
+      "id": "leh_bazaar",
+      "type": "urban",
+      "description": "Leh main bazaar with shops and the old palace on the hill behind",
+      "short": "Leh main bazaar",
+      "sub_regions": [
+        "leh"
+      ]
+    },
+    {
+      "id": "kargil_market",
+      "type": "urban",
+      "description": "Kargil town market by the river, mountains around",
+      "short": "Kargil town market",
+      "sub_regions": [
+        "kargil"
+      ]
+    },
+    {
+      "id": "barley_village",
+      "type": "rural",
+      "description": "village of whitewashed flat-roofed houses among barley fields and poplar trees",
+      "short": "barley fields and poplars",
+      "sub_regions": [
+        "leh",
+        "nubra",
+        "zanskar"
+      ]
+    },
+    {
+      "id": "apricot_village",
+      "type": "rural",
+      "description": "Suru valley village with apricot orchards and stone walls",
+      "short": "apricot orchards, Suru valley",
+      "sub_regions": [
+        "kargil"
+      ]
+    },
+    {
+      "id": "changthang_plateau",
+      "type": "rural",
+      "description": "high open plateau with grazing pashmina goats and nomad tents",
+      "short": "Changthang plateau with goats",
+      "sub_regions": [
+        "changthang"
+      ],
+      "communities": [
+        "changpa"
+      ]
+    },
+    {
+      "id": "cold_desert",
+      "type": "nature",
+      "description": "wide cold desert valley under a deep blue sky",
+      "short": "cold desert valley"
+    },
+    {
+      "id": "home_ladakhi",
+      "type": "home",
+      "description": "traditional Ladakhi kitchen with polished copper pots and a wood stove",
+      "short": "Ladakhi kitchen, copper pots"
+    },
+    {
+      "id": "office_leh",
+      "type": "work",
+      "description": "office in Leh",
+      "short": "Leh office",
+      "sub_regions": [
+        "leh"
+      ]
+    }
+  ],
+  "occupations": [
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in barley fields"
+    },
+    {
+      "id": "pashmina_herder",
+      "name": "Pashmina herder",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "herding pashmina goats on the plateau"
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male"
+      ],
+      "scene": "in a small shop selling scarves and woollens"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "tour_guide",
+      "name": "Tour guide",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "guiding visitors on a mountain trail"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in an office"
+    }
+  ],
+  "seasons": {
+    "winter": "Very cold (often below -20 °C), October-March; heavy woollens, down jackets.",
+    "summer": "Short, sunny and dry (June-September); strong sun at high altitude."
+  },
+  "heritage": [
+    {
+      "id": "monastic",
+      "name": "Monastic robes",
+      "kind": "religious_order",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Monks' and nuns' robes belong to ordained life; characters are lay people.",
+      "sources": []
+    },
+    {
+      "id": "cham",
+      "name": "Cham masked dances",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Sacred dances performed by monks; characters appear only as spectators in festival crowds.",
+      "sources": [
+        "leh_festivals",
+        "voice_festivals"
+      ]
+    },
+    {
+      "id": "perag",
+      "name": "Perag headdress",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "la_perag"
+      ],
+      "reason": "Family heirloom passed from mother to daughter; the number of turquoise rows once marked rank. Kept as a restricted item, never auto-selected.",
+      "sources": [
+        "bowers_perag"
+      ]
+    },
+    {
+      "id": "namgyal_court",
+      "name": "Namgyal royal court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Historical court dress waits for the era phase.",
+      "sources": []
+    },
+    {
+      "id": "muharram",
+      "name": "Muharram mourning processions",
+      "kind": "sacred_ritual",
+      "status": "living",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Mourning ritual; not used as a scene.",
+      "sources": []
+    },
+    {
+      "id": "fur_trims",
+      "name": "Otter and snow leopard fur trims",
+      "kind": "other",
+      "status": "historical",
+      "decision": "not_depicted",
+      "items": [],
+      "reason": "Once a status mark; these animals are protected. Not shown.",
+      "sources": [
+        "sahapedia_dress"
+      ]
+    }
+  ],
+  "avoid": [
+    "Brokpa 'last Aryan' or 'pregnancy tourism' framing.",
+    "'Shangri-La' or 'little Tibet' tourist cliches; monks as decoration.",
+    "Army, border conflict or political protest imagery.",
+    "Buddhist-Muslim tension framing.",
+    "Labels for hereditary musician and craft groups; no caste-like terms.",
+    "Perag headdress or fur trims on characters."
+  ],
+  "todo": [
+    "Kargil Muslim women's festive dress details and headwear, with sources.",
+    "Zanskar and Nubra specifics.",
+    "Brokpa: only with the community's own sources and a native review.",
+    "Native review (someone from Leh and someone from Kargil)."
+  ],
+  "sources": [
+    {
+      "id": "census2011_ladakh",
+      "title": "Ladakh religion shares computed from Leh and Kargil district data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/district/621-leh-ladakh.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "census_leh",
+      "title": "Leh district religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/district/621-leh-ladakh.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "census_kargil",
+      "title": "Kargil district religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/district/622-kargil.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "sahapedia_dress",
+      "title": "Ladakhi dress and costume (Sahapedia)",
+      "url": "https://www.sahapedia.org/ladakhi-dress-and-costume",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "sahapedia_contemporary",
+      "title": "Dress and identity in contemporary Ladakh (Sahapedia)",
+      "url": "https://www.sahapedia.org/dress-and-identity-contemporary-ladakh",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "bowers_perag",
+      "title": "Snakes and stones: perak headdresses from Ladakh (Bowers Museum)",
+      "url": "https://bowers.org/index.php/collection/collections-blog/snakes-and-stones-perak-headdresses-from-ladakh",
+      "type": "museum",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "leh_festivals",
+      "title": "Festivals (District Leh, Government of Ladakh)",
+      "url": "https://leh.nic.in/tourism/festivals/",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "voice_festivals",
+      "title": "Diversity and cultural fests of Ladakh (Voice of Ladakh)",
+      "url": "https://voiceofladakh.in/2024/05/diversity-and-cultural-fests-of-ladakh/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "utkarsh_mamani",
+      "title": "Mamani festival organised by Tourism Department Kargil (Utkarsh)",
+      "url": "https://utkarsh.com/current-affairs/state/festival/mamani-festival-of-ladakh-organised-by-tourism-department-kargil",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pari_kargil",
+      "title": "The Commander Heights of Kargil's economy (PARI)",
+      "url": "https://ruralindiaonline.org/articles/the-commander-heights-of-kargils-economy",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "revealer_brokpa",
+      "title": "The myth of 'pregnancy tourism' to Ladakh (The Revealer)",
+      "url": "https://therevealer.org/the-myth-of-pregnancy-tourism-to-ladakh-india/",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_ladakh",
+      "title": "Ladakh (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ladakh",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "llt_dress",
+      "title": "Traditional dresses and jewellery of Ladakh (Leh Ladakh Taxis)",
+      "url": "https://www.lehladakhtaxis.com/practical-info/traditional-dresses-and-jewellery-of-ladakh",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "outlook_losar_ladakh",
+      "title": "Losar, Ladakh (Outlook Traveller)",
+      "url": "https://www.outlookindia.com/traveller/ot-getaway-guides/lhosar/",
+      "type": "indian_press",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review (Leh and Kargil) still welcome."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Wikipedia's Ladakh page (Muslim 46%, Buddhist 40%, Hindu 12%): agree.",
+      "Confirmed: goncha robe with a colourful sash, sulma flaring into small pleats, tibi hats, the skin cape worn on the back, and the Changpa sheepskin robe with the fur inside (Leh Ladakh Taxis guide, besides Sahapedia); Ladakhi Losar in December (Outlook Traveller).",
+      "Conflict: Sahapedia describes the women's cape as goatskin, the second source as sheepskin; the prompt now says 'goatskin or sheepskin'."
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0012",
+  "name": "Annapurna",
+  "region": "odisha",
+  "sub_region": "southern",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "od_salwar_f",
+    "od_modern_f",
+    "od_cotton_saree_f",
+    "od_bomkai_f",
+    "od_sindoor",
+    "od_sakha_pola"
+  ],
+  "language": [
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

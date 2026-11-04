@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "LA-OM-0001",
+  "name": "Sonam Phuntsog",
+  "region": "ladakh",
+  "sub_region": "changthang",
+  "community": "changpa",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 68,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pashmina_herder",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean sun-darkened face with deep lines, Tibetan-type features",
+    "eyes": "narrow dark eyes",
+    "hair": "short grey hair",
+    "build": "wiry",
+    "signature_mark": "scar across his left eyebrow"
+  },
+  "wardrobe": [
+    "la_modern_m",
+    "la_shanlag_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Changskat",
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0006",
+  "name": "Pooja",
+  "region": "uttar-pradesh",
+  "sub_region": "bundelkhand",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "strong",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "up_salwar_f",
+    "up_lehenga_f",
+    "up_chikan_suit_f",
+    "up_glass_bangles",
+    "up_sindoor",
+    "up_bichiya"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi",
+    "basic English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

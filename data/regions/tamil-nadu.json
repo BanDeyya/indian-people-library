@@ -1,0 +1,1369 @@
+{
+  "schema_version": 2,
+  "slug": "tamil-nadu",
+  "code": "TN",
+  "name": "Tamil Nadu",
+  "type": "state",
+  "zone": "south",
+  "capital": "Chennai",
+  "status": "reviewed",
+  "languages": [
+    "Tamil",
+    "English",
+    "Telugu (some)",
+    "Kannada (border areas)",
+    "Urdu (some)"
+  ],
+  "religion_mix": {
+    "source": "census2011",
+    "shares": {
+      "hindu": 87.58,
+      "christian": 6.12,
+      "muslim": 5.86,
+      "other": 0.44
+    },
+    "checked_against": [
+      "pew_2011_states"
+    ]
+  },
+  "sub_regions": [
+    {
+      "id": "tondai_nadu",
+      "name": "Tondai Nadu (north)",
+      "notes": "Northern region around Chennai and Kanchipuram."
+    },
+    {
+      "id": "chola_nadu",
+      "name": "Chola Nadu (Kaveri delta)",
+      "notes": "Fertile Kaveri delta (Thanjavur, Tiruvarur, Nagapattinam); paddy country."
+    },
+    {
+      "id": "pandya_nadu",
+      "name": "Pandya Nadu (south)",
+      "notes": "Southern districts around Madurai, Tirunelveli and Thoothukudi."
+    },
+    {
+      "id": "kongu_nadu",
+      "name": "Kongu Nadu (west)",
+      "notes": "Western region around Coimbatore, Tiruppur and Erode; textile and farming belt."
+    },
+    {
+      "id": "nilgiris",
+      "name": "Nilgiris (hills)",
+      "notes": "Hill district of the Western Ghats; tea estates; home of several tribal communities."
+    }
+  ],
+  "communities": [
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "culture": "Tamil",
+      "religion": "hindu",
+      "notes": "Veshti and angavastram; Kanjeevaram silk for weddings and festivals, cotton sarees daily. Married women wear the thali and metti.",
+      "names": {
+        "female": [
+          "Kavitha",
+          "Saraswathi",
+          "Divya",
+          "Lakshmi",
+          "Meenakshi",
+          "Selvi",
+          "Kamakshi",
+          "Nila",
+          "Kavya",
+          "Revathi",
+          "Priya",
+          "Malathi",
+          "Vasuki",
+          "Thenmozhi",
+          "Sangeetha",
+          "Anitha",
+          "Gomathi",
+          "Jayanthi",
+          "Valli",
+          "Bhuvana",
+          "Sumathi",
+          "Kalaivani",
+          "Muthulakshmi",
+          "Shanthi",
+          "Indira",
+          "Deepa",
+          "Pavithra",
+          "Sudha",
+          "Yamuna",
+          "Ponni",
+          "Malar",
+          "Kalpana"
+        ],
+        "male": [
+          "Karthik",
+          "Arun",
+          "Ramasamy",
+          "Senthil",
+          "Murugan",
+          "Rajendran",
+          "Saravanan",
+          "Vignesh",
+          "Prakash",
+          "Selvam",
+          "Balaji",
+          "Dinesh",
+          "Ganesan",
+          "Anand",
+          "Kumaravel",
+          "Vel",
+          "Velu",
+          "Muthu",
+          "Kumaran",
+          "Manikandan",
+          "Sivakumar"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "culture": "Tamil (incl. Rowther, Marakkayar, Labbai)",
+      "religion": "muslim",
+      "notes": "Tamil-speaking; about 90% of the state's Muslims. Traditionally women wore a white thuppatti over the saree, showing the face; most now wear a black abaya with a headscarf. Concentrated in the delta, the south and the coast.",
+      "names": {
+        "female": [
+          "Ayesha",
+          "Fathima",
+          "Rahmath",
+          "Safiya",
+          "Jasmine",
+          "Mumtaz",
+          "Sabeena",
+          "Nasreen",
+          "Haseena",
+          "Farzana",
+          "Ameena",
+          "Shahida",
+          "Rasheeda",
+          "Nilofer",
+          "Banu",
+          "Rahima",
+          "Jameela",
+          "Thasleem",
+          "Asma",
+          "Salma",
+          "Fareeda",
+          "Kathija",
+          "Nazeema",
+          "Raziya",
+          "Shameem",
+          "Mehar",
+          "Nisha",
+          "Sulthana"
+        ],
+        "male": [
+          "Mohamed Ali",
+          "Abdul Kader",
+          "Jamal",
+          "Rahman",
+          "Basheer",
+          "Ismail",
+          "Sadiq",
+          "Yusuf",
+          "Anwar",
+          "Hakeem",
+          "Shahul",
+          "Syed",
+          "Ibrahim",
+          "Hameed",
+          "Rafiq",
+          "Jaffar",
+          "Kasim",
+          "Nazeer"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "culture": "Tamil",
+      "religion": "christian",
+      "notes": "About 6%; highest in Kanyakumari (about 47%), Thoothukudi and Tirunelveli. Catholic and Church of South India. Velankanni and Santhome are major shrines. Dress is regional Tamil dress.",
+      "names": {
+        "female": [
+          "Mary",
+          "Jenifer",
+          "Sahaya Rani",
+          "Anitha",
+          "Arockia Mary",
+          "Jeba",
+          "Christina",
+          "Shanthi",
+          "Esther",
+          "Rosy",
+          "Lourdu Mary",
+          "Grace",
+          "Jasmine",
+          "Sophia",
+          "Pushpa Mary",
+          "Stella",
+          "Agnes",
+          "Rani",
+          "Jacintha",
+          "Mercy",
+          "Sharmila",
+          "Vasanthi",
+          "Leema",
+          "Josephine",
+          "Selvi",
+          "Victoria",
+          "Anbu Selvi",
+          "Ruby"
+        ],
+        "male": [
+          "Antony",
+          "Joseph",
+          "Arul",
+          "Jeyakumar",
+          "Selvaraj",
+          "Paul",
+          "Xavier",
+          "Arockia Raj",
+          "Stephen",
+          "John",
+          "Prabhu",
+          "Siluvai",
+          "Peter",
+          "Michael",
+          "Arokiaraj",
+          "Sahayaraj",
+          "Daniel",
+          "Jesudas",
+          "Ignatius"
+        ],
+        "second_father": true
+      }
+    },
+    {
+      "id": "nilgiri_tribal",
+      "name": "Nilgiri tribal communities (Toda, Kota, Kurumba, Irula, Paniya, Kattunayakan)",
+      "culture": "Nilgiri tribal",
+      "notes": "All six are Particularly Vulnerable Tribal Groups. No characters until priority-1/2 sources and extra review are done (see todo)."
+    }
+  ],
+  "excluded_communities": [],
+  "look_range": {
+    "skin_tone_mst": [
+      4,
+      9
+    ],
+    "hair": "Mostly black, often long and oiled in a single plait for women; jasmine strings in the hair are common.",
+    "notes": "Wheatish to deep brown. Spread characters across the whole range; do not default to either end. Starting range, tune after test renders."
+  },
+  "naming": [
+    {
+      "community": "hindu",
+      "notes": "Father's name or initial first, then given name (e.g. 'R. Kavitha' or 'Kavitha Raman'). Caste surnames have largely been dropped in Tamil Nadu; never add them."
+    },
+    {
+      "community": "muslim",
+      "notes": "Arabic-origin given names; father's name or initial."
+    },
+    {
+      "community": "christian",
+      "notes": "Biblical given names, often with a Tamil second name; father's name or initial."
+    }
+  ],
+  "wardrobe": [
+    {
+      "id": "tn_veshti_sattai_m",
+      "name": "Veshti and sattai",
+      "for": [
+        "adult_male",
+        "old_male",
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "plain white cotton veshti wrapped at the waist with a simple half-sleeve sattai shirt",
+      "short": "white cotton veshti and simple shirt",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "tn_silk_veshti_m",
+      "name": "Silk veshti with angavastram",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "cream silk veshti with a gold karai border, white shirt and a matching angavastram over the shoulder",
+      "short": "silk veshti with gold border and angavastram",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "tn_shirt_trousers_m",
+      "name": "Shirt and trousers",
+      "for": [
+        "adult_male"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "formal cotton shirt and trousers, everyday office wear",
+      "short": "formal shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "tn_lungi_m",
+      "name": "Lungi at home",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "checked cotton lungi with a vest or plain t-shirt, relaxed house wear",
+      "short": "checked lungi and plain t-shirt",
+      "sources": []
+    },
+    {
+      "id": "tn_kanjeevaram_f",
+      "name": "Kanjeevaram silk saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "ceremonial",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "rich Kanjeevaram silk saree with a wide contrast gold zari border, worn with a matching blouse",
+      "short": "Kanjeevaram silk saree with gold border",
+      "sources": [
+        "aza_tn",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "tn_chettinad_f",
+      "name": "Chettinad cotton saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "thick Chettinad cotton saree with bold checks and a contrast border, worn with a cotton blouse",
+      "short": "checked Chettinad cotton saree",
+      "sources": [
+        "aza_tn",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "tn_sungudi_f",
+      "name": "Madurai Sungudi saree",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "light cotton Madurai Sungudi saree with tie-and-dye dot patterns",
+      "short": "Sungudi cotton saree with dot patterns",
+      "sources": [
+        "aza_tn",
+        "wiki_gi_list"
+      ]
+    },
+    {
+      "id": "tn_churidar_f",
+      "name": "Churidar with dupatta",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "urban",
+      "occasion": [
+        "daily",
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "cotton churidar kurta with a matching dupatta, everyday wear",
+      "short": "cotton churidar with dupatta",
+      "sources": []
+    },
+    {
+      "id": "tn_half_saree_f",
+      "name": "Half-saree (pavadai-davani)",
+      "for": [
+        "adult_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "silk half-saree: long pavadai skirt, matching blouse and a contrast davani draped across the upper body",
+      "short": "silk half-saree with davani",
+      "sources": [
+        "aza_tn",
+        "wiki_clothing_india"
+      ]
+    },
+    {
+      "id": "tn_thuppatti_f",
+      "name": "Saree with white thuppatti",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "religious_visit",
+        "festive"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "community",
+        "religious"
+      ],
+      "prompt": "cotton saree with a white thuppatti draped over the head and body, face uncovered",
+      "short": "saree with white thuppatti over the head",
+      "sources": [
+        "wiki_tamil_muslim"
+      ]
+    },
+    {
+      "id": "tn_abaya_f",
+      "name": "Abaya with headscarf",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "community": "muslim",
+      "meaning": [
+        "religious"
+      ],
+      "representative": true,
+      "prompt": "plain black abaya with a matching headscarf covering the hair",
+      "short": "black abaya and headscarf",
+      "sources": [
+        "wiki_tamil_muslim"
+      ]
+    },
+    {
+      "id": "tn_pavadai_g",
+      "name": "Pavadai set",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "representative": true,
+      "prompt": "girl's bright silk pavadai, an ankle-length skirt with a matching blouse",
+      "short": "girl's silk pavadai set",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "tn_school_g",
+      "name": "Girl's everyday clothes",
+      "for": [
+        "child_girl"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "girl's simple cotton salwar suit, ordinary everyday clothes",
+      "short": "girl's cotton salwar suit",
+      "sources": []
+    },
+    {
+      "id": "tn_kids_b",
+      "name": "Boy's everyday clothes",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's cotton shirt and full-length trousers, ordinary everyday clothes",
+      "short": "cotton shirt and trousers",
+      "sources": []
+    },
+    {
+      "id": "tn_fisher_m",
+      "name": "Fisherman's work wear",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "slot": "full",
+      "setting": "rural",
+      "occasion": [
+        "work"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "folded checked lungi and a towel tied around the head, fisherman at work",
+      "short": "folded lungi, towel tied on head",
+      "sources": []
+    },
+    {
+      "id": "tn_kids_b_fest",
+      "name": "Boy's festive veshti",
+      "for": [
+        "child_boy"
+      ],
+      "slot": "full",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "religious_visit"
+      ],
+      "season": [
+        "any"
+      ],
+      "prompt": "boy's silk shirt with a small cream veshti with a gold border",
+      "short": "boy's silk shirt and veshti",
+      "sources": [
+        "aza_tn"
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "id": "tn_thali",
+      "name": "Thali (marriage pendant)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital",
+        "religious"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "gold thali pendant on a yellow thread around the neck",
+      "short": "gold thali on yellow thread",
+      "sources": [
+        "weddingsutra_tamil",
+        "bluestone_mangalsutra"
+      ]
+    },
+    {
+      "id": "tn_metti",
+      "name": "Metti (toe rings)",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "work",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "community": "hindu",
+      "meaning": [
+        "marital"
+      ],
+      "requires": {
+        "marital_status": "married"
+      },
+      "prompt": "silver metti toe rings",
+      "short": "silver metti toe rings",
+      "sources": [
+        "weddingsutra_tamil",
+        "wiki_mangalsutra"
+      ]
+    },
+    {
+      "id": "tn_jasmine",
+      "name": "Jasmine string in the hair",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "prompt": "string of white jasmine flowers in the plait",
+      "short": "jasmine string in the plait",
+      "sources": []
+    },
+    {
+      "id": "tn_jhumka",
+      "name": "Gold jimikki earrings",
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "festive",
+        "wedding_guest",
+        "religious_visit"
+      ],
+      "prompt": "gold jimikki bell earrings",
+      "short": "gold jimikki earrings",
+      "sources": []
+    },
+    {
+      "id": "tn_studs",
+      "name": "Small gold studs",
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "slot": "jewellery",
+      "setting": "both",
+      "occasion": [
+        "daily",
+        "school",
+        "festive"
+      ],
+      "prompt": "small plain gold stud earrings",
+      "short": "small gold studs",
+      "sources": []
+    },
+    {
+      "id": "tn_puthkuli",
+      "name": "Toda puthkuli shawl",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_male",
+        "old_female"
+      ],
+      "slot": "accessory",
+      "setting": "both",
+      "occasion": [
+        "ceremonial"
+      ],
+      "community": "nilgiri_tribal",
+      "meaning": [
+        "community"
+      ],
+      "restricted": true,
+      "prompt": "white shawl with red and black Toda embroidery",
+      "short": "Toda embroidered shawl",
+      "sources": [
+        "sahapedia_toda",
+        "pari_toda",
+        "wiki_gi_list"
+      ]
+    }
+  ],
+  "best_representation": {
+    "adult_male": {
+      "daily": [
+        [
+          "tn_veshti_sattai_m"
+        ],
+        [
+          "tn_shirt_trousers_m"
+        ]
+      ],
+      "festive": [
+        [
+          "tn_silk_veshti_m"
+        ]
+      ],
+      "reason": "The veshti is everyday and ceremonial wear across Tamil Nadu; silk with a gold karai border marks weddings and festivals."
+    },
+    "adult_female": {
+      "daily": [
+        [
+          "tn_chettinad_f",
+          "tn_jasmine"
+        ],
+        [
+          "tn_abaya_f"
+        ]
+      ],
+      "festive": [
+        [
+          "tn_kanjeevaram_f",
+          "tn_jhumka",
+          "tn_jasmine"
+        ]
+      ],
+      "reason": "Cotton sarees are everyday wear (abaya with headscarf for many Muslim women); Kanjeevaram silk is the signature festive and wedding saree."
+    },
+    "old_male": {
+      "daily": [
+        [
+          "tn_veshti_sattai_m"
+        ]
+      ],
+      "festive": [
+        [
+          "tn_silk_veshti_m"
+        ]
+      ],
+      "reason": "Same as adult men; older men wear the veshti daily more often."
+    },
+    "old_female": {
+      "daily": [
+        [
+          "tn_chettinad_f"
+        ],
+        [
+          "tn_thuppatti_f"
+        ]
+      ],
+      "festive": [
+        [
+          "tn_kanjeevaram_f",
+          "tn_jhumka"
+        ]
+      ],
+      "reason": "Cotton saree for daily wear, the white thuppatti for many older Muslim women, Kanjeevaram for festivals."
+    },
+    "child_girl": {
+      "daily": [
+        [
+          "tn_school_g",
+          "tn_studs"
+        ]
+      ],
+      "festive": [
+        [
+          "tn_pavadai_g",
+          "tn_studs"
+        ]
+      ],
+      "reason": "Pavadai set for festivals."
+    },
+    "child_boy": {
+      "daily": [
+        [
+          "tn_kids_b"
+        ]
+      ],
+      "festive": [
+        [
+          "tn_veshti_sattai_m"
+        ]
+      ],
+      "reason": "Boys wear a small veshti and shirt at festivals."
+    }
+  },
+  "grooming": [
+    {
+      "for": [
+        "adult_female",
+        "old_female",
+        "child_girl"
+      ],
+      "notes": "Long oiled hair in a single plait, often with a jasmine string.",
+      "prompt": "long plait with jasmine"
+    },
+    {
+      "for": [
+        "adult_female",
+        "old_female"
+      ],
+      "community": "hindu",
+      "notes": "Many married Hindu women wear kungumam (red powder) on the forehead; to source before use in prompts."
+    }
+  ],
+  "occasions": [
+    {
+      "id": "pongal",
+      "name": "Thai Pongal",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "January (Thai month)",
+      "scene": "Pongal morning outside a village house, rice boiling over in a clay pot, sugarcane and a kolam on the ground",
+      "scene_short": "Pongal pot boiling over, kolam and sugarcane"
+    },
+    {
+      "id": "mattu_pongal",
+      "name": "Mattu Pongal",
+      "type": "festival",
+      "occasion": "festive",
+      "when": "January",
+      "scene": "Mattu Pongal in a village, decorated cattle with painted horns",
+      "scene_short": "Mattu Pongal decorated cattle"
+    },
+    {
+      "id": "chithirai",
+      "name": "Chithirai festival",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "hindu"
+      ],
+      "when": "April-May",
+      "scene": "Chithirai festival crowds in a Madurai temple street",
+      "scene_short": "Chithirai festival crowd in Madurai",
+      "sub_regions": [
+        "pandya_nadu"
+      ]
+    },
+    {
+      "id": "deepavali_tn",
+      "name": "Deepavali",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "hindu"
+      ],
+      "when": "October-November",
+      "scene": "Deepavali morning at home, family in new clothes, oil lamps at the doorway",
+      "scene_short": "Deepavali morning with oil lamps"
+    },
+    {
+      "id": "velankanni",
+      "name": "Velankanni festival",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "christian"
+      ],
+      "when": "around 8 September",
+      "scene": "pilgrims outside the white basilica at Velankanni during the annual festival",
+      "scene_short": "pilgrims at the Velankanni basilica"
+    },
+    {
+      "id": "christmas_tn",
+      "name": "Christmas",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "christian"
+      ],
+      "when": "December",
+      "scene": "Christmas evening outside a church in a Tamil Nadu town, star lanterns",
+      "scene_short": "church with star lanterns"
+    },
+    {
+      "id": "ramadan_tn",
+      "name": "Ramadan iftar",
+      "type": "festival",
+      "occasion": "religious_visit",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (Islamic calendar)",
+      "scene": "iftar at dusk outside a masjid, nonbu kanji served to people of the neighbourhood",
+      "scene_short": "iftar nonbu kanji outside a masjid"
+    },
+    {
+      "id": "eid_tn",
+      "name": "Eid",
+      "type": "festival",
+      "occasion": "festive",
+      "communities": [
+        "muslim"
+      ],
+      "when": "varies (Islamic calendar)",
+      "scene": "Eid morning, family in new clothes greeting relatives outside home",
+      "scene_short": "Eid morning family greeting"
+    },
+    {
+      "id": "wedding_guest_tn",
+      "name": "Wedding (as a guest)",
+      "type": "life_event",
+      "occasion": "wedding_guest",
+      "when": "any",
+      "scene": "guests at a Tamil wedding hall decorated with banana trees and flowers",
+      "scene_short": "guests at a Tamil wedding hall"
+    }
+  ],
+  "settings": [
+    {
+      "id": "delta_fields",
+      "type": "rural",
+      "description": "green paddy fields of the Kaveri delta with coconut palms",
+      "short": "Kaveri delta paddy fields",
+      "sub_regions": [
+        "chola_nadu"
+      ]
+    },
+    {
+      "id": "kongu_farm",
+      "type": "rural",
+      "description": "coconut grove and farmland in western Tamil Nadu",
+      "short": "coconut grove farmland",
+      "sub_regions": [
+        "kongu_nadu"
+      ]
+    },
+    {
+      "id": "village_street",
+      "type": "home",
+      "description": "village street with tiled houses and a kolam drawn at each doorstep",
+      "short": "village street with kolams"
+    },
+    {
+      "id": "chennai_street",
+      "type": "urban",
+      "description": "busy Chennai street with shops, buses and auto-rickshaws",
+      "short": "busy Chennai street",
+      "sub_regions": [
+        "tondai_nadu"
+      ]
+    },
+    {
+      "id": "madurai_market",
+      "type": "urban",
+      "description": "crowded market street in Madurai old town",
+      "short": "Madurai market street",
+      "sub_regions": [
+        "pandya_nadu"
+      ]
+    },
+    {
+      "id": "chettinad_house",
+      "type": "home",
+      "description": "courtyard of a large old Chettinad mansion with carved wooden pillars",
+      "short": "Chettinad mansion courtyard",
+      "sub_regions": [
+        "pandya_nadu"
+      ]
+    },
+    {
+      "id": "nilgiri_tea",
+      "type": "nature",
+      "description": "misty Nilgiri tea estate slopes",
+      "short": "misty Nilgiri tea slopes",
+      "sub_regions": [
+        "nilgiris"
+      ]
+    },
+    {
+      "id": "fishing_coast",
+      "type": "work",
+      "description": "Tamil Nadu beach at dawn with wooden fishing boats and nets",
+      "short": "beach with fishing boats"
+    },
+    {
+      "id": "office_tn",
+      "type": "work",
+      "description": "modern office in Chennai",
+      "short": "modern Chennai office"
+    },
+    {
+      "id": "temple_gopuram",
+      "type": "religious",
+      "description": "outside a tall carved temple gopuram",
+      "short": "temple gopuram"
+    },
+    {
+      "id": "church_tn",
+      "type": "religious",
+      "description": "outside a white church in a Tamil Nadu town",
+      "short": "white church"
+    },
+    {
+      "id": "masjid_tn",
+      "type": "religious",
+      "description": "outside a masjid in a Tamil Nadu town",
+      "short": "town masjid"
+    }
+  ],
+  "occupations": [
+    {
+      "id": "paddy_farmer",
+      "name": "Paddy farmer",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "working in delta paddy fields"
+    },
+    {
+      "id": "weaver",
+      "name": "Handloom weaver",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "adult_female",
+        "old_female"
+      ],
+      "scene": "at a silk handloom"
+    },
+    {
+      "id": "fisherman",
+      "name": "Fisherman",
+      "setting": "rural",
+      "for": [
+        "adult_male",
+        "old_male"
+      ],
+      "outfit": [
+        "tn_fisher_m"
+      ],
+      "scene": "pulling nets on a beach"
+    },
+    {
+      "id": "textile_worker",
+      "name": "Textile worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a garment unit"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "setting": "both",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "in a school classroom"
+    },
+    {
+      "id": "office_worker",
+      "name": "Office worker",
+      "setting": "urban",
+      "for": [
+        "adult_male",
+        "adult_female"
+      ],
+      "scene": "at a desk in a modern office"
+    }
+  ],
+  "seasons": {
+    "summer": "March-May: intense heat, light cotton clothing, umbrellas for shade.",
+    "monsoon": "Northeast monsoon October-December brings most of the rain; cyclones possible in October-November."
+  },
+  "avoid": [
+    "Mixing up Tamil and Kerala dress: Kanjeevaram silk and Chettinad cotton are Tamil; the off-white gold-bordered kasavu is Kerala.",
+    "Madisar or other drapes tied to a particular caste on generic characters; dress is never a caste marker.",
+    "Caste surnames or caste labels.",
+    "Using Toda embroidery as decoration: the community objects to copied designs and it is a GI-protected handcraft (puthkuli is restricted).",
+    "Taking a side in the Badaga Scheduled Tribe status dispute; do not label characters' indigeneity.",
+    "Temple-and-bharatanatyam cliches in every image; most daily life is offices, farms, markets and homes.",
+    "Skin tone pushed to one end of the range."
+  ],
+  "todo": [
+    "Nilgiri tribal communities: dress and customs with priority-1/2 sources and extra review before any character.",
+    "Kungumam/bindi usage and Christian married women's symbols, with sources.",
+    "Muslim men's everyday and festive dress with a source.",
+    "Sources for churidar, lungi, children's everyday wear and jasmine strings.",
+    "Check the skin tone range against test renders.",
+    "Native review (someone from Tamil Nadu)."
+  ],
+  "sources": [
+    {
+      "id": "census2011",
+      "title": "Tamil Nadu religion data, Census 2011 (census2011.co.in)",
+      "url": "https://www.census2011.co.in/data/religion/state/33-tamil-nadu.html",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "aza_tn",
+      "title": "Tamil Nadu traditional clothing and textiles (Aza Fashions)",
+      "url": "https://www.azafashions.com/blog/tamil-nadu-traditional-clothing-textiles-style/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_tamil_muslim",
+      "title": "Tamil Muslim (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Tamil_Muslim",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_christianity_tn",
+      "title": "Christianity in Tamil Nadu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Christianity_in_Tamil_Nadu",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "weddingsutra_tamil",
+      "title": "A traditional jewellery guide for the Tamil bride (WeddingSutra)",
+      "url": "https://weddingsutra.com/bride/bridal-fashion/a-traditional-jewellery-guide-for-the-tamil-bride/",
+      "type": "commercial",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "madurai_gov_festivals",
+      "title": "Festivals and events (Madurai district, Government of Tamil Nadu)",
+      "url": "https://madurai.nic.in/?p=23697",
+      "type": "gov",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "doaj_pvtg_tn",
+      "title": "Particularly vulnerable tribal groups of Tamil Nadu (Indian Journal of Public Health)",
+      "url": "https://doaj.org/article/7bb5d7bec98d4ddb8d6cde29e861d560",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "sahapedia_toda",
+      "title": "The Toda people: guardians of the Nilgiris (Sahapedia)",
+      "url": "https://www.sahapedia.org/toda-people-guardians-nilgiris",
+      "type": "academic",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pari_toda",
+      "title": "Copying our designs is not correct (People's Archive of Rural India)",
+      "url": "https://wagtail.ruralindiaonline.org/en/articles/copying-our-designs-is-not-correct/",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "tnm_badaga",
+      "title": "Nilgiri tribes oppose ST status for Badagas (The News Minute)",
+      "url": "https://www.thenewsminute.com/article/nilgiri-tribes-oppose-st-status-badagas-question-their-unique-identity-status-164627",
+      "type": "indian_press",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_climate_tn",
+      "title": "Climate of Tamil Nadu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Climate_of_Tamil_Nadu",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_chola_nadu",
+      "title": "Chola Nadu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Chola_Nadu",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "wiki_kongu_nadu",
+      "title": "Kongu Nadu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Kongu_Nadu",
+      "type": "reference",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": "pew_2011_states",
+      "title": "India's religious composition, Appendix B: state-wise 2011 census shares (Pew Research Center, 2021)",
+      "url": "https://legacy.pewresearch.org/religion/wp-content/uploads/sites/7/2021/09/PF_09.21.21_India-Religious-Composition-Appendix-B.pdf",
+      "type": "academic",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "bluestone_mangalsutra",
+      "title": "Traditional South Indian mangalsutra designs: a regional style guide (BlueStone)",
+      "url": "https://blog.bluestone.com/traditional-south-indian-mangalsutra-designs-meanings-a-regional-style-guide/",
+      "type": "commercial",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_mangalsutra",
+      "title": "Mangala sutra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangala_sutra",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_gi_list",
+      "title": "List of geographical indications in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    },
+    {
+      "id": "wiki_clothing_india",
+      "title": "Clothing in India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+      "type": "reference",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "reviews": [
+    {
+      "by": "maintainer",
+      "kind": "maintainer",
+      "date": "2026-10-30",
+      "notes": "Approved as researched; native review still welcome."
+    }
+  ],
+  "heritage": [
+    {
+      "id": "toda_puthkuli",
+      "name": "Toda puthkuli embroidery",
+      "kind": "community_design",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "tn_puthkuli"
+      ],
+      "reason": "GI-protected handcraft; the community objects to copies. Kept only as a restricted item.",
+      "sources": [
+        "sahapedia_toda",
+        "pari_toda"
+      ]
+    },
+    {
+      "id": "chettinad",
+      "name": "Chettinad heritage",
+      "kind": "other",
+      "status": "living",
+      "decision": "contemporary_items",
+      "items": [
+        "tn_chettinad_f"
+      ],
+      "reason": "Chettinad cotton sarees are everyday wear today.",
+      "sources": [
+        "aza_tn"
+      ]
+    },
+    {
+      "id": "tn_royal_court",
+      "name": "Historical Chola, Pandya and Thanjavur court dress",
+      "kind": "royal_court",
+      "status": "historical",
+      "decision": "era_phase",
+      "items": [],
+      "reason": "Needs museum sources and the era system.",
+      "sources": []
+    }
+  ],
+  "verification": {
+    "date": "2026-11-02",
+    "notes": [
+      "Religion shares checked against Pew Research Center's state table of Census 2011: agree within rounding.",
+      "Marital and religious items (sindoor, shakha-pola, toe rings, thali or mangalsutra, prayer cap) given a second source where they had one or none.",
+      "Named handloom textiles (4 items) confirmed against India's geographical-indication register (Wikipedia list): origin state agrees.",
+      "1 garment(s) also confirmed by Wikipedia's Clothing in India page.",
+      "Checked: Kanchipuram silk, Chettinad cotton, Madurai sungudi and Toda embroidery are Tamil Nadu GI products; thali on a yellow thread (manjal kayiru) confirmed by BlueStone and Wikipedia's Mangala sutra page; Velankanni feast ends on 8 September. Open: the white thuppatti of Tamil Muslim women rests on Wikipedia's Tamil Muslim page only."
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$comment": "Shared vocabulary. Scripts and schemas read these lists, so add new values here, not in code.",
+  "groups": {
+    "adult_male":   { "age_bands": ["18-25", "26-35", "36-50", "51-64"], "life_stage": "adult" },
+    "adult_female": { "age_bands": ["18-25", "26-35", "36-50", "51-64"], "life_stage": "adult" },
+    "old_male":     { "age_bands": ["65-74", "75+"], "life_stage": "old" },
+    "old_female":   { "age_bands": ["65-74", "75+"], "life_stage": "old" },
+    "child_boy":    { "age_bands": ["6-9", "10-12"], "life_stage": "child" },
+    "child_girl":   { "age_bands": ["6-9", "10-12"], "life_stage": "child" }
+  },
+  "$comment_groups": "No 13-17 band on purpose: teenagers are the easiest group to misuse and add little to the library. Children are 6-12 and always private (see safety/policy.json).",
+  "skin_tone_scale": {
+    "$comment": "Monk Skin Tone scale (MST 1-10, Google, CC BY 4.0). Prompt words are what the compiler writes; tune them after test renders.",
+    "1": "very fair",
+    "2": "fair",
+    "3": "light wheatish",
+    "4": "wheatish",
+    "5": "light brown",
+    "6": "medium brown",
+    "7": "warm brown",
+    "8": "dark brown",
+    "9": "deep brown",
+    "10": "very deep brown"
+  },
+  "builds": ["slim", "lean", "average", "athletic", "broad", "stocky", "plump", "heavy-set"],
+  "face_shapes": ["oval", "round", "square", "heart-shaped", "long", "diamond"],
+  "zones": ["north", "south", "east", "west", "central", "northeast", "islands"],
+  "views": {
+    "front": "front view, looking at the camera",
+    "three_quarter": "three-quarter view",
+    "side": "side profile view",
+    "smile": "front view, warm natural smile",
+    "serious": "front view, calm serious expression"
+  }
+}

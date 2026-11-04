@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "KL-AF-0017",
+  "name": "Aysha",
+  "region": "kerala",
+  "sub_region": "malabar",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "soft round face with full cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "hair covered by her headscarf",
+    "build": "average",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "kl_kuppayam_f",
+    "kl_churidar_hijab_f",
+    "kl_abaya_f",
+    "kl_small_studs"
+  ],
+  "language": [
+    "Malayalam",
+    "English",
+    "Arabic (prayers)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

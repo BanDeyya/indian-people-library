@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "MH-OF-0011",
+  "name": "Vaishali",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 79,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a low bun",
+    "build": "average",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "mh_nauvari_silk_f",
+    "mh_nauvari_cotton_f",
+    "mh_paithani_f",
+    "mh_mangalsutra",
+    "mh_green_bangles",
+    "mh_nath",
+    "mh_kolhapuri_saaj"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

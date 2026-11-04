@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "DH-OF-0001",
+  "name": "Shantaben",
+  "region": "dnh-dd",
+  "sub_region": "dnh",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lined round face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "mole on her forehead"
+  },
+  "wardrobe": [
+    "dd_saree_f",
+    "dd_bandhani_saree_f",
+    "dd_sindoor"
+  ],
+  "language": [
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

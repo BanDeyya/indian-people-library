@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0009",
+  "name": "Suresh Girish",
+  "region": "karnataka",
+  "sub_region": "old_mysore",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "ka_shirt_trousers_m",
+    "ka_kurta_panche_m",
+    "ka_panche_shirt_m"
+  ],
+  "language": [
+    "Tulu",
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

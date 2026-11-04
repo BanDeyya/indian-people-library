@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "WB-OM-0012",
+  "name": "Subrata",
+  "region": "west-bengal",
+  "sub_region": "kolkata",
+  "community": "bengali_hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 84,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean face with sharp cheekbones",
+    "eyes": "large dark brown eyes",
+    "hair": "thin white hair",
+    "build": "wiry",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short white stubble"
+  },
+  "wardrobe": [
+    "wb_lungi_m",
+    "wb_dhoti_panjabi_m",
+    "wb_gamcha",
+    "wb_hill_jacket"
+  ],
+  "language": [
+    "Bengali",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

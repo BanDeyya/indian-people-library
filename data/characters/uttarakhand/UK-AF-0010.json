@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "UK-AF-0010",
+  "name": "Sushila",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "garhwali",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 36,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "uk_ghagri_f",
+    "uk_suit_f",
+    "uk_guluband",
+    "uk_winter_jacket",
+    "uk_sindoor_g"
+  ],
+  "language": [
+    "Garhwali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

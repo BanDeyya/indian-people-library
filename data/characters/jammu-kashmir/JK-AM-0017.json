@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JK-AM-0017",
+  "name": "Vijay",
+  "region": "jammu-kashmir",
+  "sub_region": "jammu",
+  "community": "dogra",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "jk_kurta_pyjama_m",
+    "jk_shirt_trousers_m",
+    "jk_dogra_m"
+  ],
+  "language": [
+    "Dogri",
+    "Hindi",
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

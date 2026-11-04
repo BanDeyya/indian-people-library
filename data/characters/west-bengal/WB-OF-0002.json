@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0002",
+  "name": "Mousumi Kaushik",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "bengali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "brown eyes",
+    "hair": "grey hair in a small bun",
+    "build": "thin",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "wb_tant_f",
+    "wb_baluchari_f",
+    "wb_laal_paar_f",
+    "wb_shawl",
+    "wb_shakha_pola",
+    "wb_sindoor"
+  ],
+  "language": [
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

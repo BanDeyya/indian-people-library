@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0012",
+  "name": "Nisha",
+  "region": "himachal-pradesh",
+  "sub_region": "kullu_mandi",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "apple_grower",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a plait",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "hp_ghagra_f",
+    "hp_suit_f",
+    "hp_winter_jacket",
+    "hp_chandrahaar",
+    "hp_sindoor"
+  ],
+  "language": [
+    "Pahari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

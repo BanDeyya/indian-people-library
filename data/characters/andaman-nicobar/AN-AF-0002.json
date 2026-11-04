@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0002",
+  "name": "Mitali",
+  "region": "andaman-nicobar",
+  "sub_region": "north_middle",
+  "community": "bengali_hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 43,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face",
+    "eyes": "large dark eyes",
+    "hair": "black hair in a bun",
+    "build": "medium",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "an_tant_f",
+    "an_laal_paar_f",
+    "an_shakha_pola",
+    "an_sindoor"
+  ],
+  "language": [
+    "Bengali",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

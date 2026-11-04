@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UK-OM-0004",
+  "name": "Kuldeep Singh",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "garhwali",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 84,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square weathered face",
+    "eyes": "dark brown eyes",
+    "hair": "thin white hair",
+    "build": "slim",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "uk_shirt_trousers_m",
+    "uk_kurta_sadri_m",
+    "uk_winter_jacket"
+  ],
+  "language": [
+    "Garhwali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "AN-AF-0017",
+  "name": "Joyce",
+  "region": "andaman-nicobar",
+  "sub_region": "south_andaman",
+  "community": "nicobarese",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 37,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "coconut_grower",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with high cheekbones",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "long straight black hair",
+    "build": "medium",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "an_church_dress_f",
+    "an_papoi_f",
+    "an_cross_nc"
+  ],
+  "language": [
+    "Nicobarese",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

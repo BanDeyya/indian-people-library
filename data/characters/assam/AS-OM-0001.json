@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AS-OM-0001",
+  "name": "Kaushik",
+  "region": "assam",
+  "sub_region": "lower_assam",
+  "community": "assamese",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with high cheekbones and slightly narrow eyes",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "average",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "as_dhoti_kurta_m",
+    "as_white_wrap_m",
+    "as_gamosa"
+  ],
+  "language": [
+    "Assamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

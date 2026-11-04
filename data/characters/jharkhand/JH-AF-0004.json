@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JH-AF-0004",
+  "name": "Sunita Toppo",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "adivasi",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "strong",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "jh_cotton_saree_f",
+    "jh_lalpaar_f",
+    "jh_silver_f"
+  ],
+  "language": [
+    "Kurukh",
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "id": "MH-AF-0007",
+  "name": "Rupali Shankar",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with laugh lines",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "mh_salwar_f",
+    "mh_nauvari_silk_f",
+    "mh_modern_f",
+    "mh_paithani_f",
+    "mh_nath",
+    "mh_kolhapuri",
+    "mh_pheta_f",
+    "mh_mangalsutra",
+    "mh_green_bangles",
+    "mh_kolhapuri_saaj"
+  ],
+  "language": [
+    "Marathi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

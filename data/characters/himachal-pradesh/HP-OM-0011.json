@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-OM-0011",
+  "name": "Vinod",
+  "region": "himachal-pradesh",
+  "sub_region": "shimla",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hp_kurta_jacket_m",
+    "hp_topi",
+    "hp_shawl_m",
+    "hp_shirt_trousers_m"
+  ],
+  "language": [
+    "Kangri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

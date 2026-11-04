@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MP-AF-0018",
+  "name": "Kausar",
+  "region": "madhya-pradesh",
+  "sub_region": "nimar",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 22,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "mp_salwar_f",
+    "mp_modern_f",
+    "mp_chanderi_f"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

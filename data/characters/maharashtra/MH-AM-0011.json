@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MH-AM-0011",
+  "name": "Vitthal Sandip",
+  "region": "maharashtra",
+  "sub_region": "western",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 63,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "narrow face with a sharp nose",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "mh_kurta_pyjama_m",
+    "mh_festive_kurta_m",
+    "mh_modern_m",
+    "mh_pheta"
+  ],
+  "language": [
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

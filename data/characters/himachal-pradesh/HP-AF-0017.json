@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HP-AF-0017",
+  "name": "Kanta",
+  "region": "himachal-pradesh",
+  "sub_region": "kangra",
+  "community": "gaddi",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with high cheekbones",
+    "eyes": "light brown eyes",
+    "hair": "black hair under a headscarf",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "hp_suit_f",
+    "hp_luanchari_f",
+    "hp_chandrahaar",
+    "hp_pattu_f"
+  ],
+  "language": [
+    "Gaddi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

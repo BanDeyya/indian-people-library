@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "GA-AF-0012",
+  "name": "Shruti Sagar",
+  "region": "goa",
+  "sub_region": "hinterland",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "long wavy black hair",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ga_silk_saree_f",
+    "ga_saree_f",
+    "ga_raincoat",
+    "ga_glass_bangles",
+    "ga_galsiri",
+    "ga_sindoor"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

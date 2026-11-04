@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "PB-OF-0001",
+  "name": "Gurdev Kaur",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face with deep laugh lines",
+    "eyes": "brown eyes behind round glasses",
+    "hair": "grey hair partly covered by a light chunni",
+    "build": "stocky",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "pb_suit_f",
+    "pb_suit_head_f",
+    "pb_loyi_wrap",
+    "pb_kada"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

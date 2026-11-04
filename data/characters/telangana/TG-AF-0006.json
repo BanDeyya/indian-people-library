@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TG-AF-0006",
+  "name": "Keerthana",
+  "region": "telangana",
+  "sub_region": "warangal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with deep lines",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a plait",
+    "build": "strong",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ts_gollabama_f",
+    "ts_salwar_f",
+    "ts_modern_f",
+    "ts_gadwal_f",
+    "ts_jasmine",
+    "ts_mangalsutra"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

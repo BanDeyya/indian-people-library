@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "PB-OM-0019",
+  "name": "Sunil",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 88,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face with deep frown lines",
+    "eyes": "brown eyes behind black-framed reading glasses",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "thick white moustache, no beard"
+  },
+  "wardrobe": [
+    "pb_kurta_pajama_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-OM-0012",
+  "name": "Sukhen",
+  "region": "tripura",
+  "sub_region": "hills",
+  "community": "tripuri",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 69,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "slim",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "tr_shirt_trousers_m",
+    "tr_rikutu_gamcha_m",
+    "tr_shawl"
+  ],
+  "language": [
+    "Kokborok",
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

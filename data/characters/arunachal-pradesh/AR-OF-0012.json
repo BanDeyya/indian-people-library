@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "AR-OF-0012",
+  "name": "Ponung",
+  "region": "arunachal-pradesh",
+  "sub_region": "siang",
+  "community": "adi",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 86,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ar_gale_f",
+    "ar_skirt_f"
+  ],
+  "language": [
+    "Adi",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AF-0005",
+  "name": "Gauri",
+  "region": "rajasthan",
+  "sub_region": "hadoti",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face with dimples",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair with grey streaks under her odhni",
+    "build": "slim",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "rj_festive_ghagra_f",
+    "rj_poshak_f",
+    "rj_ghagra_f",
+    "rj_silver_payal",
+    "rj_studs",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Mewari",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

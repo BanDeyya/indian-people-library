@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0010",
+  "name": "Deepa",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small and thin",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "ga_silk_saree_f",
+    "ga_saree_f",
+    "ga_glass_bangles",
+    "ga_galsiri",
+    "ga_sindoor"
+  ],
+  "language": [
+    "Konkani",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

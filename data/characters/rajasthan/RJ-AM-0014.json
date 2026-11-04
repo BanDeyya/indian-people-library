@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "RJ-AM-0014",
+  "name": "Sohan",
+  "region": "rajasthan",
+  "sub_region": "hadoti",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 35,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face with a cleft chin",
+    "eyes": "brown eyes",
+    "hair": "short neat black hair",
+    "build": "lean",
+    "signature_mark": "small mole near his right eye",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "rj_angrakha_m",
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

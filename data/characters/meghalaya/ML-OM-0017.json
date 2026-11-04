@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "ML-OM-0017",
+  "name": "Tengsak",
+  "region": "meghalaya",
+  "sub_region": "garo_hills",
+  "community": "garo",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 81,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "slim",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "short white beard"
+  },
+  "wardrobe": [
+    "ml_shirt_trousers_m",
+    "ml_smart_m",
+    "ml_winter_jacket"
+  ],
+  "language": [
+    "Garo"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

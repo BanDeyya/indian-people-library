@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-OM-0005",
+  "name": "Rajesh Kumar",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 9,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "slim",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "jh_dhoti_kurta_m",
+    "jh_shirt_trousers_m"
+  ],
+  "language": [
+    "Khortha",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

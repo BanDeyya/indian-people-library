@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MP-OF-0017",
+  "name": "Hina",
+  "region": "madhya-pradesh",
+  "sub_region": "nimar",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "mp_salwar_f",
+    "mp_chanderi_f"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

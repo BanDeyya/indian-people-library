@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "BR-OM-0016",
+  "name": "Dharmendra",
+  "region": "bihar",
+  "sub_region": "vajjika",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 81,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "wiry",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "white stubble"
+  },
+  "wardrobe": [
+    "br_dhoti_kurta_m",
+    "br_kurta_pyjama_m"
+  ],
+  "language": [
+    "Angika",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

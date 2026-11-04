@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "JH-OF-0013",
+  "name": "Champa",
+  "region": "jharkhand",
+  "sub_region": "kolhan",
+  "community": "adivasi",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "strong",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "jh_cotton_saree_f",
+    "jh_lalpaar_f",
+    "jh_silver_f"
+  ],
+  "language": [
+    "Mundari",
+    "Sadri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

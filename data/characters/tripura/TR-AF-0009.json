@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0009",
+  "name": "Kalpana",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 31,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "lined round face",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "tr_silk_saree_f",
+    "tr_laal_paar_f",
+    "tr_tant_f",
+    "tr_shawl"
+  ],
+  "language": [
+    "Bengali",
+    "English",
+    "Kokborok (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

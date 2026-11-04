@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0009",
+  "name": "Srinivasulu",
+  "region": "telangana",
+  "sub_region": "hyderabad",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "office_worker",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "long face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ts_pancha_kurta_m",
+    "ts_shirt_trousers_m"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

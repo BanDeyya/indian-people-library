@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "TG-OF-0016",
+  "name": "Jyothi Gopi",
+  "region": "telangana",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 67,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with deep lines",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "small mole on her right cheek"
+  },
+  "wardrobe": [
+    "ts_pochampally_f",
+    "ts_gadwal_f",
+    "ts_mangalsutra"
+  ],
+  "language": [
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

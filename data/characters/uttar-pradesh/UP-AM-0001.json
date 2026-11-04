@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "UP-AM-0001",
+  "name": "Ramesh Prasad",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 46,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square weathered face",
+    "eyes": "dark eyes",
+    "hair": "short black hair greying at the sides",
+    "facial_hair": "thick moustache",
+    "build": "lean and strong",
+    "signature_mark": "scar on his left forearm"
+  },
+  "wardrobe": [
+    "up_dhoti_kurta_m",
+    "up_gamchha",
+    "up_kurta_pyjama_m"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

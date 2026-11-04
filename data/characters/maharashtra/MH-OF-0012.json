@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MH-OF-0012",
+  "name": "Priyanka",
+  "region": "maharashtra",
+  "sub_region": "north",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 86,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "fish_seller",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with a pointed chin",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a low bun",
+    "build": "average",
+    "signature_mark": "mole on her chin"
+  },
+  "wardrobe": [
+    "mh_nauvari_silk_f",
+    "mh_paithani_f",
+    "mh_cotton_saree_f",
+    "mh_nath",
+    "mh_kolhapuri_saaj"
+  ],
+  "language": [
+    "Marathi",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

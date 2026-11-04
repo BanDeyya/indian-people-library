@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AN-OM-0016",
+  "name": "Philip",
+  "region": "andaman-nicobar",
+  "sub_region": "nicobar",
+  "community": "nicobarese",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad weathered face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "short white hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "an_nicobar_m",
+    "an_smart_m",
+    "an_cross_nc"
+  ],
+  "language": [
+    "Nicobarese",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

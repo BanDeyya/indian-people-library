@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "KA-AF-0015",
+  "name": "Ranjitha",
+  "region": "karnataka",
+  "sub_region": "malnad",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face with a rounded chin",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a plait",
+    "build": "average",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "ka_langa_davani_f",
+    "ka_salwar_f",
+    "ka_mysore_silk_f",
+    "ka_jasmine"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

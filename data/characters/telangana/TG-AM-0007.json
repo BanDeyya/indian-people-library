@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "TG-AM-0007",
+  "name": "Venkata Ramana Srinivasulu",
+  "region": "telangana",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 55,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "long face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "thin",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "ts_kurta_pyjama_m",
+    "ts_shirt_trousers_m",
+    "ts_pancha_kurta_m"
+  ],
+  "language": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

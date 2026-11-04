@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "AP-OF-0020",
+  "name": "Mehtab",
+  "region": "andhra-pradesh",
+  "sub_region": "rayalaseema",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 85,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "ap_mangalagiri_f",
+    "ap_uppada_f"
+  ],
+  "language": [
+    "Urdu",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

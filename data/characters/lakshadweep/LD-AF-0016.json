@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LD-AF-0016",
+  "name": "Nafeesa Musthafa",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 27,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "long black hair under her headscarf",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ld_festive_churidar_f",
+    "ld_kachi_f",
+    "ld_churidar_f",
+    "ld_gold_earrings"
+  ],
+  "language": [
+    "Jeseri",
+    "Malayalam"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "DL-AM-0008",
+  "name": "Sachin Kumar",
+  "region": "delhi",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "lined oval face",
+    "eyes": "dark brown eyes",
+    "hair": "short black hair",
+    "build": "tall and strong",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dl_shirt_trousers_m",
+    "dl_festive_kurta_m",
+    "dl_kurta_pyjama_m",
+    "dl_nehru_jacket",
+    "dl_winter_jacket"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

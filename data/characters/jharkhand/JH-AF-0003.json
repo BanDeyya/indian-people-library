@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "JH-AF-0003",
+  "name": "Farhat Jahan",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "oval face with full cheeks",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair",
+    "build": "slim",
+    "signature_mark": "small mole above her lip"
+  },
+  "wardrobe": [
+    "jh_salwar_f",
+    "jh_tussar_f"
+  ],
+  "language": [
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

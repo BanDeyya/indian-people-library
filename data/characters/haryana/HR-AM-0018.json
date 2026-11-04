@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0018",
+  "name": "Kewal Rakesh",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "punjabi_hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 19,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "round face",
+    "eyes": "light brown eyes",
+    "hair": "short black hair neatly combed",
+    "build": "average",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_kurta_pyjama_m"
+  ],
+  "language": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

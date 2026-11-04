@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0001",
+  "name": "Vidyanand Kumar",
+  "region": "bihar",
+  "sub_region": "mithila",
+  "community": "maithil",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "round face with a broad forehead",
+    "eyes": "dark eyes",
+    "hair": "short black hair, receding",
+    "facial_hair": "thin moustache",
+    "build": "average",
+    "signature_mark": "mole on his left temple"
+  },
+  "wardrobe": [
+    "br_shirt_trousers_m",
+    "br_kurta_pyjama_m",
+    "br_mithila_kurta_m",
+    "br_paag"
+  ],
+  "language": [
+    "Maithili",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

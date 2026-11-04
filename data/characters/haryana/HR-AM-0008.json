@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "HR-AM-0008",
+  "name": "Vikas",
+  "region": "haryana",
+  "sub_region": "central",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face with a strong jaw",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "broad and strong",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "hr_shirt_trousers_m",
+    "hr_kurta_pyjama_m",
+    "hr_winter_jacket"
+  ],
+  "language": [
+    "Haryanvi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

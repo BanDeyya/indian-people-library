@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "LA-AM-0009",
+  "name": "Dorjay",
+  "region": "ladakh",
+  "sub_region": "changthang",
+  "community": "buddhist",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 57,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "tour_guide",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad face with high cheekbones, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "la_goncha_m",
+    "la_modern_m",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

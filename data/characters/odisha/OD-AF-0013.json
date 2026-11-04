@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "OD-AF-0013",
+  "name": "Sanjukta Bibhuti",
+  "region": "odisha",
+  "sub_region": "coastal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "broad face",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "od_khandua_f",
+    "od_bomkai_f",
+    "od_salwar_f",
+    "od_sindoor",
+    "od_sakha_pola",
+    "od_alta"
+  ],
+  "language": [
+    "Sambalpuri",
+    "Odia"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

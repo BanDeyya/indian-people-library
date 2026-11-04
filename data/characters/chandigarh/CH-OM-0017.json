@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "CH-OM-0017",
+  "name": "Amit Prasad",
+  "region": "chandigarh",
+  "sub_region": "villages",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 78,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "broad sun-tanned face",
+    "eyes": "dark brown eyes",
+    "hair": "short grey hair",
+    "build": "tall and strong",
+    "signature_mark": "faint scar on his left eyebrow",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "ch_kurta_pajama_m",
+    "ch_shirt_jeans_m",
+    "ch_dhoti_kurta_m",
+    "ch_saluka_m",
+    "ch_shawl"
+  ],
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

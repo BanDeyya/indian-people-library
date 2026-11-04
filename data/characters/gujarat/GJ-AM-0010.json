@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0010",
+  "name": "Vipul",
+  "region": "gujarat",
+  "sub_region": "saurashtra",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square sun-darkened face",
+    "eyes": "dark eyes",
+    "hair": "short side-parted black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "gj_kurta_m",
+    "gj_dhoti_kurta_m",
+    "gj_kediyu_chorno_m",
+    "gj_kediyu_garba_m",
+    "gj_phento"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

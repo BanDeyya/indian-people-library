@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0010",
+  "name": "Deepa",
+  "region": "uttar-pradesh",
+  "sub_region": "purvanchal",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "oval face with a soft jaw",
+    "eyes": "dark brown eyes",
+    "hair": "black hair covered by her saree pallu at the back",
+    "build": "strong",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "up_lehenga_f",
+    "up_chikan_suit_f",
+    "up_cotton_saree_f",
+    "up_glass_bangles"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MP-AM-0008",
+  "name": "Arjun Prasad",
+  "region": "madhya-pradesh",
+  "sub_region": "baghelkhand",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 39,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "software_engineer",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short side-parted black hair",
+    "build": "average",
+    "signature_mark": "dimple on his right cheek",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "mp_dhoti_kurta_m",
+    "mp_kurta_pyjama_m",
+    "mp_shirt_trousers_m",
+    "mp_mirzai"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

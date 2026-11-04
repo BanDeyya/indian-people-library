@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "JK-OF-0003",
+  "name": "Tabasum",
+  "region": "jammu-kashmir",
+  "sub_region": "chenab",
+  "community": "kashmiri_muslim",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 75,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 2,
+    "face": "round face with rosy cheeks",
+    "eyes": "green-brown eyes",
+    "hair": "grey hair under a headscarf",
+    "build": "small",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "jk_pheran_f",
+    "jk_salwar_f",
+    "jk_tilla_pheran_f"
+  ],
+  "language": [
+    "Kashmiri",
+    "Urdu",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

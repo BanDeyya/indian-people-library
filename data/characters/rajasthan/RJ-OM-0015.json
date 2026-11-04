@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OM-0015",
+  "name": "Pratap",
+  "region": "rajasthan",
+  "sub_region": "mewar",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "artisan",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "square face with a cleft chin",
+    "eyes": "brown eyes",
+    "hair": "white hair under his safa",
+    "build": "thin",
+    "signature_mark": "mole on his chin",
+    "facial_hair": "large white moustache"
+  },
+  "wardrobe": [
+    "rj_angrakha_m",
+    "rj_dhoti_kurta_m",
+    "rj_safa_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

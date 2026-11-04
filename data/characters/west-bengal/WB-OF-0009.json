@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "WB-OF-0009",
+  "name": "Puja",
+  "region": "west-bengal",
+  "sub_region": "rarh",
+  "community": "bengali_hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a small bun",
+    "build": "thin",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "wb_tant_f",
+    "wb_baluchari_f",
+    "wb_laal_paar_f",
+    "wb_shawl",
+    "wb_shakha_pola",
+    "wb_sindoor"
+  ],
+  "language": [
+    "Bengali"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

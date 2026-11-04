@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "LD-OM-0018",
+  "name": "Hamza Koya",
+  "region": "lakshadweep",
+  "sub_region": "laccadive",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "weathered oval face",
+    "eyes": "dark eyes",
+    "hair": "short white hair",
+    "build": "thin",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "white beard"
+  },
+  "wardrobe": [
+    "ld_lungi_shirt_m",
+    "ld_white_mundu_m"
+  ],
+  "language": [
+    "Jeseri"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

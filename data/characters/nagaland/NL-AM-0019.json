@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0019",
+  "name": "Thuvo",
+  "region": "nagaland",
+  "sub_region": "phek",
+  "community": "chakhesang",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 32,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 3,
+    "face": "broad face with a strong jaw, East Asian features",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "light stubble"
+  },
+  "wardrobe": [
+    "nl_trousers_m",
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_winter_jacket"
+  ],
+  "language": [
+    "Chakhesang",
+    "Nagamese"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

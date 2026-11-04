@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "NL-AM-0015",
+  "name": "Yanbemo",
+  "region": "nagaland",
+  "sub_region": "wokha",
+  "community": "lotha",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 58,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with deep laugh lines, East Asian features",
+    "eyes": "dark brown eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "small scar on his chin",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "nl_modern_m",
+    "nl_plain_shirt_m",
+    "nl_trousers_m",
+    "nl_lotha_sutam_m"
+  ],
+  "language": [
+    "Lotha",
+    "Nagamese",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

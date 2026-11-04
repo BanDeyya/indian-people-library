@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "TR-AF-0019",
+  "name": "Pratima",
+  "region": "tripura",
+  "sub_region": "south",
+  "community": "chakma",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "nurse",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark almond-shaped eyes",
+    "hair": "long straight black hair",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "tr_pinon_hadi_f",
+    "tr_tant_f"
+  ],
+  "language": [
+    "Chakma",
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

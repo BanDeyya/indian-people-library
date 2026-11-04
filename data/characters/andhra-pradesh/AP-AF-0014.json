@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "AP-AF-0014",
+  "name": "Madhavi",
+  "region": "andhra-pradesh",
+  "sub_region": "godavari",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 28,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "very long black plait",
+    "build": "slim",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "ap_langa_voni_f",
+    "ap_uppada_f",
+    "ap_venkatagiri_f",
+    "ap_mangalagiri_f",
+    "ap_jasmine"
+  ],
+  "language": [
+    "Telugu",
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

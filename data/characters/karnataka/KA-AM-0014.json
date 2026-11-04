@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0014",
+  "name": "Prakash Ramesh",
+  "region": "karnataka",
+  "sub_region": "kittur",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "lean",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "ka_shirt_trousers_m",
+    "ka_kurta_panche_m",
+    "ka_panche_shirt_m"
+  ],
+  "language": [
+    "Kannada",
+    "English",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

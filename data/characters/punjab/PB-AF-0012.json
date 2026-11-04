@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "PB-AF-0012",
+  "name": "Gurleen Kaur",
+  "region": "punjab",
+  "sub_region": "malwa",
+  "community": "sikh",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 38,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "square face with deep laugh lines",
+    "eyes": "dark brown eyes",
+    "hair": "long black hair in a single braid",
+    "build": "average",
+    "signature_mark": "small scar on her chin"
+  },
+  "wardrobe": [
+    "pb_kada",
+    "pb_suit_f",
+    "pb_suit_head_f",
+    "pb_kurti_jeans_f",
+    "pb_phulkari_f",
+    "pb_loyi_wrap"
+  ],
+  "always_wear": [
+    "pb_kada"
+  ],
+  "language": [
+    "Punjabi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

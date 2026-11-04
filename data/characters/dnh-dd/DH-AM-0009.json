@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "DH-AM-0009",
+  "name": "Bhavesh Ketan",
+  "region": "dnh-dd",
+  "sub_region": "diu",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "factory_worker",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "deeply lined face",
+    "eyes": "dark eyes behind glasses",
+    "hair": "short black hair",
+    "build": "stocky",
+    "signature_mark": "small scar on his right hand",
+    "facial_hair": "moustache"
+  },
+  "wardrobe": [
+    "dd_kediyu_m",
+    "dd_shirt_trousers_m"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

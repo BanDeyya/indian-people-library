@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AM-0015",
+  "name": "Jesa Bhimabhai",
+  "region": "gujarat",
+  "sub_region": "north",
+  "community": "rabari",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 29,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "pastoralist",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "wiry",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "gj_rabari_m",
+    "gj_rabari_earrings",
+    "gj_shirt_trousers_m"
+  ],
+  "language": [
+    "Kutchi",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

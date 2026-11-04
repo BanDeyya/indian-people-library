@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "PY-OF-0009",
+  "name": "Lakshmi Vignesh",
+  "region": "puducherry",
+  "sub_region": "karaikal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 74,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face",
+    "eyes": "large dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "plump",
+    "signature_mark": "small mole near her right eye"
+  },
+  "wardrobe": [
+    "py_silk_saree_f",
+    "py_cotton_saree_f"
+  ],
+  "language": [
+    "Tamil",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

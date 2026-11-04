@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "DH-OM-0011",
+  "name": "Jayesh",
+  "region": "dnh-dd",
+  "sub_region": "daman",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 84,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "occupation": "painter",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "thin white hair",
+    "build": "thin",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "dd_kurta_m",
+    "dd_dhoti_kurta_m",
+    "dd_kediyu_m"
+  ],
+  "language": [
+    "Gujarati",
+    "Hindi",
+    "Marathi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

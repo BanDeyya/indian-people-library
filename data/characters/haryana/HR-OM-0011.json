@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "HR-OM-0011",
+  "name": "Naveen",
+  "region": "haryana",
+  "sub_region": "west",
+  "community": "hindu",
+  "group": "old_male",
+  "age_band": "75+",
+  "age": 76,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "dairy_farmer",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "square face with a strong jaw",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "tall and wiry",
+    "signature_mark": "small mole above his lip",
+    "facial_hair": "white moustache"
+  },
+  "wardrobe": [
+    "hr_dhoti_kurta_m",
+    "hr_chaddar",
+    "hr_shirt_trousers_m"
+  ],
+  "language": [
+    "Haryanvi",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

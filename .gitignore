@@ -1,0 +1,16 @@
+out/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Images never go in git: they live in the image backend's storage and the public host later.
+# Local, never committed: backend settings and the personal privacy denylist.
+local.toml
+.privacy-denylist
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Built by scripts/build_site.py (the Pages workflow builds it on every push)
+site/data/

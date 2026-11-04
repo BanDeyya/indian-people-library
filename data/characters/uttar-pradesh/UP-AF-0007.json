@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "UP-AF-0007",
+  "name": "Nisha Devi",
+  "region": "uttar-pradesh",
+  "sub_region": "awadh",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "51-64",
+  "age": 64,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "round face with deep laugh lines",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a low bun",
+    "build": "average",
+    "signature_mark": "dimple on her left cheek"
+  },
+  "wardrobe": [
+    "up_banarasi_f",
+    "up_salwar_f",
+    "up_lehenga_f",
+    "up_glass_bangles",
+    "up_sindoor",
+    "up_bichiya"
+  ],
+  "language": [
+    "Hindi",
+    "Awadhi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

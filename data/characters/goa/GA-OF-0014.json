@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GA-OF-0014",
+  "name": "Sheryl",
+  "region": "goa",
+  "sub_region": "north",
+  "community": "catholic",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 66,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes behind rectangular glasses",
+    "hair": "white hair in a small bun",
+    "build": "slim",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "ga_vestido_f",
+    "ga_dress_f",
+    "ga_raincoat"
+  ],
+  "language": [
+    "Konkani",
+    "Portuguese (a little)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TN-OF-0019",
+  "name": "Shameem Ismail",
+  "region": "tamil-nadu",
+  "sub_region": "chola_nadu",
+  "community": "muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 65,
+  "setting": "urban",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "grey hair in a bun",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "tn_abaya_f",
+    "tn_thuppatti_f",
+    "tn_studs"
+  ],
+  "language": [
+    "Tamil",
+    "Urdu (some)"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

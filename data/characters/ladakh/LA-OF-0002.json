@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0002",
+  "name": "Dechan Lhamo",
+  "region": "ladakh",
+  "sub_region": "zanskar",
+  "community": "buddhist",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 71,
+  "setting": "rural",
+  "marital_status": "married",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face with rosy cheeks, Tibetan-type features",
+    "eyes": "dark eyes",
+    "hair": "grey hair in long plaits",
+    "build": "small",
+    "signature_mark": "faint scar on her left eyebrow"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_sulma_f",
+    "la_slogpa_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "TG-OF-0006",
+  "name": "Sujatha Ravi Teja",
+  "region": "telangana",
+  "sub_region": "warangal",
+  "community": "hindu",
+  "group": "old_female",
+  "age_band": "75+",
+  "age": 83,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "heart-shaped face",
+    "eyes": "dark eyes",
+    "hair": "grey hair in a bun",
+    "build": "small",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "ts_pochampally_f",
+    "ts_gadwal_f"
+  ],
+  "language": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

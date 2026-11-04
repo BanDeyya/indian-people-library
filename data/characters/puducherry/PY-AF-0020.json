@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "PY-AF-0020",
+  "name": "Banu",
+  "region": "puducherry",
+  "sub_region": "puducherry",
+  "community": "muslim",
+  "group": "adult_female",
+  "age_band": "36-50",
+  "age": 41,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "long black hair",
+    "build": "medium",
+    "signature_mark": "small scar on her right hand"
+  },
+  "wardrobe": [
+    "py_churidar_f",
+    "py_thuppatti_f"
+  ],
+  "language": [
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

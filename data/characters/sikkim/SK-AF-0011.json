@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "SK-AF-0011",
+  "name": "Sarita",
+  "region": "sikkim",
+  "sub_region": "south",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 26,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "long straight black hair",
+    "build": "medium",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "sk_kurta_f",
+    "sk_pharia_f",
+    "sk_winter_jacket",
+    "sk_sindoor"
+  ],
+  "language": [
+    "Nepali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

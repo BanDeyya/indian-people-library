@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "GJ-AF-0020",
+  "name": "Shanti",
+  "region": "gujarat",
+  "sub_region": "south",
+  "community": "bhil",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 30,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "embroiderer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "round face with high cheekbones",
+    "eyes": "dark eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small birthmark on her forehead"
+  },
+  "wardrobe": [
+    "gj_bhil_f",
+    "gj_saree_f"
+  ],
+  "language": [
+    "Bhili",
+    "Gujarati"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

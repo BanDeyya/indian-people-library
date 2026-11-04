@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "AP-AM-0020",
+  "name": "Mastan",
+  "region": "andhra-pradesh",
+  "sub_region": "godavari",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 47,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "build": "average",
+    "signature_mark": "dimple on his left cheek",
+    "facial_hair": "short beard"
+  },
+  "wardrobe": [
+    "ap_shirt_trousers_m",
+    "ap_kurta_pyjama_m"
+  ],
+  "language": [
+    "Urdu",
+    "Telugu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

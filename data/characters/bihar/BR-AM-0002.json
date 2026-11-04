@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-AM-0002",
+  "name": "Shankar Prasad",
+  "region": "bihar",
+  "sub_region": "bhojpur",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "square face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "facial_hair": "thick moustache",
+    "build": "stocky",
+    "signature_mark": "scar across his right knuckles"
+  },
+  "wardrobe": [
+    "br_dhoti_kurta_m",
+    "br_gamchha",
+    "br_shirt_trousers_m"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

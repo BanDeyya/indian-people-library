@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>Indian People Library</title>
+<meta name="description" content="Fictional, consistent AI characters from every Indian state and union territory, with researched regional dress, festivals and ready prompts. Data only, bring your own model.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <div>
+      <h1>Indian People Library</h1>
+      <p class="tag">Fictional, consistent people from every Indian state and union territory. Researched dress and festivals, ready prompts, bring your own model.</p>
+    </div>
+    <nav class="top-links">
+      <a href="#about">About</a>
+      <a id="repo-link" href="#" rel="noopener">Source</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap layout">
+  <aside class="filters" aria-label="Filters">
+    <label class="f">Search name or id
+      <input id="q" type="search" placeholder="e.g. Sunaina, BR-AF-0001" autocomplete="off">
+    </label>
+    <label class="f">State or UT
+      <select id="region"><option value="">All 36</option></select>
+    </label>
+    <label class="f">Group
+      <select id="group"><option value="">All adults and elders</option></select>
+    </label>
+    <label class="f">Religion
+      <select id="religion"><option value="">Any</option></select>
+    </label>
+    <label class="f">People across states
+      <select id="xstate"><option value="">Any</option></select>
+    </label>
+    <label class="f">Community
+      <select id="community" disabled><option value="">Pick a state first</option></select>
+    </label>
+    <label class="f">Festival
+      <select id="festival" disabled><option value="">Pick a state first</option></select>
+    </label>
+    <label class="f">Setting
+      <select id="setting"><option value="">Rural and urban</option><option value="rural">Rural</option><option value="urban">Urban</option></select>
+    </label>
+    <label class="f">Made by
+      <select id="origin"><option value="">Hand-made and generated</option><option value="handmade">Hand-made (reviewed)</option><option value="generated">Generated (draft)</option></select>
+    </label>
+    <button id="reset" class="btn ghost" type="button">Clear filters</button>
+  </aside>
+
+  <section class="results" aria-live="polite">
+    <div class="bar">
+      <p id="count" class="count">Loading…</p>
+    </div>
+    <div id="region-card" class="region-card" hidden></div>
+    <ul id="grid" class="grid"></ul>
+    <div class="more-wrap"><button id="more" class="btn" type="button" hidden>Show more</button></div>
+  </section>
+</main>
+
+<section id="about" class="wrap about">
+  <h2>About</h2>
+  <p>Every person here is fictional. Each character has a fixed look, a wardrobe researched from India's own sources (state tourism and culture departments, census, museums, community sources), the festivals of their own community, and a portrait prompt you can paste into your own image model. The project does not make or host images.</p>
+  <p>Children are never shown on this site. Equal respect for every region, religion and community: sacred, honour and marital items are used only where they belong, and no character carries a caste surname.</p>
+  <p>Characters marked <em>generated</em> are drafts drawn from the reviewed, hand-made characters of the same community. If something is wrong or disrespectful, use <strong>Report a problem</strong> on that character; native reviews are the most useful help.</p>
+  <p class="small">Data: <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC BY 4.0</a>, credit "Indian People Library". Please follow the use rules: no sexual content, no impersonating real people, label images as AI-generated.</p>
+</section>
+
+<dialog id="detail" class="detail" aria-labelledby="d-name">
+  <form method="dialog" class="close-row"><button class="btn ghost" aria-label="Close">Close</button></form>
+  <div id="detail-body"></div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>

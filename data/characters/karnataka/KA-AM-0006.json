@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "KA-AM-0006",
+  "name": "Harish Siddappa",
+  "region": "karnataka",
+  "sub_region": "kalyana",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 48,
+  "setting": "rural",
+  "marital_status": "married",
+  "occupation": "weaver",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "lean deeply lined face",
+    "eyes": "dark eyes",
+    "hair": "short black hair",
+    "build": "lean",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "ka_panche_shirt_m",
+    "ka_kurta_panche_m"
+  ],
+  "language": [
+    "Kannada"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

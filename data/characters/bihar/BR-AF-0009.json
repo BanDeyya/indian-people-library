@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "BR-AF-0009",
+  "name": "Priyanka",
+  "region": "bihar",
+  "sub_region": "magadh",
+  "community": "hindu",
+  "group": "adult_female",
+  "age_band": "18-25",
+  "age": 18,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face with deep lines",
+    "eyes": "dark brown eyes",
+    "hair": "black hair in a bun",
+    "build": "slim",
+    "signature_mark": "small mole on her left cheek"
+  },
+  "wardrobe": [
+    "br_lehenga_f",
+    "br_cotton_saree_f",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

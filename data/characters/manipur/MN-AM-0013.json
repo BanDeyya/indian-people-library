@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MN-AM-0013",
+  "name": "Manihar",
+  "region": "manipur",
+  "sub_region": "valley",
+  "community": "sanamahi",
+  "group": "adult_male",
+  "age_band": "26-35",
+  "age": 33,
+  "setting": "rural",
+  "marital_status": "single",
+  "occupation": "farmer",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "lean weathered face",
+    "eyes": "dark eyes",
+    "hair": "short black hair greying at the sides",
+    "build": "wiry",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "thin moustache"
+  },
+  "wardrobe": [
+    "mn_shirt_trousers_m",
+    "mn_dhoti_kurta_m",
+    "mn_winter_jacket"
+  ],
+  "language": [
+    "Meiteilon"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "generic-long",
+  "family": "generic",
+  "description": "Any model or hosted API with a long-text encoder. Token count is an estimate.",
+  "tokenizer": "approx",
+  "token_budget": 400,
+  "long_prompt": "native",
+  "max_chunks": 1,
+  "negatives": true,
+  "variant": "long",
+  "sizes": {
+    "portrait": [
+      1024,
+      1024
+    ],
+    "full": [
+      832,
+      1216
+    ]
+  },
+  "style": "realistic photo, natural light"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "PY-AM-0018",
+  "name": "Ramesh",
+  "region": "puducherry",
+  "sub_region": "yanam",
+  "community": "telugu_hindu",
+  "group": "adult_male",
+  "age_band": "18-25",
+  "age": 20,
+  "setting": "urban",
+  "marital_status": "single",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "round face",
+    "eyes": "dark eyes",
+    "hair": "short wavy black hair",
+    "build": "average",
+    "signature_mark": "mole near his left ear",
+    "facial_hair": "trimmed moustache"
+  },
+  "wardrobe": [
+    "py_shirt_trousers_m",
+    "py_silk_veshti_m"
+  ],
+  "language": [
+    "Telugu",
+    "Tamil"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

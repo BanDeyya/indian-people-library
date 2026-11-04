@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "JH-AM-0012",
+  "name": "Alok",
+  "region": "jharkhand",
+  "sub_region": "chotanagpur",
+  "community": "hindu",
+  "group": "adult_male",
+  "age_band": "51-64",
+  "age": 59,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 8,
+    "face": "oval face",
+    "eyes": "dark eyes",
+    "hair": "short side-parted black hair",
+    "build": "stocky",
+    "signature_mark": "small birthmark on his forehead",
+    "facial_hair": "thick moustache"
+  },
+  "wardrobe": [
+    "jh_shirt_trousers_m",
+    "jh_dhoti_kurta_m",
+    "jh_kurta_pyjama_m"
+  ],
+  "language": [
+    "Hindi",
+    "Bengali",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

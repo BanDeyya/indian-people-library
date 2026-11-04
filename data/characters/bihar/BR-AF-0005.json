@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "BR-AF-0005",
+  "name": "Malti",
+  "region": "bihar",
+  "sub_region": "mithila",
+  "community": "maithil",
+  "group": "adult_female",
+  "age_band": "26-35",
+  "age": 34,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "teacher",
+  "look": {
+    "skin_tone_mst": 7,
+    "face": "oval face with large eyes",
+    "eyes": "dark eyes",
+    "hair": "long black hair in a bun",
+    "build": "slim",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "br_laalpaar_f",
+    "br_cotton_saree_f",
+    "br_sindoor_mt",
+    "br_shakha_pola",
+    "br_lac_bangles"
+  ],
+  "language": [
+    "Maithili",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

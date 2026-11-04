@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "UK-AM-0003",
+  "name": "Salim Ahmad",
+  "region": "uttarakhand",
+  "sub_region": "plains",
+  "community": "muslim",
+  "group": "adult_male",
+  "age_band": "36-50",
+  "age": 40,
+  "setting": "urban",
+  "marital_status": "married",
+  "occupation": "shopkeeper",
+  "look": {
+    "skin_tone_mst": 6,
+    "face": "narrow face",
+    "eyes": "brown eyes",
+    "hair": "short black hair",
+    "facial_hair": "short beard",
+    "build": "average",
+    "signature_mark": "mole on his forehead"
+  },
+  "wardrobe": [
+    "uk_kurta_pyjama_m",
+    "uk_shirt_trousers_m"
+  ],
+  "language": [
+    "Hindi",
+    "Urdu"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false
+}

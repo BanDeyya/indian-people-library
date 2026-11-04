@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "RJ-OM-0018",
+  "name": "Irshad",
+  "region": "rajasthan",
+  "sub_region": "mewat_braj",
+  "community": "muslim",
+  "group": "old_male",
+  "age_band": "65-74",
+  "age": 70,
+  "setting": "rural",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 5,
+    "face": "long face with a strong nose",
+    "eyes": "dark brown eyes",
+    "hair": "short white hair",
+    "build": "lean",
+    "signature_mark": "small mole on his right cheek",
+    "facial_hair": "clean-shaven"
+  },
+  "wardrobe": [
+    "rj_dhoti_kurta_m",
+    "rj_kurta_pyjama_m",
+    "rj_shawl_m"
+  ],
+  "language": [
+    "Mewati",
+    "Hindi"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}

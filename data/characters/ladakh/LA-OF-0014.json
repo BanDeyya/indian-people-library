@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "LA-OF-0014",
+  "name": "Kulsum",
+  "region": "ladakh",
+  "sub_region": "leh",
+  "community": "leh_muslim",
+  "group": "old_female",
+  "age_band": "65-74",
+  "age": 72,
+  "setting": "urban",
+  "marital_status": "widowed",
+  "look": {
+    "skin_tone_mst": 4,
+    "face": "heart-shaped face",
+    "eyes": "dark brown eyes",
+    "hair": "white hair in a small bun",
+    "build": "average",
+    "signature_mark": "mole near her left ear"
+  },
+  "wardrobe": [
+    "la_salwar_f",
+    "la_phiren_leh_f",
+    "la_down_jacket"
+  ],
+  "language": [
+    "Ladakhi",
+    "Urdu",
+    "Hindi",
+    "English"
+  ],
+  "release": "public",
+  "status": "draft",
+  "image_check": "not_run",
+  "human_approved": false,
+  "origin": "generated"
+}
