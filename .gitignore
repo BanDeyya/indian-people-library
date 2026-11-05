@@ -14,3 +14,10 @@ local.toml
 
 # Built by scripts/build_site.py (the Pages workflow builds it on every push)
 site/data/
+
+# Project images that belong in git: the site's share image and the README screenshot
+!site/social-preview.png
+!docs/catalogue.png
+
+# Built by scripts/build_dataset.py
+dist/

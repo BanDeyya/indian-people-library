@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this library, please cite it as below."
+title: "Indian People Library"
+type: dataset
+authors:
+  - name: "Indian People Library contributors"
+repository-code: "https://github.com/BanDeyya/indian-people-library"
+url: "https://bandeyya.github.io/indian-people-library/"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-11-05"
+keywords:
+  - India
+  - dataset
+  - synthetic characters
+  - cultural heritage
+  - prompt engineering
+  - text-to-image
+abstract: >-
+  Fictional, consistent people from every Indian state and union territory, with
+  researched regional dress, festivals and ready-to-use image prompts. Data only;
+  bring your own model.

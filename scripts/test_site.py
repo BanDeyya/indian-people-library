@@ -41,5 +41,19 @@ class SiteTests(unittest.TestCase):
         self.assertEqual(len(self.index["regions"]), 36)
 
 
+
+class DatasetTests(unittest.TestCase):
+    def test_dataset_has_no_private_characters(self) -> None:
+        import build_dataset
+        with tempfile.TemporaryDirectory() as tmp:
+            out = Path(tmp) / "ds"
+            build_dataset.build(out)
+            ids = {json.loads(line)["id"] for line in (out / "characters.jsonl").open(encoding="utf-8")}
+            private = {c["id"] for _, c in load_characters() if c.get("release") != "public"}
+            self.assertTrue(ids)
+            self.assertFalse(ids & private)
+            self.assertIn("license: cc-by-4.0", (out / "README.md").read_text(encoding="utf-8"))
+
+
 if __name__ == "__main__":
     unittest.main()

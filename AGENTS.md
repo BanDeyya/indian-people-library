@@ -62,6 +62,7 @@ uv run scripts/compile_prompts.py --stage festivals --region bihar
 uv run scripts/coverage.py                         # approved / total characters per region and group
 uv run scripts/new_character.py --fill 20          # draft characters up to 20 per group per region
 uv run scripts/build_site.py                       # catalogue data for site/
+uv run scripts/build_dataset.py                    # JSONL dataset for Hugging Face or Kaggle (public characters only)
 ```
 
 ## 6. Forks

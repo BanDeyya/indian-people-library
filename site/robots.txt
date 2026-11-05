@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bandeyya.github.io/indian-people-library/sitemap.xml

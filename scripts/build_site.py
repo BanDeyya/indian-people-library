@@ -119,7 +119,7 @@ def build(out: Path) -> dict:
     }
     (data / "index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     if out != SITE:
-        for f in ("index.html", "app.js", "style.css"):
+        for f in ("index.html", "app.js", "style.css", "social-preview.png", "robots.txt", "sitemap.xml"):
             shutil.copy(SITE / f, out / f)
     return {"characters": len(rows), "regions": len(summary),
             "religions": dict(Counter(r[9] or "unspecified" for r in rows))}

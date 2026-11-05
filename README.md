@@ -4,6 +4,8 @@ Fictional, consistent people from every Indian state and union territory, with r
 
 **[Browse the catalogue →](https://bandeyya.github.io/indian-people-library/)**
 
+[![The catalogue: filter characters by state, group, religion, community and festival](docs/catalogue.png)](https://bandeyya.github.io/indian-people-library/)
+
 Each character has a fixed look (skin tone on the Monk scale, face, hair, build and one signature mark), a wardrobe drawn from their own community's dress, the languages they speak and the festivals they celebrate. The prompt compiler turns a character into prompts for the image model you use, so the same person can be generated again in another outfit, scene or festival.
 
 This is a data and prompt library. It does not generate or host images: you bring your own model.
@@ -38,6 +40,7 @@ uv run scripts/compile_prompts.py --stage candidates --profile flux      # promp
 uv run scripts/compile_prompts.py --stage festivals --region bihar       # festival scenes
 uv run scripts/new_character.py --region bihar --community maithil --group adult_female   # draft a new character
 uv run scripts/build_site.py                                             # build the catalogue data for site/
+uv run scripts/build_dataset.py                                          # JSONL dataset for Hugging Face or Kaggle
 uv run scripts/check_all.py                                              # every check, before each commit
 ```
 
@@ -69,6 +72,10 @@ site/                           the catalogue (static HTML, CSS and JS)
 ## Contributing
 
 The most useful help is a **native review**: if you belong to a state or community, tell us what is wrong, missing or disrespectful. Open an issue with the "Native review" template, or use "Report a problem" on any character in the catalogue. See [CONTRIBUTING.md](CONTRIBUTING.md) for research and code contributions.
+
+## Citing
+
+If you use the library in research or a product, please credit it. GitHub's "Cite this repository" button (from [CITATION.cff](CITATION.cff)) gives a ready citation.
 
 ## Licence
 
