@@ -1,5 +1,7 @@
 # Indian People Library
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24282582.svg)](https://doi.org/10.5281/zenodo.24282582)
+
 Fictional, consistent people from every Indian state and union territory, with researched regional dress, festivals and ready-to-use image prompts.
 
 **[Browse the catalogue →](https://bandeyya.github.io/indian-people-library/)**

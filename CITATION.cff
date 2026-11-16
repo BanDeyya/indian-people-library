@@ -7,8 +7,9 @@ authors:
 repository-code: "https://github.com/BanDeyya/indian-people-library"
 url: "https://bandeyya.github.io/indian-people-library/"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24282582"
 version: "1.0.0"
-date-released: "2026-11-05"
+date-released: "2026-11-16"
 keywords:
   - India
   - dataset
