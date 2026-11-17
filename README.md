@@ -1,10 +1,10 @@
 # Indian People Library
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24282582.svg)](https://doi.org/10.5281/zenodo.24282582) [![Hugging Face dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-indian--people--library-yellow)](https://huggingface.co/datasets/BanDeyya/indian-people-library)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24282582.svg)](https://doi.org/10.5281/zenodo.24282582) [![Hugging Face dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-indian--people--library-yellow)](https://huggingface.co/datasets/BanDeyya/indian-people-library) [![Kaggle dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/bandeyya/indian-people-library)
 
 Fictional, consistent people from every Indian state and union territory, with researched regional dress, festivals and ready-to-use image prompts.
 
-**[Browse the catalogue →](https://bandeyya.github.io/indian-people-library/)** · **[Dataset on Hugging Face →](https://huggingface.co/datasets/BanDeyya/indian-people-library)**
+**[Browse the catalogue →](https://bandeyya.github.io/indian-people-library/)** · **[Dataset on Hugging Face →](https://huggingface.co/datasets/BanDeyya/indian-people-library)** · **[Dataset on Kaggle →](https://www.kaggle.com/datasets/bandeyya/indian-people-library)**
 
 [![The catalogue: filter characters by state, group, religion, community and festival](docs/catalogue.png)](https://bandeyya.github.io/indian-people-library/)
 
